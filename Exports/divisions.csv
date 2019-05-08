@@ -1,0 +1,5 @@
+league_id,sub_league_id,division_id,name,gender
+100,0,0,"Eastern Division",0
+100,0,1,"Western Division",0
+101,0,0,"West Division",0
+101,0,1,"East Division",0

@@ -1,0 +1,85 @@
+"league_id","best_rookie_id","best_pitcher_id","best_hitter_id","team_id","year","sub_league_id","g","w","l","pos","pct","gb","streak","magic_number","division","abbr","team_name","made_playoffs","won_playoffs","best_hitter_name","best_pitcher_name","best_rookie_name","league_abbr","Lg_Average_Wins"
+100,0,126,246,9,2022,0,100,63,37,1,0.63,0,-1,-3,"Western Division","SAS","San Antonio Sloths",1,0,"Julian O'Sullivan","Khamati Kahn",NA,"PBE",50
+100,0,208,48,10,2026,0,100,76,24,1,0.76,0,-1,0,"Western Division","DV","Death Valley Scorpions",1,0,"Paulo Di Stephano","Elston Sinclair",NA,"PBE",50
+100,0,62,111,9,2024,0,100,65,35,2,0.65,5,-2,1000,"Western Division","SAS","San Antonio Sloths",1,0,"Simon Hans","D'Aroldis Borkman",NA,"PBE",50
+100,0,145,246,9,2026,0,100,75,25,2,0.75,1,1,1000,"Western Division","SAS","San Antonio Sloths",1,1,"Julian O'Sullivan","Bobby Hill",NA,"PBE",50
+100,0,227,270,11,2020,0,100,68,32,1,0.68,0,-8,-6,"Western Division","VAN","Vancouver Vandals",1,1,"Vick Thunder","Victoria Secret",NA,"PBE",50
+100,0,200,173,3,2023,0,101,61,40,1,0.604,0,-1,-6,"Eastern Division","PRO","Providence Crabs",1,0,"Jarrod Stanton","Esteban Rodriguez",NA,"PBE",50
+100,92,195,246,9,2021,0,100,61,39,2,0.61,1,2,1000,"Western Division","SAS","San Antonio Sloths",1,0,"Julian O'Sullivan","Alexander Ovechkin","Zack Malatesta","PBE",50
+100,0,211,173,3,2022,0,100,54,46,1,0.54,0,1,-3,"Eastern Division","PRO","Providence Crabs",1,0,"Jarrod Stanton","Ernesto Castillo",NA,"PBE",50
+100,0,203,81,3,2025,0,100,36,64,4,0.36,29,-5,1000,"Eastern Division","PRO","Providence Crabs",0,0,"Eduardo Dinero","Randy Koufax",NA,"PBE",50
+100,48,198,185,10,2019,0,100,48,52,3,0.48,16,-2,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Ozamataz Buckshank","Darnell Turner","Paulo Di Stephano","PBE",50
+100,8,227,270,11,2021,0,100,62,38,1,0.62,0,-1,0,"Western Division","VAN","Vancouver Vandals",1,1,"Vick Thunder","Victoria Secret","Godfrey Bowman","PBE",50
+100,14,10,180,1,2021,0,100,36,64,2,0.36,24,-5,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Pepe Alazar","Ludwig Groetzinger","Nate Piazza","PBE",50
+100,15,226,239,10,2021,0,100,49,51,3,0.49,13,1,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Min-joon Do","Knuckles Deep","Jimmy  Dong ","PBE",50
+100,16,227,268,10,2023,0,100,55,45,2,0.55,6.5,1,1000,"Western Division","DV","Death Valley Scorpions",1,0,"Kevin Biggio","Victoria Secret","Anderson Pooper","PBE",50
+100,22,211,177,3,2021,0,100,60,40,1,0.6,0,-2,-23,"Eastern Division","PRO","Providence Crabs",1,0,"Adrian Columbus","Ernesto Castillo","Tyler Oles","PBE",50
+100,24,27,24,2,2021,0,100,32,68,3,0.32,28,3,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Kimetrius  Webster ","Mookie Banks","Kimetrius  Webster ","PBE",50
+100,29,223,246,9,2020,0,100,61,39,2,0.61,7,1,1000,"Western Division","SAS","San Antonio Sloths",1,0,"Julian O'Sullivan","Chaz LaLocke","Weldon Borthwell","PBE",50
+100,31,207,180,1,2020,0,100,30,70,3,0.3,26,-1,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Pepe Alazar","Sturgill Rove","Billy Baxter","PBE",50
+100,36,213,245,2,2020,0,100,31,69,2,0.31,25,-6,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Bobby Shmurda","Hannu Karpotsev","J.W.  Doyle","PBE",50
+100,268,227,268,11,2017,0,100,49,51,1,0.49,0,1,0,"Western Division","VAN","Vancouver Vandals",0,0,"Kevin Biggio","Victoria Secret","Kevin Biggio","PBE",50
+100,39,211,171,3,2020,0,100,56,44,1,0.56,0,5,-24,"Eastern Division","PRO","Providence Crabs",1,0,"Mike Boss","Ernesto Castillo","Michael Rapinski","PBE",50
+100,46,46,246,9,2019,0,100,64,36,1,0.64,0,2,-10,"Western Division","SAS","San Antonio Sloths",1,0,"Julian O'Sullivan","Fastguy Pitcherman","Fastguy Pitcherman","PBE",50
+100,127,226,185,10,2022,0,100,42,58,3,0.42,21,1,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Ozamataz Buckshank","Knuckles Deep","Damien Walec","PBE",50
+100,51,208,177,1,2019,0,100,49,51,2,0.49,1,1,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Adrian Columbus","Elston Sinclair","Ollie Daniels","PBE",50
+100,54,213,245,2,2019,0,100,36,64,3,0.36,14,-1,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Bobby Shmurda","Hannu Karpotsev","Virgil Fox","PBE",50
+100,57,203,204,3,2019,0,100,50,50,1,0.5,0,1,0,"Eastern Division","PRO","Providence Crabs",1,0,"Jackson Jackson","Randy Koufax","Alvin Enax","PBE",50
+100,58,227,268,11,2019,0,100,53,47,2,0.53,11,-1,1000,"Western Division","VAN","Vancouver Vandals",1,1,"Kevin Biggio","Victoria Secret","Boomerang Goblin","PBE",50
+100,64,226,186,10,2018,0,100,47,53,2,0.47,22,-2,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Colton Hunter","Knuckles Deep","Kazuya Miyuki","PBE",50
+100,73,211,246,9,2018,0,100,46,54,3,0.46,23,-5,1000,"Western Division","SAS","San Antonio Sloths",0,0,"Julian O'Sullivan","Ernesto Castillo","Dongus Dio","PBE",50
+100,77,77,270,11,2018,0,100,69,31,1,0.69,0,6,-21,"Western Division","VAN","Vancouver Vandals",1,1,"Vick Thunder","Phillip Thompson","Phillip Thompson","PBE",50
+100,82,197,173,3,2018,0,101,52,49,1,0.5149,0,3,-1,"Eastern Division","PRO","Providence Crabs",1,0,"Jarrod Stanton","Eijun Wozy","Pretzels McCringleberry III","PBE",50
+100,91,168,205,2,2018,0,100,36,64,3,0.36,15.5,1,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Benson Bayley","Kai-Wei Mai","Michael Paolino","PBE",50
+100,326,126,246,9,2025,0,100,59,41,2,0.59,21,-2,1000,"Western Division","SAS","San Antonio Sloths",1,1,"Julian O'Sullivan","Khamati Kahn","Dionte Washington","PBE",50
+100,94,223,177,1,2018,0,101,51,50,2,0.505,1,-2,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Adrian Columbus","Chaz LaLocke","George Delrod","PBE",50
+100,124,192,239,10,2020,0,100,54,46,3,0.54,14,7,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Min-joon Do","Sebastian Musgrave-Smythe","Hawk Russell","PBE",50
+100,274,226,274,10,2017,0,100,48,52,2,0.48,1,-1,1000,"Western Division","DV","Death Valley Scorpions",0,0,"Dustin Evans","Knuckles Deep","Dustin Evans","PBE",50
+100,137,27,206,2,2022,0,100,32,68,3,0.32,22,1,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Kenny McCormick","Mookie Banks","Jordan von Matt","PBE",50
+100,138,227,273,10,2024,0,100,70,30,1,0.7,0,1,-4,"Western Division","DV","Death Valley Scorpions",1,1,"Toshihiro Ishikawa","Victoria Secret","Brett Smoky","PBE",50
+100,145,223,246,9,2023,0,101,62,39,1,0.6139,0,1,-6,"Western Division","SAS","San Antonio Sloths",1,1,"Julian O'Sullivan","Chaz LaLocke","Bobby Hill","PBE",50
+100,354,208,29,1,2025,0,100,52,48,3,0.52,13,4,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Weldon Borthwell","Elston Sinclair","Joshua Linton","PBE",50
+100,149,208,124,1,2022,0,100,50,50,2,0.5,4,-1,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Hawk Russell","Elston Sinclair","George McBash","PBE",50
+100,306,77,159,2,2026,0,100,52,48,2,0.52,15,-1,1000,"Eastern Division","OBX","Outer Banks Aviators",1,0,"Connor Tanner","Phillip Thompson","Ben Waters","PBE",50
+100,311,208,180,1,2023,0,100,54,46,2,0.54,6.5,1,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Pepe Alazar","Elston Sinclair","Adam Squiggly","PBE",50
+100,155,11,270,11,2023,0,100,28,72,3,0.28,33.5,-7,1000,"Western Division","VAN","Vancouver Vandals",0,0,"Vick Thunder","Chris Bennett","Jayran Mackson","PBE",50
+100,264,221,264,2,2017,0,100,54,46,2,0.54,1,1,1000,"Eastern Division","OBX","Outer Banks Aviators",1,0,"Steven O'Sullivan","Kristy O'Sullivan","Steven O'Sullivan","PBE",50
+100,275,223,275,1,2017,0,100,55,45,1,0.55,0,1,0,"Eastern Division","NYV","New York Voyagers",1,1,"Laddy McBantershire","Chaz LaLocke","Laddy McBantershire","PBE",50
+100,269,203,269,3,2017,0,100,47,53,3,0.47,8,-1,1000,"Eastern Division","PRO","Providence Crabs",0,0,"Nathaniel Zhou","Randy Koufax","Nathaniel Zhou","PBE",50
+100,271,211,271,9,2017,0,100,47,53,3,0.47,2,-1,1000,"Western Division","SAS","San Antonio Sloths",0,0,"Robert Phelps","Ernesto Castillo","Robert Phelps","PBE",50
+100,341,227,15,10,2025,0,100,80,20,1,0.8,0,2,-20,"Western Division","DV","Death Valley Scorpions",1,0,"Jimmy  Dong ","Victoria Secret","Johny Matthews","PBE",50
+100,355,156,270,11,2025,0,100,27,73,3,0.27,53,1,1000,"Western Division","VAN","Vancouver Vandals",0,0,"Vick Thunder","John Cheng","Arbin Asipi Jr","PBE",50
+100,345,10,78,25,2025,0,100,23,77,4,0.23,57,-1,1000,"Western Division","UTA","Utah Railroaders",0,0,"Steven Moore","Ludwig Groetzinger","Brock Beck","PBE",50
+100,346,56,81,3,2024,0,100,29,71,3,0.29,28,1,1000,"Eastern Division","PRO","Providence Crabs",0,0,"Eduardo Dinero","Pete Rose","Dexter Paquette","PBE",50
+100,404,401,255,11,2026,0,100,31,69,3,0.31,45,1,1000,"Western Division","VAN","Vancouver Vandals",0,0,"Connor MacDonald","Hayley MaConnell","Leo Komarov","PBE",50
+100,319,76,270,11,2022,0,100,59,41,2,0.59,4,-1,1000,"Western Division","VAN","Vancouver Vandals",1,1,"Vick Thunder","Greg Steiner","Michael Oxhard","PBE",50
+100,356,77,255,2,2025,0,100,65,35,1,0.65,0,-4,-6,"Eastern Division","OBX","Outer Banks Aviators",1,0,"Connor MacDonald","Phillip Thompson","Jasper Clayton","PBE",50
+100,360,11,244,11,2024,0,100,24,76,3,0.24,46,-1,1000,"Western Division","VAN","Vancouver Vandals",0,0,"Johnny Runakiwi","Chris Bennett","Barry Keller","PBE",50
+100,316,27,206,2,2023,0,100,41,59,3,0.41,19.5,-1,1000,"Eastern Division","OBX","Outer Banks Aviators",0,0,"Kenny McCormick","Mookie Banks","Jimmy  Caliburn ","PBE",50
+100,344,200,124,24,2025,0,100,58,42,2,0.58,7,6,1000,"Eastern Division","FL","Florida Space Rangers",1,0,"Hawk Russell","Esteban Rodriguez","Alexander Blitz","PBE",50
+100,334,211,122,1,2024,0,100,55,45,2,0.55,2,-1,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Clem Johnson","Ernesto Castillo","Michael Lang","PBE",50
+100,337,77,24,2,2024,0,100,57,43,1,0.57,0,2,-1,"Eastern Division","OBX","Outer Banks Aviators",1,0,"Kimetrius  Webster ","Phillip Thompson","Johnathon Livingston","PBE",50
+100,424,17,29,1,2026,0,100,45,55,3,0.45,22,2,1000,"Eastern Division","NYV","New York Voyagers",0,0,"Weldon Borthwell","Ryan Stryker","TopGun Sheelay","PBE",50
+100,402,69,81,3,2026,0,100,37,63,4,0.37,30,-2,1000,"Eastern Division","PRO","Providence Crabs",0,0,"Eduardo Dinero","Lucas North","John BIII","PBE",50
+100,426,22,271,25,2026,0,100,17,83,4,0.17,59,-1,1000,"Western Division","UTA","Utah Railroaders",0,0,"Robert Phelps","Tyler Oles","Epictitus Milburn","PBE",50
+100,399,174,268,24,2026,0,100,67,33,1,0.67,0,1,-14,"Eastern Division","FL","Florida Space Rangers",1,0,"Kevin Biggio","Penny Kowers","J.A. Jabs","PBE",50
+101,7,86,262,16,2021,0,100,66,34,1,0.66,0,8,-41,"West Division","ANC","Anchorage Wheelers",1,0,"Dirty Dongs","Harvey Bones","Reggie Malone","MiPBE",54
+101,145,145,310,18,2022,0,100,70,30,1,0.7,0,13,-38,"East Division","SCSS","State College Swift Steeds ",1,1,"Speedy Boi","Bobby Hill","Bobby Hill","MiPBE",54
+101,37,331,355,19,2023,0,100,47,53,2,0.47,11,2,1000,"East Division","ARM","Amarillo Armadillos",0,0,"Arbin Asipi Jr","Coreys Brother","Chris Hansen","MiPBE",54
+101,155,86,92,16,2022,0,100,70,30,1,0.7,0,1,-40,"West Division","ANC","Anchorage Wheelers",1,0,"Zack Malatesta","Harvey Bones","Jayran Mackson","MiPBE",54
+101,362,70,354,16,2023,0,100,45,55,2,0.45,5,-4,1000,"West Division","ANC","Anchorage Wheelers",0,0,"Joshua Linton","Jax Hunter","Catchy Boija","MiPBE",54
+101,365,333,39,17,2023,0,100,50,50,1,0.5,0,4,-4,"West Division","KGN","Kingston Mounties",1,0,"Michael Rapinski","Kosuke Yamauchi","Yeliboy Uecker","MiPBE",54
+101,385,71,344,17,2024,0,100,45,55,2,0.45,16,1,1000,"East Division","KGN","Kingston Mounties",0,0,"Alexander Blitz","Lord Bubbington Cole\rDavenport","Baseball  Blockerguy ","MiPBE",54
+101,390,367,324,16,2024,0,100,42,58,2,0.42,10,1,1000,"West Division","ANC","Anchorage Wheelers",0,0,"Riley Tiffielder","Seth Porter","Josh Kings","MiPBE",54
+101,391,144,312,18,2024,0,100,61,39,1,0.61,0,-1,-15,"East Division","SCSS","State College Swift Steeds ",1,0,"Sidney Swing","Twain  Teetoo","Billy Bob Booker the Fifth","MiPBE",54
+101,375,386,377,19,2024,0,100,52,48,1,0.52,0,-1,-9,"West Division","ARM","Amarillo Armadillos",1,1,"Patrick Kelley","Jay  Windsor","Hunter Harrison","MiPBE",54
+101,403,397,409,19,2025,0,101,51,50,2,0.505,1,-1,1000,"West Division","ARM","Amarillo Armadillos",0,0,"Kyle Bellinger","Diego Duque De Estrada","Goose Boozer","MiPBE",54
+101,306,52,259,18,2021,0,100,71,29,1,0.71,0,6,-31,"East Division","SCSS","State College Swift Steeds ",1,1,"Trent Vain","Curtis Kane","Ben Waters","MiPBE",54
+101,153,328,306,18,2023,0,100,58,42,1,0.58,0,-2,-10,"East Division","SCSS","State College Swift Steeds ",1,1,"Ben Waters","Tony Pisano","Phil Blunt","MiPBE",54
+101,441,394,412,16,2025,0,101,52,49,1,0.5149,0,1,-1,"West Division","ANC","Anchorage Wheelers",1,0,"Kris Kramer","Chase Petten","Brady McKenzie","MiPBE",54
+101,444,404,430,17,2025,0,100,45,55,2,0.45,8,-7,1000,"East Division","KGN","Kingston Mounties",0,0,"JD Jacks","Leo Komarov","Albert Blueballs","MiPBE",54
+101,446,401,408,18,2025,0,100,53,47,1,0.53,0,4,-7,"East Division","SCSS","State College Swift Steeds ",1,1,"Chanandler Bong","Hayley MaConnell","Blu Line","MiPBE",54
+101,464,5,422,17,2026,0,100,38,62,2,0.38,15.5,-4,1000,"East Division","KGN","Kingston Mounties",0,0,"Shovel Bryant","Throwing  Guy","Bobby Donger","MiPBE",54
+101,493,386,410,19,2026,0,100,56,44,1,0.56,0,1,-3,"West Division","ARM","Amarillo Armadillos",1,0,"Eric Tsai","Jay  Windsor","Jerry Parker","MiPBE",54
+101,496,452,324,16,2026,0,101,53,48,2,0.5248,3.5,-2,1000,"West Division","ANC","Anchorage Wheelers",0,0,"Riley Tiffielder","Tyler Finch","Jack Bauer II","MiPBE",54
+101,497,488,312,18,2026,0,101,54,47,1,0.5347,0,11,-15,"East Division","SCSS","State College Swift Steeds ",1,1,"Sidney Swing","Dan Wilinsky","Jax Duggan","MiPBE",54

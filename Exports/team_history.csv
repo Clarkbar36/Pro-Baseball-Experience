@@ -1,0 +1,93 @@
+team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_id,best_pitcher_id,best_rookie_id,manager_id,made_playoffs,won_playoffs,fired,position_in_division
+1,2017,100,0,0,"New York","NYV","Voyagers",275,223,275,1,1,1,0,1
+1,2018,100,0,0,"New York","NYV","Voyagers",177,223,94,1,0,0,0,2
+1,2019,100,0,0,"New York","NYV","Voyagers",177,208,51,1,0,0,0,2
+1,2020,100,0,0,"New York","NYV","Voyagers",180,207,31,1,0,0,0,3
+1,2021,100,0,0,"New York","NYV","Voyagers",180,10,14,0,0,0,0,2
+1,2022,100,0,0,"New York","NYV","Voyagers",124,208,149,0,0,0,0,2
+1,2023,100,0,0,"New York","NYV","Voyagers",180,208,311,0,0,0,0,2
+1,2024,100,0,0,"New York","NYV","Voyagers",122,211,334,0,0,0,0,2
+1,2025,100,0,0,"New York","NYV","Voyagers",29,208,354,0,0,0,0,3
+1,2026,100,0,0,"New York","NYV","Voyagers",29,17,424,0,0,0,0,3
+2,2017,100,0,0,"Outer Banks","OBX","Aviators",264,221,264,1,1,0,0,2
+2,2018,100,0,0,"Outer Banks","OBX","Aviators",205,168,91,1,0,0,0,3
+2,2019,100,0,0,"Outer Banks","OBX","Aviators",245,213,54,1,0,0,0,3
+2,2020,100,0,0,"Outer Banks","OBX","Aviators",245,213,36,1,0,0,0,2
+2,2021,100,0,0,"Outer Banks","OBX","Aviators",24,27,24,0,0,0,0,3
+2,2022,100,0,0,"Outer Banks","OBX","Aviators",206,27,137,0,0,0,0,3
+2,2023,100,0,0,"Outer Banks","OBX","Aviators",206,27,316,0,0,0,0,3
+2,2024,100,0,0,"Outer Banks","OBX","Aviators",24,77,337,0,1,0,0,1
+2,2025,100,0,0,"Outer Banks","OBX","Aviators",255,77,356,0,1,0,0,1
+2,2026,100,0,0,"Outer Banks","OBX","Aviators",159,77,306,0,1,0,0,2
+3,2017,100,0,0,"Providence","PRO","Crabs",269,203,269,1,0,0,0,3
+3,2018,100,0,0,"Providence","PRO","Crabs",173,197,82,1,1,0,0,1
+3,2019,100,0,0,"Providence","PRO","Crabs",204,203,57,1,1,0,0,1
+3,2020,100,0,0,"Providence","PRO","Crabs",171,211,39,1,1,0,0,1
+3,2021,100,0,0,"Providence","PRO","Crabs",177,211,22,0,1,0,0,1
+3,2022,100,0,0,"Providence","PRO","Crabs",173,211,0,0,1,0,0,1
+3,2023,100,0,0,"Providence","PRO","Crabs",173,200,0,0,1,0,0,1
+3,2024,100,0,0,"Providence","PRO","Crabs",81,56,346,0,0,0,0,3
+3,2025,100,0,0,"Providence","PRO","Crabs",81,203,0,0,0,0,0,4
+3,2026,100,0,0,"Providence","PRO","Crabs",81,69,402,0,0,0,0,4
+9,2017,100,0,1,"Berkeley","BRK","Bulldogs",271,211,271,1,0,0,0,3
+9,2018,100,0,1,"San Antonio","SAS","Sloths",246,211,73,1,0,0,0,3
+9,2019,100,0,1,"San Antonio","SAS","Sloths",246,46,46,1,1,0,0,1
+9,2020,100,0,1,"San Antonio","SAS","Sloths",246,223,29,1,1,0,0,2
+9,2021,100,0,1,"San Antonio","SAS","Sloths",246,195,92,0,1,0,0,2
+9,2022,100,0,1,"San Antonio","SAS","Sloths",246,126,0,0,1,0,0,1
+9,2023,100,0,1,"San Antonio","SAS","Sloths",246,223,145,0,1,1,0,1
+9,2024,100,0,1,"San Antonio","SAS","Sloths",111,62,0,0,1,0,0,2
+9,2025,100,0,1,"San Antonio","SAS","Sloths",246,126,326,0,1,1,0,2
+9,2026,100,0,1,"San Antonio","SAS","Sloths",246,145,0,0,1,1,0,2
+10,2017,100,0,1,"Death Valley","DV","Scorpions",274,226,274,1,0,0,0,2
+10,2018,100,0,1,"Death Valley","DV","Scorpions",186,226,64,1,0,0,0,2
+10,2019,100,0,1,"Death Valley","DV","Scorpions",185,198,48,1,0,0,0,3
+10,2020,100,0,1,"Death Valley","DV","Scorpions",239,192,124,1,0,0,0,3
+10,2021,100,0,1,"Death Valley","DV","Scorpions",239,226,15,0,0,0,0,3
+10,2022,100,0,1,"Death Valley","DV","Scorpions",185,226,127,0,0,0,0,3
+10,2023,100,0,1,"Death Valley","DV","Scorpions",268,227,16,0,1,0,0,2
+10,2024,100,0,1,"Death Valley","DV","Scorpions",273,227,138,0,1,1,0,1
+10,2025,100,0,1,"Death Valley","DV","Scorpions",15,227,341,0,1,0,0,1
+10,2026,100,0,1,"Death Valley","DV","Scorpions",48,208,0,0,1,0,0,1
+11,2017,100,0,1,"Vancouver","VAN","Vandals",268,227,268,0,0,0,0,1
+11,2018,100,0,1,"Vancouver","VAN","Vandals",270,77,77,0,1,1,0,1
+11,2019,100,0,1,"Vancouver","VAN","Vandals",268,227,58,0,1,1,0,2
+11,2020,100,0,1,"Vancouver","VAN","Vandals",270,227,0,0,1,1,0,1
+11,2021,100,0,1,"Vancouver","VAN","Vandals",270,227,8,0,1,1,0,1
+11,2022,100,0,1,"Vancouver","VAN","Vandals",270,76,319,0,1,1,0,2
+11,2023,100,0,1,"Vancouver","VAN","Vandals",270,11,155,0,0,0,0,3
+11,2024,100,0,1,"Vancouver","VAN","Vandals",244,11,360,0,0,0,0,3
+11,2025,100,0,1,"Vancouver","VAN","Vandals",270,156,355,0,0,0,0,3
+11,2026,100,0,1,"Vancouver","VAN","Vandals",255,401,404,0,0,0,0,3
+12,2020,1000,0,0,"Iamslm22","IAM","Dogs",171,195,0,0,0,0,0,3
+13,2020,1000,0,0,"Majesiu","MAJ","Winged Hussars",177,211,0,0,1,1,0,1
+14,2020,1000,0,0,"Juosu","JUO","Koalas",270,208,0,0,1,0,0,2
+15,2020,1000,0,0,"kckolbe","KCK","Offense",268,165,0,0,0,0,0,4
+16,2021,101,0,0,"Alcatraz","ASE","Sentinels ",262,86,7,0,1,0,0,1
+16,2022,101,0,0,"Alcatraz","ASE","Sentinels ",92,86,155,0,1,0,0,1
+16,2023,101,0,0,"Alcatraz","ASE","Sentinels ",354,70,362,0,0,0,0,2
+16,2024,101,0,0,"Alcatraz","ASE","Sentinels ",324,367,390,0,0,0,0,2
+16,2025,101,0,0,"Anchorage","ANC","Wheelers",412,394,441,0,1,0,0,1
+16,2026,101,0,0,"Anchorage","ANC","Wheelers",324,452,496,0,0,0,0,2
+17,2021,101,0,0,"Atlantic City","ACB","Ballers",287,38,287,0,0,0,0,2
+17,2022,101,0,0,"Atlantic City","ACB","Ballers",287,38,0,0,0,0,0,2
+17,2023,101,0,0,"Milwaukee","MIL","Swans",39,333,365,0,1,0,0,1
+17,2024,101,0,1,"Milwaukee","MIL","Swans",344,71,385,0,0,0,0,2
+17,2025,101,0,1,"Milwaukee","MIL","Swans",430,404,444,0,0,0,0,2
+17,2026,101,0,1,"Kingston","KGN","Mounties",422,5,464,0,0,0,0,2
+18,2021,101,0,1,"State College","SCSS","Swift Steeds ",259,52,306,0,1,1,0,1
+18,2022,101,0,1,"State College","SCSS","Swift Steeds ",310,145,145,0,1,1,0,1
+18,2023,101,0,1,"State College","SCSS","Swift Steeds ",306,328,153,0,1,1,0,1
+18,2024,101,0,1,"State College","SCSS","Swift Steeds ",312,144,391,0,1,0,0,1
+18,2025,101,0,1,"State College","SCSS","Swift Steeds ",408,401,446,0,1,1,0,1
+18,2026,101,0,1,"State College","SCSS","Swift Steeds ",312,488,497,0,1,1,0,1
+19,2021,101,0,1,"Sherbrooke ","SHH","Hornets",291,305,291,0,0,0,0,2
+19,2022,101,0,1,"Sherbrooke ","SHH","Hornets",295,301,304,0,0,0,0,2
+19,2023,101,0,1,"Portland","PTL","Beavers",355,331,37,0,0,0,0,2
+19,2024,101,0,0,"Amarillo","PTL","Armadillos",377,386,375,0,1,1,0,1
+19,2025,101,0,0,"Amarillo","ARM","Armadillos",409,397,403,0,0,0,0,2
+19,2026,101,0,0,"Amarillo","ARM","Armadillos",410,386,493,0,1,0,0,1
+24,2025,100,0,0,"Florida","FL","Space Rangers",124,200,344,0,1,0,0,2
+24,2026,100,0,0,"Florida","FL","Space Rangers",268,174,399,0,1,0,0,1
+25,2025,100,0,1,"Utah","UTA","Railroaders",78,10,345,0,0,0,0,4
+25,2026,100,0,1,"Utah","UTA","Railroaders",271,22,426,0,0,0,0,4

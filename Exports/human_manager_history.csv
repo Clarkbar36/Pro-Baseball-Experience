@@ -1,0 +1,5 @@
+human_manager_id,team_id,year,league_id,sub_league_id,division_id,best_hitter_id,best_pitcher_id,best_rookie_id,manager_id,made_playoffs,won_playoffs,fired,position_in_division
+3,16,2020,101,0,0,0,0,0,0,0,0,0,0
+3,17,2020,101,0,0,0,0,0,0,0,0,0,0
+3,18,2020,101,0,1,0,0,0,0,0,0,0,0
+3,19,2020,101,0,1,0,0,0,0,0,0,0,0

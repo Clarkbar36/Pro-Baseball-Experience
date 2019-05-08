@@ -1,0 +1,602 @@
+"home_team","game_id","league_id","date","time","innings","runs_home","hits_home","home_abbr","home_division_id","home_team_name","home","home_win","home_loss","away_team","runs_away","hits_away","away_abbr","away_division_id","away_team_name","away","away_win","away_loss"
+2,646,100,"2026-9-23",1905,9,2,8,"OBX",0,"Outer Banks Aviators","home",0,1,1,4,8,"NYV",0,"New York Voyagers","away",1,0
+3,677,100,"2026-10-6",1905,9,5,10,"PRO",0,"Providence Crabs","home",1,0,1,4,9,"NYV",0,"New York Voyagers","away",0,1
+2,644,100,"2026-9-22",1905,9,7,9,"OBX",0,"Outer Banks Aviators","home",1,0,1,2,10,"NYV",0,"New York Voyagers","away",0,1
+24,653,100,"2026-9-26",1905,9,5,7,"FL",0,"Florida Space Rangers","home",1,0,1,2,9,"NYV",0,"New York Voyagers","away",0,1
+24,112,100,"2026-6-25",1905,9,3,6,"FL",0,"Florida Space Rangers","home",1,0,1,2,8,"NYV",0,"New York Voyagers","away",0,1
+24,116,100,"2026-6-26",1905,9,1,6,"FL",0,"Florida Space Rangers","home",0,1,1,2,7,"NYV",0,"New York Voyagers","away",1,0
+3,228,100,"2026-8-19",1905,9,4,9,"PRO",0,"Providence Crabs","home",0,1,1,5,14,"NYV",0,"New York Voyagers","away",1,0
+10,633,100,"2026-9-17",1905,10,3,4,"DV",1,"Death Valley Scorpions","home",1,0,1,2,8,"NYV",0,"New York Voyagers","away",0,1
+25,263,100,"2026-9-1",1905,9,4,9,"UTA",1,"Utah Railroaders","home",1,0,1,1,7,"NYV",0,"New York Voyagers","away",0,1
+10,629,100,"2026-9-16",1905,9,15,17,"DV",1,"Death Valley Scorpions","home",1,0,1,1,4,"NYV",0,"New York Voyagers","away",0,1
+25,259,100,"2026-8-31",1905,9,1,9,"UTA",1,"Utah Railroaders","home",0,1,1,3,7,"NYV",0,"New York Voyagers","away",1,0
+2,174,100,"2026-7-17",1905,9,7,10,"OBX",0,"Outer Banks Aviators","home",1,0,1,0,7,"NYV",0,"New York Voyagers","away",0,1
+25,267,100,"2026-9-2",1905,9,7,11,"UTA",1,"Utah Railroaders","home",0,1,1,11,12,"NYV",0,"New York Voyagers","away",1,0
+3,220,100,"2026-8-17",1905,9,9,16,"PRO",0,"Providence Crabs","home",1,0,1,5,8,"NYV",0,"New York Voyagers","away",0,1
+10,299,100,"2026-9-15",1905,9,6,6,"DV",1,"Death Valley Scorpions","home",1,0,1,5,8,"NYV",0,"New York Voyagers","away",0,1
+9,665,100,"2026-10-1",1905,9,11,13,"SAS",1,"San Antonio Sloths","home",1,0,1,1,4,"NYV",0,"New York Voyagers","away",0,1
+2,636,100,"2026-9-20",1905,9,7,13,"OBX",0,"Outer Banks Aviators","home",1,0,1,2,6,"NYV",0,"New York Voyagers","away",0,1
+11,132,100,"2026-7-1",1905,9,6,10,"VAN",1,"Vancouver Vandals","home",1,0,1,5,10,"NYV",0,"New York Voyagers","away",0,1
+2,640,100,"2026-9-21",1905,9,9,11,"OBX",0,"Outer Banks Aviators","home",0,1,1,13,13,"NYV",0,"New York Voyagers","away",1,0
+2,172,100,"2026-7-16",1905,9,4,9,"OBX",0,"Outer Banks Aviators","home",1,0,1,3,7,"NYV",0,"New York Voyagers","away",0,1
+10,95,100,"2026-6-19",1905,9,11,14,"DV",1,"Death Valley Scorpions","home",1,0,1,3,6,"NYV",0,"New York Voyagers","away",0,1
+24,120,100,"2026-6-27",1905,9,6,8,"FL",0,"Florida Space Rangers","home",1,0,1,1,5,"NYV",0,"New York Voyagers","away",0,1
+3,224,100,"2026-8-18",1905,9,6,10,"PRO",0,"Providence Crabs","home",0,1,1,8,11,"NYV",0,"New York Voyagers","away",1,0
+11,216,100,"2026-8-14",1905,9,0,6,"VAN",1,"Vancouver Vandals","home",0,1,1,11,13,"NYV",0,"New York Voyagers","away",1,0
+24,108,100,"2026-6-24",1905,9,6,13,"FL",0,"Florida Space Rangers","home",1,0,1,1,6,"NYV",0,"New York Voyagers","away",0,1
+25,68,100,"2026-6-9",1905,9,1,4,"UTA",1,"Utah Railroaders","home",0,1,1,3,4,"NYV",0,"New York Voyagers","away",1,0
+2,63,100,"2026-6-6",1905,9,1,6,"OBX",0,"Outer Banks Aviators","home",0,1,1,6,8,"NYV",0,"New York Voyagers","away",1,0
+9,661,100,"2026-9-30",1905,9,6,10,"SAS",1,"San Antonio Sloths","home",1,0,1,4,8,"NYV",0,"New York Voyagers","away",0,1
+2,59,100,"2026-6-5",1905,9,5,12,"OBX",0,"Outer Banks Aviators","home",1,0,1,3,6,"NYV",0,"New York Voyagers","away",0,1
+9,156,100,"2026-7-11",1905,9,5,6,"SAS",1,"San Antonio Sloths","home",0,1,1,10,14,"NYV",0,"New York Voyagers","away",1,0
+25,72,100,"2026-6-10",1905,9,5,7,"UTA",1,"Utah Railroaders","home",1,0,1,4,6,"NYV",0,"New York Voyagers","away",0,1
+11,134,100,"2026-7-2",1905,9,1,3,"VAN",1,"Vancouver Vandals","home",0,1,1,7,10,"NYV",0,"New York Voyagers","away",1,0
+3,91,100,"2026-6-16",1905,9,1,7,"PRO",0,"Providence Crabs","home",0,1,1,5,10,"NYV",0,"New York Voyagers","away",1,0
+3,673,100,"2026-10-5",1905,9,0,8,"PRO",0,"Providence Crabs","home",0,1,1,2,7,"NYV",0,"New York Voyagers","away",1,0
+9,160,100,"2026-7-12",1905,9,14,20,"SAS",1,"San Antonio Sloths","home",1,0,1,1,7,"NYV",0,"New York Voyagers","away",0,1
+3,83,100,"2026-6-14",1905,9,3,11,"PRO",0,"Providence Crabs","home",0,1,1,13,16,"NYV",0,"New York Voyagers","away",1,0
+11,213,100,"2026-8-13",1905,9,0,8,"VAN",1,"Vancouver Vandals","home",0,1,1,8,16,"NYV",0,"New York Voyagers","away",1,0
+2,55,100,"2026-6-4",1905,9,9,14,"OBX",0,"Outer Banks Aviators","home",1,0,1,2,6,"NYV",0,"New York Voyagers","away",0,1
+3,217,100,"2026-8-16",1905,9,2,10,"PRO",0,"Providence Crabs","home",0,1,1,3,6,"NYV",0,"New York Voyagers","away",1,0
+3,87,100,"2026-6-15",1905,9,7,10,"PRO",0,"Providence Crabs","home",1,0,1,5,5,"NYV",0,"New York Voyagers","away",0,1
+24,9,100,"2026-5-17",1905,9,3,9,"FL",0,"Florida Space Rangers","home",0,1,1,4,9,"NYV",0,"New York Voyagers","away",1,0
+3,681,100,"2026-10-7",1905,9,2,8,"PRO",0,"Providence Crabs","home",0,1,1,13,17,"NYV",0,"New York Voyagers","away",1,0
+24,657,100,"2026-9-27",1905,9,5,6,"FL",0,"Florida Space Rangers","home",1,0,1,2,4,"NYV",0,"New York Voyagers","away",0,1
+2,168,100,"2026-7-15",1905,9,8,11,"OBX",0,"Outer Banks Aviators","home",1,0,1,2,6,"NYV",0,"New York Voyagers","away",0,1
+24,1,100,"2026-5-15",1905,9,6,12,"FL",0,"Florida Space Rangers","home",0,1,1,8,10,"NYV",0,"New York Voyagers","away",1,0
+10,99,100,"2026-6-20",1905,9,1,2,"DV",1,"Death Valley Scorpions","home",0,1,1,2,5,"NYV",0,"New York Voyagers","away",1,0
+24,649,100,"2026-9-25",1905,9,6,8,"FL",0,"Florida Space Rangers","home",1,0,1,1,4,"NYV",0,"New York Voyagers","away",0,1
+11,128,100,"2026-6-30",1905,9,9,15,"VAN",1,"Vancouver Vandals","home",1,0,1,5,11,"NYV",0,"New York Voyagers","away",0,1
+9,669,100,"2026-10-2",1905,11,5,12,"SAS",1,"San Antonio Sloths","home",1,0,1,4,13,"NYV",0,"New York Voyagers","away",0,1
+24,5,100,"2026-5-16",1905,9,3,7,"FL",0,"Florida Space Rangers","home",1,0,1,2,4,"NYV",0,"New York Voyagers","away",0,1
+1,269,100,"2026-9-5",1905,9,0,3,"NYV",0,"New York Voyagers","home",0,1,2,4,7,"OBX",0,"Outer Banks Aviators","away",1,0
+9,204,100,"2026-8-11",1905,9,4,10,"SAS",1,"San Antonio Sloths","home",1,0,2,3,7,"OBX",0,"Outer Banks Aviators","away",0,1
+11,96,100,"2026-6-19",1905,9,1,4,"VAN",1,"Vancouver Vandals","home",0,1,2,7,17,"OBX",0,"Outer Banks Aviators","away",1,0
+3,295,100,"2026-9-13",1905,9,6,9,"PRO",0,"Providence Crabs","home",0,1,2,8,9,"OBX",0,"Outer Banks Aviators","away",1,0
+9,212,100,"2026-8-13",1905,9,8,12,"SAS",1,"San Antonio Sloths","home",1,0,2,5,11,"OBX",0,"Outer Banks Aviators","away",0,1
+10,240,100,"2026-8-23",1905,10,4,8,"DV",1,"Death Valley Scorpions","home",0,1,2,11,11,"OBX",0,"Outer Banks Aviators","away",1,0
+1,143,100,"2026-7-6",1905,9,3,14,"NYV",0,"New York Voyagers","home",0,1,2,4,7,"OBX",0,"Outer Banks Aviators","away",1,0
+11,176,100,"2026-7-19",1905,9,1,9,"VAN",1,"Vancouver Vandals","home",0,1,2,2,8,"OBX",0,"Outer Banks Aviators","away",1,0
+1,281,100,"2026-9-8",1905,9,5,7,"NYV",0,"New York Voyagers","home",1,0,2,1,8,"OBX",0,"Outer Banks Aviators","away",0,1
+24,691,100,"2026-10-11",1905,9,2,6,"FL",0,"Florida Space Rangers","home",0,1,2,4,12,"OBX",0,"Outer Banks Aviators","away",1,0
+1,135,100,"2026-7-4",1905,10,3,6,"NYV",0,"New York Voyagers","home",0,1,2,4,8,"OBX",0,"Outer Banks Aviators","away",1,0
+10,232,100,"2026-8-21",1905,9,5,8,"DV",1,"Death Valley Scorpions","home",1,0,2,4,5,"OBX",0,"Outer Banks Aviators","away",0,1
+3,33,100,"2026-5-26",1905,9,4,13,"PRO",0,"Providence Crabs","home",0,1,2,11,14,"OBX",0,"Outer Banks Aviators","away",1,0
+1,273,100,"2026-9-6",1905,9,4,9,"NYV",0,"New York Voyagers","home",0,1,2,11,10,"OBX",0,"Outer Banks Aviators","away",1,0
+24,92,100,"2026-6-16",1905,10,2,8,"FL",0,"Florida Space Rangers","home",1,0,2,0,4,"OBX",0,"Outer Banks Aviators","away",0,1
+3,287,100,"2026-9-11",1905,9,2,6,"PRO",0,"Providence Crabs","home",0,1,2,5,11,"OBX",0,"Outer Banks Aviators","away",1,0
+1,708,100,"2026-10-17",1905,9,5,10,"NYV",0,"New York Voyagers","home",0,1,2,9,15,"OBX",0,"Outer Banks Aviators","away",1,0
+1,139,100,"2026-7-5",1905,9,3,8,"NYV",0,"New York Voyagers","home",0,1,2,10,9,"OBX",0,"Outer Banks Aviators","away",1,0
+9,46,100,"2026-5-31",1905,9,11,11,"SAS",1,"San Antonio Sloths","home",1,0,2,4,8,"OBX",0,"Outer Banks Aviators","away",0,1
+3,37,100,"2026-5-27",1905,9,12,18,"PRO",0,"Providence Crabs","home",1,0,2,4,6,"OBX",0,"Outer Banks Aviators","away",0,1
+24,200,100,"2026-7-27",1905,9,2,6,"FL",0,"Florida Space Rangers","home",0,1,2,6,9,"OBX",0,"Outer Banks Aviators","away",1,0
+3,283,100,"2026-9-10",1905,9,4,5,"PRO",0,"Providence Crabs","home",0,1,2,7,10,"OBX",0,"Outer Banks Aviators","away",1,0
+9,42,100,"2026-5-30",1905,9,7,11,"SAS",1,"San Antonio Sloths","home",1,0,2,3,6,"OBX",0,"Outer Banks Aviators","away",0,1
+1,699,100,"2026-10-15",1905,9,5,9,"NYV",0,"New York Voyagers","home",1,0,2,2,7,"OBX",0,"Outer Banks Aviators","away",0,1
+25,632,100,"2026-9-17",1905,9,1,4,"UTA",1,"Utah Railroaders","home",0,1,2,7,11,"OBX",0,"Outer Banks Aviators","away",1,0
+25,157,100,"2026-7-11",1905,9,2,6,"UTA",1,"Utah Railroaders","home",0,1,2,17,17,"OBX",0,"Outer Banks Aviators","away",1,0
+1,703,100,"2026-10-16",1905,9,1,6,"NYV",0,"New York Voyagers","home",0,1,2,9,14,"OBX",0,"Outer Banks Aviators","away",1,0
+10,81,100,"2026-6-12",1905,9,8,13,"DV",1,"Death Valley Scorpions","home",1,0,2,7,12,"OBX",0,"Outer Banks Aviators","away",0,1
+24,687,100,"2026-10-10",1905,9,3,6,"FL",0,"Florida Space Rangers","home",0,1,2,5,10,"OBX",0,"Outer Banks Aviators","away",1,0
+11,104,100,"2026-6-21",1905,9,0,5,"VAN",1,"Vancouver Vandals","home",0,1,2,2,7,"OBX",0,"Outer Banks Aviators","away",1,0
+24,695,100,"2026-10-12",1905,9,5,9,"FL",0,"Florida Space Rangers","home",1,0,2,1,6,"OBX",0,"Outer Banks Aviators","away",0,1
+3,291,100,"2026-9-12",1905,9,5,6,"PRO",0,"Providence Crabs","home",1,0,2,4,6,"OBX",0,"Outer Banks Aviators","away",0,1
+1,277,100,"2026-9-7",1905,9,2,6,"NYV",0,"New York Voyagers","home",0,1,2,7,9,"OBX",0,"Outer Banks Aviators","away",1,0
+11,180,100,"2026-7-20",1905,9,2,9,"VAN",1,"Vancouver Vandals","home",0,1,2,4,8,"OBX",0,"Outer Banks Aviators","away",1,0
+24,196,100,"2026-7-26",1905,12,4,10,"FL",0,"Florida Space Rangers","home",1,0,2,3,7,"OBX",0,"Outer Banks Aviators","away",0,1
+24,88,100,"2026-6-15",1905,9,1,5,"FL",0,"Florida Space Rangers","home",0,1,2,2,3,"OBX",0,"Outer Banks Aviators","away",1,0
+25,161,100,"2026-7-12",1905,9,1,5,"UTA",1,"Utah Railroaders","home",0,1,2,4,10,"OBX",0,"Outer Banks Aviators","away",1,0
+24,192,100,"2026-7-25",1905,9,3,5,"FL",0,"Florida Space Rangers","home",1,0,2,2,5,"OBX",0,"Outer Banks Aviators","away",0,1
+24,189,100,"2026-7-24",1905,9,7,7,"FL",0,"Florida Space Rangers","home",1,0,2,3,7,"OBX",0,"Outer Banks Aviators","away",0,1
+25,298,100,"2026-9-15",1905,9,3,6,"UTA",1,"Utah Railroaders","home",0,1,2,4,8,"OBX",0,"Outer Banks Aviators","away",1,0
+3,113,100,"2026-6-25",1905,9,7,11,"PRO",0,"Providence Crabs","home",1,0,2,3,8,"OBX",0,"Outer Banks Aviators","away",0,1
+10,79,100,"2026-6-11",1905,9,6,9,"DV",1,"Death Valley Scorpions","home",1,0,2,3,4,"OBX",0,"Outer Banks Aviators","away",0,1
+10,236,100,"2026-8-22",1905,9,17,13,"DV",1,"Death Valley Scorpions","home",1,0,2,0,8,"OBX",0,"Outer Banks Aviators","away",0,1
+9,208,100,"2026-8-12",1905,9,7,10,"SAS",1,"San Antonio Sloths","home",1,0,2,1,6,"OBX",0,"Outer Banks Aviators","away",0,1
+3,109,100,"2026-6-24",1905,9,0,5,"PRO",0,"Providence Crabs","home",0,1,2,11,17,"OBX",0,"Outer Banks Aviators","away",1,0
+3,30,100,"2026-5-25",1905,9,4,7,"PRO",0,"Providence Crabs","home",1,0,2,1,5,"OBX",0,"Outer Banks Aviators","away",0,1
+3,117,100,"2026-6-26",1905,9,2,8,"PRO",0,"Providence Crabs","home",0,1,2,4,6,"OBX",0,"Outer Banks Aviators","away",1,0
+24,84,100,"2026-6-14",1905,9,3,5,"FL",0,"Florida Space Rangers","home",1,0,2,2,7,"OBX",0,"Outer Banks Aviators","away",0,1
+25,628,100,"2026-9-16",1905,9,4,8,"UTA",1,"Utah Railroaders","home",1,0,2,2,10,"OBX",0,"Outer Banks Aviators","away",0,1
+11,100,100,"2026-6-20",1905,9,1,8,"VAN",1,"Vancouver Vandals","home",0,1,2,4,11,"OBX",0,"Outer Banks Aviators","away",1,0
+10,183,100,"2026-7-21",1905,9,2,7,"DV",1,"Death Valley Scorpions","home",0,1,3,4,4,"PRO",0,"Providence Crabs","away",1,0
+24,704,100,"2026-10-16",1905,9,0,4,"FL",0,"Florida Space Rangers","home",0,1,3,7,11,"PRO",0,"Providence Crabs","away",1,0
+24,60,100,"2026-6-5",1905,9,1,3,"FL",0,"Florida Space Rangers","home",0,1,3,2,4,"PRO",0,"Providence Crabs","away",1,0
+10,48,100,"2026-5-31",1905,9,5,8,"DV",1,"Death Valley Scorpions","home",1,0,3,1,5,"PRO",0,"Providence Crabs","away",0,1
+24,709,100,"2026-10-17",1905,9,7,10,"FL",0,"Florida Space Rangers","home",1,0,3,0,1,"PRO",0,"Providence Crabs","away",0,1
+1,690,100,"2026-10-11",1905,9,5,12,"NYV",0,"New York Voyagers","home",0,1,3,8,10,"PRO",0,"Providence Crabs","away",1,0
+25,210,100,"2026-8-13",1905,9,1,5,"UTA",1,"Utah Railroaders","home",0,1,3,2,5,"PRO",0,"Providence Crabs","away",1,0
+2,650,100,"2026-9-25",1905,9,8,11,"OBX",0,"Outer Banks Aviators","home",1,0,3,2,7,"PRO",0,"Providence Crabs","away",0,1
+2,246,100,"2026-8-26",1905,9,3,5,"OBX",0,"Outer Banks Aviators","home",1,0,3,1,4,"PRO",0,"Providence Crabs","away",0,1
+11,15,100,"2026-5-20",1905,9,3,9,"VAN",1,"Vancouver Vandals","home",1,0,3,2,7,"PRO",0,"Providence Crabs","away",0,1
+24,700,100,"2026-10-15",1905,9,5,6,"FL",0,"Florida Space Rangers","home",1,0,3,0,3,"PRO",0,"Providence Crabs","away",0,1
+1,686,100,"2026-10-10",1905,9,7,14,"NYV",0,"New York Voyagers","home",1,0,3,5,9,"PRO",0,"Providence Crabs","away",0,1
+11,77,100,"2026-6-11",1905,9,2,7,"VAN",1,"Vancouver Vandals","home",0,1,3,14,16,"PRO",0,"Providence Crabs","away",1,0
+24,56,100,"2026-6-4",1905,12,4,9,"FL",0,"Florida Space Rangers","home",0,1,3,7,8,"PRO",0,"Providence Crabs","away",1,0
+1,720,100,"2026-10-22",1905,11,9,13,"NYV",0,"New York Voyagers","home",1,0,3,8,11,"PRO",0,"Providence Crabs","away",0,1
+11,19,100,"2026-5-21",1905,9,3,11,"VAN",1,"Vancouver Vandals","home",0,1,3,12,18,"PRO",0,"Providence Crabs","away",1,0
+9,126,100,"2026-6-30",1905,9,4,7,"SAS",1,"San Antonio Sloths","home",1,0,3,3,8,"PRO",0,"Providence Crabs","away",0,1
+24,278,100,"2026-9-7",1905,9,9,14,"FL",0,"Florida Space Rangers","home",1,0,3,0,3,"PRO",0,"Providence Crabs","away",0,1
+2,6,100,"2026-5-16",1905,9,3,8,"OBX",0,"Outer Banks Aviators","home",1,0,3,1,3,"PRO",0,"Providence Crabs","away",0,1
+1,193,100,"2026-7-25",1905,9,14,14,"NYV",0,"New York Voyagers","home",1,0,3,12,15,"PRO",0,"Providence Crabs","away",0,1
+11,69,100,"2026-6-9",1905,10,3,7,"VAN",1,"Vancouver Vandals","home",0,1,3,4,9,"PRO",0,"Providence Crabs","away",1,0
+2,10,100,"2026-5-17",1905,12,4,10,"OBX",0,"Outer Banks Aviators","home",0,1,3,6,7,"PRO",0,"Providence Crabs","away",1,0
+1,190,100,"2026-7-24",1905,11,3,12,"NYV",0,"New York Voyagers","home",0,1,3,4,9,"PRO",0,"Providence Crabs","away",1,0
+24,270,100,"2026-9-5",1905,9,9,6,"FL",0,"Florida Space Rangers","home",1,0,3,4,7,"PRO",0,"Providence Crabs","away",0,1
+24,711,100,"2026-10-18",1905,9,7,10,"FL",0,"Florida Space Rangers","home",1,0,3,1,7,"PRO",0,"Providence Crabs","away",0,1
+25,214,100,"2026-8-14",1905,9,1,7,"UTA",1,"Utah Railroaders","home",0,1,3,4,5,"PRO",0,"Providence Crabs","away",1,0
+24,274,100,"2026-9-6",1905,9,7,8,"FL",0,"Florida Space Rangers","home",1,0,3,0,5,"PRO",0,"Providence Crabs","away",0,1
+25,101,100,"2026-6-20",1905,9,2,8,"UTA",1,"Utah Railroaders","home",0,1,3,5,8,"PRO",0,"Providence Crabs","away",1,0
+2,250,100,"2026-8-27",1905,9,2,7,"OBX",0,"Outer Banks Aviators","home",0,1,3,8,11,"PRO",0,"Providence Crabs","away",1,0
+11,73,100,"2026-6-10",1905,9,3,6,"VAN",1,"Vancouver Vandals","home",0,1,3,8,11,"PRO",0,"Providence Crabs","away",1,0
+2,654,100,"2026-9-26",1905,9,4,6,"OBX",0,"Outer Banks Aviators","home",0,1,3,5,5,"PRO",0,"Providence Crabs","away",1,0
+10,44,100,"2026-5-30",1905,9,4,7,"DV",1,"Death Valley Scorpions","home",1,0,3,2,6,"PRO",0,"Providence Crabs","away",0,1
+10,52,100,"2026-6-1",1905,9,12,13,"DV",1,"Death Valley Scorpions","home",1,0,3,2,7,"PRO",0,"Providence Crabs","away",0,1
+1,694,100,"2026-10-12",1905,9,4,8,"NYV",0,"New York Voyagers","home",1,0,3,2,10,"PRO",0,"Providence Crabs","away",0,1
+2,658,100,"2026-9-27",1905,9,7,8,"OBX",0,"Outer Banks Aviators","home",1,0,3,4,10,"PRO",0,"Providence Crabs","away",0,1
+2,254,100,"2026-8-28",1905,9,1,5,"OBX",0,"Outer Banks Aviators","home",0,1,3,2,8,"PRO",0,"Providence Crabs","away",1,0
+1,712,100,"2026-10-20",1905,9,7,9,"NYV",0,"New York Voyagers","home",1,0,3,2,9,"PRO",0,"Providence Crabs","away",0,1
+9,123,100,"2026-6-29",1905,9,9,14,"SAS",1,"San Antonio Sloths","home",1,0,3,4,8,"PRO",0,"Providence Crabs","away",0,1
+24,64,100,"2026-6-6",1905,9,5,9,"FL",0,"Florida Space Rangers","home",1,0,3,4,7,"PRO",0,"Providence Crabs","away",0,1
+1,716,100,"2026-10-21",1905,10,3,11,"NYV",0,"New York Voyagers","home",0,1,3,4,11,"PRO",0,"Providence Crabs","away",1,0
+25,97,100,"2026-6-19",1905,9,6,10,"UTA",1,"Utah Railroaders","home",1,0,3,4,9,"PRO",0,"Providence Crabs","away",0,1
+9,130,100,"2026-7-1",1905,9,10,13,"SAS",1,"San Antonio Sloths","home",1,0,3,8,13,"PRO",0,"Providence Crabs","away",0,1
+9,230,100,"2026-8-21",1905,9,9,10,"SAS",1,"San Antonio Sloths","home",0,1,3,12,18,"PRO",0,"Providence Crabs","away",1,0
+1,724,100,"2026-10-23",1905,9,7,16,"NYV",0,"New York Voyagers","home",1,0,3,4,10,"PRO",0,"Providence Crabs","away",0,1
+9,234,100,"2026-8-22",1905,9,3,6,"SAS",1,"San Antonio Sloths","home",0,1,3,6,13,"PRO",0,"Providence Crabs","away",1,0
+1,197,100,"2026-7-26",1905,9,3,6,"NYV",0,"New York Voyagers","home",1,0,3,0,5,"PRO",0,"Providence Crabs","away",0,1
+2,2,100,"2026-5-15",1905,9,4,4,"OBX",0,"Outer Banks Aviators","home",1,0,3,3,7,"PRO",0,"Providence Crabs","away",0,1
+10,187,100,"2026-7-22",1905,9,6,7,"DV",1,"Death Valley Scorpions","home",1,0,3,5,6,"PRO",0,"Providence Crabs","away",0,1
+25,105,100,"2026-6-21",1905,9,2,7,"UTA",1,"Utah Railroaders","home",1,0,3,0,7,"PRO",0,"Providence Crabs","away",0,1
+2,13,100,"2026-5-18",1905,10,13,18,"OBX",0,"Outer Banks Aviators","home",0,1,3,20,21,"PRO",0,"Providence Crabs","away",1,0
+1,152,100,"2026-7-10",1905,9,1,11,"NYV",0,"New York Voyagers","home",0,1,9,12,15,"SAS",1,"San Antonio Sloths","away",1,0
+11,40,100,"2026-5-28",1905,9,3,6,"VAN",1,"Vancouver Vandals","home",0,1,9,12,19,"SAS",1,"San Antonio Sloths","away",1,0
+24,98,100,"2026-6-19",1905,9,4,4,"FL",0,"Florida Space Rangers","home",1,0,9,1,2,"SAS",1,"San Antonio Sloths","away",0,1
+3,242,100,"2026-8-24",1905,9,1,5,"PRO",0,"Providence Crabs","home",0,1,9,4,14,"SAS",1,"San Antonio Sloths","away",1,0
+10,61,100,"2026-6-5",1905,9,0,4,"DV",1,"Death Valley Scorpions","home",0,1,9,4,7,"SAS",1,"San Antonio Sloths","away",1,0
+25,651,100,"2026-9-26",1905,9,2,5,"UTA",1,"Utah Railroaders","home",0,1,9,6,9,"SAS",1,"San Antonio Sloths","away",1,0
+10,635,100,"2026-9-20",1905,9,5,10,"DV",1,"Death Valley Scorpions","home",1,0,9,1,7,"SAS",1,"San Antonio Sloths","away",0,1
+1,177,100,"2026-7-19",1905,9,5,7,"NYV",0,"New York Voyagers","home",1,0,9,3,11,"SAS",1,"San Antonio Sloths","away",0,1
+1,185,100,"2026-7-21",1905,9,0,7,"NYV",0,"New York Voyagers","home",0,1,9,1,5,"SAS",1,"San Antonio Sloths","away",1,0
+10,65,100,"2026-6-6",1905,9,8,9,"DV",1,"Death Valley Scorpions","home",1,0,9,2,9,"SAS",1,"San Antonio Sloths","away",0,1
+3,297,100,"2026-9-15",1905,9,6,11,"PRO",0,"Providence Crabs","home",1,0,9,3,11,"SAS",1,"San Antonio Sloths","away",0,1
+25,647,100,"2026-9-25",1905,9,2,6,"UTA",1,"Utah Railroaders","home",0,1,9,5,12,"SAS",1,"San Antonio Sloths","away",1,0
+24,21,100,"2026-5-21",1905,9,2,3,"FL",0,"Florida Space Rangers","home",0,1,9,5,8,"SAS",1,"San Antonio Sloths","away",1,0
+25,696,100,"2026-10-13",1905,9,2,5,"UTA",1,"Utah Railroaders","home",0,1,9,23,20,"SAS",1,"San Antonio Sloths","away",1,0
+2,265,100,"2026-9-2",1905,9,0,6,"OBX",0,"Outer Banks Aviators","home",0,1,9,4,10,"SAS",1,"San Antonio Sloths","away",1,0
+11,170,100,"2026-7-16",1905,9,6,11,"VAN",1,"Vancouver Vandals","home",1,0,9,1,7,"SAS",1,"San Antonio Sloths","away",0,1
+25,688,100,"2026-10-11",1905,9,4,10,"UTA",1,"Utah Railroaders","home",0,1,9,12,14,"SAS",1,"San Antonio Sloths","away",1,0
+10,639,100,"2026-9-21",1905,9,3,8,"DV",1,"Death Valley Scorpions","home",0,1,9,5,8,"SAS",1,"San Antonio Sloths","away",1,0
+25,198,100,"2026-7-26",1905,9,4,8,"UTA",1,"Utah Railroaders","home",0,1,9,6,12,"SAS",1,"San Antonio Sloths","away",1,0
+2,54,100,"2026-6-2",1905,9,5,6,"OBX",0,"Outer Banks Aviators","home",1,0,9,2,8,"SAS",1,"San Antonio Sloths","away",0,1
+11,244,100,"2026-8-26",1905,9,4,6,"VAN",1,"Vancouver Vandals","home",0,1,9,10,15,"SAS",1,"San Antonio Sloths","away",1,0
+3,631,100,"2026-9-17",1905,9,0,4,"PRO",0,"Providence Crabs","home",0,1,9,8,12,"SAS",1,"San Antonio Sloths","away",1,0
+10,275,100,"2026-9-6",1905,9,4,5,"DV",1,"Death Valley Scorpions","home",1,0,9,2,8,"SAS",1,"San Antonio Sloths","away",0,1
+25,191,100,"2026-7-24",1905,9,3,5,"UTA",1,"Utah Railroaders","home",0,1,9,9,11,"SAS",1,"San Antonio Sloths","away",1,0
+3,301,100,"2026-9-16",1905,9,2,8,"PRO",0,"Providence Crabs","home",0,1,9,3,7,"SAS",1,"San Antonio Sloths","away",1,0
+2,261,100,"2026-9-1",1905,9,8,9,"OBX",0,"Outer Banks Aviators","home",1,0,9,6,11,"SAS",1,"San Antonio Sloths","away",0,1
+1,181,100,"2026-7-20",1905,9,2,5,"NYV",0,"New York Voyagers","home",0,1,9,5,6,"SAS",1,"San Antonio Sloths","away",1,0
+25,194,100,"2026-7-25",1905,9,2,4,"UTA",1,"Utah Railroaders","home",0,1,9,15,19,"SAS",1,"San Antonio Sloths","away",1,0
+11,252,100,"2026-8-28",1905,9,4,10,"VAN",1,"Vancouver Vandals","home",0,1,9,20,16,"SAS",1,"San Antonio Sloths","away",1,0
+10,643,100,"2026-9-22",1905,9,1,3,"DV",1,"Death Valley Scorpions","home",0,1,9,4,11,"SAS",1,"San Antonio Sloths","away",1,0
+24,102,100,"2026-6-20",1905,9,7,11,"FL",0,"Florida Space Rangers","home",1,0,9,5,7,"SAS",1,"San Antonio Sloths","away",0,1
+10,67,100,"2026-6-7",1905,9,5,10,"DV",1,"Death Valley Scorpions","home",0,1,9,8,10,"SAS",1,"San Antonio Sloths","away",1,0
+24,17,100,"2026-5-20",1905,9,2,3,"FL",0,"Florida Space Rangers","home",0,1,9,5,10,"SAS",1,"San Antonio Sloths","away",1,0
+11,163,100,"2026-7-14",1905,9,1,7,"VAN",1,"Vancouver Vandals","home",0,1,9,3,6,"SAS",1,"San Antonio Sloths","away",1,0
+10,271,100,"2026-9-5",1905,9,2,6,"DV",1,"Death Valley Scorpions","home",0,1,9,11,13,"SAS",1,"San Antonio Sloths","away",1,0
+24,106,100,"2026-6-21",1905,9,7,7,"FL",0,"Florida Space Rangers","home",1,0,9,3,9,"SAS",1,"San Antonio Sloths","away",0,1
+11,34,100,"2026-5-26",1905,9,0,2,"VAN",1,"Vancouver Vandals","home",0,1,9,2,4,"SAS",1,"San Antonio Sloths","away",1,0
+11,38,100,"2026-5-27",1905,9,0,9,"VAN",1,"Vancouver Vandals","home",0,1,9,4,10,"SAS",1,"San Antonio Sloths","away",1,0
+2,257,100,"2026-8-31",1905,9,6,8,"OBX",0,"Outer Banks Aviators","home",0,1,9,10,13,"SAS",1,"San Antonio Sloths","away",1,0
+25,692,100,"2026-10-12",1905,9,3,11,"UTA",1,"Utah Railroaders","home",0,1,9,10,15,"SAS",1,"San Antonio Sloths","away",1,0
+3,238,100,"2026-8-23",1905,9,2,4,"PRO",0,"Providence Crabs","home",0,1,9,6,11,"SAS",1,"San Antonio Sloths","away",1,0
+2,50,100,"2026-6-1",1905,9,3,6,"OBX",0,"Outer Banks Aviators","home",0,1,9,7,12,"SAS",1,"San Antonio Sloths","away",1,0
+11,166,100,"2026-7-15",1905,10,5,9,"VAN",1,"Vancouver Vandals","home",1,0,9,4,13,"SAS",1,"San Antonio Sloths","away",0,1
+11,248,100,"2026-8-27",1905,9,13,14,"VAN",1,"Vancouver Vandals","home",1,0,9,3,8,"SAS",1,"San Antonio Sloths","away",0,1
+25,655,100,"2026-9-27",1905,9,1,2,"UTA",1,"Utah Railroaders","home",0,1,9,13,12,"SAS",1,"San Antonio Sloths","away",1,0
+11,256,100,"2026-8-29",1905,9,4,13,"VAN",1,"Vancouver Vandals","home",0,1,9,6,11,"SAS",1,"San Antonio Sloths","away",1,0
+10,57,100,"2026-6-4",1905,9,9,14,"DV",1,"Death Valley Scorpions","home",1,0,9,4,8,"SAS",1,"San Antonio Sloths","away",0,1
+1,148,100,"2026-7-9",1905,9,3,7,"NYV",0,"New York Voyagers","home",0,1,9,11,8,"SAS",1,"San Antonio Sloths","away",1,0
+25,684,100,"2026-10-10",1905,9,3,10,"UTA",1,"Utah Railroaders","home",1,0,9,2,8,"SAS",1,"San Antonio Sloths","away",0,1
+10,279,100,"2026-9-7",1905,9,10,11,"DV",1,"Death Valley Scorpions","home",1,0,9,6,7,"SAS",1,"San Antonio Sloths","away",0,1
+2,71,100,"2026-6-9",1905,9,5,7,"OBX",0,"Outer Banks Aviators","home",0,1,10,9,10,"DV",1,"Death Valley Scorpions","away",1,0
+9,676,100,"2026-10-6",1905,9,12,10,"SAS",1,"San Antonio Sloths","home",1,0,10,8,14,"DV",1,"Death Valley Scorpions","away",0,1
+11,693,100,"2026-10-12",1905,9,4,8,"VAN",1,"Vancouver Vandals","home",1,0,10,2,7,"DV",1,"Death Valley Scorpions","away",0,1
+9,701,100,"2026-10-16",1905,9,3,10,"SAS",1,"San Antonio Sloths","home",0,1,10,8,12,"DV",1,"Death Valley Scorpions","away",1,0
+25,245,100,"2026-8-26",1905,9,2,9,"UTA",1,"Utah Railroaders","home",0,1,10,8,11,"DV",1,"Death Valley Scorpions","away",1,0
+24,662,100,"2026-9-30",1905,9,3,6,"FL",0,"Florida Space Rangers","home",1,0,10,2,8,"DV",1,"Death Valley Scorpions","away",0,1
+25,285,100,"2026-9-10",1905,9,1,6,"UTA",1,"Utah Railroaders","home",0,1,10,7,10,"DV",1,"Death Valley Scorpions","away",1,0
+3,179,100,"2026-7-20",1905,9,2,8,"PRO",0,"Providence Crabs","home",0,1,10,4,7,"DV",1,"Death Valley Scorpions","away",1,0
+11,685,100,"2026-10-10",1905,9,1,5,"VAN",1,"Vancouver Vandals","home",0,1,10,6,12,"DV",1,"Death Valley Scorpions","away",1,0
+25,31,100,"2026-5-25",1905,9,0,5,"UTA",1,"Utah Railroaders","home",0,1,10,7,11,"DV",1,"Death Valley Scorpions","away",1,0
+25,289,100,"2026-9-11",1905,11,6,10,"UTA",1,"Utah Railroaders","home",0,1,10,8,12,"DV",1,"Death Valley Scorpions","away",1,0
+24,670,100,"2026-10-2",1905,9,5,9,"FL",0,"Florida Space Rangers","home",1,0,10,4,7,"DV",1,"Death Valley Scorpions","away",0,1
+11,714,100,"2026-10-20",1905,9,2,11,"VAN",1,"Vancouver Vandals","home",0,1,10,7,12,"DV",1,"Death Valley Scorpions","away",1,0
+25,39,100,"2026-5-27",1905,9,2,6,"UTA",1,"Utah Railroaders","home",0,1,10,5,8,"DV",1,"Death Valley Scorpions","away",1,0
+2,124,100,"2026-6-29",1905,9,2,6,"OBX",0,"Outer Banks Aviators","home",0,1,10,8,14,"DV",1,"Death Valley Scorpions","away",1,0
+11,652,100,"2026-9-26",1905,9,2,8,"VAN",1,"Vancouver Vandals","home",0,1,10,3,9,"DV",1,"Death Valley Scorpions","away",1,0
+9,710,100,"2026-10-18",1905,9,14,18,"SAS",1,"San Antonio Sloths","home",1,0,10,1,5,"DV",1,"Death Valley Scorpions","away",0,1
+3,158,100,"2026-7-11",1905,9,7,11,"PRO",0,"Providence Crabs","home",1,0,10,6,14,"DV",1,"Death Valley Scorpions","away",0,1
+24,666,100,"2026-10-1",1905,9,3,7,"FL",0,"Florida Space Rangers","home",0,1,10,7,10,"DV",1,"Death Valley Scorpions","away",1,0
+1,103,100,"2026-6-21",1905,9,10,14,"NYV",0,"New York Voyagers","home",1,0,10,0,3,"DV",1,"Death Valley Scorpions","away",0,1
+24,211,100,"2026-8-13",1905,9,3,8,"FL",0,"Florida Space Rangers","home",1,0,10,2,6,"DV",1,"Death Valley Scorpions","away",0,1
+1,22,100,"2026-5-21",1905,9,3,5,"NYV",0,"New York Voyagers","home",1,0,10,2,6,"DV",1,"Death Valley Scorpions","away",0,1
+11,689,100,"2026-10-11",1905,9,5,14,"VAN",1,"Vancouver Vandals","home",0,1,10,8,13,"DV",1,"Death Valley Scorpions","away",1,0
+2,131,100,"2026-7-1",1905,9,2,4,"OBX",0,"Outer Banks Aviators","home",0,1,10,3,4,"DV",1,"Death Valley Scorpions","away",1,0
+25,35,100,"2026-5-26",1905,9,1,3,"UTA",1,"Utah Railroaders","home",0,1,10,12,18,"DV",1,"Death Valley Scorpions","away",1,0
+1,107,100,"2026-6-22",1905,9,1,5,"NYV",0,"New York Voyagers","home",0,1,10,11,9,"DV",1,"Death Valley Scorpions","away",1,0
+2,127,100,"2026-6-30",1905,9,5,5,"OBX",0,"Outer Banks Aviators","home",0,1,10,6,11,"DV",1,"Death Valley Scorpions","away",1,0
+3,150,100,"2026-7-9",1905,9,0,6,"PRO",0,"Providence Crabs","home",0,1,10,10,11,"DV",1,"Death Valley Scorpions","away",1,0
+25,41,100,"2026-5-28",1905,9,2,5,"UTA",1,"Utah Railroaders","home",1,0,10,0,8,"DV",1,"Death Valley Scorpions","away",0,1
+3,154,100,"2026-7-10",1905,13,1,9,"PRO",0,"Providence Crabs","home",0,1,10,3,6,"DV",1,"Death Valley Scorpions","away",1,0
+11,722,100,"2026-10-22",1905,9,3,7,"VAN",1,"Vancouver Vandals","home",0,1,10,6,10,"DV",1,"Death Valley Scorpions","away",1,0
+11,656,100,"2026-9-27",1905,9,2,8,"VAN",1,"Vancouver Vandals","home",0,1,10,5,10,"DV",1,"Death Valley Scorpions","away",1,0
+9,142,100,"2026-7-5",1905,9,13,16,"SAS",1,"San Antonio Sloths","home",1,0,10,4,7,"DV",1,"Death Valley Scorpions","away",0,1
+11,726,100,"2026-10-23",1905,9,4,6,"VAN",1,"Vancouver Vandals","home",1,0,10,3,8,"DV",1,"Death Valley Scorpions","away",0,1
+25,253,100,"2026-8-28",1905,9,0,4,"UTA",1,"Utah Railroaders","home",0,1,10,14,15,"DV",1,"Death Valley Scorpions","away",1,0
+11,648,100,"2026-9-25",1905,9,3,7,"VAN",1,"Vancouver Vandals","home",0,1,10,10,10,"DV",1,"Death Valley Scorpions","away",1,0
+2,75,100,"2026-6-10",1905,9,1,6,"OBX",0,"Outer Banks Aviators","home",0,1,10,3,6,"DV",1,"Death Valley Scorpions","away",1,0
+9,138,100,"2026-7-4",1905,9,6,9,"SAS",1,"San Antonio Sloths","home",1,0,10,4,9,"DV",1,"Death Valley Scorpions","away",0,1
+1,18,100,"2026-5-20",1905,9,1,3,"NYV",0,"New York Voyagers","home",0,1,10,6,13,"DV",1,"Death Valley Scorpions","away",1,0
+9,705,100,"2026-10-17",1905,9,5,11,"SAS",1,"San Antonio Sloths","home",0,1,10,10,13,"DV",1,"Death Valley Scorpions","away",1,0
+25,249,100,"2026-8-27",1905,9,4,9,"UTA",1,"Utah Railroaders","home",0,1,10,7,13,"DV",1,"Death Valley Scorpions","away",1,0
+9,680,100,"2026-10-7",1905,9,2,7,"SAS",1,"San Antonio Sloths","home",0,1,10,5,7,"DV",1,"Death Valley Scorpions","away",1,0
+9,146,100,"2026-7-6",1905,9,2,8,"SAS",1,"San Antonio Sloths","home",0,1,10,8,12,"DV",1,"Death Valley Scorpions","away",1,0
+9,672,100,"2026-10-5",1905,9,1,9,"SAS",1,"San Antonio Sloths","home",0,1,10,5,9,"DV",1,"Death Valley Scorpions","away",1,0
+3,175,100,"2026-7-19",1905,9,0,6,"PRO",0,"Providence Crabs","home",0,1,10,8,14,"DV",1,"Death Valley Scorpions","away",1,0
+25,293,100,"2026-9-12",1905,9,5,9,"UTA",1,"Utah Railroaders","home",0,1,10,19,19,"DV",1,"Death Valley Scorpions","away",1,0
+11,718,100,"2026-10-21",1905,9,1,4,"VAN",1,"Vancouver Vandals","home",0,1,10,7,10,"DV",1,"Death Valley Scorpions","away",1,0
+1,26,100,"2026-5-22",1905,9,6,12,"NYV",0,"New York Voyagers","home",1,0,10,2,6,"DV",1,"Death Valley Scorpions","away",0,1
+9,697,100,"2026-10-15",1905,9,11,13,"SAS",1,"San Antonio Sloths","home",1,0,10,1,4,"DV",1,"Death Valley Scorpions","away",0,1
+24,215,100,"2026-8-14",1905,9,4,10,"FL",0,"Florida Space Rangers","home",0,1,10,9,11,"DV",1,"Death Valley Scorpions","away",1,0
+10,121,100,"2026-6-27",1905,9,3,6,"DV",1,"Death Valley Scorpions","home",0,1,11,4,8,"VAN",1,"Vancouver Vandals","away",1,0
+10,118,100,"2026-6-26",1905,9,8,13,"DV",1,"Death Valley Scorpions","home",1,0,11,4,10,"VAN",1,"Vancouver Vandals","away",0,1
+25,683,100,"2026-10-8",1905,9,6,9,"UTA",1,"Utah Railroaders","home",1,0,11,1,7,"VAN",1,"Vancouver Vandals","away",0,1
+1,43,100,"2026-5-30",1905,9,3,7,"NYV",0,"New York Voyagers","home",1,0,11,0,3,"VAN",1,"Vancouver Vandals","away",0,1
+9,11,100,"2026-5-17",1905,9,7,12,"SAS",1,"San Antonio Sloths","home",1,0,11,6,13,"VAN",1,"Vancouver Vandals","away",0,1
+9,93,100,"2026-6-17",1905,9,13,12,"SAS",1,"San Antonio Sloths","home",1,0,11,1,8,"VAN",1,"Vancouver Vandals","away",0,1
+25,707,100,"2026-10-17",1905,9,4,8,"UTA",1,"Utah Railroaders","home",1,0,11,3,10,"VAN",1,"Vancouver Vandals","away",0,1
+1,51,100,"2026-6-1",1905,9,5,5,"NYV",0,"New York Voyagers","home",1,0,11,2,8,"VAN",1,"Vancouver Vandals","away",0,1
+2,188,100,"2026-7-22",1905,9,2,6,"OBX",0,"Outer Banks Aviators","home",0,1,11,5,9,"VAN",1,"Vancouver Vandals","away",1,0
+1,47,100,"2026-5-31",1905,9,8,13,"NYV",0,"New York Voyagers","home",1,0,11,6,13,"VAN",1,"Vancouver Vandals","away",0,1
+10,195,100,"2026-7-25",1905,9,3,7,"DV",1,"Death Valley Scorpions","home",1,0,11,1,5,"VAN",1,"Vancouver Vandals","away",0,1
+9,7,100,"2026-5-16",1905,9,13,16,"SAS",1,"San Antonio Sloths","home",1,0,11,6,11,"VAN",1,"Vancouver Vandals","away",0,1
+10,227,100,"2026-8-18",1905,9,3,8,"DV",1,"Death Valley Scorpions","home",1,0,11,0,3,"VAN",1,"Vancouver Vandals","away",0,1
+3,262,100,"2026-9-1",1905,9,10,12,"PRO",0,"Providence Crabs","home",1,0,11,9,15,"VAN",1,"Vancouver Vandals","away",0,1
+3,23,100,"2026-5-22",1905,9,3,10,"PRO",0,"Providence Crabs","home",1,0,11,0,3,"VAN",1,"Vancouver Vandals","away",0,1
+9,292,100,"2026-9-12",1905,9,5,6,"SAS",1,"San Antonio Sloths","home",1,0,11,2,6,"VAN",1,"Vancouver Vandals","away",0,1
+2,667,100,"2026-10-2",1905,9,2,6,"OBX",0,"Outer Banks Aviators","home",0,1,11,3,7,"VAN",1,"Vancouver Vandals","away",1,0
+10,110,100,"2026-6-24",1905,9,2,2,"DV",1,"Death Valley Scorpions","home",1,0,11,1,5,"VAN",1,"Vancouver Vandals","away",0,1
+24,233,100,"2026-8-21",1905,9,5,12,"FL",0,"Florida Space Rangers","home",1,0,11,1,4,"VAN",1,"Vancouver Vandals","away",0,1
+2,659,100,"2026-9-30",1905,9,5,10,"OBX",0,"Outer Banks Aviators","home",0,1,11,8,13,"VAN",1,"Vancouver Vandals","away",1,0
+24,155,100,"2026-7-10",1905,12,10,14,"FL",0,"Florida Space Rangers","home",1,0,11,8,12,"VAN",1,"Vancouver Vandals","away",0,1
+9,85,100,"2026-6-15",1905,9,11,17,"SAS",1,"San Antonio Sloths","home",1,0,11,6,9,"VAN",1,"Vancouver Vandals","away",0,1
+9,3,100,"2026-5-15",1905,9,12,13,"SAS",1,"San Antonio Sloths","home",1,0,11,1,7,"VAN",1,"Vancouver Vandals","away",0,1
+10,201,100,"2026-7-27",1905,9,4,5,"DV",1,"Death Valley Scorpions","home",1,0,11,1,6,"VAN",1,"Vancouver Vandals","away",0,1
+3,266,100,"2026-9-2",1905,9,2,5,"PRO",0,"Providence Crabs","home",0,1,11,8,16,"VAN",1,"Vancouver Vandals","away",1,0
+24,159,100,"2026-7-11",1905,9,7,9,"FL",0,"Florida Space Rangers","home",1,0,11,0,3,"VAN",1,"Vancouver Vandals","away",0,1
+25,671,100,"2026-10-5",1905,9,7,11,"UTA",1,"Utah Railroaders","home",1,0,11,2,10,"VAN",1,"Vancouver Vandals","away",0,1
+3,27,100,"2026-5-23",1905,9,5,11,"PRO",0,"Providence Crabs","home",1,0,11,3,5,"VAN",1,"Vancouver Vandals","away",0,1
+10,199,100,"2026-7-26",1905,9,5,9,"DV",1,"Death Valley Scorpions","home",1,0,11,3,5,"VAN",1,"Vancouver Vandals","away",0,1
+25,62,100,"2026-6-5",1905,9,5,10,"UTA",1,"Utah Railroaders","home",0,1,11,6,13,"VAN",1,"Vancouver Vandals","away",1,0
+25,702,100,"2026-10-16",1905,12,2,11,"UTA",1,"Utah Railroaders","home",0,1,11,6,10,"VAN",1,"Vancouver Vandals","away",1,0
+10,114,100,"2026-6-25",1905,9,4,8,"DV",1,"Death Valley Scorpions","home",1,0,11,0,1,"VAN",1,"Vancouver Vandals","away",0,1
+3,258,100,"2026-8-31",1905,9,5,8,"PRO",0,"Providence Crabs","home",1,0,11,1,5,"VAN",1,"Vancouver Vandals","away",0,1
+1,205,100,"2026-8-11",1905,9,9,11,"NYV",0,"New York Voyagers","home",1,0,11,3,8,"VAN",1,"Vancouver Vandals","away",0,1
+25,58,100,"2026-6-4",1905,9,7,11,"UTA",1,"Utah Railroaders","home",1,0,11,3,12,"VAN",1,"Vancouver Vandals","away",0,1
+10,223,100,"2026-8-17",1905,9,2,3,"DV",1,"Death Valley Scorpions","home",1,0,11,0,6,"VAN",1,"Vancouver Vandals","away",0,1
+25,679,100,"2026-10-7",1905,9,4,9,"UTA",1,"Utah Railroaders","home",0,1,11,5,10,"VAN",1,"Vancouver Vandals","away",1,0
+9,82,100,"2026-6-14",1905,9,6,11,"SAS",1,"San Antonio Sloths","home",1,0,11,3,7,"VAN",1,"Vancouver Vandals","away",0,1
+2,184,100,"2026-7-21",1905,9,1,7,"OBX",0,"Outer Banks Aviators","home",0,1,11,2,7,"VAN",1,"Vancouver Vandals","away",1,0
+1,209,100,"2026-8-12",1905,9,2,3,"NYV",0,"New York Voyagers","home",0,1,11,8,17,"VAN",1,"Vancouver Vandals","away",1,0
+9,288,100,"2026-9-11",1905,9,5,7,"SAS",1,"San Antonio Sloths","home",1,0,11,2,9,"VAN",1,"Vancouver Vandals","away",0,1
+25,698,100,"2026-10-15",1905,9,0,7,"UTA",1,"Utah Railroaders","home",0,1,11,4,9,"VAN",1,"Vancouver Vandals","away",1,0
+25,675,100,"2026-10-6",1905,9,8,18,"UTA",1,"Utah Railroaders","home",0,1,11,9,15,"VAN",1,"Vancouver Vandals","away",1,0
+10,229,100,"2026-8-19",1905,9,6,10,"DV",1,"Death Valley Scorpions","home",1,0,11,5,11,"VAN",1,"Vancouver Vandals","away",0,1
+25,66,100,"2026-6-6",1905,9,2,8,"UTA",1,"Utah Railroaders","home",0,1,11,3,8,"VAN",1,"Vancouver Vandals","away",1,0
+9,89,100,"2026-6-16",1905,11,9,17,"SAS",1,"San Antonio Sloths","home",1,0,11,8,12,"VAN",1,"Vancouver Vandals","away",0,1
+2,663,100,"2026-10-1",1905,9,4,9,"OBX",0,"Outer Banks Aviators","home",1,0,11,2,11,"VAN",1,"Vancouver Vandals","away",0,1
+24,151,100,"2026-7-9",1905,13,2,6,"FL",0,"Florida Space Rangers","home",0,1,11,5,6,"VAN",1,"Vancouver Vandals","away",1,0
+9,284,100,"2026-9-10",1905,9,4,6,"SAS",1,"San Antonio Sloths","home",1,0,11,0,6,"VAN",1,"Vancouver Vandals","away",0,1
+24,237,100,"2026-8-22",1905,9,8,10,"FL",0,"Florida Space Rangers","home",1,0,11,2,10,"VAN",1,"Vancouver Vandals","away",0,1
+18,337,101,"2026-6-8",1905,9,5,10,"SCSS",1,"State College Swift Steeds ","home",1,0,16,1,7,"ANC",0,"Anchorage Wheelers","away",0,1
+18,509,101,"2026-7-13",1905,9,3,6,"SCSS",1,"State College Swift Steeds ","home",1,0,16,2,6,"ANC",0,"Anchorage Wheelers","away",0,1
+17,612,101,"2026-10-15",1905,9,10,13,"KGN",1,"Kingston Mounties","home",1,0,16,3,9,"ANC",0,"Anchorage Wheelers","away",0,1
+19,626,101,"2026-10-24",1905,9,13,16,"ARM",0,"Amarillo Armadillos","home",1,0,16,11,19,"ANC",0,"Anchorage Wheelers","away",0,1
+18,569,101,"2026-9-13",1905,9,2,3,"SCSS",1,"State College Swift Steeds ","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+17,584,101,"2026-9-25",1905,9,14,15,"KGN",1,"Kingston Mounties","home",1,0,16,5,11,"ANC",0,"Anchorage Wheelers","away",0,1
+18,535,101,"2026-8-19",1905,9,2,5,"SCSS",1,"State College Swift Steeds ","home",0,1,16,4,12,"ANC",0,"Anchorage Wheelers","away",1,0
+18,567,101,"2026-9-12",1905,9,5,11,"SCSS",1,"State College Swift Steeds ","home",1,0,16,3,5,"ANC",0,"Anchorage Wheelers","away",0,1
+19,318,101,"2026-5-27",1905,9,5,17,"ARM",0,"Amarillo Armadillos","home",0,1,16,8,14,"ANC",0,"Anchorage Wheelers","away",1,0
+17,586,101,"2026-9-26",1905,9,1,7,"KGN",1,"Kingston Mounties","home",0,1,16,7,11,"ANC",0,"Anchorage Wheelers","away",1,0
+19,527,101,"2026-8-14",1905,9,5,8,"ARM",0,"Amarillo Armadillos","home",1,0,16,2,7,"ANC",0,"Anchorage Wheelers","away",0,1
+17,325,101,"2026-6-1",1905,9,1,7,"KGN",1,"Kingston Mounties","home",0,1,16,9,11,"ANC",0,"Anchorage Wheelers","away",1,0
+17,608,101,"2026-10-13",1905,9,5,9,"KGN",1,"Kingston Mounties","home",1,0,16,1,5,"ANC",0,"Anchorage Wheelers","away",0,1
+19,572,101,"2026-9-16",1905,9,6,11,"ARM",0,"Amarillo Armadillos","home",1,0,16,5,16,"ANC",0,"Anchorage Wheelers","away",0,1
+17,548,101,"2026-8-29",1905,9,3,11,"KGN",1,"Kingston Mounties","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+18,331,101,"2026-6-5",1905,11,7,17,"SCSS",1,"State College Swift Steeds ","home",1,0,16,6,11,"ANC",0,"Anchorage Wheelers","away",0,1
+17,588,101,"2026-9-27",1905,9,1,12,"KGN",1,"Kingston Mounties","home",0,1,16,3,8,"ANC",0,"Anchorage Wheelers","away",1,0
+18,333,101,"2026-6-6",1905,9,3,9,"SCSS",1,"State College Swift Steeds ","home",0,1,16,5,11,"ANC",0,"Anchorage Wheelers","away",1,0
+19,620,101,"2026-10-21",1905,9,2,7,"ARM",0,"Amarillo Armadillos","home",1,0,16,1,7,"ANC",0,"Anchorage Wheelers","away",0,1
+18,335,101,"2026-6-7",1905,9,4,7,"SCSS",1,"State College Swift Steeds ","home",1,0,16,3,10,"ANC",0,"Anchorage Wheelers","away",0,1
+18,565,101,"2026-9-11",1905,9,6,13,"SCSS",1,"State College Swift Steeds ","home",1,0,16,3,7,"ANC",0,"Anchorage Wheelers","away",0,1
+19,531,101,"2026-8-16",1905,9,8,12,"ARM",0,"Amarillo Armadillos","home",1,0,16,5,10,"ANC",0,"Anchorage Wheelers","away",0,1
+19,622,101,"2026-10-22",1905,9,4,13,"ARM",0,"Amarillo Armadillos","home",0,1,16,8,16,"ANC",0,"Anchorage Wheelers","away",1,0
+18,381,101,"2026-7-12",1905,9,5,6,"SCSS",1,"State College Swift Steeds ","home",1,0,16,3,5,"ANC",0,"Anchorage Wheelers","away",0,1
+18,354,101,"2026-6-22",1905,12,8,17,"SCSS",1,"State College Swift Steeds ","home",1,0,16,7,17,"ANC",0,"Anchorage Wheelers","away",0,1
+17,610,101,"2026-10-14",1905,9,8,13,"KGN",1,"Kingston Mounties","home",1,0,16,7,10,"ANC",0,"Anchorage Wheelers","away",0,1
+17,329,101,"2026-6-3",1905,9,2,8,"KGN",1,"Kingston Mounties","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+18,533,101,"2026-8-18",1905,16,6,17,"SCSS",1,"State College Swift Steeds ","home",1,0,16,5,12,"ANC",0,"Anchorage Wheelers","away",0,1
+17,550,101,"2026-8-30",1905,10,4,9,"KGN",1,"Kingston Mounties","home",0,1,16,6,14,"ANC",0,"Anchorage Wheelers","away",1,0
+17,546,101,"2026-8-28",1905,9,3,11,"KGN",1,"Kingston Mounties","home",1,0,16,2,12,"ANC",0,"Anchorage Wheelers","away",0,1
+17,360,101,"2026-6-27",1905,9,6,15,"KGN",1,"Kingston Mounties","home",1,0,16,3,11,"ANC",0,"Anchorage Wheelers","away",0,1
+18,537,101,"2026-8-20",1905,9,5,9,"SCSS",1,"State College Swift Steeds ","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+17,358,101,"2026-6-26",1905,9,1,11,"KGN",1,"Kingston Mounties","home",0,1,16,9,9,"ANC",0,"Anchorage Wheelers","away",1,0
+19,600,101,"2026-10-6",1905,9,7,10,"ARM",0,"Amarillo Armadillos","home",1,0,16,2,10,"ANC",0,"Anchorage Wheelers","away",0,1
+18,379,101,"2026-7-11",1905,9,4,11,"SCSS",1,"State College Swift Steeds ","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+19,598,101,"2026-10-5",1905,9,0,7,"ARM",0,"Amarillo Armadillos","home",0,1,16,9,11,"ANC",0,"Anchorage Wheelers","away",1,0
+18,352,101,"2026-6-21",1905,9,14,14,"SCSS",1,"State College Swift Steeds ","home",1,0,16,6,9,"ANC",0,"Anchorage Wheelers","away",0,1
+19,574,101,"2026-9-17",1905,9,1,4,"ARM",0,"Amarillo Armadillos","home",0,1,16,7,9,"ANC",0,"Anchorage Wheelers","away",1,0
+19,571,101,"2026-9-15",1905,9,8,10,"ARM",0,"Amarillo Armadillos","home",0,1,16,14,17,"ANC",0,"Anchorage Wheelers","away",1,0
+19,596,101,"2026-10-4",1905,9,5,8,"ARM",0,"Amarillo Armadillos","home",0,1,16,6,8,"ANC",0,"Anchorage Wheelers","away",1,0
+18,356,101,"2026-6-23",1905,9,4,8,"SCSS",1,"State College Swift Steeds ","home",0,1,16,6,12,"ANC",0,"Anchorage Wheelers","away",1,0
+17,327,101,"2026-6-2",1905,9,3,9,"KGN",1,"Kingston Mounties","home",0,1,16,5,11,"ANC",0,"Anchorage Wheelers","away",1,0
+19,320,101,"2026-5-28",1905,9,2,11,"ARM",0,"Amarillo Armadillos","home",0,1,16,4,10,"ANC",0,"Anchorage Wheelers","away",1,0
+19,624,101,"2026-10-23",1905,14,1,6,"ARM",0,"Amarillo Armadillos","home",0,1,16,2,15,"ANC",0,"Anchorage Wheelers","away",1,0
+18,350,101,"2026-6-20",1905,9,6,11,"SCSS",1,"State College Swift Steeds ","home",1,0,16,1,6,"ANC",0,"Anchorage Wheelers","away",0,1
+17,362,101,"2026-6-28",1905,9,11,13,"KGN",1,"Kingston Mounties","home",1,0,16,8,18,"ANC",0,"Anchorage Wheelers","away",0,1
+19,525,101,"2026-8-13",1905,9,1,9,"ARM",0,"Amarillo Armadillos","home",0,1,16,14,16,"ANC",0,"Anchorage Wheelers","away",1,0
+17,323,101,"2026-5-31",1905,9,4,6,"KGN",1,"Kingston Mounties","home",1,0,16,1,6,"ANC",0,"Anchorage Wheelers","away",0,1
+19,317,101,"2026-5-26",1905,9,3,7,"ARM",0,"Amarillo Armadillos","home",0,1,16,6,11,"ANC",0,"Anchorage Wheelers","away",1,0
+19,529,101,"2026-8-15",1905,9,8,12,"ARM",0,"Amarillo Armadillos","home",1,0,16,3,10,"ANC",0,"Anchorage Wheelers","away",0,1
+18,526,101,"2026-8-13",1905,9,9,10,"SCSS",1,"State College Swift Steeds ","home",1,0,17,1,8,"KGN",1,"Kingston Mounties","away",0,1
+19,570,101,"2026-9-13",1905,9,5,12,"ARM",0,"Amarillo Armadillos","home",1,0,17,4,10,"KGN",1,"Kingston Mounties","away",0,1
+18,562,101,"2026-9-8",1905,9,5,10,"SCSS",1,"State College Swift Steeds ","home",1,0,17,3,9,"KGN",1,"Kingston Mounties","away",0,1
+16,373,101,"2026-7-7",1905,9,3,6,"ANC",0,"Anchorage Wheelers","home",1,0,17,1,7,"KGN",1,"Kingston Mounties","away",0,1
+18,321,101,"2026-5-28",1905,9,1,7,"SCSS",1,"State College Swift Steeds ","home",0,1,17,14,25,"KGN",1,"Kingston Mounties","away",1,0
+16,583,101,"2026-9-23",1905,9,1,4,"ANC",0,"Anchorage Wheelers","home",0,1,17,4,8,"KGN",1,"Kingston Mounties","away",1,0
+16,607,101,"2026-10-11",1905,9,2,5,"ANC",0,"Anchorage Wheelers","home",0,1,17,14,18,"KGN",1,"Kingston Mounties","away",1,0
+16,370,101,"2026-7-5",1905,9,9,14,"ANC",0,"Anchorage Wheelers","home",1,0,17,2,3,"KGN",1,"Kingston Mounties","away",0,1
+16,511,101,"2026-7-17",1905,9,3,10,"ANC",0,"Anchorage Wheelers","home",1,0,17,1,8,"KGN",1,"Kingston Mounties","away",0,1
+16,579,101,"2026-9-21",1905,10,4,9,"ANC",0,"Anchorage Wheelers","home",1,0,17,3,9,"KGN",1,"Kingston Mounties","away",0,1
+16,343,101,"2026-6-13",1905,9,2,6,"ANC",0,"Anchorage Wheelers","home",1,0,17,0,6,"KGN",1,"Kingston Mounties","away",0,1
+19,534,101,"2026-8-19",1905,9,10,17,"ARM",0,"Amarillo Armadillos","home",1,0,17,9,11,"KGN",1,"Kingston Mounties","away",0,1
+19,349,101,"2026-6-18",1905,9,4,10,"ARM",0,"Amarillo Armadillos","home",1,0,17,1,6,"KGN",1,"Kingston Mounties","away",0,1
+18,597,101,"2026-10-4",1905,9,6,11,"SCSS",1,"State College Swift Steeds ","home",1,0,17,1,6,"KGN",1,"Kingston Mounties","away",0,1
+16,577,101,"2026-9-20",1905,9,1,7,"ANC",0,"Anchorage Wheelers","home",0,1,17,4,8,"KGN",1,"Kingston Mounties","away",1,0
+16,375,101,"2026-7-8",1905,10,8,15,"ANC",0,"Anchorage Wheelers","home",0,1,17,11,20,"KGN",1,"Kingston Mounties","away",1,0
+19,566,101,"2026-9-11",1905,9,6,9,"ARM",0,"Amarillo Armadillos","home",1,0,17,0,10,"KGN",1,"Kingston Mounties","away",0,1
+18,319,101,"2026-5-27",1905,9,2,5,"SCSS",1,"State College Swift Steeds ","home",0,1,17,4,15,"KGN",1,"Kingston Mounties","away",1,0
+18,564,101,"2026-9-9",1905,9,6,15,"SCSS",1,"State College Swift Steeds ","home",0,1,17,7,13,"KGN",1,"Kingston Mounties","away",1,0
+19,555,101,"2026-9-3",1905,9,2,7,"ARM",0,"Amarillo Armadillos","home",1,0,17,1,6,"KGN",1,"Kingston Mounties","away",0,1
+16,515,101,"2026-7-19",1905,9,7,14,"ANC",0,"Anchorage Wheelers","home",1,0,17,3,7,"KGN",1,"Kingston Mounties","away",0,1
+16,606,101,"2026-10-10",1905,9,3,6,"ANC",0,"Anchorage Wheelers","home",0,1,17,5,10,"KGN",1,"Kingston Mounties","away",1,0
+19,536,101,"2026-8-20",1905,9,4,10,"ARM",0,"Amarillo Armadillos","home",1,0,17,1,5,"KGN",1,"Kingston Mounties","away",0,1
+19,508,101,"2026-7-13",1905,9,5,14,"ARM",0,"Amarillo Armadillos","home",0,1,17,6,12,"KGN",1,"Kingston Mounties","away",1,0
+19,553,101,"2026-9-2",1905,9,9,15,"ARM",0,"Amarillo Armadillos","home",1,0,17,3,6,"KGN",1,"Kingston Mounties","away",0,1
+16,371,101,"2026-7-6",1905,9,0,4,"ANC",0,"Anchorage Wheelers","home",0,1,17,4,7,"KGN",1,"Kingston Mounties","away",1,0
+18,627,101,"2026-10-24",1905,9,4,7,"SCSS",1,"State College Swift Steeds ","home",1,0,17,1,7,"KGN",1,"Kingston Mounties","away",0,1
+19,557,101,"2026-9-4",1905,9,5,14,"ARM",0,"Amarillo Armadillos","home",1,0,17,1,7,"KGN",1,"Kingston Mounties","away",0,1
+18,322,101,"2026-5-29",1905,9,10,11,"SCSS",1,"State College Swift Steeds ","home",1,0,17,4,10,"KGN",1,"Kingston Mounties","away",0,1
+19,378,101,"2026-7-11",1905,9,4,8,"ARM",0,"Amarillo Armadillos","home",1,0,17,2,7,"KGN",1,"Kingston Mounties","away",0,1
+18,530,101,"2026-8-15",1905,10,2,10,"SCSS",1,"State College Swift Steeds ","home",1,0,17,1,6,"KGN",1,"Kingston Mounties","away",0,1
+18,623,101,"2026-10-22",1905,9,8,11,"SCSS",1,"State College Swift Steeds ","home",1,0,17,0,2,"KGN",1,"Kingston Mounties","away",0,1
+18,560,101,"2026-9-7",1905,9,5,10,"SCSS",1,"State College Swift Steeds ","home",0,1,17,6,13,"KGN",1,"Kingston Mounties","away",1,0
+16,513,101,"2026-7-18",1905,9,6,11,"ANC",0,"Anchorage Wheelers","home",1,0,17,0,3,"KGN",1,"Kingston Mounties","away",0,1
+16,341,101,"2026-6-12",1905,9,3,11,"ANC",0,"Anchorage Wheelers","home",1,0,17,2,9,"KGN",1,"Kingston Mounties","away",0,1
+18,599,101,"2026-10-5",1905,9,2,11,"SCSS",1,"State College Swift Steeds ","home",0,1,17,3,7,"KGN",1,"Kingston Mounties","away",1,0
+16,581,101,"2026-9-22",1905,9,0,8,"ANC",0,"Anchorage Wheelers","home",0,1,17,6,11,"KGN",1,"Kingston Mounties","away",1,0
+18,625,101,"2026-10-23",1905,9,3,5,"SCSS",1,"State College Swift Steeds ","home",1,0,17,0,5,"KGN",1,"Kingston Mounties","away",0,1
+19,345,101,"2026-6-16",1905,12,7,12,"ARM",0,"Amarillo Armadillos","home",1,0,17,4,11,"KGN",1,"Kingston Mounties","away",0,1
+19,532,101,"2026-8-18",1905,9,8,8,"ARM",0,"Amarillo Armadillos","home",1,0,17,2,9,"KGN",1,"Kingston Mounties","away",0,1
+19,568,101,"2026-9-12",1905,9,5,11,"ARM",0,"Amarillo Armadillos","home",1,0,17,3,11,"KGN",1,"Kingston Mounties","away",0,1
+19,380,101,"2026-7-12",1905,9,6,12,"ARM",0,"Amarillo Armadillos","home",1,0,17,5,14,"KGN",1,"Kingston Mounties","away",0,1
+19,510,101,"2026-7-14",1905,9,1,7,"ARM",0,"Amarillo Armadillos","home",1,0,17,0,3,"KGN",1,"Kingston Mounties","away",0,1
+19,347,101,"2026-6-17",1905,9,5,7,"ARM",0,"Amarillo Armadillos","home",1,0,17,4,9,"KGN",1,"Kingston Mounties","away",0,1
+18,528,101,"2026-8-14",1905,9,7,18,"SCSS",1,"State College Swift Steeds ","home",1,0,17,2,10,"KGN",1,"Kingston Mounties","away",0,1
+16,604,101,"2026-10-9",1905,9,5,7,"ANC",0,"Anchorage Wheelers","home",0,1,17,6,10,"KGN",1,"Kingston Mounties","away",1,0
+16,339,101,"2026-6-11",1905,9,7,12,"ANC",0,"Anchorage Wheelers","home",1,0,17,5,8,"KGN",1,"Kingston Mounties","away",0,1
+18,558,101,"2026-9-6",1905,9,2,8,"SCSS",1,"State College Swift Steeds ","home",1,0,17,1,7,"KGN",1,"Kingston Mounties","away",0,1
+18,601,101,"2026-10-6",1905,9,6,11,"SCSS",1,"State College Swift Steeds ","home",0,1,17,15,22,"KGN",1,"Kingston Mounties","away",1,0
+18,621,101,"2026-10-21",1905,9,14,17,"SCSS",1,"State College Swift Steeds ","home",1,0,17,6,7,"KGN",1,"Kingston Mounties","away",0,1
+19,603,101,"2026-10-9",1905,9,2,5,"ARM",0,"Amarillo Armadillos","home",1,0,18,0,3,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,592,101,"2026-9-30",1905,9,4,7,"KGN",1,"Kingston Mounties","home",1,0,18,1,4,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,554,101,"2026-9-3",1905,9,5,9,"ANC",0,"Anchorage Wheelers","home",1,0,18,3,5,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,594,101,"2026-10-1",1905,9,7,10,"KGN",1,"Kingston Mounties","home",1,0,18,5,13,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,615,101,"2026-10-17",1905,12,3,13,"ANC",0,"Anchorage Wheelers","home",0,1,18,4,12,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,309,101,"2026-5-19",1905,9,4,6,"KGN",1,"Kingston Mounties","home",1,0,18,0,4,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,311,101,"2026-5-22",1905,9,7,11,"ANC",0,"Anchorage Wheelers","home",1,0,18,4,5,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,576,101,"2026-9-18",1905,9,2,9,"KGN",1,"Kingston Mounties","home",1,0,18,1,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,552,101,"2026-9-2",1905,9,5,8,"ANC",0,"Anchorage Wheelers","home",1,0,18,2,9,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,540,101,"2026-8-24",1905,9,3,11,"KGN",1,"Kingston Mounties","home",0,1,18,9,14,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,346,101,"2026-6-17",1905,9,1,6,"ANC",0,"Anchorage Wheelers","home",0,1,18,8,15,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,307,101,"2026-5-18",1905,9,5,8,"KGN",1,"Kingston Mounties","home",0,1,18,7,9,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,517,101,"2026-7-20",1905,9,1,8,"ARM",0,"Amarillo Armadillos","home",0,1,18,4,10,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,542,101,"2026-8-25",1905,9,2,3,"KGN",1,"Kingston Mounties","home",0,1,18,5,10,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,522,101,"2026-7-24",1905,9,2,7,"ANC",0,"Anchorage Wheelers","home",1,0,18,0,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,365,101,"2026-7-1",1905,9,5,7,"KGN",1,"Kingston Mounties","home",0,1,18,7,12,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,602,101,"2026-10-8",1905,9,4,13,"ARM",0,"Amarillo Armadillos","home",1,0,18,2,9,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,361,101,"2026-6-28",1905,9,6,9,"ARM",0,"Amarillo Armadillos","home",1,0,18,4,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,518,101,"2026-7-22",1905,9,6,13,"ANC",0,"Anchorage Wheelers","home",1,0,18,2,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,538,101,"2026-8-23",1905,9,0,3,"KGN",1,"Kingston Mounties","home",0,1,18,4,11,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,549,101,"2026-8-30",1905,9,2,9,"ARM",0,"Amarillo Armadillos","home",0,1,18,12,18,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,315,101,"2026-5-24",1905,9,4,6,"ANC",0,"Anchorage Wheelers","home",0,1,18,6,8,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,340,101,"2026-6-11",1905,9,2,6,"ARM",0,"Amarillo Armadillos","home",0,1,18,4,9,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,357,101,"2026-6-26",1905,9,6,11,"ARM",0,"Amarillo Armadillos","home",0,1,18,10,19,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,348,101,"2026-6-18",1905,9,4,6,"ANC",0,"Anchorage Wheelers","home",0,1,18,7,14,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,344,101,"2026-6-16",1905,10,7,14,"ANC",0,"Anchorage Wheelers","home",0,1,18,10,14,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,556,101,"2026-9-4",1905,9,5,11,"ANC",0,"Anchorage Wheelers","home",1,0,18,3,11,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,544,101,"2026-8-26",1905,9,5,12,"KGN",1,"Kingston Mounties","home",0,1,18,10,16,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,369,101,"2026-7-3",1905,9,3,8,"KGN",1,"Kingston Mounties","home",1,0,18,2,7,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,619,101,"2026-10-19",1905,9,1,4,"ANC",0,"Anchorage Wheelers","home",0,1,18,6,8,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,342,101,"2026-6-12",1905,9,4,10,"ARM",0,"Amarillo Armadillos","home",1,0,18,0,4,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,617,101,"2026-10-18",1905,9,4,5,"ANC",0,"Anchorage Wheelers","home",0,1,18,9,18,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,551,101,"2026-8-31",1905,9,6,10,"ARM",0,"Amarillo Armadillos","home",1,0,18,5,11,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,516,101,"2026-7-19",1905,9,3,8,"ARM",0,"Amarillo Armadillos","home",1,0,18,2,6,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,545,101,"2026-8-28",1905,9,5,12,"ARM",0,"Amarillo Armadillos","home",0,1,18,10,15,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,835,101,"2026-10-25",1905,9,1,5,"ANC",0,"Anchorage Wheelers","home",0,1,18,9,16,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,313,101,"2026-5-23",1905,9,2,9,"ANC",0,"Anchorage Wheelers","home",0,1,18,5,14,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,573,101,"2026-9-16",1905,9,14,18,"KGN",1,"Kingston Mounties","home",1,0,18,3,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,512,101,"2026-7-17",1905,9,7,12,"ARM",0,"Amarillo Armadillos","home",1,0,18,2,4,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,547,101,"2026-8-29",1905,9,8,9,"ARM",0,"Amarillo Armadillos","home",1,0,18,6,12,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,338,101,"2026-6-10",1905,9,2,12,"ARM",0,"Amarillo Armadillos","home",0,1,18,3,13,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,524,101,"2026-7-25",1905,9,7,10,"ANC",0,"Anchorage Wheelers","home",1,0,18,5,9,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,305,101,"2026-5-17",1905,9,2,10,"KGN",1,"Kingston Mounties","home",0,1,18,5,11,"SCSS",1,"State College Swift Steeds ","away",1,0
+16,520,101,"2026-7-23",1905,9,5,10,"ANC",0,"Anchorage Wheelers","home",1,0,18,2,6,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,359,101,"2026-6-27",1905,9,6,13,"ARM",0,"Amarillo Armadillos","home",1,0,18,2,8,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,303,101,"2026-5-16",1905,16,5,10,"KGN",1,"Kingston Mounties","home",1,0,18,4,12,"SCSS",1,"State College Swift Steeds ","away",0,1
+19,514,101,"2026-7-18",1905,10,2,7,"ARM",0,"Amarillo Armadillos","home",1,0,18,1,7,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,590,101,"2026-9-29",1905,9,6,9,"KGN",1,"Kingston Mounties","home",0,1,18,9,15,"SCSS",1,"State College Swift Steeds ","away",1,0
+17,575,101,"2026-9-17",1905,9,3,9,"KGN",1,"Kingston Mounties","home",0,1,18,8,18,"SCSS",1,"State College Swift Steeds ","away",1,0
+19,605,101,"2026-10-10",1905,9,7,11,"ARM",0,"Amarillo Armadillos","home",1,0,18,2,13,"SCSS",1,"State College Swift Steeds ","away",0,1
+17,367,101,"2026-7-2",1905,10,3,10,"KGN",1,"Kingston Mounties","home",1,0,18,2,7,"SCSS",1,"State College Swift Steeds ","away",0,1
+16,366,101,"2026-7-2",1905,9,2,8,"ANC",0,"Anchorage Wheelers","home",0,1,19,9,14,"ARM",0,"Amarillo Armadillos","away",1,0
+16,593,101,"2026-10-1",1905,9,2,10,"ANC",0,"Anchorage Wheelers","home",0,1,19,8,10,"ARM",0,"Amarillo Armadillos","away",1,0
+16,561,101,"2026-9-7",1905,9,8,11,"ANC",0,"Anchorage Wheelers","home",0,1,19,11,16,"ARM",0,"Amarillo Armadillos","away",1,0
+16,595,101,"2026-10-2",1905,9,8,13,"ANC",0,"Anchorage Wheelers","home",1,0,19,2,11,"ARM",0,"Amarillo Armadillos","away",0,1
+18,613,101,"2026-10-15",1905,9,9,15,"SCSS",1,"State College Swift Steeds ","home",1,0,19,4,11,"ARM",0,"Amarillo Armadillos","away",0,1
+17,519,101,"2026-7-23",1905,9,5,10,"KGN",1,"Kingston Mounties","home",1,0,19,2,7,"ARM",0,"Amarillo Armadillos","away",0,1
+16,368,101,"2026-7-3",1905,9,7,8,"ANC",0,"Anchorage Wheelers","home",1,0,19,4,9,"ARM",0,"Amarillo Armadillos","away",0,1
+18,328,101,"2026-6-2",1905,9,4,10,"SCSS",1,"State College Swift Steeds ","home",0,1,19,5,14,"ARM",0,"Amarillo Armadillos","away",1,0
+16,539,101,"2026-8-23",1905,9,5,11,"ANC",0,"Anchorage Wheelers","home",1,0,19,3,7,"ARM",0,"Amarillo Armadillos","away",0,1
+18,585,101,"2026-9-25",1905,9,1,9,"SCSS",1,"State College Swift Steeds ","home",0,1,19,8,12,"ARM",0,"Amarillo Armadillos","away",1,0
+16,304,101,"2026-5-17",1905,9,2,8,"ANC",0,"Anchorage Wheelers","home",0,1,19,10,19,"ARM",0,"Amarillo Armadillos","away",1,0
+18,587,101,"2026-9-26",1905,9,0,3,"SCSS",1,"State College Swift Steeds ","home",0,1,19,7,11,"ARM",0,"Amarillo Armadillos","away",1,0
+18,374,101,"2026-7-7",1905,9,3,8,"SCSS",1,"State College Swift Steeds ","home",0,1,19,7,12,"ARM",0,"Amarillo Armadillos","away",1,0
+18,589,101,"2026-9-27",1905,9,1,6,"SCSS",1,"State College Swift Steeds ","home",0,1,19,12,18,"ARM",0,"Amarillo Armadillos","away",1,0
+16,308,101,"2026-5-19",1905,9,2,10,"ANC",0,"Anchorage Wheelers","home",0,1,19,13,17,"ARM",0,"Amarillo Armadillos","away",1,0
+18,578,101,"2026-9-20",1905,9,6,12,"SCSS",1,"State College Swift Steeds ","home",1,0,19,2,9,"ARM",0,"Amarillo Armadillos","away",0,1
+16,543,101,"2026-8-25",1905,9,4,11,"ANC",0,"Anchorage Wheelers","home",1,0,19,3,9,"ARM",0,"Amarillo Armadillos","away",0,1
+16,541,101,"2026-8-24",1905,9,14,19,"ANC",0,"Anchorage Wheelers","home",1,0,19,4,5,"ARM",0,"Amarillo Armadillos","away",0,1
+17,355,101,"2026-6-22",1905,9,7,16,"KGN",1,"Kingston Mounties","home",1,0,19,3,8,"ARM",0,"Amarillo Armadillos","away",0,1
+16,302,101,"2026-5-16",1905,9,7,12,"ANC",0,"Anchorage Wheelers","home",1,0,19,4,14,"ARM",0,"Amarillo Armadillos","away",0,1
+17,330,101,"2026-6-5",1905,9,1,10,"KGN",1,"Kingston Mounties","home",0,1,19,3,7,"ARM",0,"Amarillo Armadillos","away",1,0
+16,559,101,"2026-9-6",1905,9,8,15,"ANC",0,"Anchorage Wheelers","home",1,0,19,3,7,"ARM",0,"Amarillo Armadillos","away",0,1
+18,611,101,"2026-10-14",1905,9,9,18,"SCSS",1,"State College Swift Steeds ","home",1,0,19,7,13,"ARM",0,"Amarillo Armadillos","away",0,1
+17,616,101,"2026-10-18",1905,9,4,10,"KGN",1,"Kingston Mounties","home",0,1,19,6,10,"ARM",0,"Amarillo Armadillos","away",1,0
+16,306,101,"2026-5-18",1905,9,6,12,"ANC",0,"Anchorage Wheelers","home",1,0,19,4,5,"ARM",0,"Amarillo Armadillos","away",0,1
+16,563,101,"2026-9-8",1905,9,8,15,"ANC",0,"Anchorage Wheelers","home",1,0,19,5,13,"ARM",0,"Amarillo Armadillos","away",0,1
+16,591,101,"2026-9-30",1905,9,6,11,"ANC",0,"Anchorage Wheelers","home",1,0,19,2,9,"ARM",0,"Amarillo Armadillos","away",0,1
+18,377,101,"2026-7-9",1905,9,11,20,"SCSS",1,"State College Swift Steeds ","home",1,0,19,6,12,"ARM",0,"Amarillo Armadillos","away",0,1
+17,523,101,"2026-7-25",1905,9,8,6,"KGN",1,"Kingston Mounties","home",1,0,19,1,5,"ARM",0,"Amarillo Armadillos","away",0,1
+18,580,101,"2026-9-21",1905,9,1,7,"SCSS",1,"State College Swift Steeds ","home",0,1,19,6,14,"ARM",0,"Amarillo Armadillos","away",1,0
+17,312,101,"2026-5-22",1905,9,3,6,"KGN",1,"Kingston Mounties","home",0,1,19,9,16,"ARM",0,"Amarillo Armadillos","away",1,0
+17,618,101,"2026-10-19",1905,9,6,8,"KGN",1,"Kingston Mounties","home",1,0,19,3,7,"ARM",0,"Amarillo Armadillos","away",0,1
+18,582,101,"2026-9-22",1905,10,5,12,"SCSS",1,"State College Swift Steeds ","home",0,1,19,6,12,"ARM",0,"Amarillo Armadillos","away",1,0
+17,316,101,"2026-5-24",1905,9,3,9,"KGN",1,"Kingston Mounties","home",0,1,19,4,7,"ARM",0,"Amarillo Armadillos","away",1,0
+17,353,101,"2026-6-21",1905,9,10,14,"KGN",1,"Kingston Mounties","home",1,0,19,3,8,"ARM",0,"Amarillo Armadillos","away",0,1
+16,363,101,"2026-6-30",1905,9,2,6,"ANC",0,"Anchorage Wheelers","home",1,0,19,0,5,"ARM",0,"Amarillo Armadillos","away",0,1
+17,314,101,"2026-5-23",1905,9,7,8,"KGN",1,"Kingston Mounties","home",0,1,19,10,17,"ARM",0,"Amarillo Armadillos","away",1,0
+18,609,101,"2026-10-13",1905,12,6,15,"SCSS",1,"State College Swift Steeds ","home",1,0,19,5,10,"ARM",0,"Amarillo Armadillos","away",0,1
+17,614,101,"2026-10-17",1905,9,9,16,"KGN",1,"Kingston Mounties","home",1,0,19,2,4,"ARM",0,"Amarillo Armadillos","away",0,1
+17,521,101,"2026-7-24",1905,9,2,7,"KGN",1,"Kingston Mounties","home",0,1,19,7,15,"ARM",0,"Amarillo Armadillos","away",1,0
+16,364,101,"2026-7-1",1905,9,5,10,"ANC",0,"Anchorage Wheelers","home",1,0,19,3,8,"ARM",0,"Amarillo Armadillos","away",0,1
+18,326,101,"2026-6-1",1905,9,4,6,"SCSS",1,"State College Swift Steeds ","home",1,0,19,3,10,"ARM",0,"Amarillo Armadillos","away",0,1
+17,351,101,"2026-6-20",1905,9,2,3,"KGN",1,"Kingston Mounties","home",0,1,19,9,10,"ARM",0,"Amarillo Armadillos","away",1,0
+17,334,101,"2026-6-7",1905,9,0,4,"KGN",1,"Kingston Mounties","home",0,1,19,1,10,"ARM",0,"Amarillo Armadillos","away",1,0
+17,336,101,"2026-6-8",1905,9,2,8,"KGN",1,"Kingston Mounties","home",0,1,19,3,11,"ARM",0,"Amarillo Armadillos","away",1,0
+17,332,101,"2026-6-6",1905,9,5,7,"KGN",1,"Kingston Mounties","home",1,0,19,4,12,"ARM",0,"Amarillo Armadillos","away",0,1
+18,324,101,"2026-5-31",1905,9,7,11,"SCSS",1,"State College Swift Steeds ","home",1,0,19,4,10,"ARM",0,"Amarillo Armadillos","away",0,1
+18,372,101,"2026-7-6",1905,9,9,15,"SCSS",1,"State College Swift Steeds ","home",1,0,19,7,9,"ARM",0,"Amarillo Armadillos","away",0,1
+18,376,101,"2026-7-8",1905,13,2,8,"SCSS",1,"State College Swift Steeds ","home",0,1,19,6,15,"ARM",0,"Amarillo Armadillos","away",1,0
+17,310,101,"2026-5-21",1905,9,3,8,"KGN",1,"Kingston Mounties","home",0,1,19,15,16,"ARM",0,"Amarillo Armadillos","away",1,0
+3,645,100,"2026-9-22",1905,9,2,9,"PRO",0,"Providence Crabs","home",0,1,24,4,6,"FL",0,"Florida Space Rangers","away",1,0
+1,282,100,"2026-9-10",1905,9,1,6,"NYV",0,"New York Voyagers","home",0,1,24,4,8,"FL",0,"Florida Space Rangers","away",1,0
+1,247,100,"2026-8-26",1905,9,2,8,"NYV",0,"New York Voyagers","home",0,1,24,8,10,"FL",0,"Florida Space Rangers","away",1,0
+2,717,100,"2026-10-21",1905,9,1,3,"OBX",0,"Outer Banks Aviators","home",1,0,24,0,5,"FL",0,"Florida Space Rangers","away",0,1
+1,36,100,"2026-5-27",1905,9,1,5,"NYV",0,"New York Voyagers","home",0,1,24,3,7,"FL",0,"Florida Space Rangers","away",1,0
+1,255,100,"2026-8-28",1905,12,8,13,"NYV",0,"New York Voyagers","home",1,0,24,7,13,"FL",0,"Florida Space Rangers","away",0,1
+1,251,100,"2026-8-27",1905,9,3,8,"NYV",0,"New York Voyagers","home",0,1,24,5,10,"FL",0,"Florida Space Rangers","away",1,0
+2,682,100,"2026-10-7",1905,9,4,8,"OBX",0,"Outer Banks Aviators","home",0,1,24,8,14,"FL",0,"Florida Space Rangers","away",1,0
+25,186,100,"2026-7-21",1905,9,1,6,"UTA",1,"Utah Railroaders","home",0,1,24,5,12,"FL",0,"Florida Space Rangers","away",1,0
+9,70,100,"2026-6-9",1905,12,7,11,"SAS",1,"San Antonio Sloths","home",1,0,24,6,8,"FL",0,"Florida Space Rangers","away",0,1
+3,637,100,"2026-9-20",1905,9,2,6,"PRO",0,"Providence Crabs","home",0,1,24,9,13,"FL",0,"Florida Space Rangers","away",1,0
+9,74,100,"2026-6-10",1905,9,5,9,"SAS",1,"San Antonio Sloths","home",1,0,24,3,6,"FL",0,"Florida Space Rangers","away",0,1
+1,290,100,"2026-9-12",1905,9,0,4,"NYV",0,"New York Voyagers","home",0,1,24,8,9,"FL",0,"Florida Space Rangers","away",1,0
+3,171,100,"2026-7-16",1905,9,3,11,"PRO",0,"Providence Crabs","home",0,1,24,5,8,"FL",0,"Florida Space Rangers","away",1,0
+11,243,100,"2026-8-24",1905,9,7,10,"VAN",1,"Vancouver Vandals","home",0,1,24,10,14,"FL",0,"Florida Space Rangers","away",1,0
+9,78,100,"2026-6-11",1905,9,7,9,"SAS",1,"San Antonio Sloths","home",1,0,24,5,11,"FL",0,"Florida Space Rangers","away",0,1
+1,32,100,"2026-5-26",1905,9,4,8,"NYV",0,"New York Voyagers","home",0,1,24,10,10,"FL",0,"Florida Space Rangers","away",1,0
+2,725,100,"2026-10-23",1905,9,0,2,"OBX",0,"Outer Banks Aviators","home",0,1,24,9,13,"FL",0,"Florida Space Rangers","away",1,0
+25,125,100,"2026-6-30",1905,9,0,4,"UTA",1,"Utah Railroaders","home",0,1,24,5,10,"FL",0,"Florida Space Rangers","away",1,0
+1,286,100,"2026-9-11",1905,9,10,11,"NYV",0,"New York Voyagers","home",1,0,24,9,10,"FL",0,"Florida Space Rangers","away",0,1
+2,221,100,"2026-8-17",1905,9,2,3,"OBX",0,"Outer Banks Aviators","home",0,1,24,4,6,"FL",0,"Florida Space Rangers","away",1,0
+9,25,100,"2026-5-22",1905,14,3,11,"SAS",1,"San Antonio Sloths","home",1,0,24,2,8,"FL",0,"Florida Space Rangers","away",0,1
+2,721,100,"2026-10-22",1905,10,5,6,"OBX",0,"Outer Banks Aviators","home",1,0,24,3,11,"FL",0,"Florida Space Rangers","away",0,1
+10,203,100,"2026-8-11",1905,9,6,7,"DV",1,"Death Valley Scorpions","home",1,0,24,5,9,"FL",0,"Florida Space Rangers","away",0,1
+3,144,100,"2026-7-6",1905,9,3,6,"PRO",0,"Providence Crabs","home",0,1,24,6,11,"FL",0,"Florida Space Rangers","away",1,0
+11,296,100,"2026-9-15",1905,9,0,4,"VAN",1,"Vancouver Vandals","home",0,1,24,3,10,"FL",0,"Florida Space Rangers","away",1,0
+3,136,100,"2026-7-4",1905,9,2,5,"PRO",0,"Providence Crabs","home",0,1,24,7,8,"FL",0,"Florida Space Rangers","away",1,0
+25,122,100,"2026-6-29",1905,9,6,11,"UTA",1,"Utah Railroaders","home",0,1,24,7,15,"FL",0,"Florida Space Rangers","away",1,0
+10,268,100,"2026-9-2",1905,9,9,10,"DV",1,"Death Valley Scorpions","home",1,0,24,5,8,"FL",0,"Florida Space Rangers","away",0,1
+2,218,100,"2026-8-16",1905,9,1,3,"OBX",0,"Outer Banks Aviators","home",0,1,24,5,11,"FL",0,"Florida Space Rangers","away",1,0
+1,294,100,"2026-9-13",1905,9,1,6,"NYV",0,"New York Voyagers","home",0,1,24,4,5,"FL",0,"Florida Space Rangers","away",1,0
+2,678,100,"2026-10-6",1905,9,5,6,"OBX",0,"Outer Banks Aviators","home",1,0,24,0,4,"FL",0,"Florida Space Rangers","away",0,1
+3,167,100,"2026-7-15",1905,9,2,7,"PRO",0,"Providence Crabs","home",0,1,24,3,9,"FL",0,"Florida Space Rangers","away",1,0
+10,264,100,"2026-9-1",1905,9,5,12,"DV",1,"Death Valley Scorpions","home",1,0,24,4,10,"FL",0,"Florida Space Rangers","away",0,1
+3,173,100,"2026-7-17",1905,9,2,8,"PRO",0,"Providence Crabs","home",0,1,24,5,8,"FL",0,"Florida Space Rangers","away",1,0
+3,641,100,"2026-9-21",1905,9,2,7,"PRO",0,"Providence Crabs","home",0,1,24,3,9,"FL",0,"Florida Space Rangers","away",1,0
+3,140,100,"2026-7-5",1905,9,0,4,"PRO",0,"Providence Crabs","home",0,1,24,1,9,"FL",0,"Florida Space Rangers","away",1,0
+2,713,100,"2026-10-20",1905,9,0,3,"OBX",0,"Outer Banks Aviators","home",0,1,24,3,8,"FL",0,"Florida Space Rangers","away",1,0
+2,225,100,"2026-8-18",1905,9,3,10,"OBX",0,"Outer Banks Aviators","home",1,0,24,2,8,"FL",0,"Florida Space Rangers","away",0,1
+10,207,100,"2026-8-12",1905,9,6,10,"DV",1,"Death Valley Scorpions","home",1,0,24,4,12,"FL",0,"Florida Space Rangers","away",0,1
+11,241,100,"2026-8-23",1905,9,2,5,"VAN",1,"Vancouver Vandals","home",0,1,24,6,8,"FL",0,"Florida Space Rangers","away",1,0
+25,178,100,"2026-7-19",1905,9,2,8,"UTA",1,"Utah Railroaders","home",0,1,24,4,12,"FL",0,"Florida Space Rangers","away",1,0
+1,29,100,"2026-5-25",1905,9,8,12,"NYV",0,"New York Voyagers","home",0,1,24,15,17,"FL",0,"Florida Space Rangers","away",1,0
+25,182,100,"2026-7-20",1905,9,2,6,"UTA",1,"Utah Railroaders","home",0,1,24,8,15,"FL",0,"Florida Space Rangers","away",1,0
+11,630,100,"2026-9-17",1905,12,3,9,"VAN",1,"Vancouver Vandals","home",0,1,24,4,12,"FL",0,"Florida Space Rangers","away",1,0
+2,674,100,"2026-10-5",1905,9,4,9,"OBX",0,"Outer Banks Aviators","home",1,0,24,3,6,"FL",0,"Florida Space Rangers","away",0,1
+3,164,100,"2026-7-14",1905,9,3,5,"PRO",0,"Providence Crabs","home",0,1,24,7,11,"FL",0,"Florida Space Rangers","away",1,0
+9,28,100,"2026-5-23",1905,9,4,6,"SAS",1,"San Antonio Sloths","home",1,0,24,0,4,"FL",0,"Florida Space Rangers","away",0,1
+11,300,100,"2026-9-16",1905,13,2,9,"VAN",1,"Vancouver Vandals","home",1,0,24,1,10,"FL",0,"Florida Space Rangers","away",0,1
+10,260,100,"2026-8-31",1905,9,3,8,"DV",1,"Death Valley Scorpions","home",1,0,24,2,8,"FL",0,"Florida Space Rangers","away",0,1
+2,153,100,"2026-7-10",1905,9,14,18,"OBX",0,"Outer Banks Aviators","home",1,0,25,2,8,"UTA",1,"Utah Railroaders","away",0,1
+3,202,100,"2026-8-11",1905,9,2,5,"PRO",0,"Providence Crabs","home",0,1,25,11,22,"UTA",1,"Utah Railroaders","away",1,0
+9,715,100,"2026-10-20",1905,9,6,15,"SAS",1,"San Antonio Sloths","home",1,0,25,4,13,"UTA",1,"Utah Railroaders","away",0,1
+3,660,100,"2026-9-30",1905,9,3,11,"PRO",0,"Providence Crabs","home",1,0,25,1,12,"UTA",1,"Utah Railroaders","away",0,1
+2,16,100,"2026-5-20",1905,9,4,6,"OBX",0,"Outer Banks Aviators","home",1,0,25,2,8,"UTA",1,"Utah Railroaders","away",0,1
+10,8,100,"2026-5-16",1905,9,9,14,"DV",1,"Death Valley Scorpions","home",1,0,25,0,4,"UTA",1,"Utah Railroaders","away",0,1
+11,280,100,"2026-9-7",1905,9,11,11,"VAN",1,"Vancouver Vandals","home",1,0,25,1,5,"UTA",1,"Utah Railroaders","away",0,1
+9,723,100,"2026-10-22",1905,9,4,14,"SAS",1,"San Antonio Sloths","home",0,1,25,8,12,"UTA",1,"Utah Railroaders","away",1,0
+1,80,100,"2026-6-12",1905,9,4,5,"NYV",0,"New York Voyagers","home",1,0,25,3,9,"UTA",1,"Utah Railroaders","away",0,1
+9,719,100,"2026-10-21",1905,9,5,6,"SAS",1,"San Antonio Sloths","home",1,0,25,3,6,"UTA",1,"Utah Railroaders","away",0,1
+24,53,100,"2026-6-1",1905,9,5,8,"FL",0,"Florida Space Rangers","home",1,0,25,1,4,"UTA",1,"Utah Railroaders","away",0,1
+11,137,100,"2026-7-4",1905,9,2,3,"VAN",1,"Vancouver Vandals","home",0,1,25,3,10,"UTA",1,"Utah Railroaders","away",1,0
+3,664,100,"2026-10-1",1905,9,3,8,"PRO",0,"Providence Crabs","home",0,1,25,5,6,"UTA",1,"Utah Railroaders","away",1,0
+9,111,100,"2026-6-24",1905,9,11,13,"SAS",1,"San Antonio Sloths","home",1,0,25,4,5,"UTA",1,"Utah Railroaders","away",0,1
+11,145,100,"2026-7-6",1905,9,12,16,"VAN",1,"Vancouver Vandals","home",1,0,25,2,6,"UTA",1,"Utah Railroaders","away",0,1
+10,94,100,"2026-6-17",1905,9,6,9,"DV",1,"Death Valley Scorpions","home",1,0,25,4,7,"UTA",1,"Utah Railroaders","away",0,1
+9,727,100,"2026-10-23",1905,9,3,4,"SAS",1,"San Antonio Sloths","home",1,0,25,2,5,"UTA",1,"Utah Railroaders","away",0,1
+2,24,100,"2026-5-22",1905,9,0,5,"OBX",0,"Outer Banks Aviators","home",0,1,25,5,9,"UTA",1,"Utah Railroaders","away",1,0
+10,86,100,"2026-6-15",1905,9,10,13,"DV",1,"Death Valley Scorpions","home",1,0,25,1,3,"UTA",1,"Utah Railroaders","away",0,1
+11,141,100,"2026-7-5",1905,9,10,15,"VAN",1,"Vancouver Vandals","home",1,0,25,9,13,"UTA",1,"Utah Railroaders","away",0,1
+11,638,100,"2026-9-21",1905,9,3,13,"VAN",1,"Vancouver Vandals","home",0,1,25,5,9,"UTA",1,"Utah Railroaders","away",1,0
+11,276,100,"2026-9-6",1905,9,8,14,"VAN",1,"Vancouver Vandals","home",1,0,25,0,10,"UTA",1,"Utah Railroaders","away",0,1
+9,219,100,"2026-8-16",1905,9,9,14,"SAS",1,"San Antonio Sloths","home",1,0,25,1,5,"UTA",1,"Utah Railroaders","away",0,1
+11,147,100,"2026-7-7",1905,9,6,11,"VAN",1,"Vancouver Vandals","home",1,0,25,2,9,"UTA",1,"Utah Railroaders","away",0,1
+10,169,100,"2026-7-16",1905,9,12,16,"DV",1,"Death Valley Scorpions","home",1,0,25,3,5,"UTA",1,"Utah Railroaders","away",0,1
+1,76,100,"2026-6-11",1905,9,6,7,"NYV",0,"New York Voyagers","home",1,0,25,3,7,"UTA",1,"Utah Railroaders","away",0,1
+1,235,100,"2026-8-22",1905,9,5,8,"NYV",0,"New York Voyagers","home",1,0,25,2,10,"UTA",1,"Utah Railroaders","away",0,1
+11,642,100,"2026-9-22",1905,9,8,11,"VAN",1,"Vancouver Vandals","home",1,0,25,7,12,"UTA",1,"Utah Railroaders","away",0,1
+1,239,100,"2026-8-23",1905,9,4,5,"NYV",0,"New York Voyagers","home",1,0,25,1,3,"UTA",1,"Utah Railroaders","away",0,1
+10,162,100,"2026-7-14",1905,9,18,18,"DV",1,"Death Valley Scorpions","home",1,0,25,1,3,"UTA",1,"Utah Railroaders","away",0,1
+9,119,100,"2026-6-26",1905,9,8,13,"SAS",1,"San Antonio Sloths","home",1,0,25,3,4,"UTA",1,"Utah Railroaders","away",0,1
+3,668,100,"2026-10-2",1905,9,10,10,"PRO",0,"Providence Crabs","home",1,0,25,2,7,"UTA",1,"Utah Railroaders","away",0,1
+9,222,100,"2026-8-17",1905,9,6,9,"SAS",1,"San Antonio Sloths","home",1,0,25,2,8,"UTA",1,"Utah Railroaders","away",0,1
+10,165,100,"2026-7-15",1905,9,8,11,"DV",1,"Death Valley Scorpions","home",1,0,25,6,10,"UTA",1,"Utah Railroaders","away",0,1
+1,231,100,"2026-8-21",1905,10,8,17,"NYV",0,"New York Voyagers","home",1,0,25,5,12,"UTA",1,"Utah Railroaders","away",0,1
+11,634,100,"2026-9-20",1905,9,3,9,"VAN",1,"Vancouver Vandals","home",1,0,25,2,4,"UTA",1,"Utah Railroaders","away",0,1
+24,45,100,"2026-5-30",1905,9,6,12,"FL",0,"Florida Space Rangers","home",1,0,25,0,4,"UTA",1,"Utah Railroaders","away",0,1
+11,272,100,"2026-9-5",1905,9,5,16,"VAN",1,"Vancouver Vandals","home",1,0,25,2,6,"UTA",1,"Utah Railroaders","away",0,1
+24,129,100,"2026-7-1",1905,9,6,12,"FL",0,"Florida Space Rangers","home",1,0,25,1,6,"UTA",1,"Utah Railroaders","away",0,1
+24,133,100,"2026-7-2",1905,9,2,6,"FL",0,"Florida Space Rangers","home",1,0,25,1,5,"UTA",1,"Utah Railroaders","away",0,1
+10,14,100,"2026-5-18",1905,9,8,13,"DV",1,"Death Valley Scorpions","home",1,0,25,0,2,"UTA",1,"Utah Railroaders","away",0,1
+2,149,100,"2026-7-9",1905,9,7,9,"OBX",0,"Outer Banks Aviators","home",1,0,25,0,1,"UTA",1,"Utah Railroaders","away",0,1
+9,226,100,"2026-8-18",1905,9,11,15,"SAS",1,"San Antonio Sloths","home",1,0,25,1,6,"UTA",1,"Utah Railroaders","away",0,1
+10,4,100,"2026-5-15",1905,9,22,20,"DV",1,"Death Valley Scorpions","home",1,0,25,0,7,"UTA",1,"Utah Railroaders","away",0,1
+24,49,100,"2026-5-31",1905,9,4,10,"FL",0,"Florida Space Rangers","home",1,0,25,1,7,"UTA",1,"Utah Railroaders","away",0,1
+9,115,100,"2026-6-25",1905,9,11,14,"SAS",1,"San Antonio Sloths","home",1,0,25,3,8,"UTA",1,"Utah Railroaders","away",0,1
+10,90,100,"2026-6-16",1905,9,3,6,"DV",1,"Death Valley Scorpions","home",1,0,25,0,8,"UTA",1,"Utah Railroaders","away",0,1
+2,20,100,"2026-5-21",1905,9,9,13,"OBX",0,"Outer Banks Aviators","home",1,0,25,7,11,"UTA",1,"Utah Railroaders","away",0,1
+3,206,100,"2026-8-12",1905,9,4,8,"PRO",0,"Providence Crabs","home",1,0,25,1,11,"UTA",1,"Utah Railroaders","away",0,1
+10,12,100,"2026-5-17",1905,9,13,16,"DV",1,"Death Valley Scorpions","home",1,0,25,1,4,"UTA",1,"Utah Railroaders","away",0,1

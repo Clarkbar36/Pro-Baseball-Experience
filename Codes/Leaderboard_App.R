@@ -1,0 +1,282 @@
+source("~/Box/Alissa Private Folder/Alex/PBE/Codes/All-Time_Stats.R")
+source("~/Box/Alissa Private Folder/Alex/PBE/Codes/Season_Stats.R")
+#All time Hitter Graph Function
+
+# hitter - Set variables to subset and graph by
+hit.statistic <- "Stolen Bases" 
+hit.obs <- 10
+hit.lg <- "PBE"
+
+
+#hitter function
+hitter.leaderboard <- function(x,y,z){
+  # subset hitter dataframe by league
+  hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == hit.lg)
+  
+  # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
+  if(hit.lg == "PBE"){
+    hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Apperances`>=760)
+  } else {
+    hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Apperances`>=470)
+  }
+  
+  # find which column number the statistic variable is in the dataframe
+  num <- which( colnames(hit.plt.df)==hit.statistic)
+  
+  
+  # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
+  if(hit.statistic %in% c("K Percent", "K-BB Percent")){
+    hit.plt.df <- top_n(hit.plt.df, n=hit.obs, -hit.plt.df[num])
+  } else {
+    hit.plt.df <- top_n(hit.plt.df, n=hit.obs, hit.plt.df[num])
+  }
+  
+  # condense dataframe down to 2 columns: name & position, the statistic variable column
+  hit.plt.df <- hit.plt.df[c(36,as.numeric(num))]
+  
+  #rename columns to x,y for easier plotting
+  colnames(hit.plt.df) <- c("x","y")
+  
+  # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
+  if(hit.statistic %in% c("K Percent", "K-BB Percent")){
+  p <-  ggplot(hit.plt.df, aes(x=reorder(x,-y), y=y,fill=y))+
+    geom_bar(stat='identity')+
+    ggtitle(paste("Top",length(hit.plt.df$x),"All-Time"), subtitle =paste(hit.statistic,"-", hit.lg)) +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    geom_text(data=hit.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+    scale_y_continuous(toupper(hit.statistic)) +
+    theme(axis.title.y = element_blank()) +
+    theme(legend.position = "none") +
+    scale_fill_gradient(low = "red", high =  "dark blue") +
+    coord_flip()
+  p
+  } else {
+    p <-  ggplot(hit.plt.df, aes(x=reorder(x,y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste("Top",length(hit.plt.df$x),"All-Time"), subtitle =paste(hit.statistic,"-", hit.lg))  +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=hit.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(hit.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  }
+}
+
+# hitter - run function to create graph
+hitter.leaderboard(x = hit.statistic, y = hit.obs, z = hit.lg)
+
+# ---------------------------------------------------------------------------------------
+#All time Pitcher Graph Function
+
+# pitcher - Set variables to subset and graph by
+pitch.statistic <- "Win Percent" 
+pitch.obs <- 10
+pitch.lg <- "PBE"
+
+
+#pitcher function
+pitcher.leaderboard <- function(x,y,z){
+  # subset pitcher dataframe by league
+  pitch.plt.df <- subset(c.all.pitch,c.all.pitch$league_abbr == pitch.lg)
+  
+  # if PBE subset dataframe by Innings Pitched greater than or equal to 400, if MiLPBE subset by IP greater than or equal to 160
+  if(pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent')){
+    mean_ip <- round(mean(pitch.plt.df$`Innings Pitched`),0)
+    pitch.plt.df <- subset(pitch.plt.df,pitch.plt.df$`Innings Pitched`>=mean_ip)
+  } else {
+    pitch.plt.df <- pitch.plt.df
+  }
+  
+  # find which column number the statistic variable is in the dataframe
+  num <- which( colnames(pitch.plt.df)==pitch.statistic)
+  
+  
+  # if statistic is a ratio, reverse order
+  if(pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+    pitch.plt.df <- top_n(pitch.plt.df, n=pitch.obs, -pitch.plt.df[num])
+  } else {
+    pitch.plt.df <- top_n(pitch.plt.df, n=pitch.obs, pitch.plt.df[num])
+  }
+  
+  # condense dataframe down to 2 columns: name & position, the statistic variable column
+  pitch.plt.df <- pitch.plt.df[c(39,as.numeric(num))]
+  
+  #rename columns to x,y for easier plotting
+  colnames(pitch.plt.df) <- c("x","y")
+  
+  # plotting funtion, if statistic is ratio, plot in reverse order
+  if(pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+    p <-  ggplot(pitch.plt.df, aes(x=reorder(x,-y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste("Top",length(pitch.plt.df$x),"All-Time"), subtitle =paste(pitch.statistic,"-", pitch.lg)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=pitch.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(pitch.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  } else {
+    p <-  ggplot(pitch.plt.df, aes(x=reorder(x,y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste("Top",length(pitch.plt.df$x),"All-Time"), subtitle =paste(pitch.statistic,"-", pitch.lg))  +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=pitch.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(pitch.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  }
+}
+
+# pitcher - run function to create graph
+pitcher.leaderboard(x = pitcher.statistic, y = pitcher.obs, z = pitcher.lg)
+
+# ---------------------------------------------------------------------------------------
+#Season Hitter Graph Function
+
+# hitter - Set variables to subset and graph by
+s.hit.statistic <- "K Percent" 
+s.hit.obs <- 15
+s.hit.lg <- "PBE"
+s.hit.year <- 2026
+
+
+#hitter function
+s.hitter.leaderboard <- function(w,x,y,z){
+  # subset hitter dataframe by league
+  s.hit.plt.df <- subset(s.all.hit,s.all.hit$league_abbr == s.hit.lg & s.all.hit$year == s.hit.year)
+  
+  # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
+  if(s.hit.lg == "PBE"){
+    mean_pa <- round(mean(s.hit.plt.df$`Plate Apperances`),0)
+    s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Apperances`>=mean_pa)
+  } else {
+    s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Apperances`>=mean_pa)
+  }
+  
+  # find which column number the statistic variable is in the dataframe
+  num <- which( colnames(s.hit.plt.df)==s.hit.statistic)
+  
+  
+  # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
+  if(s.hit.statistic %in% c("K Percent", "K-BB Percent")){
+    s.hit.plt.df <- top_n(s.hit.plt.df, n=s.hit.obs, -s.hit.plt.df[num])
+  } else {
+    s.hit.plt.df <- top_n(s.hit.plt.df, n=s.hit.obs, s.hit.plt.df[num])
+  }
+  
+  # condense dataframe down to 2 columns: team & name & position, the statistic variable column
+  s.hit.plt.df <- s.hit.plt.df[c(42,as.numeric(num))]
+  
+  #rename columns to x,y for easier plotting
+  colnames(s.hit.plt.df) <- c("x","y")
+  
+  # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
+  if(s.hit.statistic %in% c("K Percent", "K-BB Percent")){
+    p <-  ggplot(s.hit.plt.df, aes(x=reorder(x,-y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste(s.hit.year,"Season -","Top",length(s.hit.plt.df$x)), subtitle =paste(s.hit.statistic,"-", s.hit.lg)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=s.hit.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(s.hit.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  } else {
+    p <-  ggplot(s.hit.plt.df, aes(x=reorder(x,y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste(s.hit.year,"Season -","Top",length(s.hit.plt.df$x)), subtitle =paste(s.hit.statistic,"-", s.hit.lg)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=s.hit.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(s.hit.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  }
+}
+
+# hitter - run function to create graph
+s.hitter.leaderboard(w = s.hit.year, x = s.hit.statistic, y = s.hit.obs, z = s.hit.lg)
+
+# ---------------------------------------------------------------------------------------
+#Season Pitcher Graph Function
+
+# pitcher - Set variables to subset and graph by
+s.pitch.statistic <- "Win Percent" 
+s.pitch.obs <- 15
+s.pitch.lg <- "PBE"
+s.pitch.year <- 2026
+
+
+#pitcher function
+s.pitcher.leaderboard <- function(w,x,y,z){
+  # subset pitcher dataframe by league
+  s.pitch.plt.df <- subset(s.all.pitch,s.all.pitch$league_abbr == s.pitch.lg & s.all.pitch$year == s.pitch.year)
+  
+  # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
+  if(s.pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent')){
+    mean_ip <- round(mean(s.pitch.plt.df$`Innings Pitched`),0)
+    s.pitch.plt.df <- subset(s.pitch.plt.df,s.pitch.plt.df$`Innings Pitched`>=mean_ip)
+  } else {
+    s.pitch.plt.df <- s.pitch.plt.df
+  }
+  
+  # find which column number the statistic variable is in the dataframe
+  num <- which( colnames(s.pitch.plt.df)==s.pitch.statistic)
+  
+  
+  # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
+  if(s.pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+    s.pitch.plt.df <- top_n(s.pitch.plt.df, n=s.pitch.obs, -s.pitch.plt.df[num])
+  } else {
+    s.pitch.plt.df <- top_n(s.pitch.plt.df, n=s.pitch.obs, s.pitch.plt.df[num])
+  }
+  
+  # condense dataframe down to 2 columns: team & name & position, the statistic variable column
+  s.pitch.plt.df <- s.pitch.plt.df[c(43,as.numeric(num))]
+  
+  #rename columns to x,y for easier plotting
+  colnames(s.pitch.plt.df) <- c("x","y")
+  
+  # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
+  if(s.pitch.statistic %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+    p <-  ggplot(s.pitch.plt.df, aes(x=reorder(x,-y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste(s.pitch.year,"Season -","Top",length(s.pitch.plt.df$x)), subtitle =paste(s.pitch.statistic,"-", s.pitch.lg)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=s.pitch.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(s.pitch.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  } else {
+    p <-  ggplot(s.pitch.plt.df, aes(x=reorder(x,y), y=y,fill=y))+
+      geom_bar(stat='identity')+
+      ggtitle(paste(s.pitch.year,"Season -","Top",length(s.pitch.plt.df$x)), subtitle =paste(s.pitch.statistic,"-", s.pitch.lg)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      geom_text(data=s.pitch.plt.df,aes(x=x,y=y,label=y),size = 3, hjust=1, colour = "white") +
+      scale_y_continuous(toupper(s.pitch.statistic)) +
+      theme(axis.title.y = element_blank()) +
+      theme(legend.position = "none") +
+      scale_fill_gradient(low = "red", high =  "dark blue") +
+      coord_flip()
+    p
+  }
+}
+
+# pitcher - run function to create graph
+s.pitcher.leaderboard(w = s.pitch.year, x = s.pitch.statistic, y = s.pitch.obs, z = s.pitch.lg)
+

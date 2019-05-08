@@ -1,0 +1,5 @@
+human_manager_id,team_id,year,league_id,sub_league_id,division_id,gate_revenue,media_revenue,merchandising_revenue,other_revenue,revenue_sharing,playoff_revenue,cash,player_expenses,staff_expenses,stadium_expenses,attendance,fan_interest,fan_loyalty,fan_modifier,ticket_price,budget,market,owner_expectation
+3,16,2020,101,0,0,0,0,0,'',0,0,0,0,0,0,0,0,0,0,0.0000,0,0,0
+3,17,2020,101,0,0,0,0,0,'',0,0,0,0,0,0,0,0,0,0,0.0000,0,0,0
+3,18,2020,101,0,1,0,0,0,'',0,0,0,0,0,0,0,0,0,0,0.0000,0,0,0
+3,19,2020,101,0,1,0,0,0,'',0,0,0,0,0,0,0,0,0,0,0.0000,0,0,0
