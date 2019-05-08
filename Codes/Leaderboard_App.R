@@ -1,6 +1,11 @@
-library(tidyverse)
-source("~/Box/Alissa Private Folder/Alex/PBE/Codes/All-Time_Stats.R")
-source("~/Box/Alissa Private Folder/Alex/PBE/Codes/Season_Stats.R")
+suppressMessages(library(tidyverse))
+suppressMessages(library(dplyr))
+suppressMessages(library(ggplot2))
+suppressMessages(library(dplyr))
+suppressMessages(library(RColorBrewer))
+
+source("/Codes/All-Time_Stats.R",local = TRUE)
+source("/Codes/Season_Stats.R",local = TRUE)
 #All time Hitter Graph Function
 
 # hitter - Set variables to subset and graph by
