@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Pro Baseball Experience in slugging percentage while playing Left Field!
+
+<Jordan von Matt:player#137>, OBX, 		.720
+<Vick Thunder:player#270>, SAS, 		.655
+<Tristan Cameron:player#353>, NYV, 		.483
+<Hawk Russell:player#124>, FL, 		.357
+<Speedy Boi:player#310>, DV, 		.345
