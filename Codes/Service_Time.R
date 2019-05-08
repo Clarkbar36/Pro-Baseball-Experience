@@ -1,7 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
-setwd("~/Box/Alissa Private Folder/Alex/PBE/Exports/")
+setwd("~/Documents/GitHub/PBE/Exports/")
 player_career_batting  <- read.csv('players_career_batting_stats.csv',header = TRUE)
 player_career_batting <- subset(player_career_batting,player_career_batting$split_id == 1)
 player_career_pitching <- read.csv('players_career_pitching_stats.csv',header = TRUE)
@@ -33,7 +33,7 @@ pbe_st$label <- "PBE"
 
 service_time_lookup <- bind_rows(list(ttl_service_time,mipbe_st,pbe_st))
 
-source("~/Box/Alissa Private Folder/Alex/PBE/Codes/All-Time_Stats.R")
+source("~/Documents/GitHub/PBE/Codes/All-Time_Stats.R")
 
 
 position_change <- combined.players[c(2,5,100)]
@@ -56,15 +56,15 @@ mipbe <- subset(final.service.time,final.service.time$label == "MIPBE")
 pbe <- subset(final.service.time,final.service.time$label == "PBE")
 brkdnServ <- subset(final.service.time,final.service.time$label != "Total")
 
-write.csv(ttlServ,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/total_service_time.csv",row.names = FALSE)
+write.csv(ttlServ,"~/Documents/GitHub/PBE/R_Code_Exports/total_service_time.csv",row.names = FALSE)
 
-write.csv(brkdnServ,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/brokendown_service_time.csv",row.names = FALSE)
-
-
-write.csv(mipbe,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/mipbe_service_time.csv",row.names = FALSE)
+write.csv(brkdnServ,"~/Documents/GitHub/PBE/R_Code_Exports/brokendown_service_time.csv",row.names = FALSE)
 
 
-write.csv(pbe,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/pbe_service_time.csv",row.names = FALSE)
+write.csv(mipbe,"~/Documents/GitHub/PBE/R_Code_Exports/mipbe_service_time.csv",row.names = FALSE)
+
+
+write.csv(pbe,"~/Documents/GitHub/PBE/R_Code_Exports/pbe_service_time.csv",row.names = FALSE)
 
 
 

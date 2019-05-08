@@ -1,6 +1,6 @@
 library(dplyr)
 library(tidyr)
-setwd("~/Box/Alissa Private Folder/Alex/PBE/Exports/")
+setwd("~/Documents/GitHub/PBE/Exports/")
 
 games <- read.csv('games.csv', header = TRUE, sep = ',')
 
@@ -47,7 +47,7 @@ colnames(box)[colnames(box) == 'hits0'] <- 'hits_away'
 box <- box[,-c(16:19)] 
 
 
-write.csv(box,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/box.csv",row.names = FALSE)
+write.csv(box,"~/Documents/GitHub/PBE/R_Code_Exports/box.csv",row.names = FALSE)
 
 home <- m_games[,c(2:4,6:7,11,13,15,23:25,29,31:32)]
 colnames(home)[colnames(home) == 'home_team'] <- 'team_id'
@@ -87,7 +87,7 @@ leagues <- data.frame(league_id = c(100,101), league_abbr = c("PBE","MiPBE") )
 all_games <- merge(all_games, leagues, all.x = TRUE)
 
 all_games <- all_games[order(all_games[,1],all_games[,9],all_games[,3]),]
-write.csv(all_games,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/PBE_Standings.csv",row.names = FALSE)
+write.csv(all_games,"~/Documents/GitHub/PBE/R_Code_Exports/PBE_Standings.csv",row.names = FALSE)
 
 # league_averages <- all_games
 # league_averages <- league_averages[c(4,6:8,13:14)]

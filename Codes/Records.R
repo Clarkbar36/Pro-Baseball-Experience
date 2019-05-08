@@ -1,7 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(Hmisc)
-setwd("~/Box/Alissa Private Folder/Alex/PBE/Exports")
+setwd("~/Documents/GitHub/PBE/Exports")
 
 ## Teams ##
 all_teams <- read.csv('teams.csv',header = TRUE, sep = ',')
@@ -64,4 +64,4 @@ records <- records %>% group_by(league_id) %>% mutate(Lg_Average_Wins = round(me
 
 
 ## Write ##
-write.csv(records, "~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/records.csv", row.names = FALSE)
+write.csv(records, "~/Documents/GitHub/PBE/R_Code_Exports/records.csv", row.names = FALSE)

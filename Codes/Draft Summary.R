@@ -1,5 +1,5 @@
 library(dplyr)
-setwd("~/Box/Alissa Private Folder/Alex/PBE/Exports/")
+setwd("~/Documents/GitHub/PBE/Exports/")
 records <- read.csv("team_record.csv")
 games_played <- max(records$g)
 x_pl <- read.csv('players.csv',header = TRUE)
@@ -71,4 +71,4 @@ team_lookup <- all_teams[c(1,28)]
 colnames(team_lookup)[colnames(team_lookup) == 'team_id'] <- 'draft_team_id'
 
 all.draft <- merge(all.draft, team_lookup, all.x = TRUE)
-write.csv(all.draft,"~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/PBE_Drafts.csv",row.names = FALSE)
+write.csv(all.draft,"~/Documents/GitHub/PBE/R_Code_Exports/PBE_Drafts.csv",row.names = FALSE)

@@ -4,7 +4,7 @@ library(ggplot2)
 library(dplyr)
 library(stringr)
 library(RColorBrewer)
-setwd("~/Box/Alissa Private Folder/Alex/PBE/Exports/")
+setwd("~/Documents/GitHub/PBE/Exports/")
 s.records <- read.csv("team_record.csv")
 s.games_played <- max(s.records$g)
 s.x_pl <- read.csv('players.csv',header = TRUE)
@@ -215,4 +215,4 @@ colnames(s.all.pitch)[colnames(s.all.pitch) =='winloss']<-'Win-Loss'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='win_percent']<-'Win Percent'
 
 
-#write.csv(all,'~/Box/Alissa Private Folder/Alex/PBE/R_Code_Exports/Season_Stats.csv', row.names = FALSE)
+#write.csv(all,'~/Documents/GitHub/PBE/R_Code_Exports/Season_Stats.csv', row.names = FALSE)
