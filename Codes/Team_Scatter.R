@@ -5,18 +5,18 @@ suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(Hmisc))
 
-setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/Exports/")
 
-tm <- read.csv("teams.csv")
+tm <- read.csv("Exports/teams.csv")
 tm$`Team Name` <- paste(tm$name,tm$nickname)
 tm <- tm[c(1,3,8,28)]
 colnames(tm)[colnames(tm) == 'abbr'] <- 'Team Abbr'
 
-lg <- read.csv("leagues.csv")
+lg <- read.csv("Exports/leagues.csv")
 lg <- lg[c(1,3)]
 colnames(lg)[colnames(lg) == 'abbr'] <- 'League'
 
-stdp <- read.csv("team_record.csv")
+stdp <- read.csv("Exports/team_record.csv")
 stdp <- stdp[c(1,5,6)]
 stdp <- subset(stdp,stdp$team_id %nin% c(7,8,12,13,14,15,22,23))
 colnames(stdp)[colnames(stdp) == 'pos'] <- 'All - Division Standing'
@@ -29,7 +29,7 @@ lkup <- lkup %>%
   ungroup
 lkup$pct <- NULL
 
-tm_pitch <- read.csv("team_pitching_stats.csv")
+tm_pitch <- read.csv("Exports/team_pitching_stats.csv")
 tm_pitch <- subset(tm_pitch, tm_pitch$split_id == 1)
 tm_pitch$Walks <- tm_pitch$bb + tm_pitch$iw + tm_pitch$hp
 tm_pitch <- tm_pitch[-c(2,4:6,13,19,20,21,25:29,31:37,44:45,56,58:63,65,66)]
@@ -75,7 +75,7 @@ tm_pitch <- tm_pitch[-c(2,4:6,13,19,20,21,25:29,31:37,44:45,56,58:63,65,66)]
 }
 
 
-tm_field <- read.csv("team_fielding_stats_stats.csv")
+tm_field <- read.csv("Exports/team_fielding_stats_stats.csv")
 tm_field <- subset(tm_field, tm_field$league_id >0)
 tm_field <- tm_field[-c(2,4:8,15:20,23,24)]
 {
@@ -90,7 +90,7 @@ tm_field <- tm_field[-c(2,4:8,15:20,23,24)]
 }
 
 
-tm_bat <- read.csv("team_batting_stats.csv")
+tm_bat <- read.csv("Exports/team_batting_stats.csv")
 tm_bat <- subset(tm_bat, tm_bat$league_id %in% c(100,101))
 tm_bat$batter.walks <- tm_bat$bb + tm_bat$ibb + tm_bat$hp
 tm_bat <- tm_bat[-c(2,4,5,10,11,19:24,26,27,29,36,38,39)]
@@ -125,7 +125,7 @@ all.stats <- merge(all.stats,lkup,all.x = TRUE)
 cnames <- colnames(all.stats[c(3:69,72:74)])
 cnames <- sort(cnames)
 
-gms <- read.csv("games.csv")
+gms <- read.csv("Exports/games.csv")
 gms <- gms %>% filter(played == 1)
 gms <- max(as.Date(gms$date))
 

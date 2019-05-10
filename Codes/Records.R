@@ -64,7 +64,7 @@ records <- records %>% group_by(league_id) %>% mutate(Lg_Average_Wins = round(me
 
 
 ## Write ##
-write.csv(records, "~/Documents/GitHub/PBE/R_Code_Exports/records.csv", row.names = FALSE)
+write.csv(records, "R_Code_Exports/records.csv", row.names = FALSE)
 
 tm = "DV"
 pl.records <- subset(records,records$abbr == tm)

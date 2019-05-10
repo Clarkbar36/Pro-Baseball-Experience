@@ -33,7 +33,7 @@ pbe_st$label <- "PBE"
 
 service_time_lookup <- bind_rows(list(ttl_service_time,mipbe_st,pbe_st))
 
-source("~/Documents/GitHub/PBE/Codes/All-Time_Stats.R")
+source("Codes/All-Time_Stats.R")
 
 
 position_change <- combined.players[c(2,5,100)]

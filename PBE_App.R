@@ -15,10 +15,11 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(shinydashboard))
+library(rsconnect)
 
-source("~/Documents/GitHub/PBE/Codes/All-Time_Stats.R",local = TRUE)
-source("~/Documents/GitHub/PBE/Codes/Season_Stats.R",local = TRUE)
-source("~/Documents/GitHub/PBE/Codes/Team_Scatter.R",local = TRUE)
+source("Codes/All-Time_Stats.R",local = TRUE)
+source("Codes/Season_Stats.R",local = TRUE)
+source("Codes/Team_Scatter.R",local = TRUE)
 
 # Define UI for application that draws a histogram
 

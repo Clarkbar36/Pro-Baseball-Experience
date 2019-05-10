@@ -3,16 +3,16 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
-setwd("~/Documents/GitHub/PBE/Exports/")
-s.records <- read.csv("team_record.csv")
+#setwd("~/Documents/GitHub/PBE/Exports/")
+s.records <- read.csv("Exports/team_record.csv")
 s.games_played <- max(s.records$g)
-s.x_pl <- read.csv('players.csv',header = TRUE)
+s.x_pl <- read.csv('Exports/players.csv',header = TRUE)
 s.x_pl$full_name <- paste(s.x_pl$first_name,s.x_pl$last_name)
 s.positions <- data.frame('position' = 1:10, 'position_name' = c('P','C','1B','2B','3B','SS','LF','CF','RF','DH'))
 s.combined.players <- merge(s.x_pl,s.positions,by = "position", all.x = TRUE)
 s.pl_name_lookup <- s.combined.players[c(2,99,100)]
 
-s.player_career_batting  <- read.csv('players_career_batting_stats.csv',header = TRUE)
+s.player_career_batting  <- read.csv('Exports/players_career_batting_stats.csv',header = TRUE)
 s.player_career_batting <- subset(s.player_career_batting,s.player_career_batting$split_id == 1)
 s.bats <- s.player_career_batting[,c(1:3,5,9:11,12:14,16:21,23:24,27:28,32)]
 colnames(s.bats)[colnames(s.bats) == 'k'] <- 'SO'
@@ -21,14 +21,14 @@ colnames(s.bats)[colnames(s.bats) == 't'] <- 'Trp'
 #bats <- subset(bats, bats$ab >=100)
 
 
-s.player_career_fielding <- read.csv('players_career_fielding_stats.csv',header = TRUE)
+s.player_career_fielding <- read.csv('Exports/players_career_fielding_stats.csv',header = TRUE)
 s.fielding <- s.player_career_fielding[c(1:4,37)]
 s.fielding <- s.fielding %>%
   group_by(player_id, year, team_id, league_id) %>% 
   summarise_all(funs(sum))
 
  
-s.player_career_pitching <- read.csv('players_career_pitching_stats.csv',header = TRUE)
+s.player_career_pitching <- read.csv('Exports/players_career_pitching_stats.csv',header = TRUE)
 s.player_career_pitching <- subset(s.player_career_pitching,s.player_career_pitching$split_id == 1)
 s.pitch <- s.player_career_pitching[,c(1:3,5,8:12,15:17,22,24:26,30,32,40,44,45,48,55)]
 colnames(s.pitch)[colnames(s.pitch) == 'bb'] <- 'walks'
@@ -127,13 +127,13 @@ s.all$full_name <- str_replace_all(s.all$full_name,"-","")
 
 s.all <- subset(s.all,s.all$league_id<1000)
 
-s.leagues <- read.csv("leagues.csv", header = TRUE)
+s.leagues <- read.csv("Exports/leagues.csv", header = TRUE)
 s.leagues <- s.leagues[c(1,3)]
 colnames(s.leagues)[colnames(s.leagues) == 'abbr'] <- 'league_abbr'
 s.all <- merge(s.all,s.leagues,all.x = TRUE)
 
 
-s.all_teams <- read.csv("teams.csv",header = TRUE)
+s.all_teams <- read.csv("Exports/teams.csv",header = TRUE)
 s.all_teams$team_name <- paste(s.all_teams$name,s.all_teams$nickname)
 s.team_lookup <- s.all_teams[c(1,3,28)]
 s.all <- merge(s.all, s.team_lookup, all.x = TRUE)
