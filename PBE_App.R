@@ -9,6 +9,7 @@
 
 suppressMessages(library(shiny))
 suppressMessages(library(tidyverse))
+suppressMessages(library(DT))
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
@@ -175,7 +176,7 @@ all.time.pitcher.leaderboard <- function(x,y,z){
       geom_bar(stat='identity')+
       ggtitle(paste("Top",length(pitch.plt.df$pl.x),"Pitchers All-Time"), subtitle =paste(x,"-", z)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      geom_text(data=pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 3, hjust=1, colour = "black") +
+      geom_text(data=pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
@@ -188,7 +189,7 @@ all.time.pitcher.leaderboard <- function(x,y,z){
       geom_bar(stat='identity')+
       ggtitle(paste("Top",length(pitch.plt.df$pl.x),"Pitchers All-Time"), subtitle =paste(x,"-", z))  +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      geom_text(data=pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 3, hjust=1, colour = "black") +
+      geom_text(data=pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
@@ -235,7 +236,7 @@ s.pitcher.leaderboard <- function(w,x,y,z){
       geom_bar(stat='identity')+
       ggtitle(paste(w,"Season -","Top",length(s.pitch.plt.df$pl.x), "Pitchers"), subtitle =paste(x,"-", y)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      geom_text(data=s.pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 3, hjust=1, colour = "black") +
+      geom_text(data=s.pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
@@ -248,7 +249,7 @@ s.pitcher.leaderboard <- function(w,x,y,z){
       geom_bar(stat='identity')+
       ggtitle(paste(w,"Season -","Top",length(s.pitch.plt.df$pl.x),"Pitchers"), subtitle =paste(x,"-", y)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      geom_text(data=s.pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 3, hjust=1, colour = "black") +
+      geom_text(data=s.pitch.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
@@ -283,23 +284,22 @@ tm.scatter <- function(l,x,y){
                      '#115376')
   if(l == 'PBE'){
     p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-      geom_point() + 
+      geom_point(aes(size=5)) + 
       ggtitle(paste(y,"by",x), subtitle =paste(l))  +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       xlab(x) + ylab(y) +
-      geom_text(label=p.all.stats$t, vjust = -.5) +
+      geom_text(label=p.all.stats$t, vjust = -.75) +
       theme(legend.position = "none") +
       scale_colour_manual(values=pbe.colors)
     p
   } else {
     p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-      geom_point() + 
+      geom_point(aes(size=5)) + 
       ggtitle(paste(y,"by",x), subtitle =paste(l))  +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       xlab(x) + ylab(y) +
-      geom_text(label=p.all.stats$t, vjust = -.5) +
+      geom_text(label=p.all.stats$t, vjust = -.75) +
       theme(legend.position = "none") +
-      geom_text(label=p.all.stats$t, vjust = -.5) +
       scale_colour_manual(values=milpbe.colors)
     p
     
@@ -314,7 +314,7 @@ tm.tbl <- function(l,x,y){
   p.all.stats <- subset(all.stats,all.stats$League == l)
   p.all.stats <- p.all.stats[c(71,as.numeric(num.y),as.numeric(num.x))]
   t.all.stats <- p.all.stats
-  t.all.stats 
+  t.all.stats
 }
 
 #Dashboard header carrying the title of the dashboard
@@ -322,15 +322,24 @@ header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
                                                      messageItem(
                                                        from = "Built by: Clarkbar36",
                                                        message = paste("Data is updated through:",gms),
-                                                       icon("baseball-ball")         
+                                                       icon("beer")         
                                                      )))  
 
 #Sidebar content of the dashboard
-sidebar <- dashboardSidebar(
+sidebar <- dashboardSidebar("THE HUB:",
   sidebarMenu(
     menuItem("Hitter Leaderboard", tabName = "HitterL", icon = icon("chart-bar")),
     menuItem("Pitcher Leaderboard", tabName = "PitcherL", icon = icon("chart-bar")),
-    menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball"))
+    menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
+    "________________________",
+    menuItem("Link: PBE Forum", icon = icon("link"),
+             href = "http://probaseballexperience.jcink.net/index.php?act=idx"),
+    menuItem("Link: PBE Main Index", icon = icon("link"),
+             href = "http://www.pbesim.com"),
+    menuItem("Link: PBE Player Compendium", icon = icon("link"),
+             href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTVnwILj2aFQWiepL0YNHsRwnuckMdwfVPUkUA3rytPpYzprgHqL0u5bMCQZv4XrR3WdRAVS_F_6_nI/pubhtml"),
+    menuItem("Link: Github", icon = icon("link"),
+             href = "https://github.com/Clarkbar36/Pro-Baseball-Experience")
     
   ))
 body <- dashboardBody(
@@ -463,7 +472,6 @@ body <- dashboardBody(
               dataTableOutput("team_table")
             )
     )
-    
   )
 )
 
@@ -505,10 +513,9 @@ server <- function(input, output) {
     
   })
   
-  output$team_table <-  renderDataTable(options = list(dom = 'tip'),{
+  output$team_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
     tm.tbl(l = input$splg,x = input$xsct,y = input$ysct)
-    
     
   })
   
