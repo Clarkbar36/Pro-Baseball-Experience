@@ -3,11 +3,13 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
+suppressMessages(library(Hmisc))
 
 setwd("~/Documents/GitHub/PBE/Exports/")
 
 tm <- read.csv("teams.csv")
-tm <- tm[c(1,3,8)]
+tm$`Team Name` <- paste(tm$name,tm$nickname)
+tm <- tm[c(1,3,8,28)]
 colnames(tm)[colnames(tm) == 'abbr'] <- 'Team Abbr'
 
 lg <- read.csv("leagues.csv")
@@ -15,11 +17,17 @@ lg <- lg[c(1,3)]
 colnames(lg)[colnames(lg) == 'abbr'] <- 'League'
 
 stdp <- read.csv("team_record.csv")
-stdp <- stdp[c(1,5)]
-colnames(stdp)[colnames(stdp) == 'pos'] <- 'Standing'
+stdp <- stdp[c(1,5,6)]
+stdp <- subset(stdp,stdp$team_id %nin% c(7,8,12,13,14,15,22,23))
+colnames(stdp)[colnames(stdp) == 'pos'] <- 'All - Division Standing'
 
 lkup <- merge(tm,lg, all.x = TRUE)
 lkup <- merge(lkup, stdp)
+lkup <- lkup %>% 
+  group_by(league_id) %>% 
+  mutate(`All - League Standing` = round(rank(-pct),0)) %>% 
+  ungroup
+lkup$pct <- NULL
 
 tm_pitch <- read.csv("team_pitching_stats.csv")
 tm_pitch <- subset(tm_pitch, tm_pitch$split_id == 1)
@@ -114,16 +122,18 @@ all.stats <- merge(tm_bat,tm_pitch)
 all.stats <- merge(all.stats,tm_field)
 all.stats <- merge(all.stats,lkup,all.x = TRUE)
 
-cnames <- colnames(all.stats[c(3:69,72)])
+cnames <- colnames(all.stats[c(3:69,72:74)])
 cnames <- sort(cnames)
 
+gms <- read.csv("games.csv")
+gms <- gms %>% filter(played == 1)
+gms <- max(as.Date(gms$date))
 
-
-# x <- 'ERA'
-# y <- 'Homeruns'
-# l <- 'PBE'
-# 
-# 
+# x <- 'Pitching - ERA'
+# y <- 'Batting - Homeruns'
+# l <- 'MiLPBE'
+# # 
+# # 
 # tm.scatter <- function(l,x,y){
 # num.x <- which( colnames(all.stats)==x)
 # num.y <- which( colnames(all.stats)==y)
@@ -131,8 +141,8 @@ cnames <- sort(cnames)
 # p.all.stats <- subset(all.stats,all.stats$League == l)
 # p.all.stats <- p.all.stats[c(70,as.numeric(num.x),as.numeric(num.y))]
 # colnames(p.all.stats) <- c("t","x","y")
-# 
-# 
+# # 
+# # 
 # pbe.colors <- c('#97162B',
 #                 '#D0D02B',
 #                 '#0E1540',
@@ -145,16 +155,21 @@ cnames <- sort(cnames)
 #                    '#86572C',
 #                    '#6C0000',
 #                    '#115376')
-# if(l == 'PBE'){
+# # if(l == 'PBE'){
 # p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-#   geom_point() + 
+#   geom_point() +
 #   ggtitle(paste(y,"by",x), subtitle =paste(l))  +
 #   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
 #   xlab(x) + ylab(y) +
 #   geom_text(label=p.all.stats$t, vjust = -.5) +
 #   theme(legend.position = "none") +
-#   scale_colour_manual(values=pbe.colors)
+#   if(l=='PBE'){
+#     scale_colour_manual(values=pbe.colors)
+#   } else{
+#     scale_colour_manual(values=milpbe.colors)
+#   }
 # p
+
 # } else {
 #   p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
 #     geom_point() + 
