@@ -122,7 +122,7 @@ all.stats <- merge(tm_bat,tm_pitch)
 all.stats <- merge(all.stats,tm_field)
 all.stats <- merge(all.stats,lkup,all.x = TRUE)
 
-cnames <- colnames(all.stats[c(3:69,72:74)])
+cnames <- colnames(all.stats[c(3:69,73:74)])
 cnames <- sort(cnames)
 
 gms <- read.csv("Exports/games.csv")
