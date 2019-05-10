@@ -28,7 +28,7 @@ all.time.hitter.leaderboard <- function(x,y,z){
   hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z)
   
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
-  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent')){
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts')){
     mean_pa <- round(mean(hit.plt.df$`Plate Apperances`),0)
     hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Apperances`>=mean_pa)
   } else {
@@ -40,7 +40,7 @@ all.time.hitter.leaderboard <- function(x,y,z){
   
   
   # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
-  if(x %in% c("K Percent", "K-BB Percent")){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     hit.plt.df <- top_n(hit.plt.df, n=y, -hit.plt.df[num])
   } else {
     hit.plt.df <- top_n(hit.plt.df, n=y, hit.plt.df[num])
@@ -51,9 +51,10 @@ all.time.hitter.leaderboard <- function(x,y,z){
   
   #rename columns to x,y for easier plotting
   colnames(hit.plt.df) <- c("pl.x","pl.y")
+  hit.plt.df <- filter(hit.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
-  if(x %in% c("K Percent", "K-BB Percent")){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     p <-  ggplot(hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste("Top",length(hit.plt.df$pl.x),"Batters All-Time"), subtitle =paste(x,"-", z)) +
@@ -63,7 +64,7 @@ all.time.hitter.leaderboard <- function(x,y,z){
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
       theme(legend.position = "none") +
-      scale_fill_gradient(low = "#E55D87", high =  "#5FC3E4")  +
+      scale_fill_gradient(low = "#5FC3E4", high =  "#E55D87")  +
       coord_flip()
     p
   } else {
@@ -87,7 +88,7 @@ s.hitter.leaderboard <- function(w,x,y,z){
   s.hit.plt.df <- subset(s.all.hit,s.all.hit$league_abbr == z & s.all.hit$year == w)
   
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
-  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent')){
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts')){
     mean_pa <- round(mean(s.hit.plt.df$`Plate Apperances`),0)
     s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Apperances`>=mean_pa)
   } else {
@@ -99,7 +100,7 @@ s.hitter.leaderboard <- function(w,x,y,z){
   
   
   # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
-  if(x %in% c("K Percent", "K-BB Percent")){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     s.hit.plt.df <- top_n(s.hit.plt.df, n=y, -s.hit.plt.df[num])
   } else {
     s.hit.plt.df <- top_n(s.hit.plt.df, n=y, s.hit.plt.df[num])
@@ -110,9 +111,10 @@ s.hitter.leaderboard <- function(w,x,y,z){
   
   #rename columns to x,y for easier plotting
   colnames(s.hit.plt.df) <- c("pl.x","pl.y")
+  s.hit.plt.df <- filter(s.hit.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
-  if(x %in% c("K Percent", "K-BB Percent")){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     p <-  ggplot(s.hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Batters"), subtitle =paste(x,"-", z)) +
@@ -122,7 +124,7 @@ s.hitter.leaderboard <- function(w,x,y,z){
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
       theme(legend.position = "none") +
-      scale_fill_gradient(low = "#E55D87", high =  "#5FC3E4") +
+      scale_fill_gradient(low = "#5FC3E4", high =  "#E55D87")  +
       coord_flip()
     p
   } else {
@@ -170,6 +172,7 @@ all.time.pitcher.leaderboard <- function(x,y,z){
   
   #rename columns to x,y for easier plotting
   colnames(pitch.plt.df) <- c("pl.x","pl.y")
+  pitch.plt.df <- filter(pitch.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is ratio, plot in reverse order
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
@@ -182,7 +185,7 @@ all.time.pitcher.leaderboard <- function(x,y,z){
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
       theme(legend.position = "none") +
-      scale_fill_gradient(low = "#E55D87", high =  "#5FC3E4")+
+      scale_fill_gradient(low = "#5FC3E4", high =  "#E55D87")  +
       coord_flip()
     p
   } else {
@@ -230,6 +233,7 @@ s.pitcher.leaderboard <- function(w,x,y,z){
   
   #rename columns to x,y for easier plotting
   colnames(s.pitch.plt.df) <- c("pl.x","pl.y")
+  s.pitch.plt.df <- filter(s.pitch.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
@@ -242,7 +246,7 @@ s.pitcher.leaderboard <- function(w,x,y,z){
       theme(axis.title.y = element_blank()) +
       theme(axis.text.y = element_text(face="bold", size = 10))+
       theme(legend.position = "none") +
-      scale_fill_gradient(low = "#E55D87", high =  "#5FC3E4") +
+      scale_fill_gradient(low = "#5FC3E4", high =  "#E55D87")  +
       coord_flip()
     p
   } else {
@@ -478,7 +482,7 @@ body <- dashboardBody(
 
 
 
-ui <- dashboardPage(title = 'Pro Baseball Experience', header, sidebar, body, skin='purple')
+ui <- dashboardPage(title = 'Pro Baseball Experience Hub', header, sidebar, body, skin='purple')
 
 
 # Define server logic required to draw a histogram
