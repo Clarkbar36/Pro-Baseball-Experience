@@ -4,11 +4,11 @@ library(readxl)
 library(tidyr)
 #setwd("~/Documents/GitHub/PBE/Exports/")
 
-ds.games <- read.csv('games.csv', header = TRUE, sep = ',')
+ds.games <- read.csv('Exports/games.csv', header = TRUE, sep = ',')
 
 ds.games$game_id <- as.numeric(ds.games$game_id)
 
-ds.all_teams <- read.csv('teams.csv',header = TRUE, sep = ',')
+ds.all_teams <- read.csv('Exports/teams.csv',header = TRUE, sep = ',')
 
 ds.teams <- subset(ds.all_teams,ds.all_teams$league_id != 1000)
 ds.teams$team_name <- paste(ds.teams$name,ds.teams$nickname)
@@ -75,7 +75,7 @@ colnames(ds.away)[colnames(ds.away) == 'away_division_id'] <- 'division_id'
 
 ds.all_games <- rbind(ds.home,ds.away)
 
-ds.divisions <- read.csv("divisions.csv")
+ds.divisions <- read.csv("Exports/divisions.csv")
 ds.divisions$divisions_id <- paste(ds.divisions$league_id,"-",ds.divisions$division_id)
 ds.divisions <- ds.divisions[c(4,6)]
 ds.all_games$divisions_id <- paste(ds.all_games$league_id,"-",ds.all_games$division_id)
@@ -115,7 +115,7 @@ ds.all_games$pythag_loss <- round(ds.all_games$gp - ds.all_games$pythag_win, 0)
 ds.all_games$pythag_record <- paste(ds.all_games$pythag_win, "-", ds.all_games$pythag_loss)
 
 
-ds.color <- read_excel("misc/Colors.xlsx")
+ds.color <- read_excel("Misc/Colors.xlsx")
 ds.color <- ds.color[c(1,3)]
 ds.all_games <- merge(ds.all_games, ds.color, all.x = TRUE)
 
