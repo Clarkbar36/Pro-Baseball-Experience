@@ -15,11 +15,13 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(shinydashboard))
+suppressMessages(library(anytime))
 library(rsconnect)
 
 source("Codes/All-Time_Stats.R",local = TRUE)
 source("Codes/Season_Stats.R",local = TRUE)
 source("Codes/Team_Scatter.R",local = TRUE)
+source("Codes/Daily_Standings.R",local = TRUE)
 
 # Define UI for application that draws a histogram
 
@@ -322,6 +324,71 @@ tm.tbl <- function(l,x,y){
   t.all.stats
 }
 
+daily_standings_plot <- function(l){
+  daily <- subset(ds.all_games,ds.all_games$league_abbr == l)
+  p.daily <- daily[c(4,9,14,18,31)]
+  colnames(p.daily) <- c("x","t","d","y","c")
+  p.daily$x <- as.Date(p.daily$x)
+  season <- substring(max(p.daily$x),1,4)
+  
+  pbe.colors <- c('#97162B',
+                  '#D0D02B',
+                  '#0E1540',
+                  '#FF6700',
+                  '#005CAD',
+                  '#87795E',
+                  '#2C0060',
+                  '#183013')
+  milpbe.colors <- c('#007EF3',
+                     '#86572C',
+                     '#6C0000',
+                     '#115376')
+  
+  
+  if(l == 'PBE'){
+    p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
+      geom_line() +
+      ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      ylab("Games Above/Below .500") + xlab("Date") +
+      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.75)) +
+      theme(legend.position = "none") + 
+      scale_colour_manual(values=pbe.colors)
+    p
+    
+  } else {
+    p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
+      geom_line() +
+      ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
+      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+      ylab("Games Above/Below .500") + xlab("Date") +
+      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.75)) +
+      theme(legend.position = "none") + 
+      scale_colour_manual(values=milpbe.colors)
+    p
+    
+  }
+}
+  
+ds.tbl <- function(l){
+  tbl.ds <- subset(ds.all_games,ds.all_games$league_abbr == l)
+  tbl.ds$date <- as.Date(tbl.ds$date)
+  tbl.ds <- tbl.ds %>% filter(date == max(date))
+  tbl.ds <- tbl.ds[c(10,14,18,19,21:23,30,32,33)]
+  colnames(tbl.ds)[colnames(tbl.ds) == 'team_name'] <-'Team Name'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'division'] <-'Division'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'below.500'] <-'Games Above/Below .500'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'winloss'] <-'Win-Loss'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_ra'] <-'Total Runs Against'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_runs'] <-'Total Runs'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_hits'] <-'Total Hits'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'pythag_record'] <-'Pythag Record'
+  tbl.ds <- tbl.ds [c(1,2,9,10,6,5,7,3,4,8)]
+  tbl.ds
+}  
+
+
+
 #Dashboard header carrying the title of the dashboard
 header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
                                                      messageItem(
@@ -333,6 +400,7 @@ header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
 #Sidebar content of the dashboard
 sidebar <- dashboardSidebar("THE HUB:",
   sidebarMenu(
+    menuItem("Daily Standings", tabName = "DailyS", icon = icon("chart-line")),
     menuItem("Hitter Leaderboard", tabName = "HitterL", icon = icon("chart-bar")),
     menuItem("Pitcher Leaderboard", tabName = "PitcherL", icon = icon("chart-bar")),
     menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
@@ -349,6 +417,19 @@ sidebar <- dashboardSidebar("THE HUB:",
   ))
 body <- dashboardBody(
   tabItems(
+    tabItem(tabName = "DailyS",
+            fluidRow(
+              column(width = 6,
+                     selectInput("dslg",
+                                 "League:",
+                                 c('PBE','MiLPBE'))
+            )),
+            fluidRow(
+              column(width = 6,plotOutput("daily_standings")),
+                     column(width = 3,dataTableOutput("ds_table"))
+              )
+    ),
+    
     tabItem(tabName = "HitterL",
             fluidRow(
               column(width = 3,
@@ -471,13 +552,11 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE')))
             ),
             fluidRow(
-              column(width = 10, plotOutput("team_scatter_plot")
-              )),
-            fluidRow(
-              dataTableOutput("team_table")
-            )
+              column(width = 8, plotOutput("team_scatter_plot")),
+              column(width = 3,dataTableOutput("team_table"))
     )
   )
+)
 )
 
 
@@ -492,35 +571,47 @@ server <- function(input, output) {
     #input$submit
     all.time.hitter.leaderboard(x = input$stat, y = input$obs, z = input$lg)
     
-  })
+  },height = 700)
   
   output$season.hitter_plot <-  renderPlot({
     
     s.hitter.leaderboard(w = input$year, x = input$stat, y = input$obs, z = input$lg)
     
-  }) 
+  },height = 700) 
   
   output$all.time.pitcher_plot <-  renderPlot({
     #input$submit
     all.time.pitcher.leaderboard(x = input$pstat, y = input$pobs, z = input$plg)
     
-  })
+  },height = 700)
   
   output$season.pitcher_plot <-  renderPlot({
     #input$submit
     s.pitcher.leaderboard(w = input$pyear, x = input$pstat, y = input$pobs, z = input$plg)
     
-  })
+  },height = 700)
   
   output$team_scatter_plot <-  renderPlot({
     #input$submit
     tm.scatter(l = input$splg,x = input$xsct,y = input$ysct)
     
-  })
+  },height = 700)
   
   output$team_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
     tm.tbl(l = input$splg,x = input$xsct,y = input$ysct)
+    
+  })
+  
+  output$daily_standings <-  renderPlot({
+    #input$submit
+    daily_standings_plot(l = input$dslg)
+    
+  },height = 700)
+  
+  output$ds_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
+    #input$submit
+    ds.tbl(l = input$dslg)
     
   })
   

@@ -3,6 +3,7 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(dplyr))
 suppressMessages(library(RColorBrewer))
+suppressMessages(library(directlabels))
 
 source("/Codes/All-Time_Stats.R",local = TRUE)
 source("/Codes/Season_Stats.R",local = TRUE)
@@ -285,4 +286,68 @@ s.pitcher.leaderboard <- function(w,x,y,z){
 
 # pitcher - run function to create graph
 s.pitcher.leaderboard(w = s.pitch.year, x = s.pitch.statistic, y = s.pitch.obs, z = s.pitch.lg)
+
+
+# Daily Standings
+
+l <- 'PBE'
+
+
+daily <- subset(ds.all_games,ds.all_games$league_abbr == l)
+p.daily <- daily[c(4,9,14,18,31)]
+colnames(p.daily) <- c("x","t","d","y","c")
+p.daily$x <- as.Date(p.daily$x)
+season <- substring(max(p.daily$x),1,4)
+
+
+pbe.colors <- c('#97162B',
+                '#D0D02B',
+                '#0E1540',
+                '#FF6700',
+                '#005CAD',
+                '#87795E',
+                '#2C0060',
+                '#183013')
+milpbe.colors <- c('#007EF3',
+                   '#86572C',
+                   '#6C0000',
+                   '#115376')
+
+
+if(l == 'PBE'){
+ p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
+   geom_line() +
+   ggtitle("Games Above/Below .500", subtitle = paste(l)) +
+   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+   ylab("Games Above/Below .500") + xlab("Date") +
+   geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.5)) +
+   theme(legend.position = "none") + 
+   scale_colour_manual(values=pbe.colors)
+ p
+
+ } else {
+     p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
+       geom_line() +
+       ggtitle("Games Above/Below .500", subtitle = paste(l)) +
+       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+       ylab("Games Above/Below .500") + xlab("Date") +
+       geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.5)) +
+       theme(legend.position = "none") + 
+       scale_colour_manual(values=milpbe.colors)
+p
+
+ }
+tbl.ds <- subset(ds.all_games,ds.all_games$league_abbr == l)
+tbl.ds$date <- as.Date(tbl.ds$date)
+tbl.ds <- tbl.ds %>% filter(date == max(date))
+tbl.ds <- tbl.ds[c(10,14,18,19,21:23,30,32,33)]
+colnames(tbl.ds)[colnames(tbl.ds) == 'team_name'] <-'Team Name'
+colnames(tbl.ds)[colnames(tbl.ds) == 'division'] <-'Division'
+colnames(tbl.ds)[colnames(tbl.ds) == 'below.500'] <-'Games Above/Below .500'
+colnames(tbl.ds)[colnames(tbl.ds) == 'winloss'] <-'Win-Loss'
+colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_ra'] <-'Total Runs Against'
+colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_runs'] <-'Total Runs'
+colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_hits'] <-'Total Hits'
+colnames(tbl.ds)[colnames(tbl.ds) == 'pythag_record'] <-'Pythag Record'
+tbl.ds <- tbl.ds [c(1,2,9,10,6,5,7,4,8,3)]
 
