@@ -1,6 +1,7 @@
 library(dplyr)
+library(tidyverse)
 library(tidyr)
-setwd("PBE/Exports/")
+setwd("~/Documents/GitHub/PBE/Exports/")
 
 games <- read.csv('games.csv', header = TRUE, sep = ',')
 
@@ -47,7 +48,7 @@ colnames(box)[colnames(box) == 'hits0'] <- 'hits_away'
 box <- box[,-c(16:19)] 
 
 
-write.csv(box,"R_Code_Exports/box.csv",row.names = FALSE)
+#write.csv(box,"R_Code_Exports/box.csv",row.names = FALSE)
 
 home <- m_games[,c(2:4,6:7,11,13,15,23:25,29,31:32)]
 colnames(home)[colnames(home) == 'home_team'] <- 'team_id'
@@ -86,8 +87,14 @@ colnames(all_games)[colnames(all_games) == 'name'] <- 'division'
 leagues <- data.frame(league_id = c(100,101), league_abbr = c("PBE","MiPBE") )
 all_games <- merge(all_games, leagues, all.x = TRUE)
 
-all_games <- all_games[order(all_games[,1],all_games[,9],all_games[,3]),]
-write.csv(all_games,"R_Code_Exports/PBE_Standings.csv",row.names = FALSE)
+all_games <- all_games[order(all_games[,1],all_games[,3],all_games[,4]),]
+
+all_games <- all_games %>% group_by(team_abbr) %>% mutate(ttl_wins = cumsum(win))
+all_games <- all_games %>% group_by(team_abbr) %>% mutate(ttl_losses = cumsum(loss))
+all_games$below.500 <- all_games$ttl_wins - all_games$ttl_losses
+all_games$winloss <- paste(all_games$win, "-", all_games$loss)
+
+#write.csv(all_games,"R_Code_Exports/PBE_Standings.csv",row.names = FALSE)
 
 # league_averages <- all_games
 # league_averages <- league_averages[c(4,6:8,13:14)]
