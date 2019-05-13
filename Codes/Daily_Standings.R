@@ -2,7 +2,7 @@ library(dplyr)
 library(tidyverse)
 library(readxl)
 library(tidyr)
-setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/Exports/")
 
 ds.games <- read.csv('games.csv', header = TRUE, sep = ',')
 
@@ -115,22 +115,22 @@ ds.all_games$pythag_loss <- round(ds.all_games$gp - ds.all_games$pythag_win, 0)
 ds.all_games$pythag_record <- paste(ds.all_games$pythag_win, "-", ds.all_games$pythag_loss)
 
 
-ds.color <- read_excel("~/Documents/GitHub/PBE/misc/Colors.xlsx")
+ds.color <- read_excel("misc/Colors.xlsx")
 ds.color <- ds.color[c(1,3)]
 ds.all_games <- merge(ds.all_games, ds.color, all.x = TRUE)
 
 
 
-ds.tm <- read.csv("~/Documents/GitHub/PBE/Exports/teams.csv")
+ds.tm <- read.csv("Exports/teams.csv")
 ds.tm$`Team Name` <- paste(ds.tm$name,ds.tm$nickname)
 ds.tm <- ds.tm[c(1,3,8,28)]
 colnames(ds.tm)[colnames(ds.tm) == 'abbr'] <- 'Team Abbr'
 
-ds.lg <- read.csv("~/Documents/GitHub/PBE/Exports/leagues.csv")
+ds.lg <- read.csv("Exports/leagues.csv")
 ds.lg <- ds.lg[c(1,3)]
 colnames(ds.lg)[colnames(ds.lg) == 'abbr'] <- 'League'
 
-ds.stdp <- read.csv("~/Documents/GitHub/PBE/Exports/team_record.csv")
+ds.stdp <- read.csv("Exports/team_record.csv")
 ds.stdp <- ds.stdp[c(1,5,6)]
 ds.stdp <- subset(ds.stdp,ds.stdp$team_id %nin% c(7,8,12,13,14,15,22,23))
 colnames(ds.stdp)[colnames(ds.stdp) == 'pos'] <- 'Division Standing'
