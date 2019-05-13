@@ -16,6 +16,7 @@ suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(shinydashboard))
 suppressMessages(library(readxl))
+suppressMessages(library(directlabels))
 library(rsconnect)
 
 source("Codes/All-Time_Stats.R",local = TRUE)
