@@ -11,7 +11,7 @@ c.x_pl <- read.csv('Exports/players.csv',header = TRUE)
 c.x_pl$full_name <- paste(c.x_pl$first_name,c.x_pl$last_name)
 c.positions <- data.frame('position' = 1:10, 'position_name' = c('P','C','1B','2B','3B','SS','LF','CF','RF','DH'))
 c.combined.players <- merge(c.x_pl,c.positions,by = "position", all.x = TRUE)
-c.pl_name_lookup <- c.combined.players[c(2,99,100)]
+c.pl_name_lookup <- c.combined.players[c(2,5,99,100)]
 
 c.player_career_batting  <- read.csv('Exports/players_career_batting_stats.csv',header = TRUE)
 c.player_career_batting <- subset(c.player_career_batting,c.player_career_batting$split_id == 1)
@@ -111,9 +111,11 @@ c.all$url <- paste("http://www.pbesim.com/players/player_",c.all$player_id,".htm
 c.all$pitch_hit <- ifelse(c.all$position_name != 'P','Hitter','Pitcher')
 
 c.all.hit <- subset(c.all,c.all$pitch_hit == 'Hitter')
+c.all.hit$role <- NULL
 c.all.pitch <- subset(c.all, c.all$pitch_hit == "Pitcher")
 
 c.all.hit <- c.all.hit[-c(19:36,51:63,67)]
+c.all.hit$Position <- str_sub(c.all.hit$name_pos,start = -2)
 colnames(c.all.hit)[colnames(c.all.hit) == 'ab'] <- 'At Bats'
 colnames(c.all.hit)[colnames(c.all.hit) == 'h'] <- 'Hits'
 colnames(c.all.hit)[colnames(c.all.hit) == 'SO'] <- 'Strikeouts'
@@ -141,6 +143,10 @@ colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_pcnt'] <- 'K Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 
+
+c.all.pitch$pitcher_position <- ifelse(c.all.pitch$role %in% c(12,13),"CL",ifelse(c.all.pitch$role == 11,"SP",c.all.pitch$position_name))
+c.all.pitch$role <- NULL
+c.all.pitch$name_pos <- paste(c.all.pitch$full_name, "-", c.all.pitch$pitcher_position)
 c.all.pitch <- c.all.pitch[-c(3:18,37,39:50)]
 colnames(c.all.pitch)[colnames(c.all.pitch) =='ip']<-'Innings Pitched'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='ha']<-'Hits Allowed'

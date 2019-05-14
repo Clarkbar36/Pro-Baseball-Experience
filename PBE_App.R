@@ -418,7 +418,7 @@ records.plot <- function(t){
     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
     ylab("Wins") + xlab("Year") +
     scale_x_continuous(breaks=seq(from = 2017,to = 2026,by = 1)) +
-    geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 3) +
+    geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 5) +
     geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
     theme_bw()
   p     
@@ -682,7 +682,7 @@ server <- function(input, output) {
     #input$submit
     WinsAB_plot(l = input$dslg)
     
-  },height = 500)
+  },height = 600)
   
   output$winsWB_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
