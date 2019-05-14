@@ -351,3 +351,23 @@ colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_hits'] <-'Total Hits'
 colnames(tbl.ds)[colnames(tbl.ds) == 'pythag_record'] <-'Pythag Record'
 tbl.ds <- tbl.ds [c(1,2,9,10,6,5,7,4,8,3)]
 
+
+## Records
+tm = "SAS"
+pl.records <- subset(r.records,r.records$abbr == tm)
+pl.color <- as.character(unique(pl.records$`Primary Color`))
+pl.tcolor <- as.character(unique(pl.records$`Tertiary Color`))
+
+
+p <- ggplot(pl.records,aes(x=year,y=w,group=abbr)) +
+  geom_line(colour = pl.color) +
+  geom_point(shape = 23, size = 3, fill = pl.tcolor, colour = "black") +
+  ggtitle("Wins by Season", subtitle = paste(unique(pl.records$team_name),"-",unique(pl.records$league_abbr))) +
+  theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+  ylab("Wins") + xlab("Year") +
+  scale_x_continuous(breaks=seq(min(pl.records$year),max(pl.records$year),1)) + 
+  geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
+  geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 4)
+  
+p    
+

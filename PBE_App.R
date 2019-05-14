@@ -17,6 +17,7 @@ suppressMessages(library(RColorBrewer))
 suppressMessages(library(shinydashboard))
 suppressMessages(library(readxl))
 suppressMessages(library(directlabels))
+suppressMessages(library(Hmisc))
 library(rsconnect)
 
 source("Codes/All-Time_Stats.R",local = TRUE)
@@ -325,15 +326,16 @@ tm.tbl <- function(l,x,y){
   t.all.stats
 }
 
-daily_standings_plot <- function(l){
+WinsAB_plot <- function(l){
   #For use in new seasons
   # filenames = paste(paste("R_Code_Exports/",2027,"_PBE_Standings",sep=""), '.csv', sep = '') 
   # ds.all_games <- do.call(rbind, lapply(filenames, read.csv, header = TRUE))
 
   daily <- subset(ds.all_games,ds.all_games$league_abbr == l)
   p.daily <- daily[c(4,9,14,18,31,34)]
-  colnames(p.daily) <- c("x","t","d","y","c","s")
   season <- unique(p.daily$season)
+  colnames(p.daily) <- c("x","t","d","y","c","s")
+ 
   
   pbe.colors <- c('#97162B',
                   '#D0D02B',
@@ -374,7 +376,7 @@ daily_standings_plot <- function(l){
   }
 }
   
-ds.tbl <- function(l){
+WAB.tbl <- function(l){
   tbl.ds <- subset(ds.all_games,ds.all_games$league_abbr == l)
   tbl.ds$date <- as.Date(tbl.ds$date)
   tbl.ds <- tbl.ds %>% filter(date == max(date))
@@ -404,7 +406,7 @@ header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
 #Sidebar content of the dashboard
 sidebar <- dashboardSidebar("THE HUB:",
   sidebarMenu(
-    menuItem("Daily Standings", tabName = "DailyS", icon = icon("chart-line")),
+    menuItem("Wins Above/Below .500", tabName = "WinsAB", icon = icon("chart-line")),
     menuItem("Hitter Leaderboard", tabName = "HitterL", icon = icon("chart-bar")),
     menuItem("Pitcher Leaderboard", tabName = "PitcherL", icon = icon("chart-bar")),
     menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
@@ -421,7 +423,7 @@ sidebar <- dashboardSidebar("THE HUB:",
   ))
 body <- dashboardBody(
   tabItems(
-    tabItem(tabName = "DailyS",
+    tabItem(tabName = "WinsAB",
             fluidRow(
               column(width = 6,
                      selectInput("dslg",
@@ -429,8 +431,8 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE'))
             )),
             fluidRow(
-              column(width = 6,plotOutput("daily_standings")),
-                     column(width = 3,dataTableOutput("ds_table"))
+              column(width = 6,plotOutput("wins_AB")),
+                     column(width = 3,dataTableOutput("winsWB_table"))
               )
     ),
     
@@ -607,15 +609,15 @@ server <- function(input, output) {
     
   })
   
-  output$daily_standings <-  renderPlot({
+  output$wins_AB <-  renderPlot({
     #input$submit
-    daily_standings_plot(l = input$dslg)
+    WinsAB_plot(l = input$dslg)
     
   },height = 500)
   
-  output$ds_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
+  output$winsWB_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
-    ds.tbl(l = input$dslg)
+    WAB.tbl(l = input$dslg)
     
   })
   
