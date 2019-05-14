@@ -572,31 +572,31 @@ server <- function(input, output) {
     #input$submit
     all.time.hitter.leaderboard(x = input$stat, y = input$obs, z = input$lg)
     
-  },height = 700)
+  },height = 500)
   
   output$season.hitter_plot <-  renderPlot({
     
     s.hitter.leaderboard(w = input$year, x = input$stat, y = input$obs, z = input$lg)
     
-  },height = 700) 
+  },height = 500) 
   
   output$all.time.pitcher_plot <-  renderPlot({
     #input$submit
     all.time.pitcher.leaderboard(x = input$pstat, y = input$pobs, z = input$plg)
     
-  },height = 700)
+  },height = 500)
   
   output$season.pitcher_plot <-  renderPlot({
     #input$submit
     s.pitcher.leaderboard(w = input$pyear, x = input$pstat, y = input$pobs, z = input$plg)
     
-  },height = 700)
+  },height = 500)
   
   output$team_scatter_plot <-  renderPlot({
     #input$submit
     tm.scatter(l = input$splg,x = input$xsct,y = input$ysct)
     
-  },height = 700)
+  },height = 500)
   
   output$team_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
@@ -608,7 +608,7 @@ server <- function(input, output) {
     #input$submit
     daily_standings_plot(l = input$dslg)
     
-  },height = 700)
+  },height = 500)
   
   output$ds_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit

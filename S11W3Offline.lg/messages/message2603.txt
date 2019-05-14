@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in complete games?
+
+<Alexei Brusilov:player#498>, ANC, 		0
+<Henry Chadwick:player#526>, KGN, 		0
+<Thomas Delabar:player#534>, ANC, 		0
+<Amp Dupree:player#529>, ANC, 		0
+<Brian Harris:player#530>, KGN, 		0
