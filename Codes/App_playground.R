@@ -1,9 +1,15 @@
+suppressMessages(library(shiny))
 suppressMessages(library(tidyverse))
+suppressMessages(library(DT))
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
-suppressMessages(library(dplyr))
+suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
+suppressMessages(library(shinydashboard))
+suppressMessages(library(readxl))
 suppressMessages(library(directlabels))
+suppressMessages(library(Hmisc))
+suppressMessages(library(gridExtra))
 
 source("/Codes/All-Time_Stats.R",local = TRUE)
 source("/Codes/Season_Stats.R",local = TRUE)
@@ -353,10 +359,18 @@ tbl.ds <- tbl.ds [c(1,2,9,10,6,5,7,4,8,3)]
 
 
 ## Records
-tm = "SAS"
-pl.records <- subset(r.records,r.records$abbr == tm)
+tm = "Death Valley Scorpions"
+pl.records <- subset(r.records,r.records$team_name == tm)
 pl.color <- as.character(unique(pl.records$`Primary Color`))
 pl.tcolor <- as.character(unique(pl.records$`Tertiary Color`))
+
+
+mytheme <- gridExtra::ttheme_default(
+  core = list(fg_params=list(cex = .75)),
+  colhead = list(fg_params=list(cex = .75)),
+  rowhead = list(fg_params=list(cex = .75)))
+records.tbl <- pl.records %>% group_by(team_name) %>% summarise(`Seasons Played` = n(), `Playoff Apperances` = sum(made_playoffs), Championships = sum(won_playoffs), `Team Average Wins` = round(mean(w),0))
+colnames(records.tbl)[colnames(records.tbl) == 'team_name'] <- 'Team'
 
 
 p <- ggplot(pl.records,aes(x=year,y=w,group=abbr)) +
@@ -365,9 +379,31 @@ p <- ggplot(pl.records,aes(x=year,y=w,group=abbr)) +
   ggtitle("Wins by Season", subtitle = paste(unique(pl.records$team_name),"-",unique(pl.records$league_abbr))) +
   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
   ylab("Wins") + xlab("Year") +
-  scale_x_continuous(breaks=seq(min(pl.records$year),max(pl.records$year),1)) + 
+  scale_x_continuous(breaks=seq(min(pl.records$year),max(pl.records$year),1)) +
+  geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 4) +
   geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
-  geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 4)
+  annotation_custom(tableGrob(records.tbl, theme = mytheme, rows = NULL), xmin=min(pl.records$year), xmax=mean(pl.records$year), ymin=mean(pl.records$w)+10, ymax=max(pl.records$w))
+ 
   
 p    
 
+## Volatility table
+colnames(r.volatility)[colnames(r.volatility) == 'league_abbr'] <-'League'
+colnames(r.volatility)[colnames(r.volatility) == 'team_name'] <-'Team'
+r.volatility
+
+## Season Table
+season.info <- subset(r.records,r.records$team_name == tm)
+season.info <- season.info[c(6,18,21:23,28,11)]
+colnames(season.info)[colnames(season.info) == 'year'] <-'Year'
+colnames(season.info)[colnames(season.info) == 'team_name'] <-'Team'
+colnames(season.info)[colnames(season.info) == 'best_hitter_name'] <-'Best Hitter'
+colnames(season.info)[colnames(season.info) == 'best_pitcher_name'] <-'Best Pitcher'
+colnames(season.info)[colnames(season.info) == 'best_rookie_name'] <-'Best Rookie'
+colnames(season.info)[colnames(season.info) == 'winloss'] <- 'Win-Loss'
+colnames(season.info)[colnames(season.info) == 'pos'] <-'Final Divison Standing'
+season.info <- season.info[order(season.info$Year),] 
+season.info
+
+lg.lup <- subset(r.volatility,r.volatility$team_name == tm)
+lg.lup <- lg.lup[1] 

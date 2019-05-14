@@ -64,8 +64,12 @@ r.records <- r.records %>% group_by(league_id) %>% mutate(Lg_Average_Wins = roun
 ds.color <- read_excel("Misc/Colors.xlsx")
 ds.color <- ds.color[c(1,3,5)]
 r.records <- merge(r.records, ds.color, all.x = TRUE)
+r.records$winloss <- paste(r.records$w,"-",r.records$l)
 
 r.volatility <- r.records %>% group_by(league_abbr,team_name) %>% summarise(Volatility = round(sd(w),2),`Average Wins` = round(mean(w),2))
+
+tm.names <- unique(r.records$team_name)
+tm.names <- sort(tm.names)
 
 ## Write ##
 #write.csv(records, "R_Code_Exports/records.csv", row.names = FALSE)

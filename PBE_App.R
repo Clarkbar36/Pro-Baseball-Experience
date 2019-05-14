@@ -18,13 +18,15 @@ suppressMessages(library(shinydashboard))
 suppressMessages(library(readxl))
 suppressMessages(library(directlabels))
 suppressMessages(library(Hmisc))
+suppressMessages(library(gridExtra))
+suppressMessages(library(ggthemes))
 library(rsconnect)
 
 source("Codes/All-Time_Stats.R",local = TRUE)
 source("Codes/Season_Stats.R",local = TRUE)
 source("Codes/Team_Scatter.R",local = TRUE)
 source("Codes/Daily_Standings.R",local = TRUE)
-
+source("Codes/Records.R",local = TRUE)
 # Define UI for application that draws a histogram
 
 all.time.hitter.leaderboard <- function(x,y,z){
@@ -147,7 +149,6 @@ s.hitter.leaderboard <- function(w,x,y,z){
   }
 }
 
-
 all.time.pitcher.leaderboard <- function(x,y,z){
   # subset pitcher dataframe by league
   pitch.plt.df <- subset(c.all.pitch,c.all.pitch$league_abbr == z)
@@ -208,7 +209,6 @@ all.time.pitcher.leaderboard <- function(x,y,z){
   }
 }
 
-
 s.pitcher.leaderboard <- function(w,x,y,z){
   # subset pitcher dataframe by league
   s.pitch.plt.df <- subset(s.all.pitch,s.all.pitch$league_abbr == z & s.all.pitch$year == w)
@@ -268,7 +268,6 @@ s.pitcher.leaderboard <- function(w,x,y,z){
     p
   }
 }
-
 
 tm.scatter <- function(l,x,y){
   num.x <- which( colnames(all.stats)==x)
@@ -357,9 +356,11 @@ WinsAB_plot <- function(l){
       ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       ylab("Games Above/Below .500") + xlab("Date") +
-      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.75)) +
+      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = -.15, vjust = -.75)) +
       theme(legend.position = "none") + 
-      scale_colour_manual(values=pbe.colors)
+      scale_colour_manual(values=pbe.colors) +
+      guides(colour=FALSE) +
+      theme_bw()
     p
     
   } else {
@@ -368,9 +369,11 @@ WinsAB_plot <- function(l){
       ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       ylab("Games Above/Below .500") + xlab("Date") +
-      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = .5, vjust = -.75)) +
+      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = -.15, vjust = -.75)) +
       theme(legend.position = "none") + 
-      scale_colour_manual(values=milpbe.colors)
+      scale_colour_manual(values=milpbe.colors) +
+      guides(colour=FALSE) +
+      theme_bw()
     p
     
   }
@@ -393,7 +396,63 @@ WAB.tbl <- function(l){
   tbl.ds
 }  
 
+records.plot <- function(t){
+  pl.records <- subset(r.records,r.records$team_name == t)
+  pl.color <- as.character(unique(pl.records$`Primary Color`))
+  pl.tcolor <- as.character(unique(pl.records$`Tertiary Color`))
 
+  
+  
+  mytheme <- gridExtra::ttheme_default(
+    core = list(fg_params=list(cex = .75)),
+    colhead = list(fg_params=list(cex = .75)),
+    rowhead = list(fg_params=list(cex = .75)))
+  records.tbl <- pl.records %>% group_by(team_name) %>% summarise(`Seasons Played` = n(), `Playoff Apperances` = sum(made_playoffs), Championships = sum(won_playoffs), `Team Average Wins` = round(mean(w),0))
+  colnames(records.tbl)[colnames(records.tbl) == 'team_name'] <- 'Team'
+  
+  
+  p <- ggplot(pl.records,aes(x=year,y=w,group=team_name)) +
+    geom_line(colour = pl.color) +
+    geom_point(shape = 23, size = 3, fill = pl.tcolor, colour = "black") +
+    ggtitle("Wins by Season", subtitle = paste(unique(pl.records$team_name),"-",unique(pl.records$league_abbr))) +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    ylab("Wins") + xlab("Year") +
+    scale_x_continuous(breaks=seq(from = 2017,to = 2026,by = 1)) +
+    geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 3) +
+    geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
+    theme_bw()
+  p     
+}
+
+vol.tbl <- function(t){
+  lg.lup <- subset(r.volatility,r.volatility$team_name == t)
+  lg.lup <- lg.lup[[1]] 
+  r.volatility <- subset(r.volatility,r.volatility$league_abbr == lg.lup)
+  colnames(r.volatility)[colnames(r.volatility) == 'league_abbr'] <-'League'
+  colnames(r.volatility)[colnames(r.volatility) == 'team_name'] <-'Team'
+  r.volatility
+}
+
+season.tbl <- function(t){
+  season.info <- subset(r.records,r.records$team_name == t)
+  season.info <- season.info[c(6,18,21:23,28,11)]
+  colnames(season.info)[colnames(season.info) == 'year'] <-'Year'
+  colnames(season.info)[colnames(season.info) == 'team_name'] <-'Team'
+  colnames(season.info)[colnames(season.info) == 'best_hitter_name'] <-'Best Hitter'
+  colnames(season.info)[colnames(season.info) == 'best_pitcher_name'] <-'Best Pitcher'
+  colnames(season.info)[colnames(season.info) == 'best_rookie_name'] <-'Best Rookie'
+  colnames(season.info)[colnames(season.info) == 'winloss'] <- 'Win-Loss'
+  colnames(season.info)[colnames(season.info) == 'pos'] <-'Final Divison Standing'
+  season.info <- season.info[order(-season.info$Year),]
+  season.info
+}
+
+records.tbl <- function(t){
+  pl.records <- subset(r.records,r.records$team_name == t)
+  records.tbl <- pl.records %>% group_by(team_name) %>% summarise(`Seasons Played` = n(), `Playoff Apperances` = sum(made_playoffs), Championships = sum(won_playoffs), `Team Average Wins` = round(mean(w),0))
+  colnames(records.tbl)[colnames(records.tbl) == 'team_name'] <- 'Team'
+  records.tbl
+}
 
 #Dashboard header carrying the title of the dashboard
 header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
@@ -409,6 +468,7 @@ sidebar <- dashboardSidebar("THE HUB:",
     menuItem("Wins Above/Below .500", tabName = "WinsAB", icon = icon("chart-line")),
     menuItem("Hitter Leaderboard", tabName = "HitterL", icon = icon("chart-bar")),
     menuItem("Pitcher Leaderboard", tabName = "PitcherL", icon = icon("chart-bar")),
+    menuItem("Wins by Season", tabName = "Records", icon = icon("chart-line")),
     menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
     "________________________",
     menuItem("Link: PBE Forum", icon = icon("link"),
@@ -546,6 +606,15 @@ body <- dashboardBody(
             
     ),
     
+    tabItem(tabName = "Records",
+            fluidRow(
+              column(width = 6,
+                     selectInput('rtm', 'Team', tm.names,selectize=FALSE))),
+            fluidRow(
+              column(width = 6,plotOutput("records_plt"),dataTableOutput("vol_tbl")),
+              column(width = 6,dataTableOutput("record_tbl"),dataTableOutput("season_tbl")))
+    ),
+    
     tabItem(tabName = "TmSctpl",
             fluidRow(
               column(width = 4,
@@ -618,6 +687,30 @@ server <- function(input, output) {
   output$winsWB_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
     WAB.tbl(l = input$dslg)
+    
+  })
+  
+  output$records_plt <-  renderPlot({
+    #input$submit
+    records.plot(t = input$rtm)
+    
+  },height = 400)
+  
+  output$vol_tbl <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
+    #input$submit
+    vol.tbl(t = input$rtm)
+    
+  })
+  
+  output$season_tbl <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
+    #input$submit
+    season.tbl(t = input$rtm)
+    
+  })
+  
+  output$record_tbl <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
+    #input$submit
+    records.tbl(t = input$rtm)
     
   })
   
