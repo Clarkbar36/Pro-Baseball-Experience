@@ -142,9 +142,21 @@ ds.lkup <- ds.lkup %>%
   mutate(`League Standing` = round(rank(-pct),0)) %>% 
   ungroup
 ds.lkup <- ds.lkup[c(1,6,8)]
+
 ds.all_games <- merge(ds.all_games,ds.lkup,all.x = TRUE)
 
-#write.csv(all_games,"R_Code_Exports/PBE_Standings.csv",row.names = FALSE)
+
+ds.all_games$date <- as.Date(ds.all_games$date)
+season <- substring(max(ds.all_games$date),1,4)
+ds.all_games$season <- season
+
+write.csv(ds.all_games,paste("R_Code_Exports/",season,"_PBE_Standings.csv",sep=""),row.names = FALSE)
+
+
+
+
+
+
 
 # league_averages <- all_games
 # league_averages <- league_averages[c(4,6:8,13:14)]

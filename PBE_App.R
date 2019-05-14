@@ -326,11 +326,14 @@ tm.tbl <- function(l,x,y){
 }
 
 daily_standings_plot <- function(l){
+  #For use in new seasons
+  # filenames = paste(paste("R_Code_Exports/",2027,"_PBE_Standings",sep=""), '.csv', sep = '') 
+  # ds.all_games <- do.call(rbind, lapply(filenames, read.csv, header = TRUE))
+
   daily <- subset(ds.all_games,ds.all_games$league_abbr == l)
-  p.daily <- daily[c(4,9,14,18,31)]
-  colnames(p.daily) <- c("x","t","d","y","c")
-  p.daily$x <- as.Date(p.daily$x)
-  season <- substring(max(p.daily$x),1,4)
+  p.daily <- daily[c(4,9,14,18,31,34)]
+  colnames(p.daily) <- c("x","t","d","y","c","s")
+  season <- unique(p.daily$season)
   
   pbe.colors <- c('#97162B',
                   '#D0D02B',
