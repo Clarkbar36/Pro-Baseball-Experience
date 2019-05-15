@@ -115,7 +115,6 @@ c.all.hit$role <- NULL
 c.all.pitch <- subset(c.all, c.all$pitch_hit == "Pitcher")
 
 c.all.hit <- c.all.hit[-c(19:36,51:63,67)]
-c.all.hit$Position <- str_sub(c.all.hit$name_pos,start = -2)
 colnames(c.all.hit)[colnames(c.all.hit) == 'ab'] <- 'At Bats'
 colnames(c.all.hit)[colnames(c.all.hit) == 'h'] <- 'Hits'
 colnames(c.all.hit)[colnames(c.all.hit) == 'SO'] <- 'Strikeouts'
@@ -142,6 +141,7 @@ colnames(c.all.hit)[colnames(c.all.hit) == 'b_babip'] <- 'BABIP'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_pcnt'] <- 'K Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
+colnames(c.all.hit)[colnames(c.all.hit) == 'position_name'] <- 'Position'
 
 
 c.all.pitch$pitcher_position <- ifelse(c.all.pitch$role %in% c(12,13),"CL",ifelse(c.all.pitch$role == 11,"SP",c.all.pitch$position_name))
@@ -177,6 +177,6 @@ colnames(c.all.pitch)[colnames(c.all.pitch) =='pit_bb_pcnt']<-'BB percent'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='pit_k_bb_pcnt']<-'K-BB percent'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='winloss']<-'Win-Loss'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='win_percent']<-'Win Percent'
-
+colnames(c.all.pitch)[colnames(c.all.pitch) =='pitcher_position']<-'Position'
 
 #write.csv(all,'Documents/GitHub/PBE/R_Code_Exports/All_Time_Stats.csv', row.names = FALSE)

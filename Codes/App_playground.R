@@ -89,7 +89,6 @@ pitch.statistic <- "Win Percent"
 pitch.obs <- 10
 pitch.lg <- "PBE"
 
-
 #pitcher function
 pitcher.leaderboard <- function(x,y,z){
   # subset pitcher dataframe by league

@@ -10,7 +10,7 @@ s.x_pl <- read.csv('Exports/players.csv',header = TRUE)
 s.x_pl$full_name <- paste(s.x_pl$first_name,s.x_pl$last_name)
 s.positions <- data.frame('position' = 1:10, 'position_name' = c('P','C','1B','2B','3B','SS','LF','CF','RF','DH'))
 s.combined.players <- merge(s.x_pl,s.positions,by = "position", all.x = TRUE)
-s.pl_name_lookup <- s.combined.players[c(2,99,100)]
+s.pl_name_lookup <- s.combined.players[c(2,5,99,100)]
 
 s.player_career_batting  <- read.csv('Exports/players_career_batting_stats.csv',header = TRUE)
 s.player_career_batting <- subset(s.player_career_batting,s.player_career_batting$split_id == 1)
@@ -151,10 +151,12 @@ s.all$url <- paste("http://www.pbesim.com/players/player_",s.all$player_id,".htm
 s.all$pitch_hit <- ifelse(s.all$position_name != 'P','Hitter','Pitcher')
 
 s.all.hit <- subset(s.all,s.all$pitch_hit == 'Hitter')
+s.all.hit$role <- NULL
 s.all.pitch <- subset(s.all, s.all$pitch_hit == "Pitcher")
 
 
 s.all.hit <- s.all.hit[-c(20:38,56:68,74)]
+
 colnames(s.all.hit)[colnames(s.all.hit) == 'ab'] <- 'At Bats'
 colnames(s.all.hit)[colnames(s.all.hit) == 'h'] <- 'Hits'
 colnames(s.all.hit)[colnames(s.all.hit) == 'SO'] <- 'Strikeouts'
@@ -181,7 +183,12 @@ colnames(s.all.hit)[colnames(s.all.hit) == 'b_babip'] <- 'BABIP'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_k_pcnt'] <- 'K Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
+colnames(s.all.hit)[colnames(s.all.hit) == 'position_name'] <- 'Position'
 
+
+s.all.pitch$pitcher_position <- ifelse(s.all.pitch$role %in% c(12,13),"CL",ifelse(s.all.pitch$role == 11,"SP",s.all.pitch$position_name))
+s.all.pitch$role <- NULL
+s.all.pitch$team_name_pos <- paste(s.all.pitch$abbr,"-", s.all.pitch$full_name, "-", s.all.pitch$pitcher_position)
 s.all.pitch <- s.all.pitch[-c(5:20,39,41:55)]
 colnames(s.all.pitch)[colnames(s.all.pitch) =='ip']<-'Innings Pitched'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='ha']<-'Hits Allowed'
@@ -212,6 +219,6 @@ colnames(s.all.pitch)[colnames(s.all.pitch) =='pit_bb_pcnt']<-'BB percent'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='pit_k_bb_pcnt']<-'K-BB percent'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='winloss']<-'Win-Loss'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='win_percent']<-'Win Percent'
-
+colnames(s.all.pitch)[colnames(s.all.pitch) =='pitcher_position']<-'Position'
 
 #write.csv(all,'~/Documents/GitHub/PBE/R_Code_Exports/Season_Stats.csv', row.names = FALSE)
