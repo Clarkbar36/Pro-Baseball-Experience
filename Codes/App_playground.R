@@ -406,3 +406,120 @@ season.info
 
 lg.lup <- subset(r.volatility,r.volatility$team_name == tm)
 lg.lup <- lg.lup[1] 
+
+
+
+
+# Hitter Scatter - Career
+l <- 'PBE'
+p <- '2B'
+x <- 'Homeruns'
+y <- 'WAR'
+s <- 2027
+
+
+ num.x <- which( colnames(c.all.hit)==x)
+ num.y <- which( colnames(c.all.hit)==y)
+
+ 
+ if (p=='All'){
+ c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l)
+ }else if (p == 'OF'){
+  c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position %in% c('LF','CF','RF')) 
+ } else{
+   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position == p) 
+ }
+
+ if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
+   mean_pa <- round(mean(c.pl.scatter$`Plate Apperances`),0)
+   c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Apperances`>=mean_pa)
+ } else {
+   c.pl.scatter <- c.pl.scatter
+ } 
+ 
+ c.pl.scatter <- c.pl.scatter[c(36,as.numeric(num.x),as.numeric(num.y))]
+ colnames(c.pl.scatter) <- c("pl","x","y")
+ if(p=='All'){
+ l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.97) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.97))
+ }else{
+   l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.93) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.93))   
+ }
+
+
+ pl <-  ggplot(c.pl.scatter, aes(x=x, y=y,label=pl))+
+   geom_point(aes(colour = x)) +
+   scale_colour_gradient(low = "Orange", high = "#3945D7") +
+   ggtitle(paste(y,"by",x), subtitle =paste(l,"-",p))  +
+   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+   xlab(x) + ylab(y) +
+   geom_text_repel(
+     arrow = arrow(length = unit(0.01, 'npc')),
+     point.padding = unit(.80, "lines"),
+     box.padding = unit(.60, "lines"),
+     force = 2,
+     data=l.pl) +
+   theme(legend.position = "none")
+   
+ pl
+
+ 
+ # Pitcher Scatter - Career
+ l <- 'PBE'
+ p <- 'All'
+ x <- 'Strikeouts'
+ y <- 'WAR'
+ s <- 2027
+ 
+ 
+ num.x <- which( colnames(c.all.hit)==x)
+ num.y <- which( colnames(c.all.hit)==y)
+ 
+ 
+ if (p=='All'){
+   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l)
+ }else if (p == 'OF'){
+   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position %in% c('LF','CF','RF')) 
+ } else{
+   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position == p) 
+ }
+ 
+ if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
+   mean_pa <- round(mean(c.pl.scatter$`Plate Apperances`),0)
+   c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Apperances`>=mean_pa)
+ } else {
+   c.pl.scatter <- c.pl.scatter
+ } 
+ 
+ c.pl.scatter <- c.pl.scatter[c(36,as.numeric(num.x),as.numeric(num.y))]
+ colnames(c.pl.scatter) <- c("pl","x","y")
+ if(p=='All'){
+   l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.97) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.97))
+ }else{
+   l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.93) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.93))   
+ }
+ 
+ 
+ pl <-  ggplot(c.pl.scatter, aes(x=x, y=y,label=pl))+
+   geom_point(aes(colour = x)) +
+   scale_colour_gradient(low = "Orange", high = "#3945D7") +
+   ggtitle(paste(y,"by",x), subtitle =paste(l,"-",p))  +
+   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+   xlab(x) + ylab(y) +
+   geom_text_repel(
+     arrow = arrow(length = unit(0.01, 'npc')),
+     point.padding = unit(.80, "lines"),
+     box.padding = unit(.60, "lines"),
+     force = 2,
+     data=l.pl) +
+   theme(legend.position = "none")
+ 
+ pl
+
+
+
+
+
+
+
+
+

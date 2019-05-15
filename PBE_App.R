@@ -20,6 +20,7 @@ suppressMessages(library(directlabels))
 suppressMessages(library(Hmisc))
 suppressMessages(library(gridExtra))
 suppressMessages(library(ggthemes))
+suppressMessages(library(ggrepel))
 library(rsconnect)
 
 source("Codes/All-Time_Stats.R",local = TRUE)
@@ -473,6 +474,98 @@ records.tbl <- function(t){
   records.tbl
 }
 
+all.hit.scatter <- function(l,p,x,y){
+  num.x <- which( colnames(c.all.hit)==x)
+  num.y <- which( colnames(c.all.hit)==y)
+  
+  if (p=='All'){
+    c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l)
+  }else if (p == 'OF'){
+    c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position %in% c('LF','CF','RF')) 
+  } else{
+    c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position == p) 
+  }
+  
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
+    mean_pa <- round(mean(c.pl.scatter$`Plate Apperances`),0)
+    c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Apperances`>=mean_pa)
+  } else {
+    c.pl.scatter <- c.pl.scatter
+  } 
+  
+  c.pl.scatter <- c.pl.scatter[c(36,as.numeric(num.x),as.numeric(num.y))]
+  colnames(c.pl.scatter) <- c("pl","x","y")
+  
+  if(p=='All'){
+    l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.97) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.97))
+  }else{
+    l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.75) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.75))   
+  }
+  
+  
+  pl <-  ggplot(c.pl.scatter, aes(x=x, y=y,label=pl))+
+    geom_point(aes(colour = x)) +
+    scale_colour_gradient(low = "Orange", high = "#3945D7") +
+    ggtitle(paste("All-Time",y,"by",x), subtitle =paste(l,"-",p))  +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    xlab(x) + ylab(y) +
+    geom_text_repel(
+      arrow = arrow(length = unit(0.01, 'npc')),
+      point.padding = unit(.80, "lines"),
+      box.padding = unit(.60, "lines"),
+      force = 2,
+      data=l.pl) +
+    theme(legend.position = "none")
+  
+  pl
+}
+
+s.hit.scatter <- function(z,l,p,x,y){
+  num.x <- which( colnames(s.all.hit)==x)
+  num.y <- which( colnames(s.all.hit)==y)
+  
+  if (p=='All'){
+    s.pl.scatter <- subset(s.all.hit,s.all.hit$league_abbr == l & s.all.hit$year == z)
+  }else if (p == 'OF'){
+    s.pl.scatter <- subset(s.all.hit,s.all.hit$league_abbr == l & s.all.hit$Position %in% c('LF','CF','RF') & s.all.hit$year == z) 
+  } else{
+    s.pl.scatter <- subset(s.all.hit,s.all.hit$league_abbr == l & s.all.hit$Position == p & s.all.hit$year == z) 
+  }
+  
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
+    mean_pa <- round(mean(s.pl.scatter$`Plate Apperances`),0)
+    s.pl.scatter <- subset(s.pl.scatter,s.pl.scatter$`Plate Apperances`>=mean_pa)
+  } else {
+    s.pl.scatter <- s.pl.scatter
+  } 
+  
+  s.pl.scatter <- s.pl.scatter[c(42,as.numeric(num.x),as.numeric(num.y))]
+  colnames(s.pl.scatter) <- c("pl","x","y")
+  
+  if(p=='All'){
+    l.pl <- subset(s.pl.scatter,s.pl.scatter$x >= quantile(s.pl.scatter$x,.97) |  s.pl.scatter$y >= quantile(s.pl.scatter$y,.97))
+  }else{
+    l.pl <- subset(s.pl.scatter,s.pl.scatter$x >= quantile(s.pl.scatter$x,.75) |  s.pl.scatter$y >= quantile(s.pl.scatter$y,.75))   
+  }
+  
+  
+  pl <-  ggplot(s.pl.scatter, aes(x=x, y=y,label=pl))+
+    geom_point(aes(colour = x)) +
+    scale_colour_gradient(low = "Orange", high = "#3945D7") +
+    ggtitle(paste(z,"- Season",y,"by",x), subtitle =paste(l,"-",p))  +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    xlab(x) + ylab(y) +
+    geom_text_repel(
+      arrow = arrow(length = unit(0.01, 'npc')),
+      point.padding = unit(.80, "lines"),
+      box.padding = unit(.60, "lines"),
+      force = 2,
+      data=l.pl) +
+    theme(legend.position = "none")
+  
+  pl
+}
+
 #Dashboard header carrying the title of the dashboard
 header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
                                                      messageItem(
@@ -489,6 +582,7 @@ sidebar <- dashboardSidebar("THE HUB:",
     menuItem("Pitcher Leaderboard", tabName = "PitcherL", icon = icon("chart-bar")),
     menuItem("Wins by Season", tabName = "Records", icon = icon("chart-line")),
     menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
+    menuItem("Hitter Scatter", tabName = "HSctpl", icon = icon("baseball-ball")),
     "________________________",
     menuItem("Link: PBE Forum", icon = icon("link"),
              href = "http://probaseballexperience.jcink.net/index.php?act=idx"),
@@ -660,6 +754,30 @@ body <- dashboardBody(
               column(width = 8, plotOutput("team_scatter_plot")),
               column(width = 3,dataTableOutput("team_table"))
     )
+  ),
+  
+  tabItem(tabName = "HSctpl",
+          fluidRow(
+            column(width = 4,
+                   selectInput('hysct', 'Y-Axis Statistic', c(Choose='Homeruns',c.all.h.cnames), selectize=FALSE),
+                   selectInput("plsplg",
+                               "League:",
+                               c('PBE','MiLPBE'))
+                   ),
+            column(width = 4,
+                   selectInput('hxsct', 'X-Axis Statistic', c(Choose='WAR',c.all.h.cnames), selectize=FALSE),
+                   sliderInput("plyear",
+                               "Season",
+                               min = 2017, max = 2027, step = 1,value = 2027,sep = "")),
+            column(width = 4,
+                   selectInput("hpos",
+                               "Position:",
+                               c('All','C','1B','2B','SS','3B','LF','CF','RF','OF','DH'), selected = 'All'))
+          ),
+          fluidRow(
+            column(width = 6, plotOutput("c_h_pl_scatter_plot")),
+            column(width = 6, plotOutput("s_h_pl_scatter_plot"))
+          )
   )
 )
 )
@@ -743,6 +861,18 @@ server <- function(input, output) {
     records.tbl(t = input$rtm)
     
   })
+  
+  output$c_h_pl_scatter_plot <-  renderPlot({
+    #input$submit
+    all.hit.scatter(l = input$plsplg,p = input$hpos,x = input$hxsct,y = input$hysct)
+    
+  },height = 500)
+  
+  output$s_h_pl_scatter_plot <-  renderPlot({
+    
+    s.hit.scatter(l = input$plsplg,p = input$hpos,x = input$hxsct,y = input$hysct, z = input$plyear)
+    
+  },height = 500) 
   
 }
 # Run the application 

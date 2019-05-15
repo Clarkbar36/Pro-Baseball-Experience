@@ -143,6 +143,8 @@ colnames(c.all.hit)[colnames(c.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'position_name'] <- 'Position'
 
+c.all.h.cnames <- colnames(c.all.hit[c(3:15,19:32)])
+c.all.h.cnames <- sort(c.all.h.cnames)
 
 c.all.pitch$pitcher_position <- ifelse(c.all.pitch$role %in% c(12,13),"CL",ifelse(c.all.pitch$role == 11,"SP",c.all.pitch$position_name))
 c.all.pitch$role <- NULL
@@ -179,4 +181,6 @@ colnames(c.all.pitch)[colnames(c.all.pitch) =='winloss']<-'Win-Loss'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='win_percent']<-'Win Percent'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='pitcher_position']<-'Position'
 
+c.all.p.cnames <- colnames(c.all.pitch[c(3,6:14,16:34)])
+c.all.p.cnames <- sort(c.all.p.cnames)
 #write.csv(all,'Documents/GitHub/PBE/R_Code_Exports/All_Time_Stats.csv', row.names = FALSE)

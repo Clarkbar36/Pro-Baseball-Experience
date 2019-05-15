@@ -185,6 +185,8 @@ colnames(s.all.hit)[colnames(s.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'position_name'] <- 'Position'
 
+s.all.h.cnames <- colnames(s.all.hit[c(5:8,10:17,20,21,25:36)])
+s.all.h.cnames <- sort(s.all.h.cnames)
 
 s.all.pitch$pitcher_position <- ifelse(s.all.pitch$role %in% c(12,13),"CL",ifelse(s.all.pitch$role == 11,"SP",s.all.pitch$position_name))
 s.all.pitch$role <- NULL
