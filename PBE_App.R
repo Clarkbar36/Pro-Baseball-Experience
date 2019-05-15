@@ -69,7 +69,7 @@ all.time.hitter.leaderboard <- function(p,x,y,z){
   if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     pl <-  ggplot(hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
-      ggtitle(paste("Top",length(hit.plt.df$pl.x),"Batters All-Time -",p), subtitle =paste(x,"-", z)) +
+      ggtitle(paste("Top",length(hit.plt.df$pl.x),"Hitters All-Time -",p), subtitle =paste(x,"-", z)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       geom_text(data=hit.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
@@ -82,7 +82,7 @@ all.time.hitter.leaderboard <- function(p,x,y,z){
   } else {
     pl <-  ggplot(hit.plt.df, aes(x=reorder(pl.x,pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
-      ggtitle(paste("Top",length(hit.plt.df$pl.x),"Batters All-Time -",p), subtitle =paste(x,"-", z))  +
+      ggtitle(paste("Top",length(hit.plt.df$pl.x),"Hitters All-Time -",p), subtitle =paste(x,"-", z))  +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       geom_text(data=hit.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
@@ -135,7 +135,7 @@ s.hitter.leaderboard <- function(p,w,x,y,z){
   if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
     pl <-  ggplot(s.hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
-      ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Batters -",p), subtitle =paste(x,"-", z)) +
+      ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Hitters -",p), subtitle =paste(x,"-", z)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       geom_text(data=s.hit.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
@@ -148,7 +148,7 @@ s.hitter.leaderboard <- function(p,w,x,y,z){
   } else {
     pl <-  ggplot(s.hit.plt.df, aes(x=reorder(pl.x,pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
-      ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Batters -",p), subtitle =paste(x,"-", z)) +
+      ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Hitters -",p), subtitle =paste(x,"-", z)) +
       theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
       geom_text(data=s.hit.plt.df,aes(x=pl.x,y=pl.y,label=pl.y),size = 4, hjust=1, colour = "black") +
       scale_y_continuous(toupper(x)) +
@@ -170,7 +170,7 @@ all.time.pitcher.leaderboard <- function(p,x,y,z){
   }
   
   # if PBE subset dataframe by Innings Pitched greater than or equal to 400, if MiLPBE subset by IP greater than or equal to 160
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     mean_ip <- round(mean(pitch.plt.df$`Innings Pitched`),0)
     pitch.plt.df <- subset(pitch.plt.df,pitch.plt.df$`Innings Pitched`>=mean_ip)
   } else {
@@ -182,7 +182,7 @@ all.time.pitcher.leaderboard <- function(p,x,y,z){
   
   
   # if statistic is a ratio, reverse order
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     pitch.plt.df <- top_n(pitch.plt.df, n=y, -pitch.plt.df[num])
   } else {
     pitch.plt.df <- top_n(pitch.plt.df, n=y, pitch.plt.df[num])
@@ -196,7 +196,7 @@ all.time.pitcher.leaderboard <- function(p,x,y,z){
   pitch.plt.df <- filter(pitch.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is ratio, plot in reverse order
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     pl <-  ggplot(pitch.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste("Top",length(pitch.plt.df$pl.x),"Pitchers All-Time -",p), subtitle =paste(x,"-", z)) +
@@ -233,7 +233,7 @@ s.pitcher.leaderboard <- function(p,w,x,y,z){
   s.pitch.plt.df <- subset(s.all.pitch,s.all.pitch$league_abbr == z & s.all.pitch$year == w & s.all.pitch$Position == p)  
   }
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent', 'K percent', 'K-BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     mean_ip <- round(mean(s.pitch.plt.df$`Innings Pitched`),0)
     s.pitch.plt.df <- subset(s.pitch.plt.df,s.pitch.plt.df$`Innings Pitched`>=mean_ip)
   } else {
@@ -245,7 +245,7 @@ s.pitcher.leaderboard <- function(p,w,x,y,z){
   
   
   # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     s.pitch.plt.df <- top_n(s.pitch.plt.df, n=y, -s.pitch.plt.df[num])
   } else {
     s.pitch.plt.df <- top_n(s.pitch.plt.df, n=y, s.pitch.plt.df[num])
@@ -259,7 +259,7 @@ s.pitcher.leaderboard <- function(p,w,x,y,z){
   s.pitch.plt.df <- filter(s.pitch.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
-  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
     pl <-  ggplot(s.pitch.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste(w,"Season -","Top",length(s.pitch.plt.df$pl.x), "Pitchers -",p), subtitle =paste(x,"-", y)) +
@@ -506,7 +506,7 @@ all.hit.scatter <- function(l,p,x,y){
   pl <-  ggplot(c.pl.scatter, aes(x=x, y=y,label=pl))+
     geom_point(aes(colour = x)) +
     scale_colour_gradient(low = "Orange", high = "#3945D7") +
-    ggtitle(paste("All-Time",y,"by",x), subtitle =paste(l,"-",p))  +
+    ggtitle(paste("All-Time Hitters",y,"by",x), subtitle =paste(l,"-",p))  +
     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
     xlab(x) + ylab(y) +
     geom_text_repel(
@@ -552,7 +552,7 @@ s.hit.scatter <- function(z,l,p,x,y){
   pl <-  ggplot(s.pl.scatter, aes(x=x, y=y,label=pl))+
     geom_point(aes(colour = x)) +
     scale_colour_gradient(low = "Orange", high = "#3945D7") +
-    ggtitle(paste(z,"- Season",y,"by",x), subtitle =paste(l,"-",p))  +
+    ggtitle(paste(z,"- Season Hitters",y,"by",x), subtitle =paste(l,"-",p))  +
     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
     xlab(x) + ylab(y) +
     geom_text_repel(
@@ -565,6 +565,95 @@ s.hit.scatter <- function(z,l,p,x,y){
   
   pl
 }
+
+all.pitch.scatter <- function(l,p,x,y){
+  num.x <- which( colnames(c.all.pitch)==x)
+  num.y <- which( colnames(c.all.pitch)==y)
+  
+  
+  if (p=='All'){
+    c.p.pl.scatter <- subset(c.all.pitch,c.all.pitch$league_abbr == l)
+  } else{
+    c.p.pl.scatter <- subset(c.all.pitch,c.all.pitch$league_abbr == l & c.all.pitch$Position == p) 
+  }
+  
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent') | y %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
+    mean_ip <- round(mean(c.p.pl.scatter$`Innings Pitched`),0)
+    c.p.pl.scatter <- subset(c.p.pl.scatter,c.p.pl.scatter$`Innings Pitched`>=mean_ip)
+  } else {
+    c.p.pl.scatter<- c.p.pl.scatter
+  }
+  
+  c.p.pl.scatter <- c.p.pl.scatter[c(39,as.numeric(num.x),as.numeric(num.y))]
+  colnames(c.p.pl.scatter) <- c("pl","x","y")
+  if(p=='All'){
+    l.pl <- subset(c.p.pl.scatter,c.p.pl.scatter$x >= quantile(c.p.pl.scatter$x,.97) |  c.p.pl.scatter$y >= quantile(c.p.pl.scatter$y,.97))
+  }else{
+    l.pl <- subset(c.p.pl.scatter,c.p.pl.scatter$x >= quantile(c.p.pl.scatter$x,.93) |  c.p.pl.scatter$y >= quantile(c.p.pl.scatter$y,.93))   
+  }
+  
+  
+  pl <-  ggplot(c.p.pl.scatter, aes(x=x, y=y,label=pl))+
+    geom_point(aes(colour = x)) +
+    scale_colour_gradient(low = "Orange", high = "#3945D7") +
+    ggtitle(paste("All-Time Pitchers",y,"by",x), subtitle =paste(l,"-",p))  +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    xlab(x) + ylab(y) +
+    geom_text_repel(
+      arrow = arrow(length = unit(0.01, 'npc')),
+      point.padding = unit(.80, "lines"),
+      box.padding = unit(.60, "lines"),
+      force = 2,
+      data=l.pl) +
+    theme(legend.position = "none")
+  
+  pl
+}
+
+s.pitch.scatter <- function(z,l,p,x,y){
+  num.x <- which( colnames(s.all.pitch)==x)
+  num.y <- which( colnames(s.all.pitch)==y)
+  
+  
+  if (p=='All'){
+    s.p.pl.scatter <- subset(s.all.pitch,s.all.pitch$league_abbr == l & s.all.pitch$year == z)
+  } else{
+    s.p.pl.scatter <- subset(s.all.pitch,s.all.pitch$league_abbr == l & s.all.pitch$Position == p & s.all.pitch$year == z) 
+  }
+  
+  if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent') | y %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
+    mean_ip <- round(mean(s.p.pl.scatter$`Innings Pitched`),0)
+    s.p.pl.scatter <- subset(s.p.pl.scatter,s.p.pl.scatter$`Innings Pitched`>=mean_ip)
+  } else {
+    s.p.pl.scatter<- s.p.pl.scatter
+  }
+  
+  s.p.pl.scatter <- s.p.pl.scatter[c(43,as.numeric(num.x),as.numeric(num.y))]
+  colnames(s.p.pl.scatter) <- c("pl","x","y")
+  if(p=='All'){
+    l.pl <- subset(s.p.pl.scatter,s.p.pl.scatter$x >= quantile(s.p.pl.scatter$x,.97) |  s.p.pl.scatter$y >= quantile(s.p.pl.scatter$y,.97))
+  }else{
+    l.pl <- subset(s.p.pl.scatter,s.p.pl.scatter$x >= quantile(s.p.pl.scatter$x,.93) |  s.p.pl.scatter$y >= quantile(s.p.pl.scatter$y,.93))   
+  }
+  
+  
+  pl <-  ggplot(s.p.pl.scatter, aes(x=x, y=y,label=pl))+
+    geom_point(aes(colour = x)) +
+    scale_colour_gradient(low = "Orange", high = "#3945D7") +
+    ggtitle(paste(z,"- Season Pitchers",y,"by",x), subtitle =paste(l,"-",p))  +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    xlab(x) + ylab(y) +
+    geom_text_repel(
+      arrow = arrow(length = unit(0.01, 'npc')),
+      point.padding = unit(.80, "lines"),
+      box.padding = unit(.60, "lines"),
+      force = 2,
+      data=l.pl) +
+    theme(legend.position = "none")
+  
+  pl
+} 
+
 
 #Dashboard header carrying the title of the dashboard
 header <- dashboardHeader(title = "PBE",dropdownMenu(type = "notifications",
@@ -583,6 +672,7 @@ sidebar <- dashboardSidebar("THE HUB:",
     menuItem("Wins by Season", tabName = "Records", icon = icon("chart-line")),
     menuItem("Team Scatter", tabName = "TmSctpl", icon = icon("baseball-ball")),
     menuItem("Hitter Scatter", tabName = "HSctpl", icon = icon("baseball-ball")),
+    menuItem("Pitcher Scatter", tabName = "PSctpl", icon = icon("baseball-ball")),
     "________________________",
     menuItem("Link: PBE Forum", icon = icon("link"),
              href = "http://probaseballexperience.jcink.net/index.php?act=idx"),
@@ -717,7 +807,7 @@ body <- dashboardBody(
               column(width = 3,
                     selectInput("spos",
                                 "Position:",
-                                c('All','SP','CL'), selected = 'All'))
+                                c('All','RP','SP'), selected = 'All'))
               ),
             fluidRow(
               column(width = 6,
@@ -777,6 +867,30 @@ body <- dashboardBody(
           fluidRow(
             column(width = 6, plotOutput("c_h_pl_scatter_plot")),
             column(width = 6, plotOutput("s_h_pl_scatter_plot"))
+          )
+  ),
+  
+  tabItem(tabName = "PSctpl",
+          fluidRow(
+            column(width = 4,
+                   selectInput('pysct', 'Y-Axis Statistic', c(Choose='WAR',c.all.p.cnames), selectize=FALSE),
+                   selectInput("pplsplg",
+                               "League:",
+                               c('PBE','MiLPBE'))
+            ),
+            column(width = 4,
+                   selectInput('pxsct', 'X-Axis Statistic', c(Choose='Strikeouts',c.all.p.cnames), selectize=FALSE),
+                   sliderInput("plpyear",
+                               "Season",
+                               min = 2017, max = 2027, step = 1,value = 2027,sep = "")),
+            column(width = 4,
+                   selectInput("ppos",
+                               "Position:",
+                               c('All','RP','SP'), selected = 'All'))
+          ),
+          fluidRow(
+            column(width = 6, plotOutput("c_p_pl_scatter_plot")),
+            column(width = 6, plotOutput("s_p_pl_scatter_plot"))
           )
   )
 )
@@ -873,6 +987,19 @@ server <- function(input, output) {
     s.hit.scatter(l = input$plsplg,p = input$hpos,x = input$hxsct,y = input$hysct, z = input$plyear)
     
   },height = 500) 
+  
+  output$c_p_pl_scatter_plot <-  renderPlot({
+    #input$submit
+    all.pitch.scatter(l = input$pplsplg, p = input$ppos ,x = input$pxsct,y = input$pysct)
+    
+  },height = 500)
+  
+  output$s_p_pl_scatter_plot <-  renderPlot({
+    
+    s.pitch.scatter(l = input$pplsplg,p = input$ppos,x = input$pxsct,y = input$pysct, z = input$plpyear)
+    
+  },height = 500) 
+  
   
 }
 # Run the application 

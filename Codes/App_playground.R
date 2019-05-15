@@ -465,44 +465,42 @@ s <- 2027
  
  # Pitcher Scatter - Career
  l <- 'PBE'
- p <- 'All'
+ p <- 'SP'
  x <- 'Strikeouts'
  y <- 'WAR'
  s <- 2027
  
  
- num.x <- which( colnames(c.all.hit)==x)
- num.y <- which( colnames(c.all.hit)==y)
+ num.x <- which( colnames(c.all.pitch)==x)
+ num.y <- which( colnames(c.all.pitch)==y)
  
  
  if (p=='All'){
-   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l)
- }else if (p == 'OF'){
-   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position %in% c('LF','CF','RF')) 
+   c.p.pl.scatter <- subset(c.all.pitch,c.all.pitch$league_abbr == l)
  } else{
-   c.pl.scatter <- subset(c.all.hit,c.all.hit$league_abbr == l & c.all.hit$Position == p) 
+   c.p.pl.scatter <- subset(c.all.pitch,c.all.pitch$league_abbr == l & c.all.pitch$Position == p) 
  }
  
- if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
-   mean_pa <- round(mean(c.pl.scatter$`Plate Apperances`),0)
-   c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Apperances`>=mean_pa)
+ if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent') | y %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
+   mean_ip <- round(mean(c.p.pl.scatter$`Innings Pitched`),0)
+   c.p.pl.scatter <- subset(c.p.pl.scatter,c.p.pl.scatter$`Innings Pitched`>=mean_ip)
  } else {
-   c.pl.scatter <- c.pl.scatter
- } 
+   c.p.pl.scatter<- c.p.pl.scatter
+ }
  
- c.pl.scatter <- c.pl.scatter[c(36,as.numeric(num.x),as.numeric(num.y))]
- colnames(c.pl.scatter) <- c("pl","x","y")
+ c.p.pl.scatter <- c.p.pl.scatter[c(39,as.numeric(num.x),as.numeric(num.y))]
+ colnames(c.p.pl.scatter) <- c("pl","x","y")
  if(p=='All'){
-   l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.97) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.97))
+   l.pl <- subset(c.p.pl.scatter,c.p.pl.scatter$x >= quantile(c.p.pl.scatter$x,.97) |  c.p.pl.scatter$y >= quantile(c.p.pl.scatter$y,.97))
  }else{
-   l.pl <- subset(c.pl.scatter,c.pl.scatter$x >= quantile(c.pl.scatter$x,.93) |  c.pl.scatter$y >= quantile(c.pl.scatter$y,.93))   
+   l.pl <- subset(c.p.pl.scatter,c.p.pl.scatter$x >= quantile(c.p.pl.scatter$x,.93) |  c.p.pl.scatter$y >= quantile(c.p.pl.scatter$y,.93))   
  }
  
  
- pl <-  ggplot(c.pl.scatter, aes(x=x, y=y,label=pl))+
+ pl <-  ggplot(c.p.pl.scatter, aes(x=x, y=y,label=pl))+
    geom_point(aes(colour = x)) +
    scale_colour_gradient(low = "Orange", high = "#3945D7") +
-   ggtitle(paste(y,"by",x), subtitle =paste(l,"-",p))  +
+   ggtitle(paste("All-Time",y,"by",x), subtitle =paste(l,"-",p))  +
    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
    xlab(x) + ylab(y) +
    geom_text_repel(
@@ -515,9 +513,39 @@ s <- 2027
  
  pl
 
+p <- 'All'
 
-
-
+ if(p=='All'){
+   pitch.plt.df <- subset(c.all.pitch,c.all.pitch$league_abbr == z)
+ }else{
+   pitch.plt.df <- subset(c.all.pitch,c.all.pitch$league_abbr == z & c.all.pitch$Position == p)  
+ }
+ 
+ # if PBE subset dataframe by Innings Pitched greater than or equal to 400, if MiLPBE subset by IP greater than or equal to 160
+ if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
+   mean_ip <- round(mean(pitch.plt.df$`Innings Pitched`),0)
+   pitch.plt.df <- subset(pitch.plt.df,pitch.plt.df$`Innings Pitched`>=mean_ip)
+ } else {
+   pitch.plt.df <- pitch.plt.df
+ }
+ 
+ # find which column number the statistic variable is in the dataframe
+ num <- which( colnames(pitch.plt.df)==x)
+ 
+ 
+ # if statistic is a ratio, reverse order
+ if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent')){
+   pitch.plt.df <- top_n(pitch.plt.df, n=y, -pitch.plt.df[num])
+ } else {
+   pitch.plt.df <- top_n(pitch.plt.df, n=y, pitch.plt.df[num])
+ }
+ 
+ # condense dataframe down to 2 columns: name & position, the statistic variable column
+ pitch.plt.df <- pitch.plt.df[c(39,as.numeric(num))]
+ 
+ #rename columns to x,y for easier plotting
+ colnames(pitch.plt.df) <- c("pl.x","pl.y")
+ pitch.plt.df <- filter(pitch.plt.df, pl.y != 0)
 
 
 

@@ -188,7 +188,7 @@ colnames(s.all.hit)[colnames(s.all.hit) == 'position_name'] <- 'Position'
 s.all.h.cnames <- colnames(s.all.hit[c(5:8,10:17,20,21,25:36)])
 s.all.h.cnames <- sort(s.all.h.cnames)
 
-s.all.pitch$pitcher_position <- ifelse(s.all.pitch$role %in% c(12,13),"CL",ifelse(s.all.pitch$role == 11,"SP",s.all.pitch$position_name))
+s.all.pitch$pitcher_position <- ifelse(s.all.pitch$s + s.all.pitch$hld >0,"RP","SP")
 s.all.pitch$role <- NULL
 s.all.pitch$team_name_pos <- paste(s.all.pitch$abbr,"-", s.all.pitch$full_name, "-", s.all.pitch$pitcher_position)
 s.all.pitch <- s.all.pitch[-c(5:20,39,41:55)]
@@ -222,5 +222,8 @@ colnames(s.all.pitch)[colnames(s.all.pitch) =='pit_k_bb_pcnt']<-'K-BB percent'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='winloss']<-'Win-Loss'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='win_percent']<-'Win Percent'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='pitcher_position']<-'Position'
+
+s.all.p.cnames <- colnames(s.all.pitch[c(5,8:15,18:36)])
+s.all.p.cnames <- sort(s.all.p.cnames)
 
 #write.csv(all,'~/Documents/GitHub/PBE/R_Code_Exports/Season_Stats.csv', row.names = FALSE)

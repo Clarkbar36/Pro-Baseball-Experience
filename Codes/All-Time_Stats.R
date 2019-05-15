@@ -41,13 +41,15 @@ c.fielding <- c.fielding %>%
 
 c.player_career_pitching <- read.csv('Exports/players_career_pitching_stats.csv',header = TRUE)
 c.player_career_pitching <- subset(c.player_career_pitching,c.player_career_pitching$split_id == 1)
-c.pitch <- c.player_career_pitching[,c(1:3,5,8:12,15:17,22,24:26,30,32,40,44,45,48,55)]
+c.pitch <- c.player_career_pitching[,c(1:3,5,8:12,15:17,22,24:26,30,32,40,44,45,48,55,23)]
 colnames(c.pitch)[colnames(c.pitch) == 'bb'] <- 'walks'
 colnames(c.pitch)[colnames(c.pitch) == 'ab'] <- 'p_ab'
 colnames(c.pitch)[colnames(c.pitch) == 'tb'] <- 'p_tb'
 colnames(c.pitch)[colnames(c.pitch) == 'r'] <- 'p_r'
 colnames(c.pitch)[colnames(c.pitch) == 'sf'] <- 'p_sf'
 colnames(c.pitch)[colnames(c.pitch) == 'g'] <- 'p_g'
+colnames(c.pitch)[colnames(c.pitch) == 'gs'] <- 'p_gs'
+
 c.pitch$year <- NULL
 c.pitch$team_id <- NULL
 c.pitch <- subset(c.pitch,c.pitch$league_id != 1000)
@@ -112,6 +114,7 @@ c.all$pitch_hit <- ifelse(c.all$position_name != 'P','Hitter','Pitcher')
 
 c.all.hit <- subset(c.all,c.all$pitch_hit == 'Hitter')
 c.all.hit$role <- NULL
+c.all.hit$p_gs <- NULL
 c.all.pitch <- subset(c.all, c.all$pitch_hit == "Pitcher")
 
 c.all.hit <- c.all.hit[-c(19:36,51:63,67)]
@@ -143,11 +146,12 @@ colnames(c.all.hit)[colnames(c.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'position_name'] <- 'Position'
 
-c.all.h.cnames <- colnames(c.all.hit[c(3:15,19:32)])
+c.all.h.cnames <- colnames(c.all.hit[c(3:6,8:15,19:32)])
 c.all.h.cnames <- sort(c.all.h.cnames)
 
-c.all.pitch$pitcher_position <- ifelse(c.all.pitch$role %in% c(12,13),"CL",ifelse(c.all.pitch$role == 11,"SP",c.all.pitch$position_name))
+c.all.pitch$pitcher_position <- ifelse(c.all.pitch$p_gs > 0,"SP","RP")
 c.all.pitch$role <- NULL
+c.all.pitch$p_gs <- NULL 
 c.all.pitch$name_pos <- paste(c.all.pitch$full_name, "-", c.all.pitch$pitcher_position)
 c.all.pitch <- c.all.pitch[-c(3:18,37,39:50)]
 colnames(c.all.pitch)[colnames(c.all.pitch) =='ip']<-'Innings Pitched'
@@ -181,6 +185,6 @@ colnames(c.all.pitch)[colnames(c.all.pitch) =='winloss']<-'Win-Loss'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='win_percent']<-'Win Percent'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='pitcher_position']<-'Position'
 
-c.all.p.cnames <- colnames(c.all.pitch[c(3,6:14,16:34)])
+c.all.p.cnames <- colnames(c.all.pitch[c(3,6:10,12:14,16:34)])
 c.all.p.cnames <- sort(c.all.p.cnames)
 #write.csv(all,'Documents/GitHub/PBE/R_Code_Exports/All_Time_Stats.csv', row.names = FALSE)
