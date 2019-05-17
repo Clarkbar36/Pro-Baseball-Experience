@@ -123,6 +123,10 @@ colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'sac bunt'] <- 'Bunti
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Ks vR'] <- 'Avoid K vR'
 clean.PBE_rosters$Full_name <- paste(clean.PBE_rosters$FirstName,clean.PBE_rosters$LastName)
 clean.PBE_rosters <- clean.PBE_rosters[c(50,4,6,5,48,2,47,3,49,1,28,29,9:27,30:46)]
+
+hit.clean.PBE_rosters <- subset(clean.PBE_rosters,clean.PBE_rosters$Velocity == 0)
+## reduce columns to hitter only, divide by two, run the function, summeraize to get total
+## merge with archetype totals, subtract current total from sum of two archetype totals
 PBE_real_stats <- round(clean.PBE_rosters[,13:ncol(clean.PBE_rosters)]/2,0)
 
 
