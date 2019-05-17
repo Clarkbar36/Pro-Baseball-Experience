@@ -6,7 +6,33 @@ library(Hmisc)
 
 setwd("~/Documents/GitHub/PBE")
 arch_bat <- read_excel("Archetypes.xlsx",sheet = 'Batter')
+arch_bat.TPE <- sapply(arch_bat[,3:15], function(x)
+  ifelse(x <= 40,x,
+         ifelse(x <= 50,40 + ((x - 40) * 2),
+                ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
+                       ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((80 - 70) * 6),
+                                     ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
+                                            70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
+arch_bat <- arch_bat[c(1,2)]
+arch_bat.TPE_Totals <- cbind(arch_bat,arch_bat.TPE)
+arch_bat.TPE_Totals$Hit.Total_TPE <- rowSums(arch_bat.TPE_Totals[,3:15])
+arch_bat.TPE_Totals <- arch_bat.TPE_Totals[c(1,2,16)]
+
 arch_field <- read_excel("Archetypes.xlsx",sheet = 'Fielding')
+arch_field.TPE <- sapply(arch_field[,3:7], function(x)
+  ifelse(x <= 40,x,
+         ifelse(x <= 50,40 + ((x - 40) * 2),
+                ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
+                       ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((80 - 70) * 6),
+                                     ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
+                                            70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
+arch_field <- arch_field[c(1,2)]
+arch_field.TPE_Totals <- cbind(arch_field,arch_field.TPE)
+arch_field.TPE_Totals$field.Total_TPE <- rowSums(arch_field.TPE_Totals[,3:7])
+arch_field.TPE_Totals <- arch_field.TPE_Totals[c(1,2,8)]
+
 arch_CL <- read_excel("Archetypes.xlsx",sheet = 'CL')
 arch_SP <- read_excel("Archetypes.xlsx",sheet = 'SP')
 DVS_comp <- read_excel("pbecompendium5.17.19.xlsx",range = "DVS!E1:G40")
@@ -98,8 +124,13 @@ colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Ks vR'] <- 'Avoid K 
 clean.PBE_rosters$Full_name <- paste(clean.PBE_rosters$FirstName,clean.PBE_rosters$LastName)
 clean.PBE_rosters <- clean.PBE_rosters[c(50,4,6,5,48,2,47,3,49,1,28,29,9:27,30:46)]
 PBE_real_stats <- round(clean.PBE_rosters[,13:ncol(clean.PBE_rosters)]/2,0)
+
+
 colnames(PBE_real_stats) <- paste("Current_Value", colnames(PBE_real_stats), sep = "_")
 PBE_info <- clean.PBE_rosters[,1:12]
 PBE.rosters.audit <- cbind(PBE_info,PBE_real_stats)
 
 hit.audit <- merge(hit.pl_comp,PBE.rosters.audit,all.x = TRUE)
+
+sp.audit <- merge(sp.pit.pl_comp,PBE.rosters.audit,all.x = TRUE)
+cl.audit <- merge(cl.pit.pl_comp,PBE.rosters.audit,all.x = TRUE)
