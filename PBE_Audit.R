@@ -1,8 +1,14 @@
 library(tidyverse)
 library(dplyr)
 library(gdata)
+library(readxl)
 
 setwd("~/Documents/GitHub/PBE")
+arch_bat <- read_excel("Archetypes.xlsx",sheet = 'Batter')
+arch_field <- read_excel("Archetypes.xlsx",sheet = 'Fielding')
+arch_CL <- read_excel("Archetypes.xlsx",sheet = 'CL')
+arch_SP <- read_excel("Archetypes.xlsx",sheet = 'SP')
+test_data <- read_excel("Audit_Test_data.xlsx")
 
 headers <- read.csv("pbe_rosters.csv", skip = 11, header = F, nrows = 1, as.is = T)
 headers <- trim(headers)
@@ -56,12 +62,15 @@ colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Infield Arm'] <- 'Ar
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'CatcherAbil'] <- 'Catcher Ability'
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Fastball (scale: 0-5)'] <- 'Fastball'
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'sac bunt'] <- 'Bunting'
+colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Ks vR'] <- 'Avoid K vR'
 
 clean.PBE_rosters$Full_name <- paste(clean.PBE_rosters$FirstName,clean.PBE_rosters$LastName)
-
 clean.PBE_rosters <- clean.PBE_rosters[c(52,5,7,6,48,4,49,3,50,2,1,51,29,30,10:28,31:47)]
 
+
+
 PBE_real_stats <- round(clean.PBE_rosters[,15:ncol(clean.PBE_rosters)]/2,0)
+colnames(PBE_real_stats) <- paste("Current_Value", colnames(PBE_real_stats), sep = "_")
 PBE_info <- clean.PBE_rosters[,1:14]
 PBE.rosters.audit <- cbind(PBE_info,PBE_real_stats)
 
@@ -77,12 +86,31 @@ hit.TPE <- sapply(hit.PBE.rosters.audit[,11:28], function(x)
          ifelse(x <= 50,40 + ((x - 40) * 2),
                 ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
                        ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
-                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((x - 70) * 6),
-                                     ifelse(x <= 90,60 + 30 + 20 + 40 + ((x - 80) * 7),70 + 60 + 30 + 20 + 40 + ((x - 90) * 8))))))))
-
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((80 - 70) * 6),
+                                     ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
+                                            70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
+colnames(hit.TPE) <- paste("TPE", colnames(hit.TPE), sep = "_")
 hit.Total.TPE <- cbind(hit.info,hit.TPE)
-hit.Total.TPE$TPE <- rowSums(hit.Total.TPE[,11:28])
+hit.Total.TPE$TPE_Total <- rowSums(hit.Total.TPE[,11:28])
 
+DV_Rosters <- merge(hit.Total.TPE,test_data)
+DV_Rosters <- DV_Rosters %>% separate(Archetype,into = c("b.Archetype","f.Archetype"), sep = "/")
+DV_Rosters <- merge(DV_Rosters,arch_bat,all.x = TRUE)
+DV_Rosters <- merge(DV_Rosters,arch_field,all.x = TRUE)
+
+
+DV.hit.TPE_Begin_Cost <- sapply(DV_Rosters[,c(34:46,48:52)], function(x)
+  ifelse(x <= 40,x,
+         ifelse(x <= 50,40 + ((x - 40) * 2),
+                ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
+                       ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((x - 70) * 6),
+                                     ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
+                                                    70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
+colnames(DV.hit.TPE_Begin_Cost) <- paste("TPE_Cost", colnames(DV.hit.TPE_Begin_Cost), sep = "_")
+DV.Total.TPE <- cbind(DV_Rosters,DV.hit.TPE_Begin_Cost)
+DV.Total.TPE$Begin_TPE_Total <- rowSums(DV.Total.TPE[,53:70])
+DV.Total.TPE$Total_TPE_Final <- DV.Total.TPE$TPE_Total - DV.Total.TPE$Begin_TPE_Total
 # Sample Formula
 # TPE_cost <- function(x){
 #   if (x <= 40){
