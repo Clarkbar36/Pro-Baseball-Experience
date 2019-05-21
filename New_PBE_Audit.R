@@ -114,7 +114,7 @@ vel <- data.frame(Velocity = 0:20,Velocity_label = c('0','0',
                                                      '97 - 99',
                                                      '98 - 100',
                                                      '99 - 100',
-                                                     '100'))
+                                                     '100'),TPE_cost = c(0,0,30,30,30,30,30,30,30,50,50,50,50,50,50,75,75,75,75,75,75))
 clean.PBE_rosters <- merge(clean.PBE_rosters,vel,all.x = TRUE)
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == '//id'] <- 'Player_ID'
 colnames(clean.PBE_rosters)[colnames(clean.PBE_rosters) == 'Infield Range'] <- 'Range'
