@@ -4,7 +4,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 
-#setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/")
 c.records <- read.csv("Exports/team_record.csv")
 c.games_played <- max(c.records$g)
 c.x_pl <- read.csv('Exports/players.csv',header = TRUE)

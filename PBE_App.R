@@ -728,7 +728,8 @@ body <- dashboardBody(
                                    'Strikeouts',
                                    'Total Bases',
                                    'Triples',
-                                   'Walks'),selected = 'WAR'),
+                                   'Walks',
+                                   'Zone Rating'),selected = 'WAR'),
                      numericInput("obs",
                                   "Top n:",
                                   10, min = 1, max = 100)

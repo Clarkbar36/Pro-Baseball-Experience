@@ -11,7 +11,7 @@ arch_bat.TPE <- sapply(arch_bat[,3:15], function(x)
          ifelse(x <= 50,40 + ((x - 40) * 2),
                 ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
                        ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
-                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((80 - 70) * 6),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((x - 70) * 6),
                                      ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
                                             70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
 arch_bat <- arch_bat[c(1,2)]
@@ -25,7 +25,7 @@ arch_field.TPE <- sapply(arch_field[,3:7], function(x)
          ifelse(x <= 50,40 + ((x - 40) * 2),
                 ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
                        ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
-                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((80 - 70) * 6),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((x - 70) * 6),
                                      ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
                                             70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8))))))))
 arch_field <- arch_field[c(1,2)]
@@ -66,6 +66,9 @@ hit.pl_comp <- hit.pl_comp %>% separate(Archetype,into = c("b.Archetype","f.Arch
 hit.pl_comp$f.Archetype <- ifelse(hit.pl_comp$Position == 'C' & hit.pl_comp$f.Archetype == 'Arm','Arm-C',hit.pl_comp$f.Archetype)
 hit.pl_comp <- merge(hit.pl_comp,arch_bat,all.x = TRUE)
 hit.pl_comp <- merge(hit.pl_comp,arch_field,all.x = TRUE)
+hit.pl_comp <- merge(hit.pl_comp,arch_bat.TPE_Totals, all.x = TRUE)
+hit.pl_comp <- merge(hit.pl_comp,arch_field.TPE_Totals, all.x = TRUE)
+hit.pl_comp$Archetype_Begin.Total_TPE <- hit.pl_comp$Hit.Total_TPE + hit.pl_comp$field.Total_TPE
 
 sp.pit.pl_comp <- subset(pl_comp,pl_comp$Position == "SP")
 colnames(sp.pit.pl_comp)[colnames(sp.pit.pl_comp) == 'Archetype'] <- 'sp.Archetype'
@@ -127,14 +130,31 @@ clean.PBE_rosters <- clean.PBE_rosters[c(50,4,6,5,48,2,47,3,49,1,28,29,9:27,30:4
 hit.clean.PBE_rosters <- subset(clean.PBE_rosters,clean.PBE_rosters$Velocity == 0)
 ## reduce columns to hitter only, divide by two, run the function, summeraize to get total
 ## merge with archetype totals, subtract current total from sum of two archetype totals
-PBE_real_stats <- round(clean.PBE_rosters[,13:ncol(clean.PBE_rosters)]/2,0)
+
+hit.current.stats <- hit.clean.PBE_rosters[c(13:25,32:36)]
+hit.info <- hit.clean.PBE_rosters[1:8]
+hit.current.stats <- round(hit.current.stats[,1:ncol(hit.current.stats)]/2,0)
+colnames(hit.current.stats) <- paste("Current_Value", colnames(hit.current.stats), sep = "_")
+hitter.audit <- cbind(hit.info,hit.current.stats)
+
+hit.TPE_cost_matrix <- as.data.frame(sapply(hit.current.stats[,1:18], function(x)
+  ifelse(x <= 40,x,
+         ifelse(x <= 50,40 + ((x - 40) * 2),
+                ifelse(x <= 60,20 + 40 + ((x - 50) * 3),
+                       ifelse(x <= 70,30 + 20 + 40 + ((x - 60) * 4),
+                              ifelse(x <= 80,40 + 30 + 20 + 40 + ((x - 70) * 6),
+                                     ifelse(x <= 90,60 + 30 + 20 + 40 + 40 + ((x - 80) * 7),
+                                            70 + 60 + 30 + 20 + 40 + 40 + ((x - 90) * 8)))))))))
+hit.TPE_cost_matrix$Total_TPE <- rowSums(hit.TPE_cost_matrix[,1:18])
+hit.TPE_cost_matrix <- cbind(hit.info, hit.TPE_cost_matrix)
+hit.TPE.Totals <- hit.TPE_cost_matrix[,27] 
+hit.TPE <- cbind(hit.info, hit.TPE.Totals)
 
 
-colnames(PBE_real_stats) <- paste("Current_Value", colnames(PBE_real_stats), sep = "_")
-PBE_info <- clean.PBE_rosters[,1:12]
-PBE.rosters.audit <- cbind(PBE_info,PBE_real_stats)
 
-hit.audit <- merge(hit.pl_comp,PBE.rosters.audit,all.x = TRUE)
+hit.audit <- merge(hit.pl_comp,hit.TPE,all.y = TRUE)
+hit.audit <- merge(hit.audit,hitter.audit,all.x = TRUE)
+hit.audit$TPE <- hit.audit$hit.TPE.Totals - hit.audit$Archetype_Begin.Total_TPE
 
 sp.audit <- merge(sp.pit.pl_comp,PBE.rosters.audit,all.x = TRUE)
 cl.audit <- merge(cl.pit.pl_comp,PBE.rosters.audit,all.x = TRUE)
