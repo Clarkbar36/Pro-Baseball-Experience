@@ -1,0 +1,468 @@
+[%T]	Top of the 1st -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Pitching: LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis  Storm </a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Grounds out, U3 (Groundball, 3L)
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; New York 0 - Outer Banks 0
+[%T]	Bottom of the 1st -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Pitching: RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 375 ft
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<a href="../players/player_159.html">Connor Tanner</a> to third
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_159.html">Connor Tanner</a> scores</b>
+[%N]	<a href="../players/player_137.html">Jordan von Matt</a> to third
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_342.html">Jeffrey Murphy</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_206.html">Kenny McCormick</a> steals 2nd base
+[%N]	1-0:  Fly out, F8  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_151.html">Kellan Buchanan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F2  (Popup, 25F)
+[%F]	Bottom of the 1st over -  3 runs, 3 hits, 0 errors, 2 left on base; New York 0 - Outer Banks 3
+[%T]	Top of the 2nd -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: SHB <a href="../players/player_180.html">Pepe Alazar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_275.html">Laddy McBantershire</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; New York 0 - Outer Banks 3
+[%T]	Bottom of the 2nd -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Batting: LHB <a href="../players/player_264.html">Steven O'Sullivan</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4D)
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F4  (Popup, 34D)
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Line Drive, 7)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; New York 0 - Outer Banks 3
+[%T]	Top of the 3rd -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; New York 0 - Outer Banks 3
+[%T]	Bottom of the 3rd -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_137.html">Jordan von Matt</a> to third
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 4-3 (Groundball, 4M)
+[%N]	<b><a href="../players/player_137.html">Jordan von Matt</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_342.html">Jeffrey Murphy</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_206.html">Kenny McCormick</a> steals 2nd base
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_206.html">Kenny McCormick</a> steals 3rd base
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_151.html">Kellan Buchanan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>2-RUN HOME RUN</b>  (Flyball, 8RXD), Distance : 447 ft
+[%B]	Batting: LHB <a href="../players/player_264.html">Steven O'Sullivan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7S)
+[%F]	Bottom of the 3rd over -  3 runs, 3 hits, 0 errors, 0 left on base; New York 0 - Outer Banks 6
+[%T]	Top of the 4th -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis  Storm </a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: SHB <a href="../players/player_180.html">Pepe Alazar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 34D)
+[%N]	<a href="../players/player_353.html">Tristan Cameron</a> to third
+[%N]	<b><a href="../players/player_353.html">Tristan Cameron</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	Pickoff Throw to First - Error! E1
+[%N]	<a href="../players/player_180.html">Pepe Alazar</a> to second
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 4th over -  1 run, 2 hits, 1 error, 1 left on base; New York 1 - Outer Banks 6
+[%T]	Bottom of the 4th -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; New York 1 - Outer Banks 6
+[%T]	Top of the 5th -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: RHB <a href="../players/player_275.html">Laddy McBantershire</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%N]	<a href="../players/player_275.html">Laddy McBantershire</a> to second
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis  Storm </a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; New York 1 - Outer Banks 6
+[%T]	Bottom of the 5th -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6S)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; New York 1 - Outer Banks 6
+[%T]	Top of the 6th -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_180.html">Pepe Alazar</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_353.html">Tristan Cameron</a> to second
+[%B]	Batting: RHB <a href="../players/player_275.html">Laddy McBantershire</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 78D)
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 2 left on base; New York 1 - Outer Banks 6
+[%T]	Bottom of the 6th -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_423.html">Mitchell McDowell</a>
+[%B]	Pitching: RHP <a href="../players/player_421.html">Justin Verbeek</a>
+[%B]	Batting: RHB <a href="../players/player_342.html">Jeffrey Murphy</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_151.html">Kellan Buchanan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_264.html">Steven O'Sullivan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; New York 1 - Outer Banks 6
+[%T]	Top of the 7th -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_360.html">Barry Keller</a>
+[%B]	Pitching: LHP <a href="../players/player_327.html">Alyssa Elliot</a>
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; New York 1 - Outer Banks 6
+[%T]	Bottom of the 7th -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_421.html">Justin Verbeek</a>
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 4M)
+[%N]	<a href="../players/player_20.html">Billy Benson</a> to second
+[%B]	Pitching: RHP <a href="../players/player_46.html">Fastguy Pitcherman</a>
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%N]	<b><a href="../players/player_20.html">Billy Benson</a> scores</b>
+[%N]	<a href="../players/player_159.html">Connor Tanner</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_137.html">Jordan von Matt</a> to third
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_342.html">Jeffrey Murphy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 1-3 (Groundball, 13S)
+[%F]	Bottom of the 7th over -  2 runs, 2 hits, 0 errors, 1 left on base; New York 1 - Outer Banks 8
+[%T]	Top of the 8th -  New York Voyagers batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_327.html">Alyssa Elliot</a>
+[%B]	Now in LF: <a href="../players/player_92.html">Zack Malatesta</a>
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis  Storm </a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_337.html">Johnathon Livingston</a>
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: SHB <a href="../players/player_180.html">Pepe Alazar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F3  (Popup, 3SF)
+[%F]	Top of the 8th over -  1 run, 2 hits, 0 errors, 1 left on base; New York 2 - Outer Banks 8
+[%T]	Bottom of the 8th -  Outer Banks Aviators batting - Pitching for New York Voyagers : RHP <a href="../players/player_46.html">Fastguy Pitcherman</a>
+[%B]	Batting: RHB <a href="../players/player_151.html">Kellan Buchanan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 89XD)
+[%B]	Pitching: LHP <a href="../players/player_90.html">Asipi Cantor</a>
+[%B]	Batting: LHB <a href="../players/player_264.html">Steven O'Sullivan</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 383 ft
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_92.html">Zack Malatesta</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_92.html">Zack Malatesta</a> is caught stealing 2nd base 2-6
+[%F]	Bottom of the 8th over -  3 runs, 3 hits, 0 errors, 0 left on base; New York 2 - Outer Banks 11
+[%T]	Top of the 9th -  New York Voyagers batting - Pitching for Outer Banks Aviators : RHP <a href="../players/player_337.html">Johnathon Livingston</a>
+[%B]	Batting: RHB <a href="../players/player_275.html">Laddy McBantershire</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Reached on error, E5 (Groundball, 56S)
+[%B]	Pitching: LHP <a href="../players/player_336.html">JJ Windsor</a>
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%N]	<a href="../players/player_275.html">Laddy McBantershire</a> to third
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis  Storm </a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 1 hit, 1 error, 2 left on base; New York 2 - Outer Banks 11
