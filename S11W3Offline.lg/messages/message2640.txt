@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Minor League PBE in career wins above replacement (WAR)?
-
-<Tony Pisano:player#328>, NYV, 		8.7
-<Harvey Bones:player#86>, -, 		8.6
-<Jax Hunter:player#70>, FL, 		7.8
-<Brett Smoky:player#138>, UTA, 		6.9
-<Anderson Pooper:player#16>, DV, 		6.2

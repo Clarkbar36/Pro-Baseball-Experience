@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Minor League PBE in games started?
-
-<Bryan Barnes:player#482>, SCSS, 		7
-<Thomas Beowulf:player#384>, KGN, 		7
-<Shovel Bryant:player#422>, KGN, 		7
-<Orlando Delgado:player#509>, SCSS, 		7
-<Pipo DeRani:player#520>, SCSS, 		7

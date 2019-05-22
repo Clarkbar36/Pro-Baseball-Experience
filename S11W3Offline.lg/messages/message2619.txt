@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Minor League PBE in career WHIP?
-
-<Bobby Hill:player#145>, SAS, 		1.04
-<Twain  Teetoo:player#144>, SCSS, 		1.15
-<Jax Hunter:player#70>, FL, 		1.16
-<Chase Petten:player#394>, PRO, 		1.28
-<Dino Panini:player#332>, ARM, 		1.28
