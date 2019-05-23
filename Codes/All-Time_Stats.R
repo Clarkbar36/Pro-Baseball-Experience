@@ -15,7 +15,7 @@ c.pl_name_lookup <- c.combined.players[c(2,5,99,100)]
 
 c.player_career_batting  <- read.csv('Exports/players_career_batting_stats.csv',header = TRUE)
 c.player_career_batting <- subset(c.player_career_batting,c.player_career_batting$split_id == 1)
-c.bats <- c.player_career_batting[,c(1:3,5,9:11,12:14,16:21,23:24,27:28,32)]
+c.bats <- c.player_career_batting[,c(1:3,5,9:11,12:14,16:21,23:25,27:28,32)]
 colnames(c.bats)[colnames(c.bats) == 'k'] <- 'SO'
 colnames(c.bats)[colnames(c.bats) == 'd'] <- 'Dbl'
 colnames(c.bats)[colnames(c.bats) == 't'] <- 'Trp'
@@ -117,7 +117,7 @@ c.all.hit$role <- NULL
 c.all.hit$p_gs <- NULL
 c.all.pitch <- subset(c.all, c.all$pitch_hit == "Pitcher")
 
-c.all.hit <- c.all.hit[-c(19:36,51:63,67)]
+c.all.hit <- c.all.hit[-c(20:37,52:64,68)]
 colnames(c.all.hit)[colnames(c.all.hit) == 'ab'] <- 'At Bats'
 colnames(c.all.hit)[colnames(c.all.hit) == 'h'] <- 'Hits'
 colnames(c.all.hit)[colnames(c.all.hit) == 'SO'] <- 'Strikeouts'
@@ -145,15 +145,16 @@ colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_pcnt'] <- 'K Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 colnames(c.all.hit)[colnames(c.all.hit) == 'position_name'] <- 'Position'
+colnames(c.all.hit)[colnames(c.all.hit) == 'gdp'] <- 'GDP'
 
-c.all.h.cnames <- colnames(c.all.hit[c(3:6,8:15,19:32)])
+c.all.h.cnames <- colnames(c.all.hit[c(3:6,8:15,17,20:33)])
 c.all.h.cnames <- sort(c.all.h.cnames)
 
 c.all.pitch$pitcher_position <- ifelse(c.all.pitch$p_gs > 0,"SP","RP")
 c.all.pitch$role <- NULL
 c.all.pitch$p_gs <- NULL 
 c.all.pitch$name_pos <- paste(c.all.pitch$full_name, "-", c.all.pitch$pitcher_position)
-c.all.pitch <- c.all.pitch[-c(3:18,37,39:50)]
+c.all.pitch <- c.all.pitch[-c(3:19,38,40:51)]
 colnames(c.all.pitch)[colnames(c.all.pitch) =='ip']<-'Innings Pitched'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='ha']<-'Hits Allowed'
 colnames(c.all.pitch)[colnames(c.all.pitch) =='k']<-'Strikeouts'

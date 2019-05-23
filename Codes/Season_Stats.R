@@ -3,7 +3,7 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
-#setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/")
 s.records <- read.csv("Exports/team_record.csv")
 s.games_played <- max(s.records$g)
 s.x_pl <- read.csv('Exports/players.csv',header = TRUE)
@@ -14,7 +14,7 @@ s.pl_name_lookup <- s.combined.players[c(2,5,99,100)]
 
 s.player_career_batting  <- read.csv('Exports/players_career_batting_stats.csv',header = TRUE)
 s.player_career_batting <- subset(s.player_career_batting,s.player_career_batting$split_id == 1)
-s.bats <- s.player_career_batting[,c(1:3,5,9:11,12:14,16:21,23:24,27:28,32)]
+s.bats <- s.player_career_batting[,c(1:3,5,9:11,12:14,16:21,23:25,27:28,32)]
 colnames(s.bats)[colnames(s.bats) == 'k'] <- 'SO'
 colnames(s.bats)[colnames(s.bats) == 'd'] <- 'Dbl'
 colnames(s.bats)[colnames(s.bats) == 't'] <- 'Trp'
@@ -64,6 +64,7 @@ s.all <- s.all %>%
             bb = sum(bb),
             ibb = sum(ibb),
             sf = sum(sf),
+            gdp = sum(gdp),
             hp = sum(hp),
             ip = sum(ip),
             p_ab = sum(p_ab),
@@ -155,7 +156,7 @@ s.all.hit$role <- NULL
 s.all.pitch <- subset(s.all, s.all$pitch_hit == "Pitcher")
 
 
-s.all.hit <- s.all.hit[-c(20:38,56:68,74)]
+s.all.hit <- s.all.hit[-c(21:39,57:69,75)]
 
 colnames(s.all.hit)[colnames(s.all.hit) == 'ab'] <- 'At Bats'
 colnames(s.all.hit)[colnames(s.all.hit) == 'h'] <- 'Hits'
@@ -184,14 +185,15 @@ colnames(s.all.hit)[colnames(s.all.hit) == 'bat_k_pcnt'] <- 'K Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_bb_pcnt'] <- 'BB Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'bat_k_bb_pcnt'] <- 'K-BB Percent'
 colnames(s.all.hit)[colnames(s.all.hit) == 'position_name'] <- 'Position'
+colnames(s.all.hit)[colnames(s.all.hit) == 'gdp'] <- 'GDP'
 
-s.all.h.cnames <- colnames(s.all.hit[c(5:8,10:17,20,21,25:36)])
+s.all.h.cnames <- colnames(s.all.hit[c(5:8,10:17,20:22,26:37)])
 s.all.h.cnames <- sort(s.all.h.cnames)
 
 s.all.pitch$pitcher_position <- ifelse(s.all.pitch$s + s.all.pitch$hld >0,"RP","SP")
 s.all.pitch$role <- NULL
 s.all.pitch$team_name_pos <- paste(s.all.pitch$abbr,"-", s.all.pitch$full_name, "-", s.all.pitch$pitcher_position)
-s.all.pitch <- s.all.pitch[-c(5:20,39,41:55)]
+s.all.pitch <- s.all.pitch[-c(5:21,40,42:56)]
 colnames(s.all.pitch)[colnames(s.all.pitch) =='ip']<-'Innings Pitched'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='ha']<-'Hits Allowed'
 colnames(s.all.pitch)[colnames(s.all.pitch) =='k']<-'Strikeouts'
