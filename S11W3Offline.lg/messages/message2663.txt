@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for doubles?
-
-<Roger Baton:player#121>, SAS, 		47, 2026
-<Johnny Runakiwi:player#244>, FL, 		42, 2025
-<Roger Baton:player#121>, SAS, 		37, 2024
-<Shooty McLish:player#237>, SAS, 		37, 2025
-<Kellan Buchanan:player#151>, OBX, 		36, 2025
