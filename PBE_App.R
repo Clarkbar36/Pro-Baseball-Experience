@@ -493,7 +493,7 @@ all.hit.scatter <- function(l,p,x,y){
     c.pl.scatter <- c.pl.scatter
   } 
   
-  c.pl.scatter <- c.pl.scatter[c(36,as.numeric(num.x),as.numeric(num.y))]
+  c.pl.scatter <- c.pl.scatter[c(37,as.numeric(num.x),as.numeric(num.y))]
   colnames(c.pl.scatter) <- c("pl","x","y")
   
   if(p=='All'){
@@ -539,7 +539,7 @@ s.hit.scatter <- function(z,l,p,x,y){
     s.pl.scatter <- s.pl.scatter
   } 
   
-  s.pl.scatter <- s.pl.scatter[c(42,as.numeric(num.x),as.numeric(num.y))]
+  s.pl.scatter <- s.pl.scatter[c(43,as.numeric(num.x),as.numeric(num.y))]
   colnames(s.pl.scatter) <- c("pl","x","y")
   
   if(p=='All'){
