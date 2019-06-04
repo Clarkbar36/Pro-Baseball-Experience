@@ -33,14 +33,14 @@ source("Codes/Records.R",local = TRUE)
 all.time.hitter.leaderboard <- function(p,x,y,z){
   # subset hitter dataframe by league
   if (p=="All"){
-  hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z)
+    hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z)
   }else if (p=='OF'){
-  hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z & c.all.hit$Position %in% c('LF','CF','RF'))
+    hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z & c.all.hit$Position %in% c('LF','CF','RF'))
   }else{
     hit.plt.df <- subset(c.all.hit,c.all.hit$league_abbr == z & c.all.hit$Position == p)  
   }
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
-  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts')){
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts','GDP')){
     mean_pa <- round(mean(hit.plt.df$`Plate Apperances`),0)
     hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Apperances`>=mean_pa)
   } else {
@@ -52,21 +52,21 @@ all.time.hitter.leaderboard <- function(p,x,y,z){
   
   
   # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
-  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts','GDP')){
     hit.plt.df <- top_n(hit.plt.df, n=y, -hit.plt.df[num])
   } else {
     hit.plt.df <- top_n(hit.plt.df, n=y, hit.plt.df[num])
   }
   
   # condense dataframe down to 2 columns: name & position, the statistic variable column
-  hit.plt.df <- hit.plt.df[c(36,as.numeric(num))]
+  hit.plt.df <- hit.plt.df[c(37,as.numeric(num))]
   
   #rename columns to x,y for easier plotting
   colnames(hit.plt.df) <- c("pl.x","pl.y")
   hit.plt.df <- filter(hit.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
-  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts','GDP')){
     pl <-  ggplot(hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste("Top",length(hit.plt.df$pl.x),"Hitters All-Time -",p), subtitle =paste(x,"-", z)) +
@@ -106,7 +106,7 @@ s.hitter.leaderboard <- function(p,w,x,y,z){
   }
   
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
-  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts')){
+  if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts','GDP')){
     mean_pa <- round(mean(s.hit.plt.df$`Plate Apperances`),0)
     s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Apperances`>=mean_pa)
   } else {
@@ -118,21 +118,21 @@ s.hitter.leaderboard <- function(p,w,x,y,z){
   
   
   # if statistic is K percent or K-BB percent, take the bottom obs, players with lower k-percents are better
-  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts','GDP')){
     s.hit.plt.df <- top_n(s.hit.plt.df, n=y, -s.hit.plt.df[num])
   } else {
     s.hit.plt.df <- top_n(s.hit.plt.df, n=y, s.hit.plt.df[num])
   }
   
   # condense dataframe down to 2 columns: team & name & position, the statistic variable column
-  s.hit.plt.df <- s.hit.plt.df[c(42,as.numeric(num))]
+  s.hit.plt.df <- s.hit.plt.df[c(43,as.numeric(num))]
   
   #rename columns to x,y for easier plotting
   colnames(s.hit.plt.df) <- c("pl.x","pl.y")
   s.hit.plt.df <- filter(s.hit.plt.df, pl.y != 0)
   
   # plotting funtion, if statistic is k percetn or k-bb percent, plot in reverse order
-  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts')){
+  if(x %in% c("K Percent", "K-BB Percent",'Strikeouts','GDP')){
     pl <-  ggplot(s.hit.plt.df, aes(x=reorder(pl.x,-pl.y), y=pl.y,fill=pl.y))+
       geom_bar(stat='identity')+
       ggtitle(paste(w,"Season -","Top",length(s.hit.plt.df$pl.x), "Hitters -",p), subtitle =paste(x,"-", z)) +
@@ -711,6 +711,7 @@ body <- dashboardBody(
                                    'BB Percent',
                                    'Doubles',
                                    'Games',
+                                   'GDP',
                                    'Hits',
                                    'Homeruns',
                                    'ISO',
