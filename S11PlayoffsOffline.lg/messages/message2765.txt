@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Right Field
+Check out who leads the Minor League PBE in total bases while playing Right Field!
+
+<Jack Bauer II:player#496>, ANC, 		138
+<Mike McSlapp:player#461>, SCSS, 		132
+<Johnny Blaze:player#537>, ARM, 		89
+<Thomas Beowulf:player#384>, KGN, 		64
+<Dandy Chiggins:player#543>, KGN, 		46
