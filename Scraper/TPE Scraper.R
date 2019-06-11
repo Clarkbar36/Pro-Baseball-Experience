@@ -65,5 +65,7 @@ TPE$player <- trim(substr(TPE$player,4,length(TPE$player)))
 TPE <- separate(TPE,brkt,"positon",sep = " ",remove = FALSE)
 TPE <- separate(TPE,brkt,c("remove","TPE"),sep = ": ",remove = FALSE)
 TPE$remove <- NULL
+TPE$Topic.Title <- NULL
+TPE$brkt <- NULL
 
 
