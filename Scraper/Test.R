@@ -1,13 +1,37 @@
 library(rvest)
+library(rlist)
 
+links <- list()
+num <- seq(0,45,15)
+tm <- list('62',
+           '160',
+           '163',
+           '74',
+           '65',
+           '71',
+           '59',
+           '68',
+           '138',
+           '140',
+           '152',
+           '155')
+TPE <- data.frame(`Topic Title`=character(), League = character(), Team_Name = character())
 
-links <- c("http://probaseballexperience.jcink.net/index.php?showforum=62","http://probaseballexperience.jcink.net/index.php?showforum=62&prune_day=100&sort_by=Z-A&sort_key=last_post&st=15")
-TPE <- data.frame(`Topic Title`=character())
-for (l in links){
+for (n in num){
+  for (t in tm){
+  url <- paste("http://probaseballexperience.jcink.net/index.php?showforum=",t,"&st=",n,sep="")
+  links <- list.append(url,links)
+}}
 
-  sloths <- read_html(l)
-  test <- sloths %>% html_node(xpath = '//*[@id="topic-list"]/form[1]/table') %>% html_table(header = TRUE)
-  test <- test[3]
-  TPE <- rbind(test,TPE)
+for (l in rev(links)){
+
+  roster <- read_html(l)
+  players <- roster %>% html_node(xpath = '//*[@id="topic-list"]/form[1]/table') %>% html_table(header = TRUE)
+  league_name <- roster %>% html_node(xpath = '//*[@id="navstrip"]/a[2]') %>% html_text() 
+  League <- ifelse(substr(league_name,1,1)=="P","PBE","MiLPBE")
+  Team_Name <- roster %>% html_node(xpath = '//*[@id="navstrip"]/a[3]') %>% html_text()
+  players <- players[3]
+  l.TPE <- cbind(players, League, Team_Name)
+  TPE <- rbind(l.TPE,TPE)
 
 }
