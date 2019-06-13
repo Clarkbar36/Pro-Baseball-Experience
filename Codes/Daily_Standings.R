@@ -2,6 +2,7 @@ library(dplyr)
 library(tidyverse)
 library(readxl)
 library(tidyr)
+library(Hmisc)
 #setwd("~/Documents/GitHub/PBE/Exports/")
 
 ds.games <- read.csv('Exports/games.csv', header = TRUE, sep = ',')
@@ -152,8 +153,13 @@ ds.all_games$season <- season
 
 write.csv(ds.all_games,paste("R_Code_Exports/",season,"_PBE_Standings.csv",sep=""),row.names = FALSE)
 
-
-
+filenames = paste(paste("R_Code_Exports/",2027,"_PBE_Standings",sep=""), '.csv', sep = '') 
+wab.all_games <- lapply(filenames,function(i){
+  read.csv(i, header=TRUE, stringsAsFactors = FALSE)
+})
+wab.all_games <- bind_rows(wab.all_games)
+wab.all_games$date <- as.Date(wab.all_games$date, "%Y-%m-%d")
+ssn <- unique(wab.all_games$season)
 
 
 # league_averages <- all_games
