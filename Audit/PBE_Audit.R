@@ -3,7 +3,7 @@ library(dplyr)
 library(gdata)
 library(readxl)
 
-setwd("~/Documents/GitHub/PBE")
+setwd("~/Documents/GitHub/PBE/Audit")
 arch_bat <- read_excel("Archetypes.xlsx",sheet = 'Batter')
 arch_field <- read_excel("Archetypes.xlsx",sheet = 'Fielding')
 arch_CL <- read_excel("Archetypes.xlsx",sheet = 'CL')
@@ -73,6 +73,7 @@ PBE_real_stats <- round(clean.PBE_rosters[,15:ncol(clean.PBE_rosters)]/2,0)
 colnames(PBE_real_stats) <- paste("Current_Value", colnames(PBE_real_stats), sep = "_")
 PBE_info <- clean.PBE_rosters[,1:14]
 PBE.rosters.audit <- cbind(PBE_info,PBE_real_stats)
+#colnames(PBE.rosters.audit)[colnames(PBE.rosters.audit) == 'Full_name'] <- 'player'
 
 PBE.rosters.audit$pitch_hit <- ifelse(PBE.rosters.audit$Position_Name != 'P','Hitter','Pitcher')
 hit.PBE.rosters.audit <- subset(PBE.rosters.audit,PBE.rosters.audit$pitch_hit == 'Hitter')
