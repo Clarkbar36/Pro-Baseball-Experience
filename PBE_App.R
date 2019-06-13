@@ -344,12 +344,9 @@ tm.tbl <- function(l,x,y){
   t.all.stats
 }
 
-WinsAB_plot <- function(l){
-  #For use in new seasons
-  # filenames = paste(paste("R_Code_Exports/",2027,"_PBE_Standings",sep=""), '.csv', sep = '') 
-  # ds.all_games <- do.call(rbind, lapply(filenames, read.csv, header = TRUE))
+WinsAB_plot <- function(l,s){
 
-  daily <- subset(ds.all_games,ds.all_games$league_abbr == l)
+  daily <- subset(wab.all_games,wab.all_games$league_abbr == l & wab.all_games$season == s)
   p.daily <- daily[c(4,9,14,18,31,34)]
   season <- unique(p.daily$season)
   colnames(p.daily) <- c("x","t","d","y","c","s")
@@ -398,8 +395,8 @@ WinsAB_plot <- function(l){
   }
 }
   
-WAB.tbl <- function(l){
-  tbl.ds <- subset(ds.all_games,ds.all_games$league_abbr == l)
+WAB.tbl <- function(l,s){
+  tbl.ds <- subset(wab.all_games,wab.all_games$league_abbr == l & wab.all_games$season == s)
   tbl.ds$date <- as.Date(tbl.ds$date)
   tbl.ds <- tbl.ds %>% group_by(team_id) %>% filter(date == max(date))
   tbl.ds <- tbl.ds[c(10,14,18,19,21:23,30,32,33)]
@@ -411,6 +408,7 @@ WAB.tbl <- function(l){
   colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_runs'] <-'Total Runs'
   colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_hits'] <-'Total Hits'
   colnames(tbl.ds)[colnames(tbl.ds) == 'pythag_record'] <-'Pythag Record'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'League.Standing'] <-'League Standing'
   tbl.ds <- tbl.ds [c(1,9,10,6,5,7,3,4,8)]
   tbl.ds <- tbl.ds[order(tbl.ds$`League Standing`),]
   tbl.ds
@@ -692,12 +690,15 @@ body <- dashboardBody(
                      selectInput("dslg",
                                  "League:",
                                  c('PBE','MiLPBE'))
-            )),
+            ),
+            column(width = 6,
+                   selectInput('dssn', 'Season', ssn,selectize=FALSE, selected = 2027)
+                   ),
             fluidRow(
               column(width = 6,plotOutput("wins_AB")),
                      column(width = 3,dataTableOutput("winsWB_table"))
               )
-    ),
+    )),
     
     tabItem(tabName = "HitterL",
             fluidRow(
@@ -944,13 +945,13 @@ server <- function(input, output) {
   
   output$wins_AB <-  renderPlot({
     #input$submit
-    WinsAB_plot(l = input$dslg)
+    WinsAB_plot(l = input$dslg, s = input$dssn)
     
   },height = 600)
   
   output$winsWB_table <-  renderDataTable(options = list(dom = 'tip',paging = FALSE),rownames= FALSE,{
     #input$submit
-    WAB.tbl(l = input$dslg)
+    WAB.tbl(l = input$dslg, s = input$dssn)
     
   })
   
