@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Pro Baseball Experience in batting AVG?
+
+<Weldon Borthwell:player#29>, NYV, 		.352
+<Shooty McLish:player#237>, SAS, 		.337
+<Kevin Biggio:player#268>, FL, 		.332
+<Johnny Runakiwi:player#244>, FL, 		.330
+<Jake Stennett:player#87>, OBX, 		.328

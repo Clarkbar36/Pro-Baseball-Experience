@@ -1,0 +1,7 @@
+BNN Stats: Batting Leaders at Third Base
+Check out who leads the Minor League PBE in slugging percentage while playing Third Base!
+
+<Manto Rune:player#478>, ARM, 		.476
+<Bryan Barnes:player#482>, SCSS, 		.445
+<Reggie Montoya:player#513>, KGN, 		.358
+<Benjamin Hilmer:player#510>, ANC, 		.351

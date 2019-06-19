@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in quality starts?
+
+<Joey Slothface:player#525>, ANC, 		17
+<Amp Dupree:player#529>, ANC, 		14
+<Kosei Yoshida:player#503>, ARM, 		13
+<Henry Chadwick:player#526>, KGN, 		11
+<Falco Von Adler:player#502>, ARM, 		9

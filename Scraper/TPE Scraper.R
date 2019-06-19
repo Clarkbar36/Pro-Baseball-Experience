@@ -54,9 +54,7 @@ TPE <- data.frame(lapply(TPE, function(x) {
   gsub("\\[|\\]", "", x)
   }))
 
-
-
-TPE$created.season <- trim(substr(TPE$Topic.Title,1,3))
+TPE$Created.Season <- trim(substr(TPE$Topic.Title,1,3))
 find.string <- paste(unlist(abbr), collapse = "|")
 TPE$Topic.Title <-  gsub(find.string, replacement = "", x = TPE$Topic.Title)
 
@@ -69,3 +67,10 @@ TPE$Topic.Title <- NULL
 TPE$brkt <- NULL
 
 
+TPE[] <- lapply(TPE, as.character)
+TPE$TPE <- as.numeric(TPE$TPE)
+PBE_TPE <- subset(TPE,League == "PBE")
+MiLPBE_TPE <- subset(TPE,League == "MiLPBE")
+
+write.csv(PBE_TPE,"~/Documents/GitHub/PBE/Scraper/PBE_TPE.csv",row.names = FALSE)
+write.csv(MiLPBE_TPE,"~/Documents/GitHub/PBE/Scraper/MiLPBE_TPE",row.names = FALSE)
