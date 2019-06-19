@@ -72,5 +72,5 @@ TPE$TPE <- as.numeric(TPE$TPE)
 PBE_TPE <- subset(TPE,League == "PBE")
 MiLPBE_TPE <- subset(TPE,League == "MiLPBE")
 
-write.csv(PBE_TPE,"~/Documents/GitHub/PBE/Scraper/PBE_TPE.csv",row.names = FALSE)
-write.csv(MiLPBE_TPE,"~/Documents/GitHub/PBE/Scraper/MiLPBE_TPE",row.names = FALSE)
+#write.csv(PBE_TPE,"~/Documents/GitHub/PBE/Scraper/PBE_TPE.csv",row.names = FALSE)
+#write.csv(MiLPBE_TPE,"~/Documents/GitHub/PBE/Scraper/MiLPBE_TPE",row.names = FALSE)

@@ -153,7 +153,7 @@ ds.all_games$season <- season
 
 write.csv(ds.all_games,paste("R_Code_Exports/",season,"_PBE_Standings.csv",sep=""),row.names = FALSE)
 
-filenames = paste(paste("R_Code_Exports/",2027,"_PBE_Standings",sep=""), '.csv', sep = '') 
+filenames = paste(paste("R_Code_Exports/",2027:2028,"_PBE_Standings",sep=""), '.csv', sep = '') 
 wab.all_games <- lapply(filenames,function(i){
   read.csv(i, header=TRUE, stringsAsFactors = FALSE)
 })
