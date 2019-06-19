@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Minor League PBE in wins above replacement (WAR) while playing First Base!
+
+<Juan Dong:player#484>, ARM, 		1.0
+<Mountain Quick:player#519>, KGN, 		0.9
+<Hank Mardukas:player#539>, SCSS, 		0.9
+<Johny Matthews:player#341>, ARM, 		0.4
+<Blain  K'Spais:player#290>, SCSS, 		0.0
