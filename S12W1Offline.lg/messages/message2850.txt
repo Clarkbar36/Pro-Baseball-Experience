@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Minor League PBE in career runs?
-
-<Riley Tiffielder:player#324>, NYV, 		305
-<Ben Waters:player#306>, -, 		271
-<Sidney Swing:player#312>, SCSS, 		270
-<Kris Kramer:player#412>, -, 		183
-<Josh Kings:player#390>, ARM, 		170

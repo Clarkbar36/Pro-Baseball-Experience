@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in on-base plus slugging (OPS) on the first pitch.
-
-<Patrick Kelley:player#377>, SAS, 		1.636
-<Julian O'Sullivan:player#246>, SAS, 		1.394
-<George McBash:player#149>, FL, 		1.347
-<Catolo Kittone:player#158>, DV, 		1.261
-<Artem Maximovich:player#436>, PRO, 		1.214

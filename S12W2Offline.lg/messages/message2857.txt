@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Pro Baseball Experience in home runs versus LHP.
+
+<Jimmy  Dong :player#15>, DV, 		20
+<Vick Thunder:player#270>, SAS, 		20
+<Min-joon Do:player#239>, DV, 		16
+<Julian O'Sullivan:player#246>, SAS, 		16
+<Jordan von Matt:player#137>, OBX, 		15

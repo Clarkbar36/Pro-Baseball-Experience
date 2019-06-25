@@ -1,8 +1,0 @@
-BNN Stats: Active Career Batting Leaders
-So, who is the active leader in the Minor League PBE in career OPS?
-
-<Michael Rapinski:player#39>, KGN, 		.846
-<Riley Tiffielder:player#324>, NYV, 		.838
-<Mountain Thunderfist:player#451>, ARM, 		.833
-<Sidney Swing:player#312>, SCSS, 		.832
-<Eric Tsai:player#410>, ARM, 		.831

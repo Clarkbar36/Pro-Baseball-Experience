@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in innings pitched?
+
+<Joey Slothface:player#525>, ANC, 		139.2
+<Amp Dupree:player#529>, ANC, 		138.2
+<Henry Chadwick:player#526>, KGN, 		133.0
+<Noah Johns:player#532>, KGN, 		112.1
+<Mark Taylor:player#527>, SCSS, 		110.0

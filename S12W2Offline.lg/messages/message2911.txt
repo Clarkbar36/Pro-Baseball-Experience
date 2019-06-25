@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for extra base hits?
+
+<Thomas Trey Oudekerk:player#508>, ANC, 		44, 2027
+<Ben Waters:player#306>, SCSS, 		42, 2021
+<Ty Justice:player#252>, ANC, 		41, 2021
+<Manto Rune:player#478>, ARM, 		40, 2027
+<Tristan Cameron:player#353>, KGN, 		40, 2024

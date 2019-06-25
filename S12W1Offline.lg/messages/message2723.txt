@@ -1,8 +1,0 @@
-BNN Stats: Does Age Matter?
-Here is a list of the youngest players in the Minor League PBE...
-
-<Archer Fisch:player#492>, ARM,		17 years, 64 days
-<Ben Crump:player#535>, ARM,		17 years, 276 days
-<Colby Kidd:player#505>, KGN,		18 years, 50 days
-<Rob Cena:player#523>, ANC,		18 years, 250 days
-<Fliff  Cloyd :player#473>, ANC,		18 years, 274 days

@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 18-year-old RHP <Mitch McIntyre:player#442> of the <Outer Banks Aviators:team#2> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Mitch McIntyre:player#442>, 18, <Outer Banks Aviators:team#2>
+2) RHP <Corey Bradford:player#371>, 24, <Death Valley Scorpions:team#10>
+3) LHP <Daquan Nibbason:player#463>, 19, <Providence Crabs:team#3>
+4) RHP <Mamoru  Okonomi :player#467>, 18, <Vancouver Vandals:team#11>
+5) RHP <Prickly Pearboi:player#359>, 26, <New York Voyagers:team#1>
+6) 1B <Hendrix Lamar:player#407>, 21, <Vancouver Vandals:team#11>
+7) RHP <Paco Dunbar:player#455>, 20, <Death Valley Scorpions:team#10>
+8) RHP <Ed Barker:player#458>, 22, <Death Valley Scorpions:team#10>
+9) RHP <Blu Line:player#446>, 21, <Vancouver Vandals:team#11>
+10) LF <Alain Johns:player#432>, 22, <Utah Railroaders:team#25>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

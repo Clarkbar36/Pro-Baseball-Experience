@@ -1,7 +1,0 @@
-BNN Stats: Batting Leaders at Shortstop
-Check out who leads the Minor League PBE in slugging percentage while playing Shortstop!
-
-<Jackson Krowley:player#536>, SCSS, 		.494
-<Jake Grinz:player#472>, ANC, 		.424
-<Shovel Bryant:player#422>, KGN, 		.390
-<Archer Fisch:player#492>, ARM, 		.293

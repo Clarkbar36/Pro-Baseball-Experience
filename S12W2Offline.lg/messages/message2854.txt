@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in on-base percentage?
+
+<Jake Grinz:player#472>, ANC, 		.439
+<Mountain Thunderfist:player#451>, ARM, 		.409
+<Eric Tsai:player#410>, ARM, 		.407
+<Smitty Springfield:player#512>, ANC, 		.401
+<Jack Bauer II:player#496>, ANC, 		.394

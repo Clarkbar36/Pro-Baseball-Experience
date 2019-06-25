@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Minor League PBE in ground ball percentage?
+
+<Drennifer Tarbington:player#501>, ARM, 		0.58
+<Falco Von Adler:player#502>, ARM, 		0.55
+<Mark Taylor:player#527>, SCSS, 		0.52
+<Joey Slothface:player#525>, ANC, 		0.52
+<Chris Gentry:player#453>, ARM, 		0.51

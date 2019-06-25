@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Minor League PBE in career strikeouts?
+
+<Jay  Livingston:player#298>, -, 		481
+<Tiddlywink McTicklestick:player#309>, KGN, 		344
+<Tony Pisano:player#328>, NYV, 		298
+<Harvey Bones:player#86>, -, 		295
+<Kosuke Yamauchi:player#333>, VAN, 		281

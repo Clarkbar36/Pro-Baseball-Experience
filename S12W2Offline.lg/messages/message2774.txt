@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Minor League PBE in batting AVG on the first pitch.
+
+<Orlando Delgado:player#509>, SCSS, 		.462
+<Ryusei Makunouchi :player#468>, ARM, 		.462
+<Sancho Webner:player#414>, SCSS, 		.421
+<Jack Bauer II:player#496>, ANC, 		.418
+<Mason Brown 2.0:player#477>, ARM, 		.417

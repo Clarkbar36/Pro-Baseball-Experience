@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for walks?
+
+<Boopity Booper:player#210>, SAS, 		92, 2017
+<Don Kelly:player#232>, OBX, 		90, 2017
+<Mikhail Bergen:player#335>, UTA, 		89, 2025
+<Pete Peters:player#329>, PRO, 		83, 2024
+<Kosuke Yamauchi:player#333>, VAN, 		82, 2025

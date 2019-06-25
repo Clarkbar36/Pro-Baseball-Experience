@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in batting AVG at home.
-
-<Weldon Borthwell:player#29>, NYV, 		.371
-<Kevin Biggio:player#268>, FL, 		.365
-<Clem Johnson:player#122>, NYV, 		.342
-<Shooty McLish:player#237>, SAS, 		.342
-<Johnny Runakiwi:player#244>, FL, 		.341

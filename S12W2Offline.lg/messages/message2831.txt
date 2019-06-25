@@ -1,0 +1,31 @@
+Best Defenders Announced by MiLPBE
+The Great Glove Award winners don't get the recognition of the home run hitters, but they are very much appreciated by managers, their teammates and by the fans, who know the value of defensive excellence. Great defense makes a difference in baseball. This year's top glovemen in the Minor League PBE are:
+
+
+<Pitcher:value_bold#0>
+<Jay  Windsor:player#386> (<Amarillo Armadillos:team#19>)
+
+<Catcher:value_bold#0>
+<Chest Rockwell:player#521> (<Kingston Mounties:team#17>)
+
+<First Baseman:value_bold#0>
+<Juan Dong:player#484> (<Amarillo Armadillos:team#19>)
+
+<Second Baseman:value_bold#0>
+<Eric Tsai:player#410> (<Amarillo Armadillos:team#19>)
+
+<Third Baseman:value_bold#0>
+<Bryan Barnes:player#482> (<State College Swift Steeds :team#18>)
+
+<Shortstop:value_bold#0>
+<Jake Grinz:player#472> (<Anchorage Wheelers:team#16>)
+
+<Left Fielder:value_bold#0>
+<Smitty Springfield:player#512> (<Anchorage Wheelers:team#16>)
+
+<Center Fielder:value_bold#0>
+<Rob Cena:player#523> (<Anchorage Wheelers:team#16>)
+
+<Right Fielder:value_bold#0>
+<Mike McSlapp:player#461> (<State College Swift Steeds :team#18>)
+

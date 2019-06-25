@@ -1,0 +1,522 @@
+[%T]	Top of the 1st -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Pitching: RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> to second
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> to third
+[%N]	<a href="../players/player_185.html">Ozamataz Buckshank</a> to second
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%N]	<b><a href="../players/player_119.html">Ziggy Coffey</a> scores</b>
+[%N]	<a href="../players/player_185.html">Ozamataz Buckshank</a> to third
+[%N]	<a href="../players/player_15.html">Jimmy  Dong </a> to second
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 9D), Distance : 369 ft
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Popup, 6MD)
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 1st over -  5 runs, 4 hits, 0 errors, 1 left on base; Death Valley 5 - Utah 0
+[%T]	Bottom of the 1st -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Pitching: LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 2-3 (Groundball, 2L)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: RHB <a href="../players/player_173.html">Jarrod Stanton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Death Valley 5 - Utah 0
+[%T]	Top of the 2nd -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Death Valley 5 - Utah 0
+[%T]	Bottom of the 2nd -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4MD)
+[%B]	Batting: SHB <a href="../players/player_271.html">Robert Phelps</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Death Valley 5 - Utah 0
+[%T]	Top of the 3rd -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7LM)
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 5 - Utah 0
+[%T]	Bottom of the 3rd -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_432.html">Alain Johns</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_173.html">Jarrod Stanton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 2 left on base; Death Valley 5 - Utah 0
+[%T]	Top of the 4th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_405.html">Firstname Lastname</a> to second
+[%B]	Pitching: LHP <a href="../players/player_426.html">Epictitus Milburn</a>
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 89M)
+[%N]	<b><a href="../players/player_405.html">Firstname Lastname</a> scores</b>
+[%N]	<a href="../players/player_185.html">Ozamataz Buckshank</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 5-3 (Groundball, 56)
+[%F]	Top of the 4th over -  2 runs, 2 hits, 0 errors, 1 left on base; Death Valley 7 - Utah 0
+[%T]	Bottom of the 4th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_271.html">Robert Phelps</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 7 - Utah 0
+[%T]	Top of the 5th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : LHP <a href="../players/player_426.html">Epictitus Milburn</a>
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Death Valley 7 - Utah 0
+[%T]	Bottom of the 5th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_247.html">Austin Dye</a> to second
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_247.html">Austin Dye</a> to third
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to second
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Death Valley 7 - Utah 0
+[%T]	Top of the 6th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : LHP <a href="../players/player_426.html">Epictitus Milburn</a>
+[%B]	Batting: SHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F3  (Popup, 3S)
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_185.html">Ozamataz Buckshank</a> to second
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4M)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 2 left on base; Death Valley 7 - Utah 0
+[%T]	Bottom of the 6th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: RHB <a href="../players/player_173.html">Jarrod Stanton</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_271.html">Robert Phelps</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 3L)
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Death Valley 7 - Utah 0
+[%T]	Top of the 7th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : LHP <a href="../players/player_426.html">Epictitus Milburn</a>
+[%B]	Pitching: RHP <a href="../players/player_34.html">Omar Wright</a>
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 89XD)
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: SHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 15)
+[%F]	Top of the 7th over -  1 run, 1 hit, 0 errors, 1 left on base; Death Valley 8 - Utah 0
+[%T]	Bottom of the 7th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_429.html">Cisco Xochipilli</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Reached on error, E4 (Popup, 4)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F2  (Popup, 23F)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 1 error, 1 left on base; Death Valley 8 - Utah 0
+[%T]	Top of the 8th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_34.html">Omar Wright</a>
+[%B]	Now at 3B: <a href="../players/player_429.html">Cisco Xochipilli</a>
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 8LXD)
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 3D)
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_185.html">Ozamataz Buckshank</a> to third
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<b><a href="../players/player_185.html">Ozamataz Buckshank</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RS)
+[%F]	Top of the 8th over -  1 run, 2 hits, 0 errors, 1 left on base; Death Valley 9 - Utah 0
+[%T]	Bottom of the 8th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_208.html">Elston Sinclair</a>
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pitching: LHP <a href="../players/player_127.html">Damien Walec</a>
+[%B]	Batting: RHB <a href="../players/player_173.html">Jarrod Stanton</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 0 left on base; Death Valley 9 - Utah 0
+[%T]	Top of the 9th -  Death Valley Scorpions batting - Pitching for Utah Railroaders : RHP <a href="../players/player_34.html">Omar Wright</a>
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Line Drive, 78XD), Distance : 432 ft
+[%B]	Pitching: RHP <a href="../players/player_138.html">Brett Smoky</a>
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 376 ft
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: SHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Fielders Choice at 2nd, 1-6 (Groundball, 13S)
+[%B]	Batting: LHB <a href="../players/player_185.html">Ozamataz Buckshank</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> steals 2nd base
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 5D)
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> to third
+[%N]	<b><a href="../players/player_119.html">Ziggy Coffey</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy  Dong </a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 9th over -  3 runs, 4 hits, 0 errors, 1 left on base; Death Valley 12 - Utah 0
+[%T]	Bottom of the 9th -  Utah Railroaders batting - Pitching for Death Valley Scorpions : LHP <a href="../players/player_127.html">Damien Walec</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_271.html">Robert Phelps</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_429.html">Cisco Xochipilli</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%N]	<a href="../players/player_271.html">Robert Phelps</a> to second
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 3-1 (Groundball, 34S)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Death Valley 12 - Utah 0

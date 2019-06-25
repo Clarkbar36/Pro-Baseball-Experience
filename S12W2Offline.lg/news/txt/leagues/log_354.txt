@@ -1,0 +1,354 @@
+[%T]	Top of the 1st -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Pitching: RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: SHB <a href="../players/player_451.html">Mountain Thunderfist</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 0 - Anchorage 0
+[%T]	Bottom of the 1st -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Pitching: RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LMF)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: SHB <a href="../players/player_496.html">Jack Bauer II</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 0 - Anchorage 0
+[%T]	Top of the 2nd -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_390.html">Josh Kings</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 0 - Anchorage 0
+[%T]	Bottom of the 2nd -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Fielders Choice at 2nd, 2-6 (Groundball, 13S)
+[%B]	Batting: RHB <a href="../players/player_523.html">Rob Cena</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 0 - Anchorage 0
+[%T]	Top of the 3rd -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F8  (Flyball, 89M)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 0 - Anchorage 0
+[%T]	Bottom of the 3rd -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_412.html">Kris Kramer</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%N]	<a href="../players/player_412.html">Kris Kramer</a> to second
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F6  (Popup, 6MS)
+[%B]	Batting: SHB <a href="../players/player_496.html">Jack Bauer II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F5  (Popup, 5SF)
+[%F]	Bottom of the 3rd over -  0 runs, 2 hits, 0 errors, 2 left on base; Amarillo 0 - Anchorage 0
+[%T]	Top of the 4th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to second
+[%B]	Batting: SHB <a href="../players/player_451.html">Mountain Thunderfist</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 34D)
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to third
+[%N]	<a href="../players/player_410.html">Eric Tsai</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%N]	<a href="../players/player_410.html">Eric Tsai</a> to third
+[%B]	Batting: RHB <a href="../players/player_390.html">Josh Kings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%F]	Top of the 4th over -  1 run, 2 hits, 0 errors, 1 left on base; Amarillo 1 - Anchorage 0
+[%T]	Bottom of the 4th -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F8  (Flyball, 89D)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 1 - Anchorage 0
+[%T]	Top of the 5th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F6  (Popup, 6S)
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 1 - Anchorage 0
+[%T]	Bottom of the 5th -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: RHB <a href="../players/player_523.html">Rob Cena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Ground out U3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_412.html">Kris Kramer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LS)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 1 - Anchorage 0
+[%T]	Top of the 6th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Ground out 1-3 (Groundball, P)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: SHB <a href="../players/player_451.html">Mountain Thunderfist</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 1 - Anchorage 0
+[%T]	Bottom of the 6th -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_496.html">Jack Bauer II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 5L)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 1 - Anchorage 0
+[%T]	Top of the 7th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F3  (Popup, 23F)
+[%B]	Batting: RHB <a href="../players/player_390.html">Josh Kings</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 1 - Anchorage 0
+[%T]	Bottom of the 7th -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_493.html">Jerry Parker</a>
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 371 ft
+[%B]	Pitching: LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_523.html">Rob Cena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Reached on error, E5 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_523.html">Rob Cena</a> to second
+[%N]	<a href="../players/player_523.html">Rob Cena</a> to third
+[%B]	Batting: LHB <a href="../players/player_412.html">Kris Kramer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_512.html">Smitty Springfield</a> to second
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<b><a href="../players/player_523.html">Rob Cena</a> scores</b>
+[%N]	<a href="../players/player_512.html">Smitty Springfield</a> to third
+[%N]	<a href="../players/player_412.html">Kris Kramer</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+[%B]	Pitching: RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 7th over -  3 runs, 3 hits, 1 error, 2 left on base; Amarillo 1 - Anchorage 3
+[%T]	Top of the 8th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 1 left on base; Amarillo 1 - Anchorage 3
+[%T]	Bottom of the 8th -  Anchorage Wheelers batting - Pitching for Amarillo Armadillos : RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Batting: SHB <a href="../players/player_496.html">Jack Bauer II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 393 ft
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9)
+[%F]	Bottom of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Amarillo 1 - Anchorage 4
+[%T]	Top of the 9th -  Amarillo Armadillos batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: SHB <a href="../players/player_451.html">Mountain Thunderfist</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 6D)
+[%B]	Pitching: LHP <a href="../players/player_485.html">Rickadoszi Zimmermencha</a>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_451.html">Mountain Thunderfist</a> to second
+[%B]	Batting: RHB <a href="../players/player_390.html">Josh Kings</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<a href="../players/player_451.html">Mountain Thunderfist</a> to third
+[%N]	<a href="../players/player_484.html">Juan Dong</a> to second
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<b><a href="../players/player_451.html">Mountain Thunderfist</a> scores</b>
+[%N]	<a href="../players/player_484.html">Juan Dong</a> to third
+[%N]	<a href="../players/player_390.html">Josh Kings</a> to second
+[%B]	Pinch Hitting: SHB <a href="../players/player_477.html">Mason Brown 2.0</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F2  (Popup, 25F)
+[%F]	Top of the 9th over -  1 run, 4 hits, 0 errors, 3 left on base; Amarillo 2 - Anchorage 4

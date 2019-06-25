@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Minor League PBE in weighted on-base AVG (WOBA)?
-
-<Thomas Trey Oudekerk:player#508>, ANC, 		.418
-<Jake Grinz:player#472>, ANC, 		.413
-<Mountain Thunderfist:player#451>, ARM, 		.403
-<Smitty Springfield:player#512>, ANC, 		.397
-<Jackson Krowley:player#536>, SCSS, 		.387

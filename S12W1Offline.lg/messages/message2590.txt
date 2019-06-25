@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Minor League PBE in career strikeouts per 9 innings?
-
-<Jax Hunter:player#70>, FL, 		8.3
-<Bobby Hill:player#145>, SAS, 		8.0
-<Throwing  Man:player#1>, KGN, 		7.4
-<Thilip Phompson:player#389>, ARM, 		7.3
-<Dino Panini:player#332>, ARM, 		7.3

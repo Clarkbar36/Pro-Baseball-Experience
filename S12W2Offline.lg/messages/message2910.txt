@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career innings pitched?
+
+<Victoria Secret:player#227>, DV, 		2061.2
+<Elston Sinclair:player#208>, NYV, 		1990.0
+<Esteban Rodriguez:player#200>, FL, 		1940.0
+<Chaz LaLocke:player#223>, SAS, 		1931.1
+<Randy Koufax:player#203>, -, 		1874.0

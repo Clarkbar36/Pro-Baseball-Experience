@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in RBI at night.
-
-<Vick Thunder:player#270>, SAS, 		113
-<Jimmy  Dong :player#15>, DV, 		110
-<Julian O'Sullivan:player#246>, SAS, 		104
-<Min-joon Do:player#239>, DV, 		96
-<Hawk Russell:player#124>, FL, 		92

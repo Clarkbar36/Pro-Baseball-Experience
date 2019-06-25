@@ -1,0 +1,12 @@
+5-for-7 Day for Kings
+<Amarillo:team#19> second baseman <Josh Kings:player#390> had a big day at The Dillo Dome today against the <Anchorage Wheelers:team#16>. The 23-year-old, who is not typically considered a big threat with the bat, went 5-for-7 and led the Armadillos to a 6-5 triumph over Anchorage.
+
+"Hey, I'm as surprised as you guys are," Kings said in his postgame comments, smiling as he scolded the press corps for underestimating him. "Maybe I'm not so bad at the plate after all."
+
+<Josh Kings:player#390> singled in the 2nd, singled in the 4th, grounded out in the 6th, hit a solo-shot off <Tyler Finch:player#452> in the 8th, struck out in the 9th, singled in the 11th and hit an RBI single in the 13th.
+
+Thus far this year Kings is batting .285 with 7 home runs, 29 RBIs and 33 runs scored. 
+
+<View Boxscore:box#556>
+<View Game Log:log#556>
+<Watch Highlights:highlight#556>
