@@ -3,7 +3,7 @@ library(tidyverse)
 library(readxl)
 library(tidyr)
 library(Hmisc)
-#setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/")
 
 ds.games <- read.csv('Exports/games.csv', header = TRUE, sep = ',')
 
@@ -93,8 +93,8 @@ ds.all_games <- ds.all_games[order(ds.all_games[,1],ds.all_games[,3],ds.all_game
 
 
 #create daily standings columns
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_wins = cumsum(win))
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_losses = cumsum(loss))
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_wins = cumsum(win))
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_losses = cumsum(loss))
 ds.all_games$below.500 <- ds.all_games$ttl_wins - ds.all_games$ttl_losses
 ds.all_games$winloss <- paste(ds.all_games$ttl_wins, "-", ds.all_games$ttl_losses)
 ds.all_games$ID <- paste(ds.all_games$game_id, "-", ds.all_games$loss)
@@ -104,11 +104,11 @@ RA_tbl <- RA_tbl[c(2,4)]
 colnames(RA_tbl)[colnames(RA_tbl) == 'runs'] <- 'RA'
 ds.all_games <- merge(ds.all_games,RA_tbl,all.x = TRUE)
 ds.all_games$ID <- NULL
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_ra = cumsum(RA))
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_runs = cumsum(runs))
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_hits = cumsum(hits))
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_rs_sq = cumsum(runs)^2)
-ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% mutate(ttl_ra_sq = cumsum(RA)^2)
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_ra = cumsum(RA))
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_runs = cumsum(runs))
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_hits = cumsum(hits))
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_rs_sq = cumsum(runs)^2)
+ds.all_games <- ds.all_games %>% group_by(team_abbr) %>% arrange(team_id, game_id) %>% mutate(ttl_ra_sq = cumsum(RA)^2)
 ds.all_games$gp <- ds.all_games$ttl_wins + ds.all_games$ttl_losses
 ds.all_games$wp <- ds.all_games$ttl_rs_sq/(ds.all_games$ttl_rs_sq + ds.all_games$ttl_ra_sq)
 ds.all_games$pythag_win <- round(ds.all_games$wp*ds.all_games$gp,0)
