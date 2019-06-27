@@ -3,7 +3,7 @@ library(tidyverse)
 library(readxl)
 library(tidyr)
 library(Hmisc)
-#setwd("~/Documents/GitHub/PBE/")
+setwd("~/Documents/GitHub/PBE/")
 
 ds.games <- read.csv('Exports/games.csv', header = TRUE, sep = ',')
 

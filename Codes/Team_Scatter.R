@@ -5,7 +5,7 @@ suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(Hmisc))
 
-#setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/")
 
 tm <- read.csv("Exports/teams.csv")
 tm$`Team Name` <- paste(tm$name,tm$nickname)
@@ -129,61 +129,3 @@ gms <- read.csv("Exports/games.csv")
 gms <- gms %>% filter(played == 1)
 gms <- max(as.Date(gms$date))
 
-# x <- 'Pitching - ERA'
-# y <- 'Batting - Homeruns'
-# l <- 'MiLPBE'
-# # 
-# # 
-# tm.scatter <- function(l,x,y){
-# num.x <- which( colnames(all.stats)==x)
-# num.y <- which( colnames(all.stats)==y)
-# 
-# p.all.stats <- subset(all.stats,all.stats$League == l)
-# p.all.stats <- p.all.stats[c(70,as.numeric(num.x),as.numeric(num.y))]
-# colnames(p.all.stats) <- c("t","x","y")
-# # 
-# # 
-# pbe.colors <- c('#97162B',
-#                 '#D0D02B',
-#                 '#0E1540',
-#                 '#FF6700',
-#                 '#005CAD',
-#                 '#87795E',
-#                 '#2C0060',
-#                 '#183013')
-# milpbe.colors <- c('#007EF3',
-#                    '#86572C',
-#                    '#6C0000',
-#                    '#115376')
-# # if(l == 'PBE'){
-# p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-#   geom_point() +
-#   ggtitle(paste(y,"by",x), subtitle =paste(l))  +
-#   theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-#   xlab(x) + ylab(y) +
-#   geom_text(label=p.all.stats$t, vjust = -.5) +
-#   theme(legend.position = "none") +
-#   if(l=='PBE'){
-#     scale_colour_manual(values=pbe.colors)
-#   } else{
-#     scale_colour_manual(values=milpbe.colors)
-#   }
-# p
-
-# } else {
-#   p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-#     geom_point() + 
-#     ggtitle(paste(y,"by",x), subtitle =paste(l))  +
-#     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-#     xlab(x) + ylab(y) +
-#     geom_text(label=p.all.stats$t, vjust = -.5) +
-#     theme(legend.position = "none") +
-#     geom_text(label=p.all.stats$t, vjust = -.5) +
-#     scale_colour_manual(values=milpbe.colors)
-#   p
-#   
-# }
-# }
-# 
-# tm.scatter(l,x,y)
-# 

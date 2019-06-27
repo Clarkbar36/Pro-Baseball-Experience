@@ -293,44 +293,22 @@ tm.scatter <- function(l,x,y){
   num.y <- which( colnames(all.stats)==y)
   
   p.all.stats <- subset(all.stats,all.stats$League == l)
-  p.all.stats <- p.all.stats[c(70,as.numeric(num.x),as.numeric(num.y))]
-  colnames(p.all.stats) <- c("t","x","y")
+  p.all.stats <- p.all.stats[c(70,as.numeric(num.x),as.numeric(num.y),75)]
+  colnames(p.all.stats) <- c("t","x","y","c")
   
+  p.all.stats <- p.all.stats[order(p.all.stats[,1]),]
   
-  pbe.colors <- c('#97162B',
-                  '#D0D02B',
-                  '#0E1540',
-                  '#FF6700',
-                  '#005CAD',
-                  '#87795E',
-                  '#2C0060',
-                  '#183013')
-  milpbe.colors <- c('#007EF3',
-                     '#86572C',
-                     '#6C0000',
-                     '#115376')
-  if(l == 'PBE'){
-    p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-      geom_point(aes(size=5)) + 
-      ggtitle(paste(y,"by",x), subtitle =paste(l))  +
-      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      xlab(x) + ylab(y) +
-      geom_text(label=p.all.stats$t, vjust = -.75) +
-      theme(legend.position = "none") +
-      scale_colour_manual(values=pbe.colors)
-    p
-  } else {
-    p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
-      geom_point(aes(size=5)) + 
-      ggtitle(paste(y,"by",x), subtitle =paste(l))  +
-      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      xlab(x) + ylab(y) +
-      geom_text(label=p.all.stats$t, vjust = -.75) +
-      theme(legend.position = "none") +
-      scale_colour_manual(values=milpbe.colors)
-    p
-    
-  }
+  colorpal <- as.character(p.all.stats$c)
+  
+  p <-  ggplot(p.all.stats, aes(x=x, y=y,color=t))+
+    geom_point(aes(size=5)) + 
+    ggtitle(paste(y,"by",x), subtitle =paste(l))  +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    xlab(x) + ylab(y) +
+    geom_text(label=p.all.stats$t, vjust = -.75) +
+    theme(legend.position = "none") +
+    scale_colour_manual(values=colorpal)
+  p
 }
 
 tm.tbl <- function(l,x,y){
@@ -350,49 +328,24 @@ WinsAB_plot <- function(l,s){
   p.daily <- daily[c(4,9,14,18,31,34)]
   season <- unique(p.daily$season)
   colnames(p.daily) <- c("x","t","d","y","c","s")
- 
   
-  pbe.colors <- c('#97162B',
-                  '#D0D02B',
-                  '#0E1540',
-                  '#FF6700',
-                  '#005CAD',
-                  '#87795E',
-                  '#2C0060',
-                  '#183013')
-  milpbe.colors <- c('#007EF3',
-                     '#86572C',
-                     '#6C0000',
-                     '#115376')
+  colorpal <- p.daily[c(2,5)]
+  colorpal <- unique(colorpal)
+  colorpal <- colorpal[order(colorpal[,1]),]
+  colorpal <- as.character(colorpal$c)
   
   
-  if(l == 'PBE'){
-    p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
-      geom_line() +
-      ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
-      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      ylab("Games Above/Below .500") + xlab("Date") +
-      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = -.15, vjust = -.75)) +
-      theme(legend.position = "none") + 
-      scale_colour_manual(values=pbe.colors) +
-      guides(colour=FALSE) +
-      theme_bw()
-    p
-    
-  } else {
-    p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
-      geom_line() +
-      ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
-      theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
-      ylab("Games Above/Below .500") + xlab("Date") +
-      geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = -.15, vjust = -.75)) +
-      theme(legend.position = "none") + 
-      scale_colour_manual(values=milpbe.colors) +
-      guides(colour=FALSE) +
-      theme_bw()
-    p
-    
-  }
+  p <-  ggplot(p.daily, aes(x=x, y=y, color = t))+
+    geom_line() +
+    ggtitle("Games Above/Below .500", subtitle = paste(season,"Season -",l)) +
+    theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
+    ylab("Games Above/Below .500") + xlab("Date") +
+    geom_dl(aes(label=t, color=t), method = list("last.points",cex = .75,hjust = -.15, vjust = -.75)) +
+    theme(legend.position = "none") + 
+    scale_colour_manual(values=colorpal) +
+    guides(colour=FALSE) +
+    theme_bw()
+  p
 }
   
 WAB.tbl <- function(l,s){
