@@ -4,7 +4,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 
-#setwd("~/Documents/GitHub/PBE/")
+setwd("~/Documents/GitHub/PBE/")
 c.records <- read.csv("Exports/team_record.csv")
 c.games_played <- max(c.records$g)
 c.x_pl <- read.csv('Exports/players.csv',header = TRUE)
@@ -121,7 +121,7 @@ c.all.hit <- c.all.hit[-c(20:37,52:64,68)]
 colnames(c.all.hit)[colnames(c.all.hit) == 'ab'] <- 'At Bats'
 colnames(c.all.hit)[colnames(c.all.hit) == 'h'] <- 'Hits'
 colnames(c.all.hit)[colnames(c.all.hit) == 'SO'] <- 'Strikeouts'
-colnames(c.all.hit)[colnames(c.all.hit) == 'pa'] <- 'Plate Apperances'
+colnames(c.all.hit)[colnames(c.all.hit) == 'pa'] <- 'Plate Appearances'
 colnames(c.all.hit)[colnames(c.all.hit) == 'g'] <- 'Games'
 colnames(c.all.hit)[colnames(c.all.hit) == 'Dbl'] <- 'Doubles'
 colnames(c.all.hit)[colnames(c.all.hit) == 'Trp'] <- 'Triples'

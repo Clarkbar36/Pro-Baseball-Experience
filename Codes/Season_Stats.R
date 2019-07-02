@@ -161,7 +161,7 @@ s.all.hit <- s.all.hit[-c(21:39,57:69,75)]
 colnames(s.all.hit)[colnames(s.all.hit) == 'ab'] <- 'At Bats'
 colnames(s.all.hit)[colnames(s.all.hit) == 'h'] <- 'Hits'
 colnames(s.all.hit)[colnames(s.all.hit) == 'SO'] <- 'Strikeouts'
-colnames(s.all.hit)[colnames(s.all.hit) == 'pa'] <- 'Plate Apperances'
+colnames(s.all.hit)[colnames(s.all.hit) == 'pa'] <- 'Plate Appearances'
 colnames(s.all.hit)[colnames(s.all.hit) == 'g'] <- 'Games'
 colnames(s.all.hit)[colnames(s.all.hit) == 'Dbl'] <- 'Doubles'
 colnames(s.all.hit)[colnames(s.all.hit) == 'Trp'] <- 'Triples'
