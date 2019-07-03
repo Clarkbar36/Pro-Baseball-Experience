@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for hits?
+
+<Trent Vain:player#259>, SCSS, 		152, 2021
+<Jimmy  Caliburn :player#316>, SCSS, 		143, 2022
+<Jake Grinz:player#472>, ANC, 		142, 2027
+<Michael Rapinski:player#39>, KGN, 		141, 2024
+<Riley Tiffielder:player#324>, ANC, 		139, 2026

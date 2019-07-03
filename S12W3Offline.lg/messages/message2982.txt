@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Pro Baseball Experience in RBI while playing First Base!
+
+<Hendrix Lamar:player#407>, VAN, 		35
+<Toledo Jones:player#321>, NYV, 		29
+<Kimetrius  Webster :player#24>, OBX, 		28
+<Shooty McLish:player#237>, SAS, 		27
+<Artem Maximovich:player#436>, PRO, 		20

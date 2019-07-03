@@ -1,0 +1,14 @@
+Sloths Thunder Hits 300th Homer
+"I wasn't trying to hit a homer. I just wanted to make contact."
+
+That's what <Vick Thunder:player#270> told reporters after he made baseball history today at The Treehouse. The prolific slugger belted home run #300 in the <San Antonio Sloths:team#9> 6-1 victory over the <Utah Railroaders:team#25>.
+
+The standout left fielder collected 2 hits in 3 at-bats with 4 RBI and 2 runs scored.
+
+"I guess this puts me in baseball's elite," said Thunder. "I don't feel any different. I probably should, but I don't. Still, it is a nice achievement. I did get a little excited, didn't I?"
+
+In his career <Thunder:player#270> has played in 1144 games with a .306 batting average. Among his 1395 hits are 223 doubles, 18 triples, and 300 home runs. He also has scored 788 runs, walked 553 times, has 5 stolen bases and driven in 895 runs.
+
+<View Boxscore:box#165>
+<View Game Log:log#165>
+<Watch Highlights:highlight#165>
