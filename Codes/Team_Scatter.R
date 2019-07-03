@@ -12,6 +12,11 @@ tm$`Team Name` <- paste(tm$name,tm$nickname)
 tm <- tm[c(1,3,8,28)]
 colnames(tm)[colnames(tm) == 'abbr'] <- 'Team Abbr'
 
+ds.color <- read_excel("Misc/Colors.xlsx")
+ds.color <- ds.color[c(1,3)]
+
+
+
 lg <- read.csv("Exports/leagues.csv")
 lg <- lg[c(1,3)]
 colnames(lg)[colnames(lg) == 'abbr'] <- 'League'
@@ -22,6 +27,7 @@ stdp <- subset(stdp,stdp$team_id %nin% c(7,8,12,13,14,15,22,23))
 colnames(stdp)[colnames(stdp) == 'pos'] <- 'All - Division Standing'
 
 lkup <- merge(tm,lg, all.x = TRUE)
+lkup <- merge(lkup,ds.color)
 lkup <- merge(lkup, stdp)
 lkup <- lkup %>% 
   group_by(league_id) %>% 
@@ -128,4 +134,5 @@ cnames <- sort(cnames)
 gms <- read.csv("Exports/games.csv")
 gms <- gms %>% filter(played == 1)
 gms <- max(as.Date(gms$date))
+
 

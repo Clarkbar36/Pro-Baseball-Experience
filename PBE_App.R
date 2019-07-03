@@ -291,9 +291,11 @@ s.pitcher.leaderboard <- function(p,w,x,y,z){
 tm.scatter <- function(l,x,y){
   num.x <- which( colnames(all.stats)==x)
   num.y <- which( colnames(all.stats)==y)
+  num.t <- which(colnames(all.stats)=='Team Abbr')
+  num.c <- which(colnames(all.stats)=='Primary Color')
   
   p.all.stats <- subset(all.stats,all.stats$League == l)
-  p.all.stats <- p.all.stats[c(70,as.numeric(num.x),as.numeric(num.y),75)]
+  p.all.stats <- p.all.stats[c(as.numeric(num.t),as.numeric(num.x),as.numeric(num.y),as.numeric(num.c))]
   colnames(p.all.stats) <- c("t","x","y","c")
   
   p.all.stats <- p.all.stats[order(p.all.stats[,1]),]
@@ -649,7 +651,7 @@ body <- dashboardBody(
                    ),
             fluidRow(
               column(width = 6,plotOutput("wins_AB")),
-                     column(width = 3,dataTableOutput("winsWB_table"))
+              column(width = 3,dataTableOutput("winsWB_table"))
               )
     )),
     
