@@ -1,7 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(ggthemes)
-setwd("~/Documents/GitHub/PBE/Exports/")
+#setwd("~/Documents/GitHub/PBE/Exports/")
 player_career_batting  <- read.csv('players_career_batting_stats.csv',header = TRUE)
 player_career_batting <- subset(player_career_batting,player_career_batting$split_id == 1)
 player_career_pitching <- read.csv('players_career_pitching_stats.csv',header = TRUE)
