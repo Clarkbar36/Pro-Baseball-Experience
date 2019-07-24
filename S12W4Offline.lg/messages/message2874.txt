@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in on-base plus slugging (OPS) during spring training.
-
-<Catolo Kittone:player#158>, DV, 		1.223
-<Clem Johnson:player#122>, NYV, 		1.222
-<Shooty McLish:player#237>, SAS, 		1.190
-<Phillip J Fry:player#147>, NYV, 		1.118
-<Seth Crossland:player#427>, UTA, 		1.067

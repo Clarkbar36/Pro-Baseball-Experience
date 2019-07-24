@@ -1,0 +1,746 @@
+[%T]	Top of the 1st -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Pitching: LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: RHB <a href="../players/player_204.html">Jackson Jackson</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+
+[%N]	0-0:  Fly out, F8  (Flyball, 89D)
+
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Swinging Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78S)
+
+[%N]	<a href="../players/player_204.html">Jackson Jackson</a> to second
+
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Grounds into double play, 1-4-3 (Groundball, 25)
+
+[%F]	Top of the 1st over -  0 runs, 2 hits, 0 errors, 1 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Bottom of the 1st -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Pitching: LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Ground out 5-3 (Groundball, 56S)
+
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+
+[%N]	0-0:  Fly out, F7  (Flyball, 78M)
+
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Foul Ball, location: 7LMF
+
+[%N]	1-2: Strikes out  swinging
+
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Top of the 2nd -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: SHB <a href="../players/player_417.html">Fenway Turner</a>
+
+[%N]	0-0: Foul Ball, location: 7LMF
+
+[%N]	0-1: Foul Ball, location: 5F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Foul Ball, location: 2F
+
+[%N]	2-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_266.html">Matthew Valentine</a>
+
+[%N]	0-0: Ground out 3-1 (Groundball, 34)
+
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Bottom of the 2nd -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Strikes out  looking
+
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 78D)
+
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2:  Fly out, F3  (Popup, 23F)
+
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ball
+
+[%N]	3-1: Ground out 6-3 (Groundball, 6)
+
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Top of the 3rd -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F7  (Flyball, 7LMF)
+
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_204.html">Jackson Jackson</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Foul Ball, location: 2F
+
+[%N]	0-2: Foul Ball, location: 2F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ball
+
+[%N]	2-2:  Fly out, F7  (Flyball, 78M)
+
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Bottom of the 3rd -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: RHB <a href="../players/player_28.html">Takumi  Fujiwara </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2: Strikes out  looking
+
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ground out 4-3 (Groundball, 4MD)
+
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Top of the 4th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2:  Fly out, F9  (Flyball, 9LS)
+
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Swinging Strike
+
+[%N]	2-1: Foul Ball, location: 7LSF
+
+[%N]	2-2:  Fly out, F7  (Flyball, 78D)
+
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1:  Fly out, F2  (Popup, 23F)
+
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 0 - Outer Banks 0
+
+[%T]	Bottom of the 4th -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Ball
+
+[%N]	3-0: Base on Balls
+
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2: Strikes out  swinging
+
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89D)
+
+[%N]	<a href="../players/player_20.html">Billy Benson</a> to third
+
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+
+[%N]	0-0:  <b>3-RUN HOME RUN</b>  (Flyball, 9D), Distance : 359 ft
+
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 9LM)
+
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Ground out 5-3 (Groundball, 56)
+
+[%B]	Batting: RHB <a href="../players/player_28.html">Takumi  Fujiwara </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F9  (Flyball, 9LSF)
+
+[%F]	Bottom of the 4th over -  3 runs, 3 hits, 0 errors, 1 left on base; Providence 0 - Outer Banks 3
+
+[%T]	Top of the 5th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: SHB <a href="../players/player_417.html">Fenway Turner</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+
+[%B]	Batting: RHB <a href="../players/player_266.html">Matthew Valentine</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Ball
+
+[%N]	Wild Pitch!
+
+[%N]	<a href="../players/player_417.html">Fenway Turner</a> to second
+
+[%N]	2-1: Ground out 2-3 (Groundball, 2L)
+
+[%N]	<a href="../players/player_417.html">Fenway Turner</a> to third
+
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by LF</b>
+
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2:  Fly out, F9  (Flyball, 9LDF)
+
+[%F]	Top of the 5th over -  1 run, 1 hit, 0 errors, 0 left on base; Providence 1 - Outer Banks 3
+
+[%T]	Bottom of the 5th -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F7  (Flyball, 7S)
+
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1:  Fly out, F9  (Flyball, 9S)
+
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 3
+
+[%T]	Top of the 6th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+
+[%B]	Batting: RHB <a href="../players/player_204.html">Jackson Jackson</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+
+[%N]	<a href="../players/player_418.html">Richard Small</a> to second
+
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Strikes out  swinging
+
+[%F]	Top of the 6th over -  0 runs, 2 hits, 0 errors, 2 left on base; Providence 1 - Outer Banks 3
+
+[%T]	Bottom of the 6th -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D)
+
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+
+[%N]	0-0: Intentional Walk
+
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Strikes out  swinging
+
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: Fielders Choice at 2nd, 3-6 (Groundball, 34S)
+
+[%N]	<a href="../players/player_159.html">Connor Tanner</a> to third
+
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+
+[%N]	Pickoff Throw to First - No movement.
+
+[%N]	Pickoff Throw to First - No movement.
+
+[%N]	Pickoff Throw to First - No movement.
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1:  <b>3-RUN HOME RUN</b>  (Flyball, 7D), Distance : 403 ft
+
+[%B]	Batting: RHB <a href="../players/player_28.html">Takumi  Fujiwara </a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Foul Ball, location: 3F
+
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+
+[%F]	Bottom of the 6th over -  3 runs, 2 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 6
+
+[%T]	Top of the 7th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: SHB <a href="../players/player_417.html">Fenway Turner</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2: Ground out 4-3 (Groundball, 4)
+
+[%B]	Batting: RHB <a href="../players/player_266.html">Matthew Valentine</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Ball
+
+[%N]	3-1:  Fly out, F7  (Flyball, 7LS)
+
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: Strikes out  swinging
+
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 6
+
+[%T]	Bottom of the 7th -  Outer Banks Aviators batting - Pitching for Providence Crabs : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD), Distance : 443 ft
+
+[%B]	Pitching: RHP <a href="../players/player_328.html">Tony Pisano</a>
+
+[%B]	Batting: RHB <a href="../players/player_87.html">Jake Stennett</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2: Base on Balls
+
+[%B]	Batting: RHB <a href="../players/player_20.html">Billy Benson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Base on Balls
+
+[%N]	<a href="../players/player_87.html">Jake Stennett</a> to second
+
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 3D)
+
+[%N]	<b><a href="../players/player_87.html">Jake Stennett</a> scores</b>
+
+[%N]	<a href="../players/player_20.html">Billy Benson</a> to third
+
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+
+[%N]	<b><a href="../players/player_20.html">Billy Benson</a> scores</b>
+
+[%N]	<a href="../players/player_159.html">Connor Tanner</a> to third
+
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius  Webster </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Grounds into double play, 6-4-3 (Groundball, 6)
+
+[%N]	<b><a href="../players/player_159.html">Connor Tanner</a> scores</b>
+
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2:  Fly out, F6  (Popup, 6M)
+
+[%F]	Bottom of the 7th over -  4 runs, 3 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 10
+
+[%T]	Top of the 8th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 9LMF
+
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS)
+
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+
+[%N]	0-0: Ball
+
+[%N]	Wild Pitch!
+
+[%N]	<a href="../players/player_409.html">Kyle Bellinger</a> to second
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: Strikes out  looking
+
+[%B]	Batting: RHB <a href="../players/player_204.html">Jackson Jackson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F7  (Flyball, 7)
+
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Strikes out  swinging
+
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Providence 1 - Outer Banks 10
+
+[%T]	Bottom of the 8th -  Outer Banks Aviators batting - Pitching for Providence Crabs : RHP <a href="../players/player_328.html">Tony Pisano</a>
+
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_28.html">Takumi  Fujiwara </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2:  Fly out, F7  (Flyball, 7)
+
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 10
+
+[%T]	Top of the 9th -  Providence Crabs batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F4  (Popup, 4M)
+
+[%B]	Batting: SHB <a href="../players/player_435.html">Moises  Hammond</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ground out 1-3 (Groundball, 13)
+
+[%B]	Batting: SHB <a href="../players/player_417.html">Fenway Turner</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1:  Fly out, F4  (Popup, 4S)
+
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Providence 1 - Outer Banks 10
+

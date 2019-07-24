@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Minor League PBE in career saves?
-
-<Dionte Washington:player#326>, SAS, 		58
-<Twain  Teetoo:player#144>, SCSS, 		46
-<Jimmy  -Page-:player#301>, ARM, 		29
-<Rickadoszi Zimmermencha:player#485>, ANC, 		27
-<Leo Komarov:player#404>, VAN, 		23

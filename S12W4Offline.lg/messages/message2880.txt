@@ -1,8 +1,0 @@
-BNN Stats: Active Career Batting Leaders
-So, who is the active leader in the Pro Baseball Experience in career games started?
-
-<Connor MacDonald:player#255>, VAN, 		1102
-<Matthew Valentine:player#266>, PRO, 		1102
-<Sophia Bennett:player#258>, SAS, 		1101
-<Johnny Runakiwi:player#244>, FL, 		1101
-<Kevin Biggio:player#268>, FL, 		1100

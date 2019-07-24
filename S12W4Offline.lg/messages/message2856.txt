@@ -1,8 +1,0 @@
-BNN Stats: Honestly, It's Just Muscles
-Here is a list of the heaviest players in the Minor League PBE...
-
-<Mason Brown 2.0:player#477>, ARM,		280 lbs
-<Nero  Mantics:player#162>, SCSS,		280 lbs
-<Twain  Teetoo:player#144>, SCSS,		280 lbs
-<King Swamp Troll:player#9>, ANC,		275 lbs
-<Thomas Trey Oudekerk:player#508>, ANC,		260 lbs

@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for batting AVG?
+
+<Vick Thunder:player#270>, VAN, 		.3753, 2018
+<Shooty McLish:player#237>, SAS, 		.3648, 2025
+<Julian O'Sullivan:player#246>, SAS, 		.3641, 2018
+<Connor MacDonald:player#255>, VAN, 		.3558, 2018
+<Eduardo Dinero:player#81>, NYV, 		.3541, 2028

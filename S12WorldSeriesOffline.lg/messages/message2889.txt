@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for on-base percentage?
+
+<Jake Grinz:player#472>, ANC, 		.4385, 2027
+<Jimmy  Caliburn :player#316>, SCSS, 		.4372, 2022
+<Dirty Dongs:player#262>, ANC, 		.4365, 2021
+<Eric Tsai:player#410>, ARM, 		.4224, 2026
+<Trent Vain:player#259>, SCSS, 		.4138, 2021

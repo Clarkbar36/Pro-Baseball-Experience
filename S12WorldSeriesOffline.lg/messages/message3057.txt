@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for at bats?
+
+<Simon Hans:player#111>, SAS, 		448, 2025
+<Eduardo Dinero:player#81>, PRO, 		439, 2020
+<Jarrod Stanton:player#173>, PRO, 		438, 2021
+<Laddy McBantershire:player#275>, NYV, 		437, 2017
+<Johnny Runakiwi:player#244>, VAN, 		433, 2018

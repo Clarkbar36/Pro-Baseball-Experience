@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career K/BB?
+
+<D'Aroldis Borkman:player#62>, FL, 		5.4
+<Victoria Secret:player#227>, DV, 		5.2
+<Esteban Rodriguez:player#200>, FL, 		4.9
+<Elston Sinclair:player#208>, NYV, 		4.6
+<Penny Kowers:player#174>, DV, 		4.6

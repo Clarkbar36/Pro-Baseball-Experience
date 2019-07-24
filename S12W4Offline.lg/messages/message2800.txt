@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Rookie Leaders
-So, which rookie starting pitchers are leading the Minor League PBE in fielding independent pitching (FIP)?
-
-<Drennifer Tarbington:player#501>, ARM, 		4.10
-<Falco Von Adler:player#502>, ARM, 		4.28
-<Kosei Yoshida:player#503>, ARM, 		4.44
-<Joey Slothface:player#525>, ANC, 		4.53
-<Amp Dupree:player#529>, ANC, 		4.86

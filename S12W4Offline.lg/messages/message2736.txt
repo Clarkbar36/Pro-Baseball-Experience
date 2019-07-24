@@ -1,8 +1,0 @@
-BNN Stats: Does Age Matter?
-Here is a list of the oldest players in the Pro Baseball Experience...
-
-<Fastguy Pitcherman:player#46>, NYV,		40 years, 158 days
-<Bobson Dugnutt:player#136>, UTA,		38 years, 96 days
-<Trent Boult:player#43>, FL,		38 years, 60 days
-<Toshihiro Ishikawa:player#273>, FL,		38 years, 59 days
-<Matthew Auston:player#45>, SAS,		37 years, 322 days

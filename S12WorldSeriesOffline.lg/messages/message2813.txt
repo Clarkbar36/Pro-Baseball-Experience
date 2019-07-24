@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Pro Baseball Experience in career complete games?
+
+<Phillip Thompson:player#77>, OBX, 		58
+<Victoria Secret:player#227>, DV, 		48
+<Esteban Rodriguez:player#200>, FL, 		37
+<Elston Sinclair:player#208>, DV, 		36
+<Greg Steiner:player#76>, VAN, 		24

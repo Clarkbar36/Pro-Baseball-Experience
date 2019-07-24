@@ -1,0 +1,1032 @@
+[%T]	Top of the 1st -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Pitching: RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 8LM)
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Foul Ball, location: 3SF
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 7LM)
+
+[%N]	<a href="../players/player_410.html">Eric Tsai</a> to third
+
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Foul Ball, location: 2LF
+
+[%N]	0-2:  Fly out, F9  (Flyball, 89D)
+
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by RF</b>
+
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+
+[%N]	<a href="../players/player_537.html">Johnny Blaze</a> to third
+
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ball
+
+[%N]	3-1: Ground out 6-3 (Groundball, 6)
+
+[%F]	Top of the 1st over -  1 run, 2 hits, 0 errors, 1 left on base; Amarillo 1 - Kingston 0
+
+[%T]	Bottom of the 1st -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Pitching: LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S)
+
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Base on Balls
+
+[%N]	<a href="../players/player_422.html">Shovel Bryant</a> to second
+
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+
+[%N]	<a href="../players/player_422.html">Shovel Bryant</a> to third
+
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to second
+
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Swinging Strike
+
+[%N]	2-1: Called Strike
+
+[%N]	2-2: Strikes out  swinging
+
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ball
+
+[%N]	3-2:  Fly out, F9  (Flyball, 9D)
+
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw by RF
+
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 25F
+
+[%N]	0-2: Foul Ball, location: 2F
+
+[%N]	0-2:  Fly out, F6  (Popup, P)
+
+[%F]	Bottom of the 1st over -  1 run, 2 hits, 0 errors, 2 left on base; Amarillo 1 - Kingston 1
+
+[%T]	Top of the 2nd -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: RHB <a href="../players/player_555.html">Nic Wilson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6MD)
+
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+
+[%N]	Pickoff Throw to First - No movement.
+
+[%N]	0-0: Ball
+
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 9LS)
+
+[%N]	<a href="../players/player_555.html">Nic Wilson</a> to second
+
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+
+[%B]	Batting: RHB <a href="../players/player_560.html">Matthew Sisson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 89M)
+
+[%N]	<b><a href="../players/player_555.html">Nic Wilson</a> scores</b>
+
+[%N]	<a href="../players/player_565.html">Connor McDavitt</a> to second
+
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ball
+
+[%N]	3-1: Called Strike
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2: Base on Balls
+
+[%N]	<a href="../players/player_560.html">Matthew Sisson</a> to second
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 7LMF
+
+[%N]	0-2: Ball
+
+[%N]	1-2:  Fly out, F7  (Flyball, 78D)
+
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by LF</b>
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1:  Fly out, F6  (Line Drive, 6)
+
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+
+[%F]	Top of the 2nd over -  2 runs, 3 hits, 0 errors, 2 left on base; Amarillo 3 - Kingston 1
+
+[%T]	Bottom of the 2nd -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS)
+
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+
+[%N]	0-0: Reached on error, E5 (Groundball, 56)
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	Pickoff Throw to First - No movement.
+
+[%N]	0-0: Called Strike
+
+[%N]	<a href="../players/player_567.html">Michael David</a> steals 2nd base
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D), Distance : 393 ft
+
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1:  Fly out, F8  (Flyball, 89M)
+
+[%F]	Bottom of the 2nd over -  2 runs, 1 hit, 1 error, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 3rd -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1:  Fly out, F9  (Flyball, 9LS)
+
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_555.html">Nic Wilson</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1:  Fly out, F4  (Popup, 13S)
+
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 3rd -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ground out U3 (Groundball, 3S)
+
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F7  (Flyball, 7LM)
+
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Ground out 6-3 (Groundball, 56)
+
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 4th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+
+[%B]	Batting: RHB <a href="../players/player_560.html">Matthew Sisson</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 56D)
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Ball
+
+[%N]	3-0: Base on Balls
+
+[%N]	<a href="../players/player_582.html">Felipe Rios</a> to second
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ground out 5-3 (Groundball, 5S)
+
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 2 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 4th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ball
+
+[%N]	3-1: Foul Ball, location: 2F
+
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 78S)
+
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> to second
+
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+
+[%N]	0-0:  Fly out, F7  (Flyball, 7)
+
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 34D)
+
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> to third
+
+[%N]	<a href="../players/player_543.html">Dandy Chiggins</a> to second
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: Strikes out  looking
+
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Fielders Choice at 2nd, U6 (Groundball, 6M)
+
+[%F]	Bottom of the 4th over -  0 runs, 3 hits, 0 errors, 3 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 5th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1:  Fly out, F8  (Flyball, 8RD)
+
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F8  (Flyball, 8LM)
+
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 5th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+
+[%N]	0-0: Foul Ball, location: 7LMF
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Ball
+
+[%N]	3-1: Swinging Strike
+
+[%N]	3-2: Foul Ball, location: 2F
+
+[%N]	3-2: Base on Balls
+
+[%N]	<a href="../players/player_516.html">Chris King</a> to second
+
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Grounds into double play, 4-6-3 (Groundball, 4)
+
+[%N]	<a href="../players/player_516.html">Chris King</a> to third
+
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ground out 6-3 (Groundball, 6)
+
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 6th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Batting: RHB <a href="../players/player_555.html">Nic Wilson</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2: Ball
+
+[%N]	2-2:  Fly out, F7  (Flyball, 78S)
+
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 4D)
+
+[%B]	Batting: RHB <a href="../players/player_560.html">Matthew Sisson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Grounds into double play, 5-4-3 (Groundball, 56)
+
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 6th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_573.html">Ioseb Besarionis dze Jughashvili</a>
+
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Foul Ball, location: 9LDF
+
+[%N]	0-2: Foul Ball, location: 9LDF
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ball
+
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LM)
+
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 89M)
+
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: Ball
+
+[%N]	2-2:  Fly out, F7  (Flyball, 78S)
+
+[%B]	Pitching: LHP <a href="../players/player_403.html">Goose Boozer</a>
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+
+[%N]	<a href="../players/player_571.html">Robert Sandberg</a> to second
+
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Foul Ball, location: 2F
+
+[%N]	1-2:  Fly out, F8  (Flyball, 89D)
+
+[%F]	Bottom of the 6th over -  0 runs, 2 hits, 0 errors, 2 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 7th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_544.html">Hans Kannon</a>
+
+[%B]	Pitching: RHP <a href="../players/player_500.html">Zack Vega</a>
+
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Ball
+
+[%N]	3-0: Called Strike
+
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 6MD)
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Strikes out  swinging
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Swinging Strike
+
+[%N]	2-2: Strikes out  looking
+
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 7th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_403.html">Goose Boozer</a>
+
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+
+[%N]	0-0: Reached on error, E6 (Groundball, 6)
+
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Ball
+
+[%N]	2-1:  Fly out, F9  (Flyball, 89M)
+
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+
+[%N]	<a href="../players/player_516.html">Chris King</a> to second
+
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 1 error, 1 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 8th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : RHP <a href="../players/player_500.html">Zack Vega</a>
+
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: Base on Balls
+
+[%B]	Pitching: LHP <a href="../players/player_566.html">Sebastian Winchester</a>
+
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+
+[%N]	Pickoff Throw to First - Out! 1-3
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+
+[%B]	Batting: RHB <a href="../players/player_555.html">Nic Wilson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Swinging Strike
+
+[%N]	1-1: Ball
+
+[%N]	2-1: Foul Ball, location: 2F
+
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 89D)
+
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 9LDF
+
+[%N]	2-1:  Fly out, F9  (Line Drive, 9)
+
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 8th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_403.html">Goose Boozer</a>
+
+[%B]	Pitching: LHP <a href="../players/player_580.html">Richard Johnson</a>
+
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins</a>
+
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+
+[%N]	0-0:  Fly out, F9  (Flyball, 89D)
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Swinging Strike
+
+[%N]	1-1:  Fly out, F9  (Flyball, 9D)
+
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 9th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : LHP <a href="../players/player_566.html">Sebastian Winchester</a>
+
+[%B]	Batting: RHB <a href="../players/player_560.html">Matthew Sisson</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Ball
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Foul Ball, location: 2F
+
+[%N]	1-2: Ground out 3-1 (Groundball, 34)
+
+[%B]	Pinch Hitting: RHB <a href="../players/player_390.html">Josh Kings</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Strikes out  looking
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1: Called Strike
+
+[%N]	2-2: Strikes out  swinging
+
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Bottom of the 9th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_580.html">Richard Johnson</a>
+
+[%B]	Now at 2B: <a href="../players/player_390.html">Josh Kings</a>
+
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Strikes out  swinging
+
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0:  Fly out, F8  (Flyball, 89D)
+
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1:  Fly out, F6  (Popup, P)
+
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Amarillo 3 - Kingston 3
+
+[%T]	Top of the 10th -  Amarillo Armadillos batting - Pitching for Kingston Mounties : LHP <a href="../players/player_566.html">Sebastian Winchester</a>
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Ball
+
+[%N]	3-0: Base on Balls
+
+[%B]	Pitching: RHP <a href="../players/player_5.html">Throwing  Guy</a>
+
+[%B]	Batting: SHB <a href="../players/player_468.html">Ryusei Makunouchi </a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 89XD)
+
+[%N]	<a href="../players/player_537.html">Johnny Blaze</a> to third
+
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+
+[%N]	0-0: Intentional Walk
+
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Foul Ball, location: 7LDF
+
+[%N]	2-2:  Fly out, F1  (Line Drive, P)
+
+[%N]	Lined into DP, 1-3 (Line Drive, P)
+
+[%B]	Pinch Hitting: LHB <a href="../players/player_440.html">Kenga Yunai</a>
+
+[%N]	0-0: Intentional Walk
+
+[%B]	Pinch Hitting: SHB <a href="../players/player_477.html">Mason Brown 2.0</a>
+
+[%N]	Balk!
+
+[%N]	<b><a href="../players/player_537.html">Johnny Blaze</a> scores</b>
+
+[%N]	<a href="../players/player_468.html">Ryusei Makunouchi </a> to third
+
+[%N]	<a href="../players/player_440.html">Kenga Yunai</a> to second
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Called Strike
+
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8RS)
+
+[%N]	<b><a href="../players/player_468.html">Ryusei Makunouchi </a> scores</b>
+
+[%N]	<a href="../players/player_440.html">Kenga Yunai</a> to third
+
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+
+[%B]	Pitching: RHP <a href="../players/player_1.html">Throwing  Man</a>
+
+[%B]	Batting: RHB <a href="../players/player_560.html">Matthew Sisson</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 9LM)
+
+[%N]	<a href="../players/player_477.html">Mason Brown 2.0</a> to third
+
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+
+[%B]	Batting: RHB <a href="../players/player_390.html">Josh Kings</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 78M)
+
+[%N]	<b><a href="../players/player_560.html">Matthew Sisson</a> scores</b>
+
+[%B]	Batting: RHB <a href="../players/player_410.html">Eric Tsai</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Ball
+
+[%N]	3-0: Called Strike
+
+[%N]	3-1: Base on Balls
+
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+
+[%N]	0-0: Foul Ball, location: 2F
+
+[%N]	0-1: Foul Ball, location: 2F
+
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+
+[%F]	Top of the 10th over -  5 runs, 4 hits, 0 errors, 2 left on base; Amarillo 8 - Kingston 3
+
+[%T]	Bottom of the 10th -  Kingston Mounties batting - Pitching for Amarillo Armadillos : LHP <a href="../players/player_580.html">Richard Johnson</a>
+
+[%B]	Pitching: RHP <a href="../players/player_397.html">Diego Duque De Estrada</a>
+
+[%B]	Now in LF: <a href="../players/player_477.html">Mason Brown 2.0</a>
+
+[%B]	Now in RF: <a href="../players/player_440.html">Kenga Yunai</a>
+
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Foul Ball, location: 2F
+
+[%N]	1-1: Swinging Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7LS)
+
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Ball
+
+[%N]	2-0: Foul Ball, location: 2F
+
+[%N]	2-1: Fielders Choice at 2nd, 3-6 (Groundball, 3S)
+
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins</a>
+
+[%N]	0-0: Swinging Strike
+
+[%N]	0-1: Foul Ball, location: 23F
+
+[%N]	0-2: Ball
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Ball
+
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> to second
+
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+
+[%N]	0-0: Called Strike
+
+[%N]	0-1: Called Strike
+
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LM)
+
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> to third
+
+[%N]	<a href="../players/player_543.html">Dandy Chiggins</a> to second
+
+[%B]	Pitching: LHP <a href="../players/player_546.html">Cyrus Newton</a>
+
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+
+[%N]	0-0: Ball
+
+[%N]	1-0: Called Strike
+
+[%N]	1-1: Called Strike
+
+[%N]	1-2: Ball
+
+[%N]	2-2: Fielders Choice at 2nd, 5-4 (Groundball, 5L)
+
+[%F]	Bottom of the 10th over -  0 runs, 3 hits, 0 errors, 3 left on base; Amarillo 8 - Kingston 3
+

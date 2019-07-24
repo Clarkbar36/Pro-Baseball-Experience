@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Minor League PBE in career wins?
+
+<Jay  Livingston:player#298>, -, 		41
+<Tony Pisano:player#328>, NYV, 		31
+<Harvey Bones:player#86>, -, 		29
+<Tylar Finch:player#456>, ANC, 		28
+<Anderson Pooper:player#16>, DV, 		27

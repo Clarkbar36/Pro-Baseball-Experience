@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in batting AVG with two outs.
-
-<Min-joon Do:player#239>, DV, 		.435
-<Julian O'Sullivan:player#246>, SAS, 		.433
-<Artem Maximovich:player#436>, PRO, 		.417
-<Phillip J Fry:player#147>, NYV, 		.412
-<Shooty McLish:player#237>, SAS, 		.412

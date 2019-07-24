@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in OPS?
+
+<Dandy Chiggins Jr.:player#543>, KGN, 		.988
+<Eric Tsai:player#410>, ARM, 		.984
+<Johnny Blaze:player#537>, KGN, 		.920
+<Chris King:player#516>, KGN, 		.885
+<Jad McFearson:player#522>, SCSS, 		.868

@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Minor League PBE for caught stealing?
-
-<Archer Fisch:player#492>, ARM, 		23, 2027
-<Zack Malatesta:player#92>, ANC, 		23, 2022
-<Alain Johns:player#432>, ANC, 		17, 2026
-<Steve Gonzales:player#449>, ANC, 		15, 2026
-<Steve Gonzales:player#449>, ANC, 		15, 2027

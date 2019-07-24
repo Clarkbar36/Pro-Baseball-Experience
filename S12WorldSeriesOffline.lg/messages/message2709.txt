@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for K/BB?
+
+<Esteban Rodriguez:player#200>, PRO, 		8.652, 2023
+<Victoria Secret:player#227>, DV, 		8.207, 2026
+<D'Aroldis Borkman:player#62>, FL, 		7.063, 2026
+<Victoria Secret:player#227>, VAN, 		7.000, 2020
+<Penny Kowers:player#174>, NYV, 		7.000, 2019

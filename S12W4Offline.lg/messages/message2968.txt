@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Pro Baseball Experience in career innings pitched?
-
-<Victoria Secret:player#227>, DV, 		2121.1
-<Elston Sinclair:player#208>, NYV, 		2041.2
-<Esteban Rodriguez:player#200>, FL, 		1985.0
-<Chaz LaLocke:player#223>, SAS, 		1955.2
-<Phillip Thompson:player#77>, OBX, 		1906.1

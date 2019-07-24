@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Rookie Leaders
-So, which rookie starting pitchers are leading the Pro Baseball Experience in quality starts?
-
-<Mitch McIntyre:player#442>, OBX, 		2
-<Mitchell McDowell:player#423>, NYV, 		1
-<A.C. Payton:player#465>, PRO, 		1
-<Ed Barker:player#458>, DV, 		0
-<Corey Bradford:player#371>, DV, 		0

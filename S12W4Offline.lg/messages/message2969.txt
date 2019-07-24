@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Split Stats Leaders
-Today we look at the top 5 starting pitchers leading the Minor League PBE in ERA at night.
-
-<Colby Kidd:player#505>, KGN, 		1.35
-<Nate Pearson:player#533>, ANC, 		2.57
-<Ned Gustafson:player#574>, SCSS, 		2.60
-<Pepper Morgan:player#577>, SCSS, 		3.00
-<Brent Lomew:player#552>, ARM, 		3.12

@@ -1,8 +1,0 @@
-BNN Stats: Size Matters
-Here is a list of the tallest players in the Pro Baseball Experience...
-
-<Mookie Banks:player#27>, OBX,		6' 8"
-<D'Aroldis Borkman:player#62>, FL,		6' 8"
-<Coreys Brother:player#331>, VAN,		6' 8"
-<Rodney Flecha:player#50>, DV,		6' 8"
-<Khamati Kahn:player#126>, SAS,		6' 8"

@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Pro Baseball Experience in career fielding independent pitching (FIP)?
-
-<D'Aroldis Borkman:player#62>, FL, 		2.78
-<Penny Kowers:player#174>, FL, 		2.83
-<Victoria Secret:player#227>, DV, 		3.10
-<Sebastian Musgrave-Smythe:player#192>, FL, 		3.13
-<Esteban Rodriguez:player#200>, FL, 		3.22

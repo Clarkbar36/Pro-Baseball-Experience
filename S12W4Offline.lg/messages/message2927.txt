@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Pro Baseball Experience in career isolated power (ISO)?
-
-<Julian O'Sullivan:player#246>, SAS, 		.266
-<Vick Thunder:player#270>, SAS, 		.253
-<Paulo Di Stephano:player#48>, DV, 		.243
-<Kimetrius  Webster :player#24>, OBX, 		.237
-<Min-joon Do:player#239>, DV, 		.225

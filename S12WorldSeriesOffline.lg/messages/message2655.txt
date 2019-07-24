@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Pro Baseball Experience in home runs while playing Left Field!
+
+<Vick Thunder:player#270>, SAS, 		14
+<Jordan von Matt:player#137>, OBX, 		14
+<Hawk Russell:player#124>, FL, 		11
+<Connor MacDonald:player#255>, VAN, 		10
+<Tristan Cameron:player#353>, NYV, 		7

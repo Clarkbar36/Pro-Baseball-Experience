@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders at First Base
-Check out who leads the Minor League PBE in games started while playing First Base!
-
-<Pipo DeRani:player#520>, SCSS, 		46
-<Robert Sandberg:player#571>, KGN, 		46
-<Anthony Bauer:player#563>, ARM, 		38
-<Jøln DuBølk:player#557>, ANC, 		26
-<Mac Smart:player#558>, ANC, 		21

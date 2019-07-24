@@ -1,0 +1,10 @@
+Banks Sparkles, Blanks Death Valley
+<Mookie Banks:player#27> of the <Outer Banks Aviators:team#2> dominated the day at The Island today, pitching shutout ball against the Scorpions and holding them to 2 hits. He fanned 7 and walked 1 in spinning the 6-0 win.
+
+"I can't take all the credit for this one," <Banks:player#27> said. "I had some great defense behind me."
+
+In 22 starts this season <Banks:player#27> has compiled a 11-5 record and a 3.32 ERA. 
+
+<View Boxscore:box#668>
+<View Game Log:log#668>
+<Watch Highlights:highlight#668>

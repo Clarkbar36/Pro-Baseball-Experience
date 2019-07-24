@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for caught stealing?
-
-<Ziggy Coffey:player#119>, DV, 		33, 2023
-<Kenny McCormick:player#206>, OBX, 		28, 2023
-<Kevin Biggio:player#268>, DV, 		27, 2023
-<Kevin Biggio:player#268>, DV, 		25, 2021
-<Kevin Biggio:player#268>, DV, 		23, 2022

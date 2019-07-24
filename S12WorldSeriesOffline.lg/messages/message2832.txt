@@ -1,0 +1,42 @@
+Minor League PBE Platinum Stick Award Winners Announced
+Pitchers around the Minor League PBE had difficulty pitching to this group of hitters all season long, and for their strong seasons, they have been honored with the Platinum Stick Award for 2027.
+
+The winners are:
+
+
+<Catcher:value_bold#0>
+<Randy  Drumbo:player#483> (<Anchorage Wheelers:team#16>)
+.274/.343/.505, 398 AB, 27 HR, 2 SB, 114 wRC+, 2.4 WAR
+
+<First Baseman:value_bold#0>
+<Juan Dong:player#484> (<Amarillo Armadillos:team#19>)
+.300/.360/.432, 287 AB, 10 HR, 107 wRC+, 1.0 WAR
+
+<Second Baseman:value_bold#0>
+<Steve Gonzales:player#449> (<Anchorage Wheelers:team#16>)
+.309/.375/.456, 447 AB, 19 HR, 61 SB, 117 wRC+, 3.3 WAR
+
+<Third Baseman:value_bold#0>
+<Manto Rune:player#478> (<Amarillo Armadillos:team#19>)
+.272/.352/.476, 393 AB, 19 HR, 4 SB, 114 wRC+, 2.1 WAR
+
+<Shortstop:value_bold#0>
+<Jake Grinz:player#472> (<Anchorage Wheelers:team#16>)
+.344/.439/.450, 413 AB, 8 HR, 35 SB, 140 wRC+, 4.4 WAR
+
+<Left Fielder:value_bold#0>
+<Smitty Springfield:player#512> (<Anchorage Wheelers:team#16>)
+.312/.401/.472, 356 AB, 14 HR, 2 SB, 129 wRC+, 2.5 WAR
+
+<Center Fielder:value_bold#0>
+<Jonny Times II:player#524> (<Kingston Mounties:team#17>)
+.249/.330/.421, 390 AB, 20 HR, 34 SB, 94 wRC+, 3.1 WAR
+
+<Right Fielder:value_bold#0>
+<Jack Bauer II:player#496> (<Anchorage Wheelers:team#16>)
+.322/.394/.381, 423 AB, 4 HR, 11 SB, 105 wRC+, 1.1 WAR
+
+<Designated Hitter:value_bold#0>
+<Thomas Trey Oudekerk:player#508> (<Anchorage Wheelers:team#16>)
+.283/.387/.561, 392 AB, 32 HR, 142 wRC+, 2.8 WAR
+

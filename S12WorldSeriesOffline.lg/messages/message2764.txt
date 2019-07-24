@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for total bases?
+
+<Julian O'Sullivan:player#246>, SAS, 		278, 2020
+<Julian O'Sullivan:player#246>, SAS, 		277, 2026
+<Julian O'Sullivan:player#246>, SAS, 		263, 2023
+<Vick Thunder:player#270>, SAS, 		259, 2026
+<Laddy McBantershire:player#275>, NYV, 		256, 2017

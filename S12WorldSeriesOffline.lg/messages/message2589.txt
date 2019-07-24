@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for WHIP?
+
+<Victoria Secret:player#227>, DV, 		0.867, 2025
+<Penny Kowers:player#174>, FL, 		0.876, 2026
+<D'Aroldis Borkman:player#62>, SAS, 		0.896, 2024
+<Ernesto Castillo:player#211>, PRO, 		0.921, 2021
+<Victoria Secret:player#227>, DV, 		0.921, 2026

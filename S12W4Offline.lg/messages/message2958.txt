@@ -1,8 +1,0 @@
-BNN Stats: It's All About Experience
-Who has the most major league service time in the PBE?
-
-<Mountain Quick:player#519>, FL,		17 years, 102 days
-<Laddy McBantershire:player#275>, UTA,		11 years, 49 days
-<Kevin Biggio:player#268>, FL,		11 years, 49 days
-<Sebastian Musgrave-Smythe:player#192>, FL,		11 years, 49 days
-<Esteban Rodriguez:player#200>, FL,		11 years, 49 days

@@ -1,0 +1,8 @@
+Walker Holds Aviators Scoreless
+<Guy Walker:player#12> went the distance at The Island today. The <Death Valley Scorpions:team#10> hurler yielded 3 hits, walked 1 and had 6 strikeouts in the Scorpions 6-0 triumph over the <Outer Banks Aviators:team#2>.
+
+This season-to-date <Walker:player#12> has 10 wins and 2 losses and a 2.41 ERA.
+
+<View Boxscore:box#258>
+<View Game Log:log#258>
+<Watch Highlights:highlight#258>
