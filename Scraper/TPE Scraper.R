@@ -17,10 +17,12 @@ tm <- list('62',
            '138',
            '140',
            '152',
-           '155')
+           '155',
+           '175',
+           '177')
 n.TPE <- data.frame('Topic.Title'=character(), League = character(), Team_Name = character())
 
-abbr <- list('SAS','DV','FL','FLA','UTA','NYV','OBX','PRO','VAN')
+abbr <- list('SAS','DV','FL','FLA','UTA','NYV','OBX','PRO','VAN','CAN','NAS')
 
 for (n in num){
   for (t in tm){
@@ -40,10 +42,10 @@ for (l in rev(links)){
   }else{
     players <- players
   }
-  league_name <- roster %>% html_node(xpath = '//*[@id="navstrip"]/a[2]') %>% html_text() 
-  League <- ifelse(substr(league_name,1,1)=="P","PBE","MiLPBE")
+  # league_name <- roster %>% html_node(xpath = '//*[@id="navstrip"]/a[2]') %>% html_text() 
+  # League <- ifelse(substr(league_name,1,1)=="P","PBE","MiLPBE")
   Team_Name <- roster %>% html_node(xpath = '//*[@id="navstrip"]/a[3]') %>% html_text()
-  l.TPE <- cbind(players, League, Team_Name)
+  l.TPE <- cbind(players, Team_Name)
   n.TPE <- rbind(l.TPE,n.TPE)
 
 }
@@ -67,8 +69,16 @@ TPE$Topic.Title <- NULL
 TPE$brkt <- NULL
 
 
+
 TPE[] <- lapply(TPE, as.character)
 TPE$TPE <- as.numeric(TPE$TPE)
+Team_Name <- unique(TPE$Team_Name)
+lg <- data.frame(number = 1:4, League = "MiLPBE")
+lg2 <- data.frame(number = 1:10, League = "PBE")
+lg <- rbind(lg,lg2)
+lg$number <- NULL
+tmlg <- cbind(Team_Name, lg)
+TPE <- merge(TPE,tmlg,all.x = TRUE)
 PBE_TPE <- subset(TPE,League == "PBE")
 MiLPBE_TPE <- subset(TPE,League == "MiLPBE")
 
