@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in RBI?
+
+<Thomas Trey Oudekerk:player#508>, ANC, 		90
+<Dandy Chiggins Jr.:player#543>, KGN, 		77
+<Mork Spaghettelli:player#439>, SCSS, 		71
+<Johnny Blaze:player#537>, KGN, 		68
+<Benjamin Hilmer:player#510>, ANC, 		68

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Pro Baseball Experience in ERA during spring training.
+
+<D'Aroldis Borkman:player#62>, FL, 		0.90
+<Greg Steiner:player#76>, VAN, 		0.90
+<Richard Johnsson:player#580>, OBX, 		1.00
+<Kosei Yoshida:player#503>, PRO, 		1.04
+<Chaz LaLocke:player#223>, SAS, 		1.06

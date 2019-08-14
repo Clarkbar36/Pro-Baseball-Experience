@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career losses?
+
+<Randy Koufax:player#203>, -, 		105
+<Eijun Wozy:player#197>, -, 		91
+<Sturgill Rove:player#207>, -, 		89
+<Elston Sinclair:player#208>, NYV, 		89
+<Phillip Thompson:player#77>, OBX, 		87

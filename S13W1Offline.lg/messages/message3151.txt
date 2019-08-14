@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Minor League PBE in career strikeouts?
+
+<Tiddlywink McTicklestick:player#309>, KGN, 		344
+<Thilip Phompson:player#389>, ARM, 		306
+<Tony Pisano:player#328>, PRO, 		298
+<Kosuke Yamauchi:player#333>, NSH, 		281
+<Jax Hunter:player#70>, NSH, 		269

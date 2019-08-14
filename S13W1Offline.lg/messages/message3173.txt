@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for total bases?
+
+<Trent Vain:player#259>, SCSS, 		242, 2021
+<Dandy Chiggins Jr.:player#543>, KGN, 		223, 2028
+<Thomas Trey Oudekerk:player#508>, ANC, 		220, 2027
+<Ty Justice:player#252>, ANC, 		218, 2021
+<Dirty Dongs:player#262>, ANC, 		214, 2021

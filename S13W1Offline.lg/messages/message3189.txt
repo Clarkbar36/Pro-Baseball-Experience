@@ -1,0 +1,10 @@
+Walker Twirls Scorpions to Shutout Victory
+<Guy Walker:player#12> of the <Death Valley Scorpions:team#10> put on a dazzling performance at Dunkin' Donuts Park today. He shut out the <Providence Crabs:team#3> 19-0 on a well-pitched 2-hitter, ringing up 11 strikeouts and issuing no walks.
+
+"I felt strong out there all day," Walker said later.
+
+
+
+<View Boxscore:box#3>
+<View Game Log:log#3>
+<Watch Highlights:highlight#3>

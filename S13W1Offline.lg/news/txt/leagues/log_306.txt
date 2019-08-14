@@ -1,0 +1,562 @@
+[%T]	Top of the 1st -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Pitching: LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 366 ft
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 1st over -  2 runs, 2 hits, 0 errors, 0 left on base; Kingston 2 - Anchorage 0
+[%T]	Bottom of the 1st -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Pitching: RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 25) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Fielders Choice at 2nd, 6-4 (Groundball, 6S)
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_586.html">Taylor Grimes</a> steals 2nd base
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0:  <b>3-RUN HOME RUN</b>  (Flyball, 9D), Distance : 392 ft
+[%B]	Batting: LHB <a href="../players/player_624.html">Bingo Shuffles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_641.html">Shinji Nakamura</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_624.html">Bingo Shuffles</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_633.html">Grayson Taylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_624.html">Bingo Shuffles</a> to third
+[%N]	<a href="../players/player_641.html">Shinji Nakamura</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_614.html">Buck Simmons</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_641.html">Shinji Nakamura</a> to third
+[%N]	<a href="../players/player_633.html">Grayson Taylor</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<a href="../players/player_633.html">Grayson Taylor</a> to third
+[%N]	<a href="../players/player_614.html">Buck Simmons</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%N]	<a href="../players/player_614.html">Buck Simmons</a> to third
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 1st over -  7 runs, 6 hits, 0 errors, 2 left on base; Kingston 2 - Anchorage 7
+[%T]	Top of the 2nd -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Batting: SHB <a href="../players/player_645.html">Matt Sparling</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 4)
+[%B]	Batting: RHB <a href="../players/player_629.html">Bobby McDonald</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_459.html">Betty Bailey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9LS)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Kingston 2 - Anchorage 7
+[%T]	Bottom of the 2nd -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F4  (Line Drive, 34)
+[%B]	Batting: LHB <a href="../players/player_624.html">Bingo Shuffles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Kingston 2 - Anchorage 7
+[%T]	Top of the 3rd -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Batting: RHB <a href="../players/player_647.html">Ronald Iownya Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 89S)
+[%N]	<a href="../players/player_647.html">Ronald Iownya Jr.</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 78D)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by CF</b>
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<a href="../players/player_591.html">Iam Fulmen</a> to second
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_591.html">Iam Fulmen</a> to third
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to second
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into fielders choice 1-2 (Groundball, 13S)
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to third
+[%N]	<a href="../players/player_476.html">Thor Sigurdsson</a> to second
+[%B]	Batting: SHB <a href="../players/player_645.html">Matt Sparling</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_543.html">Dandy Chiggins Jr.</a> scores</b>
+[%N]	<a href="../players/player_476.html">Thor Sigurdsson</a> to third
+[%N]	<a href="../players/player_571.html">Robert Sandberg</a> to second
+[%B]	Batting: RHB <a href="../players/player_629.html">Bobby McDonald</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 3rd over -  2 runs, 3 hits, 0 errors, 3 left on base; Kingston 4 - Anchorage 7
+[%T]	Bottom of the 3rd -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: SHB <a href="../players/player_641.html">Shinji Nakamura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_633.html">Grayson Taylor</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_641.html">Shinji Nakamura</a> to second
+[%N]	2-1: Ball
+[%N]	3-1: Reached on error, E1 (Groundball, P)
+[%N]	<b><a href="../players/player_641.html">Shinji Nakamura</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_614.html">Buck Simmons</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_633.html">Grayson Taylor</a> to third
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by RF</b>
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> steals 2nd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 3rd over -  2 runs, 1 hit, 1 error, 1 left on base; Kingston 4 - Anchorage 9
+[%T]	Top of the 4th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Batting: RHB <a href="../players/player_459.html">Betty Bailey</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_647.html">Ronald Iownya Jr.</a>
+[%N]	0-0: Ground out U3 (Groundball, 3S)
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Kingston 4 - Anchorage 9
+[%T]	Bottom of the 4th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: LHB <a href="../players/player_624.html">Bingo Shuffles</a>
+[%N]	0-0: Fielders Choice at 2nd, 1-6 (Groundball, 13S)
+[%B]	Batting: SHB <a href="../players/player_641.html">Shinji Nakamura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 5-4 (Groundball, 56)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 1 left on base; Kingston 4 - Anchorage 9
+[%T]	Top of the 5th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Reached via error on a dropped throw from P, E6 (Groundball, 13)
+[%N]	<b><a href="../players/player_543.html">Dandy Chiggins Jr.</a> scores</b>
+[%N]	<a href="../players/player_476.html">Thor Sigurdsson</a> to second
+[%B]	Batting: SHB <a href="../players/player_645.html">Matt Sparling</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%N]	<a href="../players/player_476.html">Thor Sigurdsson</a> to third
+[%N]	<a href="../players/player_571.html">Robert Sandberg</a> to second
+[%B]	Batting: RHB <a href="../players/player_629.html">Bobby McDonald</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 7LD), Distance : 351 ft
+[%B]	Batting: RHB <a href="../players/player_459.html">Betty Bailey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_647.html">Ronald Iownya Jr.</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 34)
+[%F]	Top of the 5th over -  5 runs, 2 hits, 1 error, 0 left on base; Kingston 9 - Anchorage 9
+[%T]	Bottom of the 5th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: LHB <a href="../players/player_633.html">Grayson Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_614.html">Buck Simmons</a>
+[%N]	0-0: Bunted foul
+[%N]	0-1: Bunted foul
+[%N]	0-2: Fielders Choice at 2nd, 1-6 (Groundball, 13S)
+[%B]	Pitching: LHP <a href="../players/player_528.html">Lucky Luciano</a>
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_614.html">Buck Simmons</a> to second
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_614.html">Buck Simmons</a> to third
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> is caught stealing 3rd base 2-5
+[%N]	<a href="../players/player_586.html">Taylor Grimes</a> to second
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  1 run, 2 hits, 0 errors, 1 left on base; Kingston 9 - Anchorage 10
+[%T]	Top of the 6th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : LHP <a href="../players/player_462.html">Jose Forty-Three</a>
+[%B]	Pitching: RHP <a href="../players/player_661.html">Thomas Kane III</a>
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6S) (infield hit)
+[%N]	<a href="../players/player_567.html">Michael David</a> to third
+[%B]	Pitching: RHP <a href="../players/player_594.html">Cody Smith</a>
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<b><a href="../players/player_567.html">Michael David</a> scores</b>
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to second
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Fielders Choice at 2nd, 5-4 (Groundball, 56S)
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to third
+[%B]	Batting: SHB <a href="../players/player_645.html">Matt Sparling</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 6th over -  1 run, 3 hits, 0 errors, 2 left on base; Kingston 10 - Anchorage 10
+[%T]	Bottom of the 6th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : LHP <a href="../players/player_528.html">Lucky Luciano</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD)
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_624.html">Bingo Shuffles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_641.html">Shinji Nakamura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 56)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Kingston 10 - Anchorage 10
+[%T]	Top of the 7th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_594.html">Cody Smith</a>
+[%B]	Batting: RHB <a href="../players/player_629.html">Bobby McDonald</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_459.html">Betty Bailey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_647.html">Ronald Iownya Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_459.html">Betty Bailey</a> to second
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 8RD)
+[%N]	<b><a href="../players/player_459.html">Betty Bailey</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 78D)
+[%F]	Top of the 7th over -  1 run, 1 hit, 0 errors, 1 left on base; Kingston 11 - Anchorage 10
+[%T]	Bottom of the 7th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : LHP <a href="../players/player_528.html">Lucky Luciano</a>
+[%B]	Batting: LHB <a href="../players/player_633.html">Grayson Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E8 (Flyball, 8LM)
+[%B]	Batting: RHB <a href="../players/player_614.html">Buck Simmons</a>
+[%N]	0-0: Bunted foul
+[%N]	0-1: Sac Bunt to 13 - play at first, batter OUT! 1-4
+[%N]	<a href="../players/player_633.html">Grayson Taylor</a> to second
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_633.html">Grayson Taylor</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_38.html">Throwing  Bro</a>
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 7th over -  1 run, 1 hit, 1 error, 2 left on base; Kingston 11 - Anchorage 11
+[%T]	Top of the 8th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_594.html">Cody Smith</a>
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 392 ft
+[%B]	Batting: RHB <a href="../players/player_476.html">Thor Sigurdsson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_571.html">Robert Sandberg</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_645.html">Matt Sparling</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Kingston 12 - Anchorage 11
+[%T]	Bottom of the 8th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : LHP <a href="../players/player_38.html">Throwing  Bro</a>
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_624.html">Bingo Shuffles</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Pitching: RHP <a href="../players/player_5.html">Throwing  Guy</a>
+[%B]	Batting: SHB <a href="../players/player_641.html">Shinji Nakamura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<a href="../players/player_624.html">Bingo Shuffles</a> to second
+[%N]	Runner from 2nd tries for 3rd, OUT! 8-5
+[%B]	Batting: LHB <a href="../players/player_633.html">Grayson Taylor</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 2 hits, 0 errors, 1 left on base; Kingston 12 - Anchorage 11
+[%T]	Top of the 9th -  Kingston Mounties batting - Pitching for Anchorage Wheelers : RHP <a href="../players/player_594.html">Cody Smith</a>
+[%B]	Batting: RHB <a href="../players/player_629.html">Bobby McDonald</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Pitching: RHP <a href="../players/player_498.html">Alexei Brusilov</a>
+[%B]	Batting: RHB <a href="../players/player_459.html">Betty Bailey</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 4M)
+[%B]	Batting: RHB <a href="../players/player_647.html">Ronald Iownya Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_629.html">Bobby McDonald</a> to second
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Fielders Choice at 2nd, 6-4 (Groundball, 56)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 2 left on base; Kingston 12 - Anchorage 11
+[%T]	Bottom of the 9th -  Anchorage Wheelers batting - Pitching for Kingston Mounties : RHP <a href="../players/player_5.html">Throwing  Guy</a>
+[%B]	Batting: RHB <a href="../players/player_614.html">Buck Simmons</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_586.html">Taylor Grimes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> to second
+[%B]	Pitching: RHP <a href="../players/player_1.html">Throwing  Man</a>
+[%B]	Batting: SHB <a href="../players/player_558.html">Mac Smart</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_579.html">Desmond Andrews</a> steals 3rd base
+[%N]	<a href="../players/player_586.html">Taylor Grimes</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_483.html">Randy  Drumbo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 3 left on base; Kingston 12 - Anchorage 11
