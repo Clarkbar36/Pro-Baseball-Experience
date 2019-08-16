@@ -390,7 +390,7 @@ records.plot <- function(t){
     ggtitle("Wins by Season", subtitle = paste(unique(pl.records$team_name),"-",unique(pl.records$league_abbr))) +
     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
     ylab("Wins") + xlab("Year") +
-    scale_x_continuous(breaks=seq(from = 2017,to = 2028,by = 1)) +
+    scale_x_continuous(breaks=seq(from = 2017,to = 2029,by = 1)) +
     geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 5) +
     geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
     theme_bw()
@@ -647,7 +647,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE'))
             ),
             column(width = 6,
-                   selectInput('dssn', 'Season', ssn,selectize=FALSE, selected = 2028)
+                   selectInput('dssn', 'Season', ssn,selectize=FALSE, selected = 2029)
                    ),
             fluidRow(
               column(width = 6,plotOutput("wins_AB")),
@@ -699,7 +699,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE')),
                      sliderInput("year",
                                  "Season",
-                                 min = 2017, max = 2028, step = 1,value = 2028,sep = "")),
+                                 min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
               column(width = 6,
                      selectInput("pos",
                                  "Position:",
@@ -761,7 +761,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE')),
                      sliderInput("pyear",
                                  "Season",
-                                 min = 2017, max = 2028, step = 1,value = 2028,sep = "")),
+                                 min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
               column(width = 3,
                     selectInput("spos",
                                 "Position:",
@@ -816,7 +816,7 @@ body <- dashboardBody(
                    selectInput('hxsct', 'X-Axis Statistic', c(Choose='WAR',c.all.h.cnames), selectize=FALSE),
                    sliderInput("plyear",
                                "Season",
-                               min = 2017, max = 2028, step = 1,value = 2028,sep = "")),
+                               min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
             column(width = 4,
                    selectInput("hpos",
                                "Position:",
@@ -840,7 +840,7 @@ body <- dashboardBody(
                    selectInput('pxsct', 'X-Axis Statistic', c(Choose='Strikeouts',c.all.p.cnames), selectize=FALSE),
                    sliderInput("plpyear",
                                "Season",
-                               min = 2017, max = 2028, step = 1,value = 2028,sep = "")),
+                               min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
             column(width = 4,
                    selectInput("ppos",
                                "Position:",
