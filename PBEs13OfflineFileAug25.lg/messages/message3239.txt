@@ -1,0 +1,8 @@
+BNN Stats: Active Career Batting Leaders
+So, who is the active leader in the Minor League PBE in career sacrifice flies?
+
+<Riley Tiffielder:player#324>, NYV, 		22
+<Ben Waters:player#306>, -, 		18
+<Josh Kings:player#390>, ARM, 		15
+<Randy  Drumbo:player#483>, ANC, 		14
+<Thor Sigurdsson:player#476>, KGN, 		14

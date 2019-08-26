@@ -1,0 +1,8 @@
+Buckshank Reaches 1500 Milestone
+<Ozamataz Buckshank:player#185> reached the 1500-hit milestone this afternoon at HeatWave Park. The 33-year-old Scorpions right fielder went 2-for-5 in a losing effort in the <Death Valley:team#10> 3-2 defeat at the hands of the <Utah Railroaders:team#25>.
+
+<Buckshank:player#185> has registered a career batting average of .303 with 1500 hits, 181 homers and 821 RBIs.
+
+<View Boxscore:box#157>
+<View Game Log:log#157>
+<Watch Highlights:highlight#157>

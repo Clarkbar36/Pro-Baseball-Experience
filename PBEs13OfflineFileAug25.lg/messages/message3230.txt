@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in opponents OPS?
+
+<Richard Johnsson:player#580>, ARM, 		.477
+<Big Joe Turner:player#656>, KAH, 		.557
+<Virzeiros Balqen:player#611>, SCSS, 		.568
+<Tony Ford:player#615>, ANC, 		.626
+<Calloway Flowers:player#595>, ARM, 		.627
