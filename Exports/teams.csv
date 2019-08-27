@@ -21,5 +21,5 @@ team_id,name,abbr,nickname,logo_file_name,city_id,park_id,league_id,sub_league_i
 25,"Utah","UTA","Railroaders","utah_railroaders.png",61157,23,100,0,1,206,0,1,1,0,0,0,"#2C0060","#FFFFFF","#2C0060","#2C0060","#FFFFFF","#AAAAAA","#2C0060","#2C0060",0,""
 26,"Cancun","CUN","Toros","cancun_toros.png",0,24,100,0,0,206,0,1,1,0,0,0,"#0090D4","#CF0771","#4D4D4F","#CF0771","#FFFFFF","#AAAAAA","#4D4D4F","#4D4D4F",0,""
 27,"Nashville","NSH","Stars","nashville_stars.png",54298,25,100,0,1,206,0,1,1,0,0,0,"#AC0000","#062C48","#AC0000","#E6E6E6","#FFFFFF","#AAAAAA","#AC0000","#AC0000",0,""
-28,"Kansas City","KAH","Hepcats","kansas_city_hepcats.png",36924,21,101,0,0,206,0,6,1,0,0,0,"#6595E3","#EAAB12","#4D4D4F","#FFFFFF","#FFFFFF","#AAAAAA","#4D4D4F","#4D4D4F",0,""
+28,"Kansas City","KC","Hepcats","kansas_city_hepcats.png",36924,21,101,0,0,206,0,6,1,0,0,0,"#6595E3","#EAAB12","#4D4D4F","#FFFFFF","#FFFFFF","#AAAAAA","#4D4D4F","#4D4D4F",0,""
 29,"Dallas","DAL","Dynamos","dallas_dynamos.png",21777,27,101,0,1,206,0,6,1,0,0,0,"#00FFFF","#A7A9AC","#FFFFFF","#A7A9AC","#FFFFFF","#AAAAAA","#FFFFFF","#FFFFFF",0,""
