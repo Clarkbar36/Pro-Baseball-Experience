@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for fielding independent pitching (FIP)?
+
+<John Smoltz Jr.:player#219>, VAN, 		1.935, 2019
+<Penny Kowers:player#174>, NYV, 		2.082, 2019
+<D'Aroldis Borkman:player#62>, FL, 		2.347, 2025
+<Elston Sinclair:player#208>, NYV, 		2.370, 2019
+<Esteban Rodriguez:player#200>, VAN, 		2.493, 2019

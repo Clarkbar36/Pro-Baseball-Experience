@@ -1,0 +1,12 @@
+Walker Guns Down Crabs
+<Guy Walker:player#12> pitched a strong game at HeatWave Park today, blanking the <Providence Crabs:team#3> 11-0. Walker allowed no runs on 2 hits, totaled 12 strikeouts and gave up 1 walk.
+
+<Death Valley:team#10> manager   said he could tell immediately it was going to be a good game for Walker.
+
+"Right from the start, you could see how economical he was,"   said. "He threw a lot of strikes."
+
+This season <Walker:player#12> has compiled a 11-2 record with a 2.09 ERA in 16 starts.
+
+<View Boxscore:box#632>
+<View Game Log:log#632>
+<Watch Highlights:highlight#632>

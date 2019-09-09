@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for triples?
+
+<Billy Benson:player#20>, OBX, 		9, 2023
+<Simon Hans:player#111>, SAS, 		9, 2025
+<Pepe Alazar:player#180>, NYV, 		8, 2018
+<Roger Baton:player#121>, SAS, 		8, 2022
+<Phil Macioce:player#103>, VAN, 		8, 2022

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in weighted on-base AVG (WOBA)?
+
+<Mork Spaghettelli:player#439>, SCSS, 		.435
+<Nic Wilson:player#555>, ARM, 		.425
+<Buddy Cooper:player#562>, SCSS, 		.423
+<James Love:player#625>, SCSS, 		.411
+<Gumbo Weaver:player#604>, SCSS, 		.403

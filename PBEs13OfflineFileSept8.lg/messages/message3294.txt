@@ -1,0 +1,14 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Pro Baseball Experience:
+
+Teams (Total Points, Tendency):
+1) <Florida Space Rangers:team#24> (126.2, +)
+2) <Death Valley Scorpions:team#10> (113.2, -)
+3) <Outer Banks Aviators:team#2> (110.6, o)
+4) <New York Voyagers:team#1> (110.0, o)
+5) <Cancun Toros:team#26> (96.6, o)
+6) <Vancouver Vandals:team#11> (83.0, o)
+7) <San Antonio Sloths:team#9> (80.6, o)
+8) <Utah Railroaders:team#25> (75.1, o)
+9) <Nashville Stars:team#27> (61.3, o)
+10) <Providence Crabs:team#3> (46.4, o)

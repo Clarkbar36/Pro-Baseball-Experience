@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Minor League PBE in strikeouts per 9 innings on the road.
+
+<Richard Johnsson:player#580>, ARM, 		7.8
+<Big Joe Turner:player#656>, KC, 		7.4
+<Virzeiros Balqen:player#611>, SCSS, 		7.3
+<Cody Smith:player#594>, ANC, 		7.2
+<Yosei Koshida:player#389>, ARM, 		6.8

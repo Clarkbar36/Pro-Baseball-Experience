@@ -1,0 +1,10 @@
+Razor-Sharp Banks Blanks Providence 
+Starter <Mookie Banks:player#27> was in charge the whole game in the <Outer Banks Aviators:team#2> victory over the <Providence Crabs:team#3> today. In a superb performance, Banks blanked <Providence:team#3> 4-0, yielding 6 hits while registering 6 strikeouts and no walks.
+
+"That was a fun one," the 28-year-old said later.
+
+In 14 starts this season <Banks:player#27> has chalked up a 12-1 record and a 1.36 ERA. 
+
+<View Boxscore:box#264>
+<View Game Log:log#264>
+<Watch Highlights:highlight#264>

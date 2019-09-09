@@ -1,0 +1,8 @@
+BNN Stats: Reliever Split Stats Leaders
+Today we look at the top 5 relievers leading the Pro Baseball Experience in ERA on the road.
+
+<Coreys Brother:player#331>, SAS, 		2.10
+<Jax Hunter:player#70>, NSH, 		2.48
+<Harry Styles:player#504>, DV, 		2.67
+<JJ Windsor:player#336>, OBX, 		2.87
+<Colben Fairborn:player#466>, UTA, 		2.92

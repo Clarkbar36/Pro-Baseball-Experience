@@ -1,0 +1,405 @@
+[%T]	Top of the 1st -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Pitching: LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out U3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 7D), Distance : 383 ft
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 9LD)
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_561.html">Al Borland</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_159.html">Connor Tanner</a> to third
+[%N]	<a href="../players/player_561.html">Al Borland</a> to second
+[%B]	Batting: RHB <a href="../players/player_92.html">Zack Malatesta</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD)
+[%F]	Top of the 1st over -  2 runs, 3 hits, 0 errors, 3 left on base; Outer Banks 2 - Nashville 0
+[%T]	Bottom of the 1st -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Pitching: LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: LHB <a href="../players/player_344.html">Alexander Blitz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 1-3 (Groundball, 15)
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, P)
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ground out U3 (Groundball, 3L)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Outer Banks 2 - Nashville 0
+[%T]	Top of the 2nd -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: SHB <a href="../players/player_564.html">Oliver Dieudonne</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 13S) (infield hit)
+[%N]	<a href="../players/player_20.html">Billy Benson</a> to second
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 89M)
+[%N]	<a href="../players/player_20.html">Billy Benson</a> to third
+[%N]	<a href="../players/player_137.html">Jordan von Matt</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Line Drive, 4)
+[%F]	Top of the 2nd over -  1 run, 3 hits, 0 errors, 2 left on base; Outer Banks 3 - Nashville 0
+[%T]	Bottom of the 2nd -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: SHB <a href="../players/player_354.html">Joshua Linton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_424.html">TopGun Sheelay</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_424.html">TopGun Sheelay</a> is caught stealing 2nd base 2-4
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; Outer Banks 3 - Nashville 0
+[%T]	Top of the 3rd -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: LHB <a href="../players/player_561.html">Al Borland</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 384 ft
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_92.html">Zack Malatesta</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: SHB <a href="../players/player_564.html">Oliver Dieudonne</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9)
+[%F]	Top of the 3rd over -  1 run, 1 hit, 0 errors, 0 left on base; Outer Banks 4 - Nashville 0
+[%T]	Bottom of the 3rd -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LD)
+[%N]	<b><a href="../players/player_596.html">Alex Machado</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_344.html">Alexander Blitz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LD)
+[%N]	Runner from 2nd tags up, SAFE at 3rd with throw by CF
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6D)
+[%N]	<b><a href="../players/player_599.html">Elliot Lefebvre</a> scores</b>
+[%N]	<a href="../players/player_321.html">Toledo Jones</a> to second
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 3rd over -  2 runs, 3 hits, 0 errors, 2 left on base; Outer Banks 4 - Nashville 2
+[%T]	Top of the 4th -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 6S)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out U3 (Groundball, 3)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 2
+[%T]	Bottom of the 4th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: SHB <a href="../players/player_354.html">Joshua Linton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_424.html">TopGun Sheelay</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 2
+[%T]	Top of the 5th -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RXD)
+[%B]	Batting: LHB <a href="../players/player_561.html">Al Borland</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 4-6-3 (Groundball, 4)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 2
+[%T]	Bottom of the 5th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 5D)
+[%B]	Batting: LHB <a href="../players/player_344.html">Alexander Blitz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 78XD)
+[%N]	<a href="../players/player_599.html">Elliot Lefebvre</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D), Distance : 406 ft
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 34D)
+[%B]	Batting: SHB <a href="../players/player_354.html">Joshua Linton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> is caught stealing 2nd base 2-4
+[%F]	Bottom of the 5th over -  3 runs, 4 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 5
+[%T]	Top of the 6th -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: RHB <a href="../players/player_92.html">Zack Malatesta</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, 15S)
+[%B]	Batting: SHB <a href="../players/player_564.html">Oliver Dieudonne</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 5
+[%T]	Bottom of the 6th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: SHB <a href="../players/player_354.html">Joshua Linton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_424.html">TopGun Sheelay</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 4 - Nashville 5
+[%T]	Top of the 7th -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 7LD)
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Outer Banks 4 - Nashville 5
+[%T]	Bottom of the 7th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_27.html">Mookie Banks</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6S)
+[%B]	Batting: LHB <a href="../players/player_344.html">Alexander Blitz</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Pitching: LHP <a href="../players/player_57.html">Alvin Enax</a>
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: SHB <a href="../players/player_321.html">Toledo Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Outer Banks 4 - Nashville 5
+[%T]	Top of the 8th -  Outer Banks Aviators batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: RHB <a href="../players/player_273.html">Toshihiro Ishikawa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_561.html">Al Borland</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_500.html">Zack Vega</a>
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7D), Distance : 382 ft
+[%B]	Batting: RHB <a href="../players/player_92.html">Zack Malatesta</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 15S)
+[%B]	Batting: SHB <a href="../players/player_564.html">Oliver Dieudonne</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 5)
+[%F]	Top of the 8th over -  2 runs, 2 hits, 0 errors, 0 left on base; Outer Banks 6 - Nashville 5
+[%T]	Bottom of the 8th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_57.html">Alvin Enax</a>
+[%B]	Batting: RHB <a href="../players/player_353.html">Tristan Cameron</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 15)
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: SHB <a href="../players/player_354.html">Joshua Linton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Outer Banks 6 - Nashville 5
+[%T]	Top of the 9th -  Outer Banks Aviators batting - Pitching for Nashville Stars : RHP <a href="../players/player_500.html">Zack Vega</a>
+[%B]	Batting: SHB <a href="../players/player_206.html">Kenny McCormick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out U3 (Groundball, 3)
+[%B]	Pitching: LHP <a href="../players/player_333.html">Kosuke Yamauchi</a>
+[%B]	Batting: LHB <a href="../players/player_20.html">Billy Benson</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_137.html">Jordan von Matt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_159.html">Connor Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 1 left on base; Outer Banks 6 - Nashville 5
+[%T]	Bottom of the 9th -  Nashville Stars batting - Pitching for Outer Banks Aviators : LHP <a href="../players/player_57.html">Alvin Enax</a>
+[%B]	Batting: RHB <a href="../players/player_424.html">TopGun Sheelay</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%N]	Runner from 2nd tags up, SAFE at 3rd with throw by CF
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_344.html">Alexander Blitz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Outer Banks 6 - Nashville 5
