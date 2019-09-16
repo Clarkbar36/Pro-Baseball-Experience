@@ -83,6 +83,7 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 16,2026,101,0,0,"Anchorage","ANC","Wheelers",324,452,496,0,0,0,0,2
 16,2027,101,0,0,"Anchorage","ANC","Wheelers",472,456,547,0,1,1,0,1
 16,2028,101,0,0,"Anchorage","ANC","Wheelers",510,529,547,0,1,0,0,1
+16,2029,101,0,0,"Anchorage","ANC","Wheelers",579,462,683,0,0,0,0,3
 17,2021,101,0,0,"Atlantic City","ACB","Ballers",287,38,287,0,0,0,0,2
 17,2022,101,0,0,"Atlantic City","ACB","Ballers",287,38,0,0,0,0,0,2
 17,2023,101,0,0,"Milwaukee","MIL","Swans",39,333,365,0,1,0,0,1
@@ -91,6 +92,7 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 17,2026,101,0,1,"Kingston","KGN","Mounties",422,5,464,0,0,0,0,2
 17,2027,101,0,1,"Kingston","KGN","Mounties",524,505,544,0,0,0,0,2
 17,2028,101,0,1,"Kingston","KGN","Mounties",543,505,556,0,1,1,0,1
+17,2029,101,0,1,"Kingston","KGN","Mounties",543,3,681,0,1,0,0,2
 18,2021,101,0,1,"State College","SCSS","Swift Steeds ",259,52,306,0,1,1,0,1
 18,2022,101,0,1,"State College","SCSS","Swift Steeds ",310,145,145,0,1,1,0,1
 18,2023,101,0,1,"State College","SCSS","Swift Steeds ",306,328,153,0,1,1,0,1
@@ -99,6 +101,7 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 18,2026,101,0,1,"State College","SCSS","Swift Steeds ",312,488,497,0,1,1,0,1
 18,2027,101,0,1,"State College","SCSS","Swift Steeds ",536,144,551,0,1,0,0,1
 18,2028,101,0,1,"State College","SCSS","Swift Steeds ",439,548,587,0,0,0,0,2
+18,2029,101,0,1,"State College","SCSS","Swift Steeds ",562,668,684,0,1,0,0,1
 19,2021,101,0,1,"Sherbrooke ","SHH","Hornets",291,305,291,0,0,0,0,2
 19,2022,101,0,1,"Sherbrooke ","SHH","Hornets",295,301,304,0,0,0,0,2
 19,2023,101,0,1,"Portland","PTL","Beavers",355,331,37,0,0,0,0,2
@@ -107,6 +110,7 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 19,2026,101,0,0,"Amarillo","ARM","Armadillos",410,386,493,0,1,0,0,1
 19,2027,101,0,0,"Amarillo","ARM","Armadillos",451,502,552,0,0,0,0,2
 19,2028,101,0,0,"Amarillo","ARM","Armadillos",410,552,595,0,0,0,0,2
+19,2029,101,0,0,"Amarillo","ARM","Armadillos",555,580,677,0,1,1,0,1
 24,2025,100,0,0,"Florida","FL","Space Rangers",124,200,344,0,1,0,0,2
 24,2026,100,0,0,"Florida","FL","Space Rangers",268,174,399,0,1,0,0,1
 24,2027,100,0,0,"Florida","FL","Space Rangers",268,200,0,0,1,0,0,1
@@ -115,3 +119,5 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 25,2026,100,0,1,"Utah","UTA","Railroaders",271,22,426,0,0,0,0,4
 25,2027,100,0,1,"Utah","UTA","Railroaders",430,22,425,0,0,0,0,4
 25,2028,100,0,1,"Utah","UTA","Railroaders",275,506,499,0,0,0,0,4
+28,2029,101,0,0,"Kansas City","KC","Hepcats",608,657,657,0,0,0,0,2
+29,2029,101,0,1,"Dallas","DAL","Dynamos",582,634,652,0,0,0,0,3
