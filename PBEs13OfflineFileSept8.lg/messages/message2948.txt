@@ -1,8 +1,0 @@
-Weekly Team Power Rankings
-Here are the current team power rankings for Minor League PBE:
-
-Teams (Total Points, Tendency):
-1) <Anchorage Wheelers:team#16> (132.8, o)
-2) <Kingston Mounties:team#17> (94.6, o)
-3) <State College Swift Steeds :team#18> (82.8, o)
-4) <Amarillo Armadillos:team#19> (51.0, o)

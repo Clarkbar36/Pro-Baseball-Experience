@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Minor League PBE in career WHIP?
-
-<Harvey Bones:player#86>, -, 		1.13
-<Jax Hunter:player#70>, NSH, 		1.16
-<Twain  Teetoo:player#144>, SCSS, 		1.20
-<Yosei Koshida:player#389>, ARM, 		1.25
-<Dino Panini:player#332>, NSH, 		1.29

@@ -1,8 +1,0 @@
-BNN Stats: Rookie Batting Leaders
-Which rookie is leading the Minor League PBE in sacrifice hits?
-
-<Desmond Andrews:player#579>, ANC, 		0
-<The Babe:player#550>, SCSS, 		0
-<Anthony Bauer:player#563>, ARM, 		0
-<Cream Biggums:player#554>, ANC, 		0
-<Al Borland:player#561>, ARM, 		0

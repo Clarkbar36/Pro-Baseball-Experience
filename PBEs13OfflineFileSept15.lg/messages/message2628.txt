@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for strikeouts per 9 innings?
+
+<John Smoltz Jr.:player#219>, VAN, 		14.352, 2019
+<Penny Kowers:player#174>, PRO, 		12.711, 2023
+<Ernesto Castillo:player#211>, PRO, 		11.534, 2020
+<D'Aroldis Borkman:player#62>, FL, 		11.279, 2026
+<Victoria Secret:player#227>, DV, 		11.215, 2026

@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Minor League PBE for sacrifice hits?
-
-<Darude -Sandstorm-:player#288>, KGN, 		14, 2022
-<Adrian -Ulloa-:player#278>, KGN, 		14, 2021
-<Shovel Bryant:player#422>, KGN, 		13, 2026
-<Napoleon  -Dynamite-:player#293>, ARM, 		12, 2022
-<Arbin Asipi Jr:player#355>, ARM, 		12, 2023

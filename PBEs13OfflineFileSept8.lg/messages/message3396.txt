@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for intentional walks?
-
-<Vick Thunder:player#270>, VAN, 		12, 2020
-<Johnny Runakiwi:player#244>, FL, 		12, 2026
-<Bobby Shmurda:player#245>, OBX, 		9, 2020
-<Min-joon Do:player#239>, DV, 		8, 2019
-<AJ  Robertson :player#13>, SAS, 		8, 2024

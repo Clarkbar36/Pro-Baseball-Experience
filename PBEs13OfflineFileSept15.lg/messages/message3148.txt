@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for ERA?
+
+<Victoria Secret:player#227>, VAN, 		1.844, 2019
+<Penny Kowers:player#174>, FL, 		2.186, 2026
+<Esteban Rodriguez:player#200>, FL, 		2.216, 2025
+<Chuck Gamble:player#165>, VAN, 		2.236, 2022
+<Greg Steiner:player#76>, VAN, 		2.267, 2022

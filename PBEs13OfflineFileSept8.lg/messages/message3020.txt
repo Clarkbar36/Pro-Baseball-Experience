@@ -1,8 +1,0 @@
-BNN Stats: Active Career Batting Leaders
-So, who is the active leader in the Minor League PBE in career extra base hits?
-
-<Riley Tiffielder:player#324>, NYV, 		148
-<Ben Waters:player#306>, OBX, 		144
-<Sidney Swing:player#312>, SCSS, 		114
-<Josh Kings:player#390>, ARM, 		95
-<Eric Tsai:player#410>, ARM, 		88

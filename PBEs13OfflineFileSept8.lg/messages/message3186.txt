@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Pro Baseball Experience in career shutouts?
-
-<Elston Sinclair:player#208>, NYV, 		14
-<Esteban Rodriguez:player#200>, CUN, 		11
-<Greg Steiner:player#76>, VAN, 		10
-<D'Aroldis Borkman:player#62>, FL, 		7
-<Chaz LaLocke:player#223>, SAS, 		7

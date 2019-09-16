@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for isolated power (ISO)?
+
+<Thomas Trey Oudekerk:player#508>, ANC, 		.2781, 2027
+<Randy  Drumbo:player#483>, ANC, 		.2312, 2027
+<Dandy Chiggins Jr.:player#543>, KGN, 		.2273, 2028
+<Trent Vain:player#259>, SCSS, 		.2128, 2021
+<Tristan Cameron:player#353>, KGN, 		.2118, 2024

@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Minor League PBE in current hitting streak (games)?
+
+<Desmond Andrews:player#579>, ANC, 		12
+<The Babe:player#550>, SCSS, 		11
+<Anthony Bauer:player#563>, ARM, 		11
+<Buddy Cooper:player#562>, SCSS, 		11
+<Alex Selich:player#553>, ANC, 		11

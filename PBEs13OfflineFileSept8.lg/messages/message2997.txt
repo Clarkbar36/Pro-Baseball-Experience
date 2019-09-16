@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Minor League PBE in on-base percentage?
-
-<Eric Tsai:player#410>, ARM, 		.464
-<Chris King:player#516>, KGN, 		.423
-<Johnny Blaze:player#537>, ARM, 		.404
-<Anthony Bauer:player#563>, ARM, 		.402
-<Jad McFearson:player#522>, SCSS, 		.389

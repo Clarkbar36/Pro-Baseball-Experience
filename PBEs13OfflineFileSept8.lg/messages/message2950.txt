@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Minor League PBE in career shutouts?
-
-<Barry Keller:player#360>, FL, 		2
-<Hayley MaConnell:player#401>, VAN, 		2
-<Julio -Guzman-:player#134>, KGN, 		1
-<Alan Abel:player#395>, ANC, 		1
-<Frederick Birdington:player#368>, DV, 		1

@@ -1,0 +1,8 @@
+Evans Belts Bunch of Base Hits
+<Kansas City:team#28> defeated <Dallas:team#29> today at Perpetual Park. The star of the game for the Hepcats was first baseman <Daniel Evans:player#659>. His hitting heroics included a 5-for-5 day, paving the way for Kansas City's 7-4 triumph over the Dynamos. <Daniel Evans:player#659> singled in the 1st, hit an RBI single in the 2nd, hit a two-run single in the 4th, singled in the 6th, doubled in the 8th and walked in the 9th.
+
+This year <Evans:player#659> is batting .458 with no home runs and 4 RBIs.
+
+<View Boxscore:box#315>
+<View Game Log:log#315>
+<Watch Highlights:highlight#315>

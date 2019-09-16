@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for on-base percentage?
-
-<Julian O'Sullivan:player#246>, SAS, 		.4549, 2018
-<Shooty McLish:player#237>, SAS, 		.4489, 2025
-<Kevin Biggio:player#268>, DV, 		.4447, 2023
-<Shooty McLish:player#237>, SAS, 		.4408, 2027
-<Kevin Biggio:player#268>, FL, 		.4398, 2027

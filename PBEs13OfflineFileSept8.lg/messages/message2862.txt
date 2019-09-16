@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Minor League PBE in sacrifice hits?
-
-<Shovel Bryant:player#422>, KGN, 		5
-<The Babe:player#550>, SCSS, 		0
-<Gary Banks:player#471>, KGN, 		0
-<Bryan Barnes:player#482>, SCSS, 		0
-<Jack Bauer II:player#496>, ANC, 		0

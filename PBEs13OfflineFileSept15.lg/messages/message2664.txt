@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for batting AVG?
+
+<Jimmy  Caliburn :player#316>, SCSS, 		.3667, 2022
+<Trent Vain:player#259>, SCSS, 		.3593, 2021
+<Riley Tiffielder:player#324>, ANC, 		.3492, 2026
+<Dirty Dongs:player#262>, ANC, 		.3481, 2021
+<Eric Tsai:player#410>, ARM, 		.3383, 2026

@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at First Base
+Check out who leads the Minor League PBE in extra base hits while playing First Base!
+
+<Nic Wilson:player#555>, ARM, 		35
+<Dickson Cider:player#630>, DAL, 		24
+<Bobby McDonald:player#629>, KGN, 		24
+<Daniel Evans:player#659>, KC, 		23
+<Mac Smart:player#558>, ANC, 		23

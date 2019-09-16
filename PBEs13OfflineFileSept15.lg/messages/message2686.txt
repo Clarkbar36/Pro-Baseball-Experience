@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for doubles?
+
+<Mike -Rolbiecki-:player#285>, KGN, 		22, 2021
+<Cody Braun:player#75>, ANC, 		22, 2021
+<Jeffrey Murphy:player#342>, ANC, 		21, 2024
+<Kris Kramer:player#412>, ANC, 		20, 2026
+<Blain  K'Spais:player#290>, ARM, 		19, 2021

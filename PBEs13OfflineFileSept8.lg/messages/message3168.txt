@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Minor League PBE in career innings pitched?
-
-<Jay  Livingston:player#298>, -, 		718.1
-<Tiddlywink McTicklestick:player#309>, KGN, 		445.1
-<Tony Pisano:player#328>, PRO, 		437.2
-<Thilip Phompson:player#389>, ARM, 		379.1
-<Amp Dupree:player#529>, UTA, 		373.1

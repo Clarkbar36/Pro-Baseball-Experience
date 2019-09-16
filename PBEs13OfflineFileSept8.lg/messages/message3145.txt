@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Minor League PBE in home runs with a full count.
-
-<Dandy Chiggins Jr.:player#543>, KGN, 		3
-<Thomas Trey Oudekerk:player#508>, ANC, 		3
-<Juan Dong:player#484>, ARM, 		2
-<Joeman Johnston V:player#541>, KGN, 		2
-<Jad McFearson:player#522>, SCSS, 		2

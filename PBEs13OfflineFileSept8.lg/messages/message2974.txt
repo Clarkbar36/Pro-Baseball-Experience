@@ -1,8 +1,0 @@
-BNN Stats: Rookie Batting Leaders
-Which rookie is leading the Pro Baseball Experience in doubles?
-
-<Ash Dragon:player#475>, SAS, 		18
-<Manto Rune:player#478>, OBX, 		13
-<Archer Fisch:player#492>, PRO, 		5
-<Mountain Thunderfist:player#451>, DV, 		5
-<Jake Grinz:player#472>, UTA, 		4

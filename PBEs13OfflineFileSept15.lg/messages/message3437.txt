@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in shutouts?
+
+<Jose Forty-Three:player#462>, ANC, 		1
+<Yong-sun Pak:player#606>, ARM, 		1
+<Alex Alpha:player#665>, DAL, 		0
+<Mack Arian:player#601>, KC, 		0
+<Virzeiros Balqen:player#611>, SCSS, 		0

@@ -1,8 +1,0 @@
-BNN Stats: Does Age Matter?
-Here is a list of the youngest players in the Pro Baseball Experience...
-
-<Archer Fisch:player#492>, PRO,		18 years, 363 days
-<Elliot Lefebvre:player#599>, NSH,		19 years, 57 days
-<Colby Kidd:player#505>, VAN,		19 years, 349 days
-<Anthony Bauer:player#563>, ARM,		19 years, 357 days
-<Mitch McIntyre:player#442>, OBX,		20 years, 75 days

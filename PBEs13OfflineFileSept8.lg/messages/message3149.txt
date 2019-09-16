@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Minor League PBE in career fielding independent pitching (FIP)?
-
-<Jax Hunter:player#70>, NSH, 		3.27
-<Harvey Bones:player#86>, -, 		3.40
-<Curtis Kane:player#52>, -, 		3.43
-<Brett Smoky:player#138>, UTA, 		3.87
-<Throwing  Guy:player#5>, KGN, 		3.91

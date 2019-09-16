@@ -1,0 +1,31 @@
+Pro Baseball Experience Announces Gold Glove Award Winners
+A great defense can often be the difference between winning and losing, and this year's winners of the Pro Baseball Experience Gold Glove Award provided great defense all year long. The  2027 winners are:
+
+
+<Pitcher:value_bold#0>
+<Bobby Outman:player#80> (<San Antonio Sloths:team#9>)
+
+<Catcher:value_bold#0>
+<Julian O'Sullivan:player#246> (<San Antonio Sloths:team#9>)
+
+<First Baseman:value_bold#0>
+<Shooty McLish:player#237> (<San Antonio Sloths:team#9>)
+
+<Second Baseman:value_bold#0>
+<Min-joon Do:player#239> (<Death Valley Scorpions:team#10>)
+
+<Third Baseman:value_bold#0>
+<Simon Hans:player#111> (<San Antonio Sloths:team#9>)
+
+<Shortstop:value_bold#0>
+<Paulo Di Stephano:player#48> (<Death Valley Scorpions:team#10>)
+
+<Left Fielder:value_bold#0>
+<Vick Thunder:player#270> (<San Antonio Sloths:team#9>)
+
+<Center Fielder:value_bold#0>
+<Kevin Biggio:player#268> (<Florida Space Rangers:team#24>)
+
+<Right Fielder:value_bold#0>
+<Sophia Bennett:player#258> (<San Antonio Sloths:team#9>)
+

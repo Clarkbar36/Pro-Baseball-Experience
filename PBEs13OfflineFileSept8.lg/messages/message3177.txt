@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Rookie Leaders
-So, which rookie starting pitchers are leading the Minor League PBE in strikeouts?
-
-<Shauer Handel IV:player#548>, PRO, 		106
-<Cillian O'Sullivan:player#549>, NYV, 		93
-<Austin Pike:player#545>, VAN, 		83
-<Hammie Iceman:player#575>, VAN, 		82
-<Benton MacKaye Jr.:player#556>, PRO, 		80

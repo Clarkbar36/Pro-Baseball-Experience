@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Minor League PBE in strikeouts per 9 innings on the road.
-
-<Pepper Morgan:player#577>, SCSS, 		9.0
-<Colton Kai:player#584>, KGN, 		8.3
-<Dinero Torres:player#480>, SCSS, 		6.8
-<Nate Pearson:player#533>, ANC, 		6.6
-<Hammie Iceman:player#575>, SCSS, 		6.6

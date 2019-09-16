@@ -1,8 +1,0 @@
-BNN Stats: Does Age Matter?
-Here is a list of the youngest players in the Minor League PBE...
-
-<Decio Penna:player#632>, ARM,		15 years, 356 days
-<Donovan Muller:player#651>, KC,		16 years, 97 days
-<James Love:player#625>, SCSS,		18 years, 17 days
-<Eckhard Echo:player#662>, DAL,		18 years, 182 days
-<Shea Kittoff:player#610>, SCSS,		18 years, 236 days

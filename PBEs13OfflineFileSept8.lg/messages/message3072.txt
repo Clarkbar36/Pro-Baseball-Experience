@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Pro Baseball Experience in extra base hits?
-
-<Paulo Di Stephano:player#48>, DV, 		54
-<Jordan von Matt:player#137>, OBX, 		50
-<Julian O'Sullivan:player#246>, SAS, 		49
-<Sophia Bennett:player#258>, SAS, 		48
-<Weldon Borthwell:player#29>, NYV, 		47

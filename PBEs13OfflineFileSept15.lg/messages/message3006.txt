@@ -1,0 +1,10 @@
+Space Rangers Rodriguez Claims 150th Victory
+<Esteban Rodriguez:player#200> of the <Florida Space Rangers:team#24> nailed down his 150th career victory with a 7-1 win over the <San Antonio Sloths:team#9> today at USSSA Space Coast Coliseum. Rodriguez, 31, fired 9 strikeouts over 8 innings of work. He gave up 1 run, 1 walk and allowed 5 hits.
+
+"I feel great," Rodriguez said afterward. "I try not to get caught up in the moment. It's hard with so much press coverage these days, but I tune all that out when I go out there and pitch."
+
+In his career stats, <Rodriguez:player#200> has won 150 and lost 73, collecting 2143 strikeouts and 447 walks in 2005 innings with a 3.13 ERA. Opponents have hit .231 against him.
+
+<View Boxscore:box#215>
+<View Game Log:log#215>
+<Watch Highlights:highlight#215>

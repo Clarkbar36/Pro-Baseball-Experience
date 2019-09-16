@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career complete games?
+
+<Phillip Thompson:player#77>, OBX, 		59
+<Victoria Secret:player#227>, DV, 		49
+<Esteban Rodriguez:player#200>, FL, 		37
+<Elston Sinclair:player#208>, NYV, 		36
+<Ernesto Castillo:player#211>, -, 		31

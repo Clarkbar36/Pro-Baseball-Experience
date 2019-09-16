@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for strikeouts?
+
+<Victoria Secret:player#227>, DV, 		238, 2026
+<Victoria Secret:player#227>, DV, 		236, 2025
+<D'Aroldis Borkman:player#62>, FL, 		226, 2026
+<Ernesto Castillo:player#211>, PRO, 		223, 2020
+<Esteban Rodriguez:player#200>, DV, 		219, 2024

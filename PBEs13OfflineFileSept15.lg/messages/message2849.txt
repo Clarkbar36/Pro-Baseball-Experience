@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for isolated power (ISO)?
+
+<Julian O'Sullivan:player#246>, SAS, 		.3830, 2020
+<Julian O'Sullivan:player#246>, SAS, 		.3632, 2026
+<Vick Thunder:player#270>, SAS, 		.3578, 2027
+<Vick Thunder:player#270>, SAS, 		.3490, 2026
+<Vick Thunder:player#270>, VAN, 		.3300, 2022

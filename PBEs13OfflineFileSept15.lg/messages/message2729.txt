@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Minor League PBE in career wins?
+
+<Jay  Livingston:player#298>, ARM, 		41
+<Tony Pisano:player#328>, NYV, 		31
+<Anderson Pooper:player#16>, DV, 		27
+<Alyssa Elliot:player#327>, OBX, 		25
+<Alan Abel:player#395>, ANC, 		23

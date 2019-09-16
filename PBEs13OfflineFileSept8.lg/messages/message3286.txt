@@ -1,8 +1,0 @@
-BNN Stats: Batting Split Stats Leaders
-Here is a peek at the top 5 hitters leading the Pro Baseball Experience in on-base plus slugging (OPS) with two outs.
-
-<Connor MacDonald:player#255>, CUN, 		1.377
-<Jimmy  Dong :player#15>, DV, 		1.328
-<Paulo Di Stephano:player#48>, DV, 		1.234
-<Chanandler Bong:player#408>, CUN, 		1.133
-<Johnny Runakiwi:player#244>, FL, 		1.108

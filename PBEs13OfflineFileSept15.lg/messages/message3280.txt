@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for home runs?
+
+<Julian O'Sullivan:player#246>, SAS, 		48, 2020
+<Vick Thunder:player#270>, SAS, 		39, 2027
+<Vick Thunder:player#270>, VAN, 		39, 2022
+<Vick Thunder:player#270>, SAS, 		38, 2026
+<Julian O'Sullivan:player#246>, SAS, 		37, 2026

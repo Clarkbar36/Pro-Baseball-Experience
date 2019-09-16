@@ -1,0 +1,31 @@
+PBE Honors 2028 Gold Glove Award Winners
+It's been said that the best offense is a good defense. That's why contending teams are always looking to improve on the defensive side of the game. Keeping runs from scoring is just as good as driving them in. The top fielders have been chosen in the Pro Baseball Experience for 2028. Here are the Gold Glove Award winners:
+
+
+<Pitcher:value_bold#0>
+<Mikhail Bergen:player#335> (<Utah Railroaders:team#25>)
+
+<Catcher:value_bold#0>
+<Billy Benson:player#20> (<Outer Banks Aviators:team#2>)
+
+<First Baseman:value_bold#0>
+<Hendrix Lamar:player#407> (<Vancouver Vandals:team#11>)
+
+<Second Baseman:value_bold#0>
+<Min-joon Do:player#239> (<Death Valley Scorpions:team#10>)
+
+<Third Baseman:value_bold#0>
+<Simon Hans:player#111> (<San Antonio Sloths:team#9>)
+
+<Shortstop:value_bold#0>
+<Paulo Di Stephano:player#48> (<Death Valley Scorpions:team#10>)
+
+<Left Fielder:value_bold#0>
+<Vick Thunder:player#270> (<San Antonio Sloths:team#9>)
+
+<Center Fielder:value_bold#0>
+<Jimmy  Dong :player#15> (<Death Valley Scorpions:team#10>)
+
+<Right Fielder:value_bold#0>
+<Ozamataz Buckshank:player#185> (<Death Valley Scorpions:team#10>)
+

@@ -1,0 +1,8 @@
+BNN Stats: Active Career Batting Leaders
+So, who is the active leader in the Pro Baseball Experience in career at bats?
+
+<Julian O'Sullivan:player#246>, SAS, 		4782
+<Johnny Runakiwi:player#244>, FL, 		4767
+<Connor MacDonald:player#255>, VAN, 		4742
+<Kevin Biggio:player#268>, FL, 		4740
+<Shooty McLish:player#237>, SAS, 		4727

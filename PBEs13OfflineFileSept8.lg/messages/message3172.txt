@@ -1,8 +1,0 @@
-BNN Stats: Size Matters
-Here is a list of the tallest players in the Pro Baseball Experience...
-
-<Esteban Rodriguez:player#200>, CAN,		6' 8"
-<Khamati Kahn:player#126>, CAN,		6' 8"
-<Bartolo Pizza:player#479>, NSH,		6' 8"
-<D'Aroldis Borkman:player#62>, FL,		6' 8"
-<Mookie Banks:player#27>, OBX,		6' 8"

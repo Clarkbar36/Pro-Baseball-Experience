@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for ERA?
-
-<Mookie Banks:player#27>, OBX, 		1.575, 2029
-<Victoria Secret:player#227>, VAN, 		1.844, 2019
-<Ryan Stryker:player#17>, NYV, 		1.989, 2029
-<Guy Walker:player#12>, DV, 		2.094, 2029
-<Penny Kowers:player#174>, FL, 		2.186, 2026

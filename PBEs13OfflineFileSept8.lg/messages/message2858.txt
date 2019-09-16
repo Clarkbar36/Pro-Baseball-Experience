@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Minor League PBE in career isolated power (ISO)?
-
-<Ben Waters:player#306>, -, 		.203
-<Randy  Drumbo:player#483>, ANC, 		.197
-<Tristan Cameron:player#353>, NYV, 		.195
-<Firstname Lastname:player#405>, DV, 		.178
-<Refugio Castro:player#313>, -, 		.175

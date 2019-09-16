@@ -1,8 +1,0 @@
-O'Sullivan Reaches 1500 Milestone
-<San Antonio:team#9>'s <Julian O'Sullivan:player#246> collected his 1500th career base hit, but <Death Valley:team#10> collected the win. The Scorpions ruined his special day by knocking off the Sloths 8-2. The 30-year-old catcher reached the milestone by going 1-for-4 in the game.
-
-<O'Sullivan:player#246> has played in 1209 games with a .304 lifetime batting average. Among his 1500 hits are 248 doubles, 14 triples and 352 home runs. He also has scored 881 runs and driven in 1101 runs.
-
-<View Boxscore:box#57>
-<View Game Log:log#57>
-<Watch Highlights:highlight#57>

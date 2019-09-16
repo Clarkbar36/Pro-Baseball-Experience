@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Pro Baseball Experience in strikeouts at night.
-
-<Sebastian Musgrave-Smythe:player#192>, FL, 		89
-<Chaz LaLocke:player#223>, SAS, 		75
-<Coreys Brother:player#331>, VAN, 		64
-<Johnathon Livingston:player#337>, OBX, 		64
-<Ed Barker:player#458>, DV, 		54

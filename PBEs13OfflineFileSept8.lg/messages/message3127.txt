@@ -1,8 +1,0 @@
-BNN Stats: Rookie Batting Leaders
-Which rookie is leading the Pro Baseball Experience in RBI?
-
-<Jake Grinz:player#472>, UTA, 		36
-<Ash Dragon:player#475>, SAS, 		32
-<Manto Rune:player#478>, OBX, 		28
-<Steve Gonzales:player#449>, FL, 		26
-<Bryan Barnes:player#482>, UTA, 		23

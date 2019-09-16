@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for triples?
+
+<Ben Waters:player#306>, SCSS, 		5, 2024
+<Esteban  Ramirez:player#23>, ARM, 		4, 2023
+<Theodore Crunkleton:player#437>, SCSS, 		4, 2025
+<Hugh  Belongwithme:player#280>, ARM, 		4, 2022
+<Jerry  -Catloaf-:player#291>, ARM, 		4, 2021

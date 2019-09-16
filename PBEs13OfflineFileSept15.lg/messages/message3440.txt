@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for sacrifice flies?
+
+<Amp Bogart:player#349>, DV, 		11, 2025
+<Hawk Russell:player#124>, DV, 		10, 2021
+<Jordan von Matt:player#137>, OBX, 		9, 2029
+<Ozamataz Buckshank:player#185>, DV, 		9, 2022
+<Connor Tanner:player#159>, OBX, 		9, 2023

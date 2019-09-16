@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Minor League PBE in career strikeouts per 9 innings?
-
-<Jax Hunter:player#70>, NSH, 		8.3
-<Harvey Bones:player#86>, -, 		7.8
-<Throwing  Guy:player#5>, KGN, 		7.8
-<Dino Panini:player#332>, NSH, 		7.3
-<Kosuke Yamauchi:player#333>, NSH, 		7.2

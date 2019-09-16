@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Pro Baseball Experience in weighted on-base AVG (WOBA)?
-
-<Vick Thunder:player#270>, SAS, 		.430
-<Weldon Borthwell:player#29>, NYV, 		.423
-<Paulo Di Stephano:player#48>, DV, 		.422
-<Min-joon Do:player#239>, DV, 		.408
-<Jake Stennett:player#87>, OBX, 		.406

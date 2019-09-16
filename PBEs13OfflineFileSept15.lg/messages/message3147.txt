@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for ERA?
+
+<Bobby Hill:player#145>, SCSS, 		2.388, 2022
+<Harvey Bones:player#86>, ANC, 		2.465, 2022
+<Twain  Teetoo:player#144>, SCSS, 		2.539, 2024
+<Jax Hunter:player#70>, ANC, 		2.650, 2022
+<Chase Petten:player#394>, ANC, 		2.808, 2025

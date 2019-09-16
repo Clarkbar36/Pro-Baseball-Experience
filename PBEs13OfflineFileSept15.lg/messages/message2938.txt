@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Leaders
+So, which starting pitchers are leading the Minor League PBE in innings pitched?
+
+<Kosei Yoshida:player#503>, ARM, 		51.0
+<Thomas Delabar:player#534>, ANC, 		50.0
+<Benton MacKaye Jr.:player#556>, KGN, 		50.0
+<Hans Kannon:player#544>, KGN, 		49.2
+<Ioseb Besarionis dze Jughashvili:player#573>, ARM, 		48.2

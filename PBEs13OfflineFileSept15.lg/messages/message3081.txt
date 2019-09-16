@@ -1,0 +1,8 @@
+BNN Stats: Career Batting Leaders
+So, who is the leader in the Pro Baseball Experience in career runs?
+
+<Kevin Biggio:player#268>, FL, 		925
+<Shooty McLish:player#237>, SAS, 		877
+<Julian O'Sullivan:player#246>, SAS, 		866
+<Vick Thunder:player#270>, SAS, 		818
+<Sophia Bennett:player#258>, SAS, 		800

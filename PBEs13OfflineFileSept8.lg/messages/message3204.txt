@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for wins?
-
-<Phillip Thompson:player#77>, OBX, 		19, 2025
-<Guy Walker:player#12>, DV, 		19, 2026
-<Guy Walker:player#12>, DV, 		19, 2025
-<Chaz LaLocke:player#223>, NYV, 		18, 2017
-<Anderson Pooper:player#16>, DV, 		18, 2025

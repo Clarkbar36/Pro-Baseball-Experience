@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Minor League PBE in career wins?
-
-<Bnthony Aauer:player#298>, ARM, 		44
-<Tony Pisano:player#328>, PRO, 		31
-<Detective Wooloo:player#456>, PRO, 		28
-<Anderson Pooper:player#16>, SAS, 		27
-<Twain  Teetoo:player#144>, SCSS, 		27

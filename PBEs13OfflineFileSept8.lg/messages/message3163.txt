@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders
-So, who leads the Pro Baseball Experience in at bats?
-
-<Phillip J Fry:player#147>, NYV, 		421
-<Ozamataz Buckshank:player#185>, DV, 		420
-<Godfrey Bowman:player#8>, VAN, 		417
-<Seth Crossland:player#427>, UTA, 		417
-<Jake Stennett:player#87>, CAN, 		415

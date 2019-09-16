@@ -1,8 +1,0 @@
-BNN Stats: Active Career Pitching Leaders
-Which active pitchers are leading the Pro Baseball Experience in career complete games?
-
-<Esteban Rodriguez:player#200>, CUN, 		38
-<Elston Sinclair:player#208>, NYV, 		36
-<Greg Steiner:player#76>, VAN, 		29
-<Mookie Banks:player#27>, OBX, 		21
-<Chaz LaLocke:player#223>, SAS, 		19

@@ -1,0 +1,8 @@
+BNN Stats: Active Career Batting Leaders
+So, who is the active leader in the Minor League PBE in career total bases?
+
+<Riley Tiffielder:player#324>, NYV, 		915
+<Ben Waters:player#306>, UTA, 		785
+<Sidney Swing:player#312>, SCSS, 		741
+<Eric Tsai:player#410>, ARM, 		607
+<Mork Spaghettelli:player#439>, SCSS, 		600

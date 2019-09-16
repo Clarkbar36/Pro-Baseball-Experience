@@ -1,6 +1,0 @@
-Week's Best Player: Dallas's Cider
-22-year-old <Dickson Cider:player#630> made a few <Dallas:team#29> headlines during this past week as the rookie catcher proved he could compete at the plate with his high-school idols. He captured the attention of fans, journalists and Minor League PBE officials last week and today took home Player of the Week honors for his effort.
-
-He cracked 8 hits in 18 at-bats to put up a .444 average. Cider collected 2 home runs, 4 RBIs and scored 3 runs.
-
-On the year <Cider:player#630> has hit .305 with 3 home runs, 11 RBIs and scored 19 runs.

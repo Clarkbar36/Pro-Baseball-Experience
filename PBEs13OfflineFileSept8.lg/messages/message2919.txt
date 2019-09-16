@@ -1,8 +1,0 @@
-BNN Stats: Active Career Batting Leaders
-So, who is the active leader in the Minor League PBE in career RBI?
-
-<Riley Tiffielder:player#324>, NYV, 		358
-<Ben Waters:player#306>, OBX, 		322
-<Sidney Swing:player#312>, SCSS, 		250
-<Josh Kings:player#390>, ARM, 		185
-<Johny Matthews:player#341>, ARM, 		176

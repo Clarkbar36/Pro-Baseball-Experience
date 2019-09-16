@@ -1,8 +1,0 @@
-BNN Stats: Batting Leaders at First Base
-Check out who leads the Pro Baseball Experience in RBI while playing First Base!
-
-<Shooty McLish:player#237>, SAS, 		11
-<Kimetrius  Webster :player#24>, OBX, 		11
-<Artem Maximovich:player#436>, PRO, 		9
-<Austin Dye:player#247>, UTA, 		6
-<Ziggy Coffey:player#119>, DV, 		5

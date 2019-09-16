@@ -1,0 +1,59 @@
+PBE News: The All-Star Game Rosters Have Been Announced
+The All-Star Classic is here again! It's the 2029 Pro Baseball Experience All-Star Game! This is a game for the fans. They choose the players that are the best at their positions. Then these fan favorites take on one another to determine which league is best. Who will be top league this season: the Eastern Division or the Western Division? We'll get the answer soon.
+
+The Eastern Division All-Stars have these fine performers on their roster:
+
+SP <Mookie Banks:player#27> (OBX) - 11-1, 1.49 ERA, 96.2 IP, 0.79 WHIP, 8.3 K/9, 3.3 WAR
+SP <Penny Kowers:player#174> (CUN) - 8-3, 2.20 ERA, 94.0 IP, 0.98 WHIP, 9.5 K/9, 2.1 WAR
+SP <Esteban Rodriguez:player#200> (CUN) - 4-6, 3.38 ERA, 88.0 IP, 0.98 WHIP, 11.7 K/9, 3.0 WAR
+SP <Elston Sinclair:player#208> (NYV) - 9-3, 2.47 ERA, 94.2 IP, 1.04 WHIP, 7.6 K/9, 2.0 WAR
+SP <Ryan Stryker:player#17> (NYV) - 9-2, 2.23 ERA, 93.0 IP, 0.94 WHIP, 10.5 K/9, 3.3 WAR
+RP <Trent Boult:player#43> (FL) - 2-1, 6 SV, 1.50 ERA, 48.0 IP, 0.67 WHIP, 8.8 K/9, 0.8 WAR
+RP <Pete Rose:player#56> (OBX) - 2-0, 3 SV, 2.96 ERA, 27.1 IP, 1.57 WHIP, 9.9 K/9, 0.5 WAR
+RP <Adam Squiggly:player#311> (NYV) - 0-0, 6 SV, 0.48 ERA, 18.2 IP, 1.13 WHIP, 7.7 K/9, 0.5 WAR
+RP <JJ Windsor:player#336> (OBX) - 1-3, 5 SV, 3.08 ERA, 38.0 IP, 1.11 WHIP, 10.9 K/9, 0.4 WAR
+RP <Kosei Yoshida:player#503> (PRO) - 0-0, 2.58 ERA, 45.1 IP, 1.08 WHIP, 12.9 K/9, 0.9 WAR
+C <Billy Benson:player#20> (OBX) - .328/.405/.593, 204 AB, 14 HR, 13 SB, 171 wRC+, 3.5 WAR
+C <Phillip J Fry:player#147> (NYV) - .268/.368/.351, 205 AB, 4 HR, 37 SB, 106 wRC+, 1.7 WAR
+C <Jahseh Tentacion:player#419> (CUN) - .246/.289/.457, 199 AB, 8 HR, 11 SB, 95 wRC+, 1.2 WAR
+1B <Chanandler Bong:player#408> (CUN) - .340/.382/.649, 188 AB, 16 HR, 168 wRC+, 1.9 WAR
+3B <Weldon Borthwell:player#29> (NYV) - .333/.436/.571, 189 AB, 13 HR, 178 wRC+, 2.8 WAR
+3B <Min-joon Do:player#239> (CUN) - .250/.387/.462, 156 AB, 7 HR, 128 wRC+, 1.5 WAR
+SS <Eduardo Dinero:player#81> (NYV) - .328/.423/.529, 189 AB, 6 HR, 163 wRC+, 2.8 WAR
+SS <Clem Johnson:player#122> (NYV) - .310/.400/.507, 203 AB, 9 HR, 2 SB, 143 wRC+, 2.5 WAR
+SS <Johnny Runakiwi:player#244> (FL) - .297/.392/.514, 175 AB, 7 HR, 2 SB, 142 wRC+, 1.8 WAR
+LF <John DeMars:player#379> (FL) - .273/.343/.519, 187 AB, 12 HR, 132 wRC+, 1.8 WAR
+LF <Jake Stennett:player#87> (FL) - .325/.407/.487, 191 AB, 3 HR, 148 wRC+, 1.5 WAR
+LF <Vick Thunder:player#270> (CUN) - .275/.318/.556, 207 AB, 15 HR, 129 wRC+, 1.7 WAR
+LF <Jordan von Matt:player#137> (OBX) - .299/.406/.588, 187 AB, 13 HR, 166 wRC+, 2.1 WAR
+CF <Kevin Biggio:player#268> (FL) - .300/.371/.485, 200 AB, 6 HR, 135 wRC+, 1.8 WAR
+CF <Connor Tanner:player#159> (OBX) - .316/.365/.631, 206 AB, 15 HR, 167 wRC+, 3.3 WAR
+
+
+While the Western Division All-Stars will be represented by these talented players:
+
+SP <Ed Barker:player#458> (DV) - 5-5, 2.35 ERA, 76.2 IP, 0.90 WHIP, 8.5 K/9, 2.8 WAR
+SP <Mikhail Bergen:player#335> (UTA) - 5-3, 3.59 ERA, 90.1 IP, 1.06 WHIP, 11.4 K/9, 2.3 WAR
+SP <Hayley MaConnell:player#401> (VAN) - 3-7, 4.00 ERA, 92.1 IP, 1.25 WHIP, 9.7 K/9, 1.6 WAR
+SP <Greg Steiner:player#76> (VAN) - 6-3, 2.27 ERA, 95.1 IP, 0.98 WHIP, 11.0 K/9, 3.0 WAR
+SP <Guy Walker:player#12> (DV) - 8-2, 2.11 ERA, 98.1 IP, 0.78 WHIP, 10.3 K/9, 3.7 WAR
+RP <Coreys Brother:player#331> (SAS) - 2-1, 2.11 ERA, 38.1 IP, 1.23 WHIP, 11.7 K/9, 1.1 WAR
+RP <Colben Fairborn:player#466> (UTA) - 2-1, 2.00 ERA, 36.0 IP, 1.11 WHIP, 12.5 K/9, 0.5 WAR
+RP <Brett Smoky:player#138> (UTA) - 2-3, 2 SV, 2.41 ERA, 18.2 IP, 1.39 WHIP, 10.1 K/9, 0.8 WAR
+RP <Harry Styles:player#504> (DV) - 1-0, 2.09 ERA, 38.2 IP, 0.96 WHIP, 9.3 K/9, 0.8 WAR
+RP <Zack Vega:player#500> (NSH) - 3-0, 1.78 ERA, 35.1 IP, 1.22 WHIP, 7.9 K/9, 0.7 WAR
+C <Bryan Barnes:player#482> (UTA) - .254/.315/.469, 177 AB, 10 HR, 106 wRC+, 1.2 WAR
+C <Huki Hawaii:player#65> (VAN) - .341/.411/.600, 205 AB, 11 HR, 170 wRC+, 3.1 WAR
+C <Catolo Kittone:player#158> (DV) - .290/.370/.532, 186 AB, 6 HR, 143 wRC+, 1.3 WAR
+C <Julian O'Sullivan:player#246> (SAS) - .235/.323/.500, 196 AB, 12 HR, 118 wRC+, 1.7 WAR
+2B <Roger Baton:player#121> (SAS) - .274/.332/.505, 186 AB, 10 HR, 120 wRC+, 1.3 WAR
+3B <Simon Hans:player#111> (SAS) - .247/.324/.510, 194 AB, 11 HR, 121 wRC+, 1.4 WAR
+3B <Hunter Harrison:player#375> (VAN) - .294/.380/.393, 211 AB, 3 HR, 116 wRC+, 1.4 WAR
+SS <Paulo Di Stephano:player#48> (DV) - .299/.409/.588, 194 AB, 12 HR, 171 wRC+, 3.2 WAR
+LF <Alain Johns:player#432> (UTA) - .270/.342/.460, 200 AB, 4 HR, 19 SB, 117 wRC+, 1.2 WAR
+CF <Seth Crossland:player#427> (UTA) - .255/.349/.420, 200 AB, 8 HR, 22 SB, 111 wRC+, 1.8 WAR
+CF <Jimmy  Dong :player#15> (DV) - .348/.462/.712, 184 AB, 14 HR, 1 SB, 211 wRC+, 4.3 WAR
+RF <Sophia Bennett:player#258> (SAS) - .237/.285/.488, 211 AB, 12 HR, 101 wRC+, 1.0 WAR
+RF <Godfrey Bowman:player#8> (VAN) - .297/.378/.420, 219 AB, 5 HR, 121 wRC+, 1.5 WAR
+RF <Ozamataz Buckshank:player#185> (DV) - .269/.347/.537, 201 AB, 14 HR, 2 SB, 140 wRC+, 1.9 WAR
+DH <Orlando Jackson:player#140> (UTA) - .297/.343/.503, 195 AB, 7 HR, 124 wRC+, 0.8 WAR

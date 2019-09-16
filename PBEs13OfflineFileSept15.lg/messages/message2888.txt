@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Pro Baseball Experience in weighted on-base AVG (WOBA)?
+
+<Johnny Runakiwi:player#244>, FL, 		.714
+<Simon Hans:player#111>, SAS, 		.529
+<Theodore Crunkleton:player#437>, VAN, 		.512
+<Sophia Bennett:player#258>, SAS, 		.505
+<Kyle Bellinger:player#409>, PRO, 		.491

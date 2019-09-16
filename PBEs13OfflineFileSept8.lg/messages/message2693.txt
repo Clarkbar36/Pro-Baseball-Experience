@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Minor League PBE for runs?
-
-<Speedy Boi:player#310>, SCSS, 		89, 2022
-<Sidney Swing:player#312>, SCSS, 		83, 2024
-<Zack Malatesta:player#92>, ANC, 		81, 2022
-<Alexander Blitz:player#344>, KGN, 		81, 2024
-<Ben Waters:player#306>, SCSS, 		80, 2021

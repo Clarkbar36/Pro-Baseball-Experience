@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Minor League PBE in career slugging percentage?
-
-<Thomas Trey Oudekerk:player#508>, NYV, 		.516
-<Ben Waters:player#306>, DAL, 		.479
-<Johny Matthews:player#341>, ARM, 		.471
-<Theodore Crunkleton:player#437>, VAN, 		.467
-<Riley Tiffielder:player#324>, NYV, 		.466

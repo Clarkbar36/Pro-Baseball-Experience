@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Pro Baseball Experience in career ERA?
-
-<D'Aroldis Borkman:player#62>, FL, 		2.64
-<John Smoltz Jr.:player#219>, -, 		2.74
-<Victoria Secret:player#227>, -, 		2.88
-<Penny Kowers:player#174>, CUN, 		2.92
-<Esteban Rodriguez:player#200>, CUN, 		3.13

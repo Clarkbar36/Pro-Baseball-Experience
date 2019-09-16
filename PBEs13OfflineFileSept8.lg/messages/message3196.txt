@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Minor League PBE in career hits?
-
-<Riley Tiffielder:player#324>, NYV, 		601
-<Sidney Swing:player#312>, SCSS, 		512
-<Shovel Bryant:player#422>, NSH, 		472
-<Ben Waters:player#306>, -, 		453
-<Eric Tsai:player#410>, PRO, 		435

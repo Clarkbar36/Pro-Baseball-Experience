@@ -1,8 +1,0 @@
-McLish Gets Number 1500
-<Shooty McLish:player#237> reached the 1500-hit milestone this afternoon at The Treehouse. The 28-year-old Sloths first baseman went 1-for-4 in a losing effort in the <San Antonio:team#9> 7-0 defeat at the hands of the <Vancouver Vandals:team#11>.
-
-During his career <McLish:player#237> is batting .315 and has totaled 107 home runs.
-
-<View Boxscore:box#643>
-<View Game Log:log#643>
-<Watch Highlights:highlight#643>

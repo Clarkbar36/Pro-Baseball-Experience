@@ -1,8 +1,0 @@
-BNN Stats: Active Career Batting Leaders
-So, who is the active leader in the Pro Baseball Experience in career on-base percentage?
-
-<Kevin Biggio:player#268>, FL, 		.402
-<Shooty McLish:player#237>, SAS, 		.399
-<Sophia Bennett:player#258>, SAS, 		.381
-<Connor MacDonald:player#255>, VAN, 		.380
-<Vick Thunder:player#270>, SAS, 		.380

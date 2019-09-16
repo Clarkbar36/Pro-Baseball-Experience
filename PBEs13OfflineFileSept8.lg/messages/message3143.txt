@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Minor League PBE for intentional walks?
-
-<Catolo Kittone:player#158>, ANC, 		20, 2022
-<Eric Tsai:player#410>, ARM, 		7, 2027
-<Eddie Spaghetti:player#314>, ANC, 		5, 2022
-<Sidney Swing:player#312>, SCSS, 		4, 2023
-<Dirty Dongs:player#262>, ANC, 		4, 2021

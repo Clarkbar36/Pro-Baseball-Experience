@@ -1,8 +1,0 @@
-BNN Stats: Career Batting Leaders
-So, who is the leader in the Minor League PBE in career isolated power (ISO)?
-
-<Thomas Trey Oudekerk:player#508>, ANC, 		.241
-<Ben Waters:player#306>, -, 		.203
-<Tristan Cameron:player#353>, NSH, 		.195
-<Rob Cena:player#523>, ANC, 		.184
-<Firstname Lastname:player#405>, DV, 		.178

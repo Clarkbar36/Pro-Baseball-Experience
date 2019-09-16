@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for stolen bases?
+
+<Kevin Biggio:player#268>, DV, 		93, 2024
+<Kevin Biggio:player#268>, DV, 		90, 2023
+<Kevin Biggio:player#268>, FL, 		90, 2026
+<Ziggy Coffey:player#119>, DV, 		88, 2025
+<Ziggy Coffey:player#119>, DV, 		86, 2026

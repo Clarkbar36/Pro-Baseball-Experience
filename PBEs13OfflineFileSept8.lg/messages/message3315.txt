@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Pro Baseball Experience for sacrifice hits?
-
-<Pepe Alazar:player#180>, NYV, 		16, 2020
-<Keeks Marone:player#66>, PRO, 		13, 2023
-<Kenny McCormick:player#206>, OBX, 		13, 2026
-<Zack Malatesta:player#92>, SAS, 		11, 2024
-<Jack Westin:player#190>, PRO, 		11, 2022

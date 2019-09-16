@@ -1,0 +1,14 @@
+150 Wins for Voyagers Sinclair
+<Elston Sinclair:player#208> of the <New York Voyagers:team#1> will go down as one of the league's legendary pitchers after his 18-1 win today against the <Death Valley Scorpions:team#10>.
+
+"It felt like it was a postseason game, one out at a time," said his manager. "It was something special to see."
+
+The 32-year-old Sinclair picked up his 150th career victory at Voyager Stadium. He hurled 7 innings, gave up 4 hits and registered 7 strikeouts along with 2 walks.
+
+"I've worked a long time for this," Sinclair said. "I can't believe it's really here. It feels great!"
+
+In his career <Sinclair:player#208> has 150 victories and 92 defeats and recorded an ERA of 3.48.
+
+<View Boxscore:box#250>
+<View Game Log:log#250>
+<Watch Highlights:highlight#250>

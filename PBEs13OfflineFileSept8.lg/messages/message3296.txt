@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Pro Baseball Experience in strikeouts per 9 innings at night.
-
-<Mac Kaarbine:player#18>, NYV, 		13.6
-<Kosei Yoshida:player#503>, PRO, 		12.9
-<Sebastian Musgrave-Smythe:player#192>, FL, 		12.8
-<Colben Fairborn:player#466>, UTA, 		12.5
-<Yamcha Pu'ar:player#445>, CUN, 		12.1

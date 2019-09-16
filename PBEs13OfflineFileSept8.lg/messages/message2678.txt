@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Minor League PBE in strikeouts per 9 innings at night.
-
-<Alexei Brusilov:player#498>, ANC, 		12.7
-<Throwing  Guy:player#5>, KGN, 		11.2
-<Twain  Teetoo:player#144>, SCSS, 		10.3
-<Rickadoszi Zimmermencha:player#485>, ANC, 		9.5
-<Harry Styles:player#504>, SCSS, 		8.8

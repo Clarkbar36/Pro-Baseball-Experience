@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Pro Baseball Experience in strikeouts during spring training.
-
-<Sebastian Musgrave-Smythe:player#192>, FL, 		15
-<JJ Windsor:player#336>, OBX, 		15
-<Trent Boult:player#43>, FL, 		14
-<Chaz LaLocke:player#223>, SAS, 		14
-<Mark Taylor:player#527>, FL, 		14

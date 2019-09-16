@@ -1,6 +1,0 @@
-Week's Best Player: Amarillo's Wilson
-<Nic Wilson:player#555> burst onto the Minor League PBE stage in a big way last week. This promising rookie first baseman for <Amarillo:team#19> garnered everyone's respect by putting up some remarkable numbers and picking up the Player of the Week trophy.
-
-The 19-year-old haunted opposing pitchers hitting .474 (9-for-19) with 3 home runs and 4 RBIs last week.
-
-Presently <Wilson:player#555> is hitting .331 with 20 home runs and 52 RBIs. He has played in 87 games and scored 67 times.

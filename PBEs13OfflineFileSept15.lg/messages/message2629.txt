@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in stolen bases?
+
+<Archer Fisch:player#492>, ARM, 		20
+<Shovel Bryant:player#422>, KGN, 		18
+<Steve Gonzales:player#449>, ANC, 		16
+<Jake Grinz:player#472>, ANC, 		13
+<Benjamin Hilmer:player#510>, ANC, 		6

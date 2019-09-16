@@ -1,8 +1,0 @@
-BNN Stats: Single-Season Records
-Who holds the single season record in the Minor League PBE for bases on balls?
-
-<Jake Grinz:player#472>, ANC, 		70, 2027
-<Ben Waters:player#306>, SCSS, 		64, 2024
-<Alex Sincario:player#240>, ANC, 		63, 2021
-<Dongus Dio:player#73>, SCSS, 		63, 2021
-<Patrick Kelley:player#377>, ARM, 		60, 2024

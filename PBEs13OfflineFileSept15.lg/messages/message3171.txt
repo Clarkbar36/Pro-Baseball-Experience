@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in strikeout percentage?
+
+<Thomas Trey Oudekerk:player#508>, ANC, 		22.4
+<Robert Sandberg:player#571>, KGN, 		21.0
+<The Babe:player#550>, SCSS, 		19.2
+<Felipe Rios:player#582>, ARM, 		18.2
+<Desmond Andrews:player#579>, ANC, 		18.1

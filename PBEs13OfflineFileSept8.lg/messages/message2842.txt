@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Rookie Leaders
-So, which rookie starting pitchers are leading the Minor League PBE in strikeouts?
-
-<Joey Slothface:player#525>, ANC, 		122
-<Amp Dupree:player#529>, ANC, 		106
-<Noah Johns:player#532>, KGN, 		104
-<Kosei Yoshida:player#503>, ARM, 		104
-<Henry Chadwick:player#526>, KGN, 		88

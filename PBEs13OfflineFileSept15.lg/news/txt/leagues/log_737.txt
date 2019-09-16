@@ -1,0 +1,522 @@
+[%T]	Top of the 1st -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Pitching: RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4D)
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	Pickoff Throw to First - Out! 1-3
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 0 left on base; San Antonio 0 - Vancouver 0
+[%T]	Bottom of the 1st -  Vancouver Vandals batting - Pitching for San Antonio Sloths : RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Pitching: RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+[%N]	Throwing error, E9
+[%N]	<b><a href="../players/player_375.html">Hunter Harrison</a> scores</b>
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to second
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 1 error, 1 left on base; San Antonio 0 - Vancouver 1
+[%T]	Top of the 2nd -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_121.html">Roger Baton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_365.html">Yeliboy Uecker</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; San Antonio 0 - Vancouver 1
+[%T]	Bottom of the 2nd -  Vancouver Vandals batting - Pitching for San Antonio Sloths : RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_436.html">Artem Maximovich</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; San Antonio 0 - Vancouver 1
+[%T]	Top of the 3rd -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: LHB <a href="../players/player_124.html">Hawk Russell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_576.html">William Hoge</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_306.html">Ben Waters</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 25) (infield hit)
+[%N]	<a href="../players/player_576.html">William Hoge</a> to second
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 3rd over -  0 runs, 2 hits, 0 errors, 2 left on base; San Antonio 0 - Vancouver 1
+[%T]	Bottom of the 3rd -  Vancouver Vandals batting - Pitching for San Antonio Sloths : RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 3D)
+[%N]	<a href="../players/player_8.html">Godfrey Bowman</a> to third
+[%N]	Runner from 3rd tries for Home, throw by RF and OUT! 9-2
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89XD)
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>3-RUN HOME RUN</b>  (Flyball, 9D), Distance : 380 ft
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ground out 2-3 (Groundball, 15S)
+[%F]	Bottom of the 3rd over -  4 runs, 4 hits, 0 errors, 0 left on base; San Antonio 0 - Vancouver 5
+[%T]	Top of the 4th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_121.html">Roger Baton</a>
+[%N]	0-0: Ball
+[%N]	Pickoff Throw by Catcher to First - Out!
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Groundball, 5L)
+[%B]	Batting: LHB <a href="../players/player_365.html">Yeliboy Uecker</a>
+[%N]	0-0: <b>DOUBLE</b>  (Groundball, 5L)
+[%N]	<b><a href="../players/player_121.html">Roger Baton</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_124.html">Hawk Russell</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_365.html">Yeliboy Uecker</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+[%B]	Batting: RHB <a href="../players/player_576.html">William Hoge</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LM)
+[%N]	<a href="../players/player_124.html">Hawk Russell</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by LF</b>
+[%B]	Batting: LHB <a href="../players/player_306.html">Ben Waters</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9)
+[%F]	Top of the 4th over -  3 runs, 5 hits, 0 errors, 1 left on base; San Antonio 3 - Vancouver 5
+[%T]	Bottom of the 4th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_436.html">Artem Maximovich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; San Antonio 3 - Vancouver 5
+[%T]	Top of the 5th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4MD)
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to second
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; San Antonio 3 - Vancouver 5
+[%T]	Bottom of the 5th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : RHP <a href="../players/player_16.html">Anderson Pooper</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D)
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to third
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to second
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 5-3 (Groundball, 56)
+[%N]	<b><a href="../players/player_375.html">Hunter Harrison</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to third
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Hit by Pitch
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to second
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4M)
+[%N]	<b><a href="../players/player_65.html">Huki Hawaii</a> scores</b>
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to third
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to second
+[%B]	Pitching: LHP <a href="../players/player_398.html">Adrian Kaine</a>
+[%B]	Batting: LHB <a href="../players/player_436.html">Artem Maximovich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6S)
+[%F]	Bottom of the 5th over -  2 runs, 2 hits, 0 errors, 3 left on base; San Antonio 3 - Vancouver 7
+[%T]	Top of the 6th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_446.html">Blu Line</a>
+[%B]	Batting: RHB <a href="../players/player_121.html">Roger Baton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 7LD)
+[%B]	Batting: LHB <a href="../players/player_365.html">Yeliboy Uecker</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_121.html">Roger Baton</a> to third
+[%B]	Batting: LHB <a href="../players/player_124.html">Hawk Russell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_575.html">Hammie Iceman</a>
+[%B]	Batting: RHB <a href="../players/player_576.html">William Hoge</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 89M)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by RF</b>
+[%B]	Batting: LHB <a href="../players/player_306.html">Ben Waters</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD), Distance : 428 ft
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 6th over -  3 runs, 3 hits, 0 errors, 0 left on base; San Antonio 6 - Vancouver 7
+[%T]	Bottom of the 6th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : LHP <a href="../players/player_398.html">Adrian Kaine</a>
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; San Antonio 6 - Vancouver 7
+[%T]	Top of the 7th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_575.html">Hammie Iceman</a>
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%N]	<a href="../players/player_377.html">Patrick Kelley</a> to third
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_121.html">Roger Baton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 6-2-3 (Groundball, 6)
+[%N]	<a href="../players/player_246.html">Julian O'Sullivan</a> to third
+[%N]	<a href="../players/player_111.html">Simon Hans</a> to second
+[%B]	Batting: LHB <a href="../players/player_365.html">Yeliboy Uecker</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<b><a href="../players/player_246.html">Julian O'Sullivan</a> scores</b>
+[%N]	<a href="../players/player_111.html">Simon Hans</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_365.html">Yeliboy Uecker</a> to second
+[%B]	Pitching: RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Batting: LHB <a href="../players/player_124.html">Hawk Russell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_365.html">Yeliboy Uecker</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%N]	<a href="../players/player_124.html">Hawk Russell</a> to second
+[%B]	Batting: RHB <a href="../players/player_576.html">William Hoge</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_124.html">Hawk Russell</a> to third
+[%N]	Runner from 3rd tries for Home, throw by LF and OUT! 7-2
+[%F]	Top of the 7th over -  3 runs, 5 hits, 0 errors, 1 left on base; San Antonio 9 - Vancouver 7
+[%T]	Bottom of the 7th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : LHP <a href="../players/player_398.html">Adrian Kaine</a>
+[%B]	Pitching: LHP <a href="../players/player_331.html">Coreys Brother</a>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out U3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 400 ft
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6S)
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to second
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 7th over -  1 run, 2 hits, 0 errors, 1 left on base; San Antonio 9 - Vancouver 8
+[%T]	Top of the 8th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Batting: LHB <a href="../players/player_306.html">Ben Waters</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Popup, 6M)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to second
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_111.html">Simon Hans</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to third
+[%N]	<a href="../players/player_377.html">Patrick Kelley</a> to second
+[%B]	Batting: RHB <a href="../players/player_121.html">Roger Baton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 3 left on base; San Antonio 9 - Vancouver 8
+[%T]	Bottom of the 8th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : LHP <a href="../players/player_331.html">Coreys Brother</a>
+[%B]	Batting: LHB <a href="../players/player_436.html">Artem Maximovich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9LSF)
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; San Antonio 9 - Vancouver 8
+[%T]	Top of the 9th -  San Antonio Sloths batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Pitching: RHP <a href="../players/player_467.html">Mamoru  Okonomi </a>
+[%B]	Batting: LHB <a href="../players/player_365.html">Yeliboy Uecker</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_124.html">Hawk Russell</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 367 ft
+[%B]	Batting: RHB <a href="../players/player_576.html">William Hoge</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Line Drive, 7D)
+[%B]	Batting: LHB <a href="../players/player_306.html">Ben Waters</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5)
+[%B]	Batting: RHB <a href="../players/player_475.html">Ash Dragon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_377.html">Patrick Kelley</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_475.html">Ash Dragon</a> to second
+[%B]	Batting: RHB <a href="../players/player_246.html">Julian O'Sullivan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 9th over -  2 runs, 2 hits, 0 errors, 2 left on base; San Antonio 11 - Vancouver 8
+[%T]	Bottom of the 9th -  Vancouver Vandals batting - Pitching for San Antonio Sloths : LHP <a href="../players/player_331.html">Coreys Brother</a>
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out U3 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_361.html">Brock Lobster</a>
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to second
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 2 left on base; San Antonio 11 - Vancouver 8

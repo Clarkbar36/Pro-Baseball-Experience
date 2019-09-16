@@ -1,8 +1,0 @@
-Florida's Biggio Reaches 1500 Hits
-<Florida:team#24> center fielder <Kevin Biggio:player#268> finished the day with 4 hits in 4 at-bats and 1500 career hits. The Space Rangers also finished off the Crabs, 6-0. The 31-year-old <Biggio:player#268> added his name to the list of players in the Pro Baseball Experience 1500-hit club.
-
-Over his career <Biggio:player#268> is batting .312 with 245 doubles, 37 triples, 66 home runs, 469 RBIs and scored 925 runs in 1189 games. 
-
-<View Boxscore:box#682>
-<View Game Log:log#682>
-<Watch Highlights:highlight#682>

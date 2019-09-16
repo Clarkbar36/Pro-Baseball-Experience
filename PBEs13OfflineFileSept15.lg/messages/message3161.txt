@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for hits?
+
+<Connor MacDonald:player#255>, VAN, 		153, 2018
+<Vick Thunder:player#270>, VAN, 		152, 2018
+<Kevin Biggio:player#268>, VAN, 		150, 2019
+<Laddy McBantershire:player#275>, NYV, 		150, 2017
+<Shooty McLish:player#237>, SAS, 		147, 2025

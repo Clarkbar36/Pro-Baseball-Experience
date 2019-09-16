@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for sacrifice flies?
+
+<Benjamin Beaux:player#323>, ANC, 		10, 2022
+<Alexander Blitz:player#344>, KGN, 		9, 2024
+<Ben Waters:player#306>, SCSS, 		8, 2023
+<Steve Gonzales:player#449>, ANC, 		8, 2026
+<Thor Sigurdsson:player#476>, KGN, 		8, 2027

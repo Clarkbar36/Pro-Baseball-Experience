@@ -1,8 +1,0 @@
-BNN Stats: Reliever Split Stats Leaders
-Today we look at the top 5 relievers leading the Pro Baseball Experience in strikeouts per 9 innings on the road.
-
-<Sebastian Musgrave-Smythe:player#192>, FL, 		11.6
-<Coreys Brother:player#331>, CAN, 		10.5
-<Johnathon Livingston:player#337>, OBX, 		9.8
-<Chaz LaLocke:player#223>, SAS, 		9.1
-<Harry Styles:player#504>, DV, 		8.4

@@ -1,8 +1,0 @@
-BNN Stats: Career Pitching Leaders
-Which pitchers are leading the Pro Baseball Experience in career wins above replacement (WAR)?
-
-<Victoria Secret:player#227>, DV, 		62.5
-<Esteban Rodriguez:player#200>, FL, 		54.4
-<Elston Sinclair:player#208>, NYV, 		47.3
-<Greg Steiner:player#76>, VAN, 		47.0
-<Phillip Thompson:player#77>, OBX, 		43.7

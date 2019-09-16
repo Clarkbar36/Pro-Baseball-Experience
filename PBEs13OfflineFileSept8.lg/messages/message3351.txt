@@ -1,8 +1,0 @@
-BNN Stats: Rookie Batting Leaders
-Which rookie is leading the Pro Baseball Experience in bases on balls?
-
-<Alex Machado:player#596>, NSH, 		24
-<Jackson Krowley:player#536>, CUN, 		22
-<Thomas Trey Oudekerk:player#508>, NYV, 		21
-<Jonny Times II:player#524>, VAN, 		21
-<Johnny Blaze:player#537>, OBX, 		20

@@ -1,8 +1,0 @@
-BNN Stats: It's All About Experience
-Who has the most major league service time in the PBE?
-
-<Robert Phelps:player#271>, UTA,		10 years, 137 days
-<Jarrod Stanton:player#173>, UTA,		10 years, 137 days
-<Kevin Biggio:player#268>, FL,		10 years, 137 days
-<Toshihiro Ishikawa:player#273>, FL,		10 years, 137 days
-<Penny Kowers:player#174>, FL,		10 years, 137 days

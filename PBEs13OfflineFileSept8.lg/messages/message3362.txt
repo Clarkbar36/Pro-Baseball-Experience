@@ -1,8 +1,0 @@
-BNN Stats: Starting Pitching Leaders
-So, which starting pitchers are leading the Minor League PBE in shutouts?
-
-<Jose Forty-Three:player#462>, ANC, 		1
-<Yong-sun Pak:player#606>, ARM, 		1
-<Bnthony Aauer:player#298>, ARM, 		0
-<Alan Abel:player#395>, PRO, 		0
-<Alex Alpha:player#665>, DAL, 		0
