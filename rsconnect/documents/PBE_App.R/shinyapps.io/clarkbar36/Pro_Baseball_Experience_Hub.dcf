@@ -5,9 +5,9 @@ account: clarkbar36
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 922393
-bundleId: 2401234
+bundleId: 2420580
 url: https://clarkbar36.shinyapps.io/Pro_Baseball_Experience_Hub/
-when: 1568071536.35469
+when: 1568728199.8988
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: New_PBE_Audit.R|Scraper/.DS_Store|Scraper/.Rhistory|Scraper/MiLPBE_TPE|Scraper/PBE_TPE.csv|Scraper/TPE Scraper.R|Audit|PBEs13OfflineFileSept8.lg
+ignoredFiles: New_PBE_Audit.R|Scraper/.DS_Store|Scraper/.Rhistory|Scraper/MiLPBE_TPE|Scraper/PBE_TPE.csv|Scraper/TPE Scraper.R|Audit
