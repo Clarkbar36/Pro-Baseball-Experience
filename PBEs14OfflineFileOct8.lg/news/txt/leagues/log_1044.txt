@@ -1,0 +1,497 @@
+[%T]	Top of the 1st -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Pitching: LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Vancouver 0
+[%T]	Bottom of the 1st -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_402.html">John BIII</a>
+[%B]	Pitching: LHP <a href="../players/player_402.html">John BIII</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 9LMF)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  looking
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Nashville 0 - Vancouver 0
+[%T]	Top of the 2nd -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Vancouver 0
+[%T]	Bottom of the 2nd -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_402.html">John BIII</a>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>TRIPLE</b>  (Line Drive, 89XD)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_393.html">Jack BIII</a>
+[%B]	Batting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 78M)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 2 left on base; Nashville 0 - Vancouver 0
+[%T]	Top of the 3rd -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_628.html">Lightning Bolt</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F4  (Popup, 4)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Vancouver 0
+[%T]	Bottom of the 3rd -  Vancouver Vandals batting - Pitching for Nashville Stars : RHP <a href="../players/player_393.html">Jack BIII</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7LS)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 89D)
+[%N]	<a href="../players/player_8.html">Godfrey Bowman</a> to third
+[%B]	Pitching: LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 8RXD)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4MD)
+[%N]	<a href="../players/player_364.html">Ulysses Rove</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 89M)
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by CF
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 3rd over -  2 runs, 3 hits, 0 errors, 2 left on base; Nashville 0 - Vancouver 2
+[%T]	Top of the 4th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 5D)
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 0 - Vancouver 2
+[%T]	Bottom of the 4th -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 3L)
+[%N]	<a href="../players/player_540.html">Gaelic Gladiator</a> to third
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	Passed Ball!
+[%N]	<b><a href="../players/player_540.html">Gaelic Gladiator</a> scores</b>
+[%N]	<a href="../players/player_620.html">Toby McMuffin</a> to third
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 89S)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 1 left on base; Nashville 0 - Vancouver 3
+[%T]	Top of the 5th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_396.html">Peter Dawson</a>
+[%B]	Pitching: LHP <a href="../players/player_605.html">Grover Wokkenfuss</a>
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F6  (Line Drive, 6)
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_628.html">Lightning Bolt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 13S)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 0 - Vancouver 3
+[%T]	Bottom of the 5th -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9LS)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 0 - Vancouver 3
+[%T]	Top of the 6th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_605.html">Grover Wokkenfuss</a>
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Nashville 0 - Vancouver 3
+[%T]	Bottom of the 6th -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_329.html">Pete Peters</a>
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pitching: LHP <a href="../players/player_90.html">Asipi Cantor</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%N]	<a href="../players/player_620.html">Toby McMuffin</a> to second
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Fielders Choice at 2nd, 1-4 (Groundball, 15)
+[%N]	<a href="../players/player_620.html">Toby McMuffin</a> to third
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to second
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD)
+[%F]	Bottom of the 6th over -  0 runs, 2 hits, 0 errors, 3 left on base; Nashville 0 - Vancouver 3
+[%T]	Top of the 7th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_605.html">Grover Wokkenfuss</a>
+[%B]	Pitching: RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Reached on error, E2 (Groundball, 15S)
+[%N]	<a href="../players/player_599.html">Elliot Lefebvre</a> to third
+[%B]	Pitching: LHP <a href="../players/player_552.html">Brent Lomew</a>
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_599.html">Elliot Lefebvre</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_628.html">Lightning Bolt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 7th over -  1 run, 1 hit, 1 error, 1 left on base; Nashville 1 - Vancouver 3
+[%T]	Bottom of the 7th -  Vancouver Vandals batting - Pitching for Nashville Stars : LHP <a href="../players/player_90.html">Asipi Cantor</a>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to second
+[%B]	Batting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into fielders choice 1-2 (Groundball, 15S)
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to third
+[%N]	<a href="../players/player_540.html">Gaelic Gladiator</a> to second
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<b><a href="../players/player_437.html">Theodore Crunkleton</a> scores</b>
+[%N]	<a href="../players/player_540.html">Gaelic Gladiator</a> to third
+[%N]	<a href="../players/player_620.html">Toby McMuffin</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_620.html">Toby McMuffin</a> to third
+[%N]	<a href="../players/player_8.html">Godfrey Bowman</a> to second
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_620.html">Toby McMuffin</a> scores</b>
+[%N]	<a href="../players/player_8.html">Godfrey Bowman</a> to third
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to second
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_8.html">Godfrey Bowman</a> scores</b>
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to third
+[%N]	<a href="../players/player_364.html">Ulysses Rove</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>3-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 331 ft
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4D)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to second
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_65.html">Huki Hawaii</a> to third
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%B]	Pitching: RHP <a href="../players/player_479.html">Bartolo Pizza</a>
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_65.html">Huki Hawaii</a> scores</b>
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to third
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 78XD)
+[%N]	<b><a href="../players/player_437.html">Theodore Crunkleton</a> scores</b>
+[%N]	<a href="../players/player_540.html">Gaelic Gladiator</a> to third
+[%N]	<b><a href="../players/player_540.html">Gaelic Gladiator</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 7th over -  11 runs, 6 hits, 0 errors, 1 left on base; Nashville 1 - Vancouver 14
+[%T]	Top of the 8th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_552.html">Brent Lomew</a>
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9LS)
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Pinch Hitting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Vancouver 14
+[%T]	Bottom of the 8th -  Vancouver Vandals batting - Pitching for Nashville Stars : RHP <a href="../players/player_479.html">Bartolo Pizza</a>
+[%B]	Now at SS: <a href="../players/player_422.html">Shovel Bryant</a>
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 4-3 (Groundball, 4D)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_659.html">Daniel Evans</a>
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Grounds into double play, 3-6-3 (Groundball, 34)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Vancouver 14
+[%T]	Top of the 9th -  Nashville Stars batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_552.html">Brent Lomew</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_673.html">Andrew Green</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LD)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F4  (Popup, 34D)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Vancouver 14

@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Minor League PBE in caught stealing?
+
+<Nicholas Swartz:player#685>, ANC, 		1
+<Lonnie Anderson:player#689>, ANC, 		0
+<Zelk Antilles:player#700>, SCSS, 		0
+<Tom Ato:player#727>, ARM, 		0
+<Jose Delgado:player#705>, ANC, 		0

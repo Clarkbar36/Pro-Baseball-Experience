@@ -1,0 +1,5 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Pro Baseball Experience in opponents OPS?
+
+<Yong-sun Pak:player#606>, OBX, 		.492
+<Ioseb Besarionis dze Jughashvili:player#573>, PRO, 		.748

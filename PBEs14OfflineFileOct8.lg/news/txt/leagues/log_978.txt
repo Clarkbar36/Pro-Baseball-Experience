@@ -1,0 +1,431 @@
+[%T]	Top of the 1st -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Pitching: RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Utah 0
+[%T]	Bottom of the 1st -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Pitching: LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to second
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Reached on error, E5 (Groundball, 5)
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to third
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to second
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 7LD), Distance : 358 ft
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8RD)
+[%F]	Bottom of the 1st over -  4 runs, 4 hits, 1 error, 1 left on base; Nashville 0 - Utah 4
+[%T]	Top of the 2nd -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LM)
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD), Distance : 391 ft
+[%B]	Batting: RHB <a href="../players/player_659.html">Daniel Evans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 89M)
+[%F]	Top of the 2nd over -  1 run, 1 hit, 0 errors, 1 left on base; Nashville 1 - Utah 4
+[%T]	Bottom of the 2nd -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out U3 (Groundball, 3)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 4D)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9LS)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Utah 4
+[%T]	Top of the 3rd -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_366.html">Isidore Fox</a> steals 2nd base
+[%N]	0-1:  Fly out, F7  (Flyball, 78S)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; Nashville 1 - Utah 4
+[%T]	Bottom of the 3rd -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F5  (Popup, 5SF)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 2 left on base; Nashville 1 - Utah 4
+[%T]	Top of the 4th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 34D)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_659.html">Daniel Evans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_521.html">Chest Rockwell</a> is caught stealing 2nd base 2-4
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Nashville 1 - Utah 4
+[%T]	Bottom of the 4th -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Utah 4
+[%T]	Top of the 5th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_622.html">Bill Bisquick</a>
+[%B]	Pitching: RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Batting: RHB <a href="../players/player_659.html">Daniel Evans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_422.html">Shovel Bryant</a> steals 2nd, throwing error, E2
+[%N]	<a href="../players/player_422.html">Shovel Bryant</a> to third
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_422.html">Shovel Bryant</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 5th over -  1 run, 1 hit, 1 error, 1 left on base; Nashville 2 - Utah 4
+[%T]	Bottom of the 5th -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_681.html">Cornelius Treat</a>
+[%B]	Pitching: RHP <a href="../players/player_393.html">Jack BIII</a>
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Reached on error, E6 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_392.html">Dorothy Morimura</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to third
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0:  <b>3-RUN HOME RUN</b>  (Flyball, 78XD), Distance : 399 ft
+[%B]	Pitching: RHP <a href="../players/player_371.html">Corey Bradford</a>
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  4 runs, 3 hits, 1 error, 0 left on base; Nashville 2 - Utah 8
+[%T]	Top of the 6th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 2 - Utah 8
+[%T]	Bottom of the 6th -  Utah Railroaders batting - Pitching for Nashville Stars : RHP <a href="../players/player_371.html">Corey Bradford</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Pitching: LHP <a href="../players/player_90.html">Asipi Cantor</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_608.html">Joshua Brunson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 34D)
+[%N]	<a href="../players/player_565.html">Connor McDavitt</a> to second
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_565.html">Connor McDavitt</a> to third
+[%N]	<a href="../players/player_608.html">Joshua Brunson</a> to second
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%N]	<b><a href="../players/player_565.html">Connor McDavitt</a> scores</b>
+[%N]	<a href="../players/player_608.html">Joshua Brunson</a> to third
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F4  (Line Drive, 4)
+[%B]	Pinch Hitting: RHB <a href="../players/player_719.html">Emerson Austin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Bottom of the 6th over -  1 run, 3 hits, 0 errors, 1 left on base; Nashville 2 - Utah 9
+[%T]	Top of the 7th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Pitching: RHP <a href="../players/player_491.html">Holden MaGroin</a>
+[%B]	Now at 1B: <a href="../players/player_608.html">Joshua Brunson</a>
+[%B]	Now at 3B: <a href="../players/player_719.html">Emerson Austin</a>
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 7S)
+[%B]	Batting: RHB <a href="../players/player_659.html">Daniel Evans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6D)
+[%N]	<a href="../players/player_625.html">James Love</a> to second
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<a href="../players/player_625.html">James Love</a> to third
+[%B]	Batting: RHB <a href="../players/player_682.html">Denzel Jackson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS)
+[%N]	<b><a href="../players/player_625.html">James Love</a> scores</b>
+[%B]	Pinch Hitting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 7th over -  1 run, 3 hits, 0 errors, 1 left on base; Nashville 3 - Utah 9
+[%T]	Bottom of the 7th -  Utah Railroaders batting - Pitching for Nashville Stars : LHP <a href="../players/player_90.html">Asipi Cantor</a>
+[%B]	Pitching: RHP <a href="../players/player_479.html">Bartolo Pizza</a>
+[%B]	Now in LF: <a href="../players/player_66.html">Keeks Marone</a>
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 8RXD)
+[%B]	Batting: SHB <a href="../players/player_451.html">Mountain Thunderfist</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_563.html">Anthony Bauer</a> to third
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RM)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 9LS)
+[%F]	Bottom of the 7th over -  1 run, 1 hit, 0 errors, 0 left on base; Nashville 3 - Utah 10
+[%T]	Top of the 8th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_491.html">Holden MaGroin</a>
+[%B]	Batting: RHB <a href="../players/player_628.html">Lightning Bolt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_499.html">Hisoka Ito</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Pinch Hitting: SHB <a href="../players/player_673.html">Andrew Green</a>
+[%N]	0-0:  Fly out, F4  (Flyball, 34D)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 3 - Utah 10
+[%T]	Bottom of the 8th -  Utah Railroaders batting - Pitching for Nashville Stars : RHP <a href="../players/player_479.html">Bartolo Pizza</a>
+[%B]	Now at 2B: <a href="../players/player_673.html">Andrew Green</a>
+[%B]	Now at 3B: <a href="../players/player_604.html">Gumbo Weaver</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_608.html">Joshua Brunson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 3 - Utah 10
+[%T]	Top of the 9th -  Nashville Stars batting - Pitching for Utah Railroaders : RHP <a href="../players/player_499.html">Hisoka Ito</a>
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_659.html">Daniel Evans</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 3 - Utah 10

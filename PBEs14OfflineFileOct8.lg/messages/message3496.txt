@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Left Field
+Check out who leads the Minor League PBE in total bases while playing Left Field!
+
+<Gumbo Weaver:player#604>, NSH, 		179
+<Juan Dong:player#484>, DAL, 		162
+<Lucas Gold:player#619>, DV, 		139
+<Harvey Brinkley:player#621>, ARM, 		117
+<Shinji Nakamura:player#641>, ANC, 		99

@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for extra base hits?
+
+<Julian O'Sullivan:player#246>, SAS, 		71, 2026
+<Vick Thunder:player#270>, SAS, 		66, 2027
+<Julian O'Sullivan:player#246>, SAS, 		64, 2020
+<Vick Thunder:player#270>, SAS, 		64, 2026
+<Jimmy Dong:player#15>, DV, 		64, 2029

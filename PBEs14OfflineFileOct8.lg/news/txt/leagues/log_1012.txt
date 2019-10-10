@@ -1,0 +1,409 @@
+[%T]	Top of the 1st -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Pitching: RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to second
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<a href="../players/player_524.html">Jonny Times II</a> to third
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 1st over -  1 run, 3 hits, 0 errors, 2 left on base; Vancouver 1 - Utah 0
+[%T]	Bottom of the 1st -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Pitching: RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89D)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 15S)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Groundball, 3L)
+[%N]	<b><a href="../players/player_392.html">Dorothy Morimura</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 8LD)
+[%F]	Bottom of the 1st over -  1 run, 2 hits, 0 errors, 1 left on base; Vancouver 1 - Utah 1
+[%T]	Top of the 2nd -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Line Drive, 4)
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0:  Fly out, F6  (Popup, P)
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Flyball, 9D)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 1 left on base; Vancouver 1 - Utah 1
+[%T]	Bottom of the 2nd -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 89D)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 1 - Utah 1
+[%T]	Top of the 3rd -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 34D)
+[%N]	<a href="../players/player_375.html">Hunter Harrison</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E1 (Groundball, 15S)
+[%N]	<b><a href="../players/player_375.html">Hunter Harrison</a> scores</b>
+[%N]	<a href="../players/player_407.html">Hendrix Lamar</a> to second
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F3  (Line Drive, 3)
+[%N]	Lined into DP, U3 (Line Drive, 3)
+[%F]	Top of the 3rd over -  1 run, 1 hit, 1 error, 1 left on base; Vancouver 2 - Utah 1
+[%T]	Bottom of the 3rd -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Batting: RHB <a href="../players/player_608.html">Joshua Brunson</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78S)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F2  (Popup, 25F)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_432.html">Alain Johns</a> steals 2nd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4D)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 1 left on base; Vancouver 2 - Utah 1
+[%T]	Top of the 4th -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Reached on error, E4 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13)
+[%N]	<a href="../players/player_437.html">Theodore Crunkleton</a> to third
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_437.html">Theodore Crunkleton</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_8.html">Godfrey Bowman</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Top of the 4th over -  1 run, 0 hits, 1 error, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 4th -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E2 (Groundball, 13S)
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F6  (Line Drive, 6)
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 1 error, 1 left on base; Vancouver 3 - Utah 1
+[%T]	Top of the 5th -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_529.html">Amp Dupree</a>
+[%B]	Pitching: LHP <a href="../players/player_542.html">Tae-min Cha</a>
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 5th -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_76.html">Greg Steiner</a>
+[%B]	Pitching: LHP <a href="../players/player_603.html">Austin Bentley</a>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_608.html">Joshua Brunson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4M)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_432.html">Alain Johns</a> steals 2nd base
+[%N]	1-0:  Fly out, F7  (Flyball, 7)
+[%F]	Bottom of the 5th over -  0 runs, 1 hit, 0 errors, 1 left on base; Vancouver 3 - Utah 1
+[%T]	Top of the 6th -  Vancouver Vandals batting - Pitching for Utah Railroaders : LHP <a href="../players/player_542.html">Tae-min Cha</a>
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 6th -  Utah Railroaders batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_603.html">Austin Bentley</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 7)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS)
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Vancouver 3 - Utah 1
+[%T]	Top of the 7th -  Vancouver Vandals batting - Pitching for Utah Railroaders : LHP <a href="../players/player_542.html">Tae-min Cha</a>
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_540.html">Gaelic Gladiator</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 78M)
+[%B]	Pitching: RHP <a href="../players/player_499.html">Hisoka Ito</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_620.html">Toby McMuffin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: SHB <a href="../players/player_524.html">Jonny Times II</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 7th -  Utah Railroaders batting - Pitching for Vancouver Vandals : LHP <a href="../players/player_603.html">Austin Bentley</a>
+[%B]	Pitching: RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Now in RF: <a href="../players/player_620.html">Toby McMuffin</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56S) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_608.html">Joshua Brunson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<a href="../players/player_472.html">Jake Grinz</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Pinch Hitting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 7th over -  0 runs, 2 hits, 0 errors, 2 left on base; Vancouver 3 - Utah 1
+[%T]	Top of the 8th -  Vancouver Vandals batting - Pitching for Utah Railroaders : RHP <a href="../players/player_499.html">Hisoka Ito</a>
+[%B]	Pitching: LHP <a href="../players/player_466.html">Colben Fairborn</a>
+[%B]	Now in LF: <a href="../players/player_563.html">Anthony Bauer</a>
+[%B]	Batting: LHB <a href="../players/player_375.html">Hunter Harrison</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_407.html">Hendrix Lamar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_364.html">Ulysses Rove</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 8th -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_505.html">Colby Kidd</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Pinch Hitting: RHB <a href="../players/player_719.html">Emerson Austin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Pitching: RHP <a href="../players/player_575.html">Hammie Iceman</a>
+[%B]	Batting: RHB <a href="../players/player_140.html">Orlando Jackson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Top of the 9th -  Vancouver Vandals batting - Pitching for Utah Railroaders : LHP <a href="../players/player_466.html">Colben Fairborn</a>
+[%B]	Now at 3B: <a href="../players/player_719.html">Emerson Austin</a>
+[%B]	Batting: SHB <a href="../players/player_65.html">Huki Hawaii</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_437.html">Theodore Crunkleton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Pitching: LHP <a href="../players/player_601.html">Mack Arian</a>
+[%B]	Batting: RHB <a href="../players/player_516.html">Chris King</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1
+[%T]	Bottom of the 9th -  Utah Railroaders batting - Pitching for Vancouver Vandals : RHP <a href="../players/player_575.html">Hammie Iceman</a>
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out U3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Vancouver 3 - Utah 1

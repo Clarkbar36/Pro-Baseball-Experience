@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Right Field
+Check out who leads the Minor League PBE in win probability added (WPA) while playing Right Field!
+
+<Buddy Cooper:player#562>, CUN, 		2.15
+<Revan Nawx:player#637>, PRO, 		0.76
+<Dandy Chiggins Jr.:player#543>, PRO, 		0.61
+<Jad McFearson:player#522>, OBX, 		-0.00
+<Theo Barton:player#649>, DAL, 		-0.13

@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career losses?
+
+<Randy Koufax:player#203>, -, 		105
+<Elston Sinclair:player#208>, NYV, 		96
+<Chaz LaLocke:player#223>, SAS, 		95
+<Tyler Oles:player#22>, CUN, 		93
+<Eijun Wozy:player#197>, -, 		91

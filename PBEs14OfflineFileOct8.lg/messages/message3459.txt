@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pro Baseball Experience in current hitting streak (games)?
+
+<William Hoge:player#576>, SAS, 		13
+<Smitty Springfield:player#512>, PRO, 		10
+<Jonny Times II:player#524>, VAN, 		10
+<Oliver Dieudonne:player#564>, OBX, 		9
+<Alex Selich:player#553>, NYV, 		9

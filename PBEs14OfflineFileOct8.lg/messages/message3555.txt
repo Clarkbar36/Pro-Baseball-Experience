@@ -1,0 +1,10 @@
+Weekly Team Power Rankings
+Here are the current team power rankings for Minor League PBE:
+
+Teams (Total Points, Tendency):
+1) <Dallas Dynamos:team#29> (109.9, +)
+2) <Kansas City Hepcats:team#28> (99.4, -)
+3) <Anchorage Wheelers:team#16> (97.4, +)
+4) <Kingston Mounties:team#17> (97.4, -)
+5) <State College Swift Steeds :team#18> (68.7, +)
+6) <Amarillo Armadillos:team#19> (67.1, -)

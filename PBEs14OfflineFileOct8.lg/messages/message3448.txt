@@ -1,0 +1,31 @@
+Best Defenders Announced by PBE
+What does it take to win a Gold Glove Award? It's a combination of good hands, knowing how to play the hitters, all-out hustle and a willingness to sacrifice your body to make a play. Good speed and a good arm never hurt either, but not always required. This year's all-defense team in the Pro Baseball Experience consists of:
+
+
+<Pitcher:value_bold#0>
+<Benton MacKaye Jr.:player#556> (<Providence Crabs:team#3>)
+
+<Catcher:value_bold#0>
+<Billy Benson:player#20> (<Outer Banks Aviators:team#2>)
+
+<First Baseman:value_bold#0>
+<Johnny Blaze:player#537> (<Outer Banks Aviators:team#2>)
+
+<Second Baseman:value_bold#0>
+<D.J. Steele:player#428> (<Cancun Toros:team#26>)
+
+<Third Baseman:value_bold#0>
+<Simon Hans:player#111> (<San Antonio Sloths:team#9>)
+
+<Shortstop:value_bold#0>
+<Patrick Kelley:player#377> (<San Antonio Sloths:team#9>)
+
+<Left Fielder:value_bold#0>
+<Sophia Bennett:player#258> (<Florida Space Rangers:team#24>)
+
+<Center Fielder:value_bold#0>
+<Jonny Times II:player#524> (<Vancouver Vandals:team#11>)
+
+<Right Fielder:value_bold#0>
+<Nate Piazza:player#14> (<Cancun Toros:team#26>)
+

@@ -1,0 +1,16 @@
+Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual Top 100 Prospects list. This year 17-year-old LHP <Rawk Hussell:player#683> of the <Cancun Toros:team#26> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Rawk Hussell:player#683>, 17, <Cancun Toros:team#26>
+2) 2B <Benjamin Hilmer:player#510>, 21, <Florida Space Rangers:team#24>
+3) LHP <Ioseb Besarionis dze Jughashvili:player#573>, 20, <Providence Crabs:team#3>
+4) LF <Anthony Bauer:player#563>, 20, <Utah Railroaders:team#25>
+5) 1B <Nic Wilson:player#555>, 20, <San Antonio Sloths:team#9>
+6) LHP <Yong-sun Pak:player#606>, 19, <Outer Banks Aviators:team#2>
+7) LHP <Virzeiros Balqen:player#611>, 24, <Death Valley Scorpions:team#10>
+8) 2B <James Love:player#625>, 18, <Nashville Stars:team#27>
+9) LHP <Mack Arian:player#601>, 23, <Utah Railroaders:team#25>
+10) 2B <Revan Nawx:player#637>, 24, <Providence Crabs:team#3>
+
+You can view the full list in the <Top Prospects Report:page#37> from the reports menu. The <Top Minor League Systems Report:page#38> has been updated as well.

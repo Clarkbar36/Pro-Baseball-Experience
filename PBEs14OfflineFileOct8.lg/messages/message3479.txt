@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for innings pitched?
+
+<Chaz LaLocke:player#223>, NYV, 		236, 2017
+<Ernesto Castillo:player#211>, SAS, 		232, 2017
+<Eijun Wozy:player#197>, PRO, 		226, 2017
+<Mendo Brazos:player#231>, OBX, 		219, 2017
+<Landon Hope:player#225>, DV, 		217, 2017

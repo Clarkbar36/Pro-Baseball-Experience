@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for shutouts?
+
+<Hayley MaConnell:player#401>, SCSS, 		2, 2025
+<Bnthony Aauer:player#298>, ARM, 		1, 2023
+<Harvey Bones:player#86>, ANC, 		1, 2022
+<Lazaro McInnis:player#307>, SCSS, 		1, 2021
+<Shea Stockton:player#222>, ANC, 		1, 2021

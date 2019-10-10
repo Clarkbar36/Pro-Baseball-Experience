@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pro Baseball Experience in isolated power (ISO)?
+
+<Johnny Blaze:player#537>, PRO, 		.207
+<Gaelic Gladiator:player#540>, VAN, 		.172
+<Chris King:player#516>, VAN, 		.164
+<William Hoge:player#576>, SAS, 		.162
+<Alex Selich:player#553>, NYV, 		.138

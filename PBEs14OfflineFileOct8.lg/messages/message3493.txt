@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for losses?
+
+<Caterpillar  -Sniffer-:player#104>, KGN, 		19, 2022
+<Peter Dawson:player#396>, KGN, 		18, 2025
+<Clint  -Barton-:player#297>, ARM, 		17, 2022
+<Randy Savage:player#486>, KGN, 		17, 2026
+<Ben -Janich-:player#40>, KGN, 		16, 2022

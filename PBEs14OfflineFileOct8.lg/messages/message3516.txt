@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Minor League PBE in career ERA?
+
+<Jax Hunter:player#70>, NSH, 		2.84
+<Twain  Teetoo:player#144>, SCSS, 		3.13
+<Anderson Pooper:player#16>, SAS, 		3.44
+<Throwing  Dude:player#3>, KGN, 		3.60
+<Alyssa Elliot:player#327>, NSH, 		3.81

@@ -1,0 +1,33 @@
+Best Defenders Announced by MiLPBE
+Minor League PBE hitters looked on in disbelief all season long as this group of defenders made stellar plays in the field.
+
+For being incredibly valuable on the defensive side of the game, the following players have been given the Great Glove Award  for 2029:
+
+
+<Pitcher:value_bold#0>
+<Benton MacKaye Jr.:player#556> (<Dallas Dynamos:team#29>)
+
+<Catcher:value_bold#0>
+<Randy  Drumbo:player#483> (<Anchorage Wheelers:team#16>)
+
+<First Baseman:value_bold#0>
+<Daniel Evans:player#659> (<Kansas City Hepcats:team#28>)
+
+<Second Baseman:value_bold#0>
+<Benjamin Hilmer:player#510> (<Anchorage Wheelers:team#16>)
+
+<Third Baseman:value_bold#0>
+<Bob Alpin:player#598> (<State College Swift Steeds :team#18>)
+
+<Shortstop:value_bold#0>
+<Desmond Andrews:player#579> (<Anchorage Wheelers:team#16>)
+
+<Left Fielder:value_bold#0>
+<Harvey Brinkley:player#621> (<Amarillo Armadillos:team#19>)
+
+<Center Fielder:value_bold#0>
+<Iam Fulmen:player#591> (<Kingston Mounties:team#17>)
+
+<Right Fielder:value_bold#0>
+<Buddy Cooper:player#562> (<State College Swift Steeds :team#18>)
+

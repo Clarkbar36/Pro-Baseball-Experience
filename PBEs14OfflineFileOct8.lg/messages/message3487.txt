@@ -1,0 +1,8 @@
+BNN Stats: Does Age Matter?
+Here is a list of the oldest players in the Minor League PBE...
+
+<Tyler Finch:player#452>, ANC,		39 years, 184 days
+<Troy Carpenter:player#634>, DAL,		36 years, 222 days
+<Videl San:player#616>, ARM,		35 years, 265 days
+<R.A. Johnston:player#531>, SCSS,		33 years, 322 days
+<Olle Sylvegaard:player#415>, ARM,		33 years, 199 days

@@ -1,0 +1,438 @@
+[%T]	Top of the 1st -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_538.html">Buster Nutt</a>
+[%B]	Pitching: RHP <a href="../players/player_538.html">Buster Nutt</a>
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_310.html">Speedy Boi</a> steals 2nd base
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_310.html">Speedy Boi</a> to third
+[%N]	<a href="../players/player_48.html">Paulo Di Stephano</a> to second
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_310.html">Speedy Boi</a> scores</b>
+[%N]	<a href="../players/player_48.html">Paulo Di Stephano</a> to third
+[%N]	<a href="../players/player_15.html">Jimmy Dong</a> to second
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_48.html">Paulo Di Stephano</a> scores</b>
+[%N]	<a href="../players/player_15.html">Jimmy Dong</a> to third
+[%N]	<a href="../players/player_349.html">Amp Bogart</a> to second
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6M) (infield hit)
+[%N]	<b><a href="../players/player_15.html">Jimmy Dong</a> scores</b>
+[%N]	<a href="../players/player_349.html">Amp Bogart</a> to third
+[%N]	<a href="../players/player_158.html">Catolo Kittone</a> to second
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD)
+[%N]	<b><a href="../players/player_349.html">Amp Bogart</a> scores</b>
+[%N]	<a href="../players/player_158.html">Catolo Kittone</a> to third
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: SHB <a href="../players/player_619.html">Lucas Gold</a>
+[%N]	0-0:  Fly out, F5  (Popup, 25F)
+[%B]	Batting: SHB <a href="../players/player_568.html">Zhang-Xuan Sim</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to third
+[%N]	<a href="../players/player_567.html">Michael David</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F5  (Popup, 5F)
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 1-3 (Groundball, 34S)
+[%F]	Top of the 1st over -  6 runs, 4 hits, 0 errors, 2 left on base; Death Valley 6 - Florida 0
+[%T]	Bottom of the 1st -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Pitching: RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD)
+[%F]	Bottom of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 0
+[%T]	Top of the 2nd -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_538.html">Buster Nutt</a>
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 0
+[%T]	Bottom of the 2nd -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4S) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Grounds into double play, 3-6-3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; Death Valley 6 - Florida 0
+[%T]	Top of the 3rd -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_538.html">Buster Nutt</a>
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: SHB <a href="../players/player_619.html">Lucas Gold</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to second
+[%B]	Batting: SHB <a href="../players/player_568.html">Zhang-Xuan Sim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to third
+[%N]	<a href="../players/player_619.html">Lucas Gold</a> to second
+[%B]	Batting: LHB <a href="../players/player_310.html">Speedy Boi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_48.html">Paulo Di Stephano</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6MS)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 3 left on base; Death Valley 6 - Florida 0
+[%T]	Bottom of the 3rd -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM)
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56)
+[%F]	Bottom of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 0
+[%T]	Top of the 4th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: LHB <a href="../players/player_15.html">Jimmy Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: LHB <a href="../players/player_158.html">Catolo Kittone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 1 left on base; Death Valley 6 - Florida 0
+[%T]	Bottom of the 4th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  1 run, 2 hits, 0 errors, 1 left on base; Death Valley 6 - Florida 1
+[%T]	Top of the 5th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: RHB <a href="../players/player_567.html">Michael David</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 34)
+[%B]	Batting: SHB <a href="../players/player_619.html">Lucas Gold</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: SHB <a href="../players/player_568.html">Zhang-Xuan Sim</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S)
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 1
+[%T]	Bottom of the 5th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_526.html">Henry Chadwick</a>
+[%B]	Pitching: RHP <a href="../players/player_712.html">Shayne Greene</a>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4)
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 1
+[%T]	Top of the 6th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_713.html">Archer McCoy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out  looking
+[%B]	Pitching: RHP <a href="../players/player_695.html">Drew Buckley</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_714.html">Dallas Houston</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%B]	Pinch Hitting: LHB <a href="../players/player_81.html">Eduardo Dinero</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 1
+[%T]	Bottom of the 6th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_712.html">Shayne Greene</a>
+[%B]	Now at 1B: <a href="../players/player_714.html">Dallas Houston</a>
+[%B]	Now at 2B: <a href="../players/player_81.html">Eduardo Dinero</a>
+[%B]	Now in CF: <a href="../players/player_713.html">Archer McCoy</a>
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 370 ft
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%F]	Bottom of the 6th over -  1 run, 1 hit, 0 errors, 0 left on base; Death Valley 6 - Florida 2
+[%T]	Top of the 7th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_695.html">Drew Buckley</a>
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4MS)
+[%B]	Pinch Hitting: LHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_405.html">Firstname Lastname</a> to second
+[%B]	Batting: RHB <a href="../players/player_711.html">Casey Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_405.html">Firstname Lastname</a> to third
+[%N]	<a href="../players/player_239.html">Min-joon Do</a> to second
+[%B]	Pitching: LHP <a href="../players/player_697.html">Domingo Pozo</a>
+[%B]	Batting: SHB <a href="../players/player_619.html">Lucas Gold</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_568.html">Zhang-Xuan Sim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 3 left on base; Death Valley 6 - Florida 2
+[%T]	Bottom of the 7th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_712.html">Shayne Greene</a>
+[%B]	Now at 3B: <a href="../players/player_405.html">Firstname Lastname</a>
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89D)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_534.html">Thomas Delabar</a>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S)
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to second
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to third
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F9  (Line Drive, 9)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 2 left on base; Death Valley 6 - Florida 2
+[%T]	Top of the 8th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : LHP <a href="../players/player_697.html">Domingo Pozo</a>
+[%B]	Batting: LHB <a href="../players/player_713.html">Archer McCoy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_714.html">Dallas Houston</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: LHB <a href="../players/player_81.html">Eduardo Dinero</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 2
+[%T]	Bottom of the 8th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_534.html">Thomas Delabar</a>
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Pinch Hitting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Death Valley 6 - Florida 2
+[%T]	Top of the 9th -  Death Valley Scorpions batting - Pitching for Florida Space Rangers : LHP <a href="../players/player_697.html">Domingo Pozo</a>
+[%B]	Now at 1B: <a href="../players/player_149.html">George McBash</a>
+[%B]	Batting: RHB <a href="../players/player_349.html">Amp Bogart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: LHB <a href="../players/player_405.html">Firstname Lastname</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: LHB <a href="../players/player_239.html">Min-joon Do</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8LXD)
+[%B]	Pitching: LHP <a href="../players/player_546.html">Cyrus Newton</a>
+[%B]	Batting: RHB <a href="../players/player_711.html">Casey Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56)
+[%F]	Top of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Death Valley 6 - Florida 2
+[%T]	Bottom of the 9th -  Florida Space Rangers batting - Pitching for Death Valley Scorpions : RHP <a href="../players/player_534.html">Thomas Delabar</a>
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_577.html">Pepper Morgan</a>
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to second
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to third
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<b><a href="../players/player_29.html">Weldon Borthwell</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 9LS)
+[%F]	Bottom of the 9th over -  1 run, 1 hit, 0 errors, 1 left on base; Death Valley 6 - Florida 3

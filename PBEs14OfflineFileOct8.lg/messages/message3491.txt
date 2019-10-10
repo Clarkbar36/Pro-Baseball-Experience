@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Minor League PBE in batting AVG on the first pitch.
+
+<Anthony Bauer:player#563>, UTA, 		.448
+<Wade Freeman:player#646>, CUN, 		.446
+<Revan Nawx:player#637>, PRO, 		.444
+<Kenga Yunai:player#440>, KC, 		.435
+<Mork Spaghettelli:player#439>, SCSS, 		.429

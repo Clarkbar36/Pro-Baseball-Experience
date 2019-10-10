@@ -1,0 +1,8 @@
+PBE News: Opening Day
+It is Opening Day in Pro Baseball Experience! Our hardball heroes are back in town for another fresh season of baseball. It is a time of joy and optimism, a time to get away from the world for three hours, enjoy a few hot dogs, hamburgers and soda pops, holler at the umpires and cheer our favorite teams to victory. Highlighting today's schedule are these games:
+
+<New York Voyagers:team#1> @ <Florida Space Rangers:team#24>
+<Providence Crabs:team#3> @ <Outer Banks Aviators:team#2>
+<Nashville Stars:team#27> @ <Cancun Toros:team#26>
+<Utah Railroaders:team#25> @ <San Antonio Sloths:team#9>
+<Death Valley Scorpions:team#10> @ <Vancouver Vandals:team#11>

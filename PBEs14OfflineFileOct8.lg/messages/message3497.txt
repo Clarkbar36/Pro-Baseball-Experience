@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in current hitting streak (games)?
+
+<Eric Tsai:player#410>, PRO, 		26
+<Louis  Storm :player#146>, NYV, 		25
+<Dongus Dio:player#73>, -, 		24
+<Sidney Swing:player#312>, CUN, 		23
+<George  -Jetson-:player#287>, -, 		21

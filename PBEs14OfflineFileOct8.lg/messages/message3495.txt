@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Minor League PBE in career strikeouts?
+
+<Yosei Koshida:player#389>, ARM, 		359
+<Tiddlywink McTicklestick:player#309>, KGN, 		344
+<Tony Pisano:player#328>, PRO, 		298
+<Throwing  Man:player#1>, KGN, 		292
+<Jerry Parker:player#493>, KC, 		286

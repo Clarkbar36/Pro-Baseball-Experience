@@ -1,0 +1,8 @@
+BNN Stats: Career Pitching Leaders
+Which pitchers are leading the Pro Baseball Experience in career strikeouts per 9 innings?
+
+<John Smoltz Jr.:player#219>, -, 		11.6
+<D'Aroldis Borkman:player#62>, FL, 		11.2
+<Penny Kowers:player#174>, VAN, 		10.7
+<Sebastian Musgrave-Smythe:player#192>, FL, 		10.2
+<Hannu Karpotsev:player#213>, -, 		9.8

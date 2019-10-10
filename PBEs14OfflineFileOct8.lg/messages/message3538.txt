@@ -1,0 +1,10 @@
+MaConnell Silences Nashville
+<Vancouver:team#11> hurler <Hayley MaConnell:player#401> put on quite a show today as he blitzed the <Nashville Stars:team#27> with a 3-0 shutout. He baffled them with fastballs and changeups, allowing 1 hit with 12 strikeouts and no walks to pick up the win.
+
+"I think every time we were looking for a fastball, he threw a changeup and every time we were looking for a changeup, he threw a fastball," Nashville manager   told reporters after the game.
+
+This year <MaConnell:player#401> has worked 35 innings with 41 strikeouts en route to a 2-1 record and 1.54 ERA.
+
+<View Boxscore:box#92>
+<View Game Log:log#92>
+<Watch Highlights:highlight#92>

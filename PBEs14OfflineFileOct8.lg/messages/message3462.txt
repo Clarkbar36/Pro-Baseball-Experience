@@ -1,0 +1,8 @@
+BNN Stats: Reliever Split Stats Leaders
+Today we look at the top 5 relievers leading the Minor League PBE in ERA on the road.
+
+<Austin Bentley:player#603>, VAN, 		1.67
+<Richard Johnsson:player#580>, OBX, 		1.71
+<Ryan Rose:player#617>, KC, 		2.15
+<Throwing  Dude:player#3>, KGN, 		2.17
+<Erik Carpenter:player#587>, SCSS, 		2.39

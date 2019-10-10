@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in wins above replacement (WAR)?
+
+<Buddy Cooper:player#562>, CUN, 		4.6
+<Desmond Andrews:player#579>, NYV, 		4.0
+<Nic Wilson:player#555>, ARM, 		3.9
+<Randy  Drumbo:player#483>, ANC, 		3.8
+<James Love:player#625>, NSH, 		3.5

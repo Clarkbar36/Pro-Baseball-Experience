@@ -1,0 +1,42 @@
+Silver Slugger Award Winners Named for the PBE
+They were the standout hitters at their respective positions all season and now they've got the hardware to prove it.
+
+The Pro Baseball Experience Silver Slugger Award for 2029 has been given to the following players:
+
+
+<Catcher:value_bold#0>
+<Billy Benson:player#20> (<Outer Banks Aviators:team#2>)
+.336/.406/.602, 405 AB, 21 HR, 22 SB, 171 wRC+, 6.7 WAR
+
+<First Baseman:value_bold#0>
+<Ziggy Coffey:player#119> (<Death Valley Scorpions:team#10>)
+.271/.359/.417, 362 AB, 10 HR, 39 SB, 113 wRC+, 2.0 WAR
+
+<Second Baseman:value_bold#0>
+<Roger Baton:player#121> (<San Antonio Sloths:team#9>)
+.278/.342/.497, 378 AB, 18 HR, 122 wRC+, 2.5 WAR
+
+<Third Baseman:value_bold#0>
+<Weldon Borthwell:player#29> (<New York Voyagers:team#1>)
+.316/.418/.521, 380 AB, 23 HR, 158 wRC+, 4.7 WAR
+
+<Shortstop:value_bold#0>
+<Paulo Di Stephano:player#48> (<Death Valley Scorpions:team#10>)
+.324/.438/.634, 383 AB, 27 HR, 101 RBI, 7.3 WAR
+
+<Left Fielder:value_bold#0>
+<Jordan von Matt:player#137> (<Outer Banks Aviators:team#2>)
+.286/.374/.617, 381 AB, 31 HR, 160 wRC+, 3.9 WAR
+
+<Center Fielder:value_bold#0>
+<Jimmy Dong:player#15> (<Death Valley Scorpions:team#10>)
+.331/.460/.617, 363 AB, 17 HR, 4 SB, 187 wRC+, 7.1 WAR
+
+<Right Fielder:value_bold#0>
+<Ozamataz Buckshank:player#185> (<Death Valley Scorpions:team#10>)
+.283/.359/.494, 403 AB, 20 HR, 2 SB, 131 wRC+, 3.3 WAR
+
+<Designated Hitter:value_bold#0>
+<Jake Stennett:player#87> (<Florida Space Rangers:team#24>)
+.352/.436/.583, 403 AB, 12 HR, 177 wRC+, 4.9 WAR
+

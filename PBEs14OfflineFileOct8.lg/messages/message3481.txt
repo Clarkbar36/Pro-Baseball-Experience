@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Pro Baseball Experience in home runs during innings 1-3.
+
+<Paulo Di Stephano:player#48>, DV, 		16
+<Connor MacDonald:player#255>, CUN, 		14
+<Julian O'Sullivan:player#246>, SAS, 		12
+<Simon Hans:player#111>, SAS, 		10
+<Bryan Barnes:player#482>, UTA, 		9

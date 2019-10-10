@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for saves?
+
+<Alexander Ovechkin:player#195>, SAS, 		33, 2019
+<Hannu Karpotsev:player#213>, OBX, 		26, 2017
+<Hannu Karpotsev:player#213>, OBX, 		24, 2025
+<Penny Kowers:player#174>, NYV, 		23, 2019
+<Alexander Ovechkin:player#195>, VAN, 		23, 2017

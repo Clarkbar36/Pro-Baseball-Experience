@@ -1,0 +1,8 @@
+DeRani Has Hot Hand, Bangs 5 hits
+<State College:team#18> defeated <Kansas City:team#28> today at Charlie Parker Memorial Stadium. The star of the game for the Swift Steeds  was catcher <Pipo DeRani:player#520>. His hitting heroics included a 5-for-6 day, paving the way for State College's 8-5 triumph over the Hepcats. <Pipo DeRani:player#520> flied out in the 2nd, singled in the 5th, doubled in the 7th, singled in the 9th, hit an RBI single in the 10th and hit an RBI double in the 12th.
+
+
+
+<View Boxscore:box#312>
+<View Game Log:log#312>
+<Watch Highlights:highlight#312>

@@ -1,0 +1,40 @@
+Top Sluggers Win MiLPBE Platinum Stick Award Honors
+The winners of the Minor League PBE Platinum Stick Award have shown themselves as premier offensive performers at their position. The winners for 2029 are:
+
+
+<Catcher:value_bold#0>
+<Randy  Drumbo:player#483> (<Anchorage Wheelers:team#16>)
+.316/.396/.460, 383 AB, 14 HR, 2 SB, 130 wRC+, 3.8 WAR
+
+<First Baseman:value_bold#0>
+<Nic Wilson:player#555> (<Amarillo Armadillos:team#19>)
+.335/.410/.527, 400 AB, 21 HR, 1 SB, 151 wRC+, 3.9 WAR
+
+<Second Baseman:value_bold#0>
+<James Love:player#625> (<State College Swift Steeds :team#18>)
+.323/.393/.532, 387 AB, 19 HR, 143 wRC+, 3.5 WAR
+
+<Third Baseman:value_bold#0>
+<Joshua Brunson:player#608> (<Kansas City Hepcats:team#28>)
+.295/.359/.485, 390 AB, 16 HR, 120 wRC+, 2.3 WAR
+
+<Shortstop:value_bold#0>
+<Desmond Andrews:player#579> (<Anchorage Wheelers:team#16>)
+.325/.385/.400, 428 AB, 7 HR, 68 SB, 110 wRC+, 4.0 WAR
+
+<Left Fielder:value_bold#0>
+<Gumbo Weaver:player#604> (<State College Swift Steeds :team#18>)
+.316/.380/.480, 373 AB, 14 HR, 128 wRC+, 2.7 WAR
+
+<Center Fielder:value_bold#0>
+<Shea Kittoff:player#610> (<State College Swift Steeds :team#18>)
+.273/.339/.419, 406 AB, 18 HR, 99 wRC+, 2.6 WAR
+
+<Right Fielder:value_bold#0>
+<Buddy Cooper:player#562> (<State College Swift Steeds :team#18>)
+.332/.413/.498, 404 AB, 17 HR, 143 wRC+, 4.6 WAR
+
+<Designated Hitter:value_bold#0>
+<Ben Beck:player#450> (<Anchorage Wheelers:team#16>)
+.321/.393/.566, 212 AB, 14 HR, 2 SB, 152 wRC+, 1.8 WAR
+

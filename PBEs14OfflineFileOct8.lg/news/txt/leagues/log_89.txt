@@ -1,0 +1,470 @@
+[%T]	Top of the 1st -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Pitching: LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> is caught stealing 2nd base 2-4
+[%N]	Batter strikes out.
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out U3 (Groundball, 3S)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Providence 0
+[%T]	Bottom of the 1st -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Pitching: RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_512.html">Smitty Springfield</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_512.html">Smitty Springfield</a> scores</b>
+[%N]	<a href="../players/player_409.html">Kyle Bellinger</a> to second
+[%N]	2-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 1 left on base; Florida 0 - Providence 1
+[%T]	Top of the 2nd -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD), Distance : 359 ft
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F3  (Line Drive, 3)
+[%F]	Top of the 2nd over -  1 run, 2 hits, 0 errors, 1 left on base; Florida 1 - Providence 1
+[%T]	Bottom of the 2nd -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by CF
+[%B]	Batting: RHB <a href="../players/player_637.html">Revan Nawx</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9S)
+[%N]	<b><a href="../players/player_543.html">Dandy Chiggins Jr.</a> scores</b>
+[%N]	<a href="../players/player_346.html">Dexter Paquette</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Fielders Choice at 2nd, 3-6 (Groundball, 34)
+[%N]	<b><a href="../players/player_346.html">Dexter Paquette</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_512.html">Smitty Springfield</a> to second
+[%N]	<a href="../players/player_512.html">Smitty Springfield</a> to third
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%F]	Bottom of the 2nd over -  2 runs, 3 hits, 0 errors, 2 left on base; Florida 1 - Providence 3
+[%T]	Top of the 3rd -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_536.html">Jackson Krowley</a> to second
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_536.html">Jackson Krowley</a> to third
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to second
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 89XD)
+[%N]	<b><a href="../players/player_449.html">Steve Gonzales</a> scores</b>
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to third
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<b><a href="../players/player_29.html">Weldon Borthwell</a> scores</b>
+[%N]	<a href="../players/player_149.html">George McBash</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_244.html">Johnny Runakiwi</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 89D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw by CF
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F3  (Popup, 3)
+[%F]	Top of the 3rd over -  4 runs, 5 hits, 0 errors, 1 left on base; Florida 5 - Providence 3
+[%T]	Bottom of the 3rd -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 3-1 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Flyball, 8LS)
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F6  (Popup, 4MS)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Florida 5 - Providence 3
+[%T]	Top of the 4th -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78M)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Fielders Choice at 2nd, 2-4 (Groundball, 15S)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> is caught stealing 2nd base 2-4
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Florida 5 - Providence 3
+[%T]	Bottom of the 4th -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+[%N]	0-0: Ground out U3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_637.html">Revan Nawx</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 5 - Providence 3
+[%T]	Top of the 5th -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 5)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 0 left on base; Florida 5 - Providence 3
+[%T]	Bottom of the 5th -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 5 - Providence 3
+[%T]	Top of the 6th -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_548.html">Shauer Handel IV</a>
+[%B]	Pitching: LHP <a href="../players/player_503.html">Kosei Yoshida</a>
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 56D)
+[%N]	<a href="../players/player_268.html">Kevin Biggio</a> to second
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 6th over -  0 runs, 2 hits, 0 errors, 2 left on base; Florida 5 - Providence 3
+[%T]	Bottom of the 6th -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_399.html">J.A. Jabs</a>
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out U3 (Groundball, 3)
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Pitching: LHP <a href="../players/player_546.html">Cyrus Newton</a>
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_537.html">Johnny Blaze</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by CF
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_537.html">Johnny Blaze</a> scores</b>
+[%N]	<a href="../players/player_543.html">Dandy Chiggins Jr.</a> to second
+[%B]	Batting: RHB <a href="../players/player_637.html">Revan Nawx</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F3  (Line Drive, 3)
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%F]	Bottom of the 6th over -  1 run, 3 hits, 0 errors, 2 left on base; Florida 5 - Providence 4
+[%T]	Top of the 7th -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_503.html">Kosei Yoshida</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Pitching: RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6S)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 1 left on base; Florida 5 - Providence 4
+[%T]	Bottom of the 7th -  Providence Crabs batting - Pitching for Florida Space Rangers : LHP <a href="../players/player_546.html">Cyrus Newton</a>
+[%B]	Pitching: LHP <a href="../players/player_43.html">Trent Boult</a>
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out U3 (Groundball, 34)
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6M)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 5 - Providence 4
+[%T]	Top of the 8th -  Florida Space Rangers batting - Pitching for Providence Crabs : RHP <a href="../players/player_334.html">Michael Lang</a>
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 89M)
+[%N]	<a href="../players/player_244.html">Johnny Runakiwi</a> to second
+[%B]	Pitching: LHP <a href="../players/player_333.html">Kosuke Yamauchi</a>
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89M)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6MD)
+[%N]	<a href="../players/player_244.html">Johnny Runakiwi</a> to third
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 78M)
+[%F]	Top of the 8th over -  0 runs, 2 hits, 0 errors, 2 left on base; Florida 5 - Providence 4
+[%T]	Bottom of the 8th -  Providence Crabs batting - Pitching for Florida Space Rangers : LHP <a href="../players/player_43.html">Trent Boult</a>
+[%B]	Batting: SHB <a href="../players/player_492.html">Archer Fisch</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS)
+[%B]	Pitching: RHP <a href="../players/player_192.html">Sebastian Musgrave-Smythe</a>
+[%B]	Batting: LHB <a href="../players/player_537.html">Johnny Blaze</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LM)
+[%B]	Batting: SHB <a href="../players/player_543.html">Dandy Chiggins Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89M)
+[%B]	Batting: RHB <a href="../players/player_346.html">Dexter Paquette</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F4  (Line Drive, 4)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 1 left on base; Florida 5 - Providence 4
+[%T]	Top of the 9th -  Florida Space Rangers batting - Pitching for Providence Crabs : LHP <a href="../players/player_333.html">Kosuke Yamauchi</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to second
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 6D)
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to third
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to second
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Grounds into fielders choice 5-2 (Groundball, 56S)
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to third
+[%N]	<a href="../players/player_379.html">John DeMars</a> to second
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_29.html">Weldon Borthwell</a> scores</b>
+[%N]	<a href="../players/player_379.html">John DeMars</a> to third
+[%N]	<a href="../players/player_149.html">George McBash</a> to second
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S)
+[%F]	Top of the 9th over -  1 run, 2 hits, 0 errors, 2 left on base; Florida 6 - Providence 4
+[%T]	Bottom of the 9th -  Providence Crabs batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_192.html">Sebastian Musgrave-Smythe</a>
+[%B]	Batting: RHB <a href="../players/player_637.html">Revan Nawx</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Batting: SHB <a href="../players/player_512.html">Smitty Springfield</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F3  (Popup, 34S)
+[%B]	Batting: SHB <a href="../players/player_409.html">Kyle Bellinger</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS)
+[%N]	<a href="../players/player_637.html">Revan Nawx</a> to second
+[%B]	Batting: RHB <a href="../players/player_418.html">Richard Small</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9)
+[%B]	Batting: RHB <a href="../players/player_478.html">Manto Rune</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 8LXD)
+[%F]	Bottom of the 9th over -  0 runs, 2 hits, 0 errors, 2 left on base; Florida 6 - Providence 4

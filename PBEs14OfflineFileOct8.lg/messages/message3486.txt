@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pro Baseball Experience in bases on balls?
+
+<Jonny Times II:player#524>, VAN, 		31
+<Chris King:player#516>, VAN, 		28
+<Johnny Blaze:player#537>, PRO, 		27
+<Joeman Johnston V:player#541>, NYV, 		27
+<Alex Machado:player#596>, NSH, 		26

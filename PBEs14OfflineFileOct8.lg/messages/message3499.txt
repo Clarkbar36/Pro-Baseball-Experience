@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in wins above replacement (WAR)?
+
+<Yong-sun Pak:player#606>, OBX, 		3.8
+<Dude Manbro:player#668>, SCSS, 		3.0
+<Bill Bisquick:player#622>, KGN, 		2.8
+<Andy Spruce:player#600>, CUN, 		2.8
+<Calloway Flowers:player#595>, ARM, 		2.1

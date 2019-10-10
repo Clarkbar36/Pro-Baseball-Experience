@@ -41,8 +41,8 @@ all.time.hitter.leaderboard <- function(p,x,y,z){
   }
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
   if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts','GDP')){
-    mean_pa <- round(mean(hit.plt.df$`Plate Apperances`),0)
-    hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Apperances`>=mean_pa)
+    first_quartile_pa <- round(unname(quantile(hit.plt.df$`Plate Appearances`, .05)),0)
+    hit.plt.df <- subset(hit.plt.df,hit.plt.df$`Plate Appearances`>=first_quartile_pa)
   } else {
     hit.plt.df <- hit.plt.df
   }
@@ -107,8 +107,8 @@ s.hitter.leaderboard <- function(p,w,x,y,z){
   
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
   if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts','GDP')){
-    mean_pa <- round(mean(s.hit.plt.df$`Plate Apperances`),0)
-    s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Apperances`>=mean_pa)
+    first_quartile_pa <- round(unname(quantile(s.hit.plt.df$`Plate Appearances`, .05)),0)
+    s.hit.plt.df <- subset(s.hit.plt.df,s.hit.plt.df$`Plate Appearances`>=first_quartile_pa)
   } else {
     s.hit.plt.df <- s.hit.plt.df
   }
@@ -171,8 +171,8 @@ all.time.pitcher.leaderboard <- function(p,x,y,z){
   
   # if PBE subset dataframe by Innings Pitched greater than or equal to 400, if MiLPBE subset by IP greater than or equal to 160
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
-    mean_ip <- round(mean(pitch.plt.df$`Innings Pitched`),0)
-    pitch.plt.df <- subset(pitch.plt.df,pitch.plt.df$`Innings Pitched`>=mean_ip)
+    first_quartile_ip <- round(unname(quantile(pitch.plt.df$`Innings Pitched`,.05)),0)
+    pitch.plt.df <- subset(pitch.plt.df,pitch.plt.df$`Innings Pitched`>=first_quartile_ip)
   } else {
     pitch.plt.df <- pitch.plt.df
   }
@@ -234,8 +234,8 @@ s.pitcher.leaderboard <- function(p,w,x,y,z){
   }
   # if PBE subset dataframe by plate appearances greater than or equal to 760, if MiLPBE subset by PA greater than or equal to 470
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Hits Allowed','Homeruns Allowed','Runs Allowed')){
-    mean_ip <- round(mean(s.pitch.plt.df$`Innings Pitched`),0)
-    s.pitch.plt.df <- subset(s.pitch.plt.df,s.pitch.plt.df$`Innings Pitched`>=mean_ip)
+    first_quartile_ip <- round(unname(quantile(s.pitch.plt.df$`Innings Pitched`,.05)),0)
+    s.pitch.plt.df <- subset(s.pitch.plt.df,s.pitch.plt.df$`Innings Pitched`>=first_quartile_ip)
   } else {
     s.pitch.plt.df <- s.pitch.plt.df
   }
@@ -364,6 +364,7 @@ WAB.tbl <- function(l,s){
   colnames(tbl.ds)[colnames(tbl.ds) == 'ttl_hits'] <-'Total Hits'
   colnames(tbl.ds)[colnames(tbl.ds) == 'pythag_record'] <-'Pythag Record'
   colnames(tbl.ds)[colnames(tbl.ds) == 'League.Standing'] <-'League Standing'
+  colnames(tbl.ds)[colnames(tbl.ds) == 'Division.Standing'] <-'Division Standing'
   tbl.ds <- tbl.ds [c(1,9,10,6,5,7,3,4,8)]
   tbl.ds <- tbl.ds[order(tbl.ds$`League Standing`),]
   tbl.ds
@@ -390,7 +391,7 @@ records.plot <- function(t){
     ggtitle("Wins by Season", subtitle = paste(unique(pl.records$team_name),"-",unique(pl.records$league_abbr))) +
     theme(plot.title = element_text(hjust = 0.5), plot.subtitle = element_text(hjust = .5)) +
     ylab("Wins") + xlab("Year") +
-    scale_x_continuous(breaks=seq(from = 2017,to = 2029,by = 1)) +
+    scale_x_continuous(breaks=seq(from = 2017,to = 2030,by = 1)) +
     geom_text(x=mean(pl.records$year), y=mean(pl.records$Lg_Average_Wins), label=paste("League Aveage Wins -",unique(pl.records$Lg_Average_Wins)), vjust = -.5, size = 5) +
     geom_line(aes(x=year,y=Lg_Average_Wins),linetype = "longdash") +
     theme_bw()
@@ -440,8 +441,8 @@ all.hit.scatter <- function(l,p,x,y){
   }
   
   if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
-    mean_pa <- round(mean(c.pl.scatter$`Plate Apperances`),0)
-    c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Apperances`>=mean_pa)
+    first_quartile_pa <- round(unname(quantile(c.pl.scatter$`Plate Appearances`, .05)),0)
+    c.pl.scatter <- subset(c.pl.scatter,c.pl.scatter$`Plate Appearances`>=first_quartile_pa)
   } else {
     c.pl.scatter <- c.pl.scatter
   } 
@@ -486,8 +487,8 @@ s.hit.scatter <- function(z,l,p,x,y){
   }
   
   if(x %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') | y %in% c('Average','OBP','SLG','OPS','ISO','BABIP','K Percent','BB Percent','K-BB Percent','Strikeouts') ){
-    mean_pa <- round(mean(s.pl.scatter$`Plate Apperances`),0)
-    s.pl.scatter <- subset(s.pl.scatter,s.pl.scatter$`Plate Apperances`>=mean_pa)
+    first_quartile_pa <- round(unname(quantile(s.pl.scatter$`Plate Appearances`, .05)),0)
+    s.pl.scatter <- subset(s.pl.scatter,s.pl.scatter$`Plate Appearances`>=first_quartile_pa)
   } else {
     s.pl.scatter <- s.pl.scatter
   } 
@@ -531,8 +532,8 @@ all.pitch.scatter <- function(l,p,x,y){
   }
   
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent') | y %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
-    mean_ip <- round(mean(c.p.pl.scatter$`Innings Pitched`),0)
-    c.p.pl.scatter <- subset(c.p.pl.scatter,c.p.pl.scatter$`Innings Pitched`>=mean_ip)
+    first_quartile_ip <- round(unname(quantile(c.p.pl.scatter$`Innings Pitched`,.05)),0)
+    c.p.pl.scatter <- subset(c.p.pl.scatter,c.p.pl.scatter$`Innings Pitched`>=first_quartile_ip)
   } else {
     c.p.pl.scatter<- c.p.pl.scatter
   }
@@ -575,8 +576,8 @@ s.pitch.scatter <- function(z,l,p,x,y){
   }
   
   if(x %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent') | y %in% c('ERA', 'WHIP','BABIP','FIP','HR per 9','R per 9','Hits per 9','BB per 9','BB percent', 'Win Percent','K percent', 'K-BB percent')){
-    mean_ip <- round(mean(s.p.pl.scatter$`Innings Pitched`),0)
-    s.p.pl.scatter <- subset(s.p.pl.scatter,s.p.pl.scatter$`Innings Pitched`>=mean_ip)
+    first_quartile_ip <- round(unname(quantile(s.p.pl.scatter$`Innings Pitched`,.05)),0)
+    s.p.pl.scatter <- subset(s.p.pl.scatter,s.p.pl.scatter$`Innings Pitched`>=first_quartile_ip)
   } else {
     s.p.pl.scatter<- s.p.pl.scatter
   }
@@ -647,7 +648,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE'))
             ),
             column(width = 6,
-                   selectInput('dssn', 'Season', ssn,selectize=FALSE, selected = 2029)
+                   selectInput('dssn', 'Season', ssn,selectize=FALSE, selected = 2030)
                    ),
             fluidRow(
               column(width = 6,plotOutput("wins_AB")),
@@ -699,7 +700,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE')),
                      sliderInput("year",
                                  "Season",
-                                 min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
+                                 min = 2017, max = 2030, step = 1,value = 2030,sep = "")),
               column(width = 6,
                      selectInput("pos",
                                  "Position:",
@@ -761,7 +762,7 @@ body <- dashboardBody(
                                  c('PBE','MiLPBE')),
                      sliderInput("pyear",
                                  "Season",
-                                 min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
+                                 min = 2017, max = 2030, step = 1,value = 2030,sep = "")),
               column(width = 3,
                     selectInput("spos",
                                 "Position:",
@@ -816,7 +817,7 @@ body <- dashboardBody(
                    selectInput('hxsct', 'X-Axis Statistic', c(Choose='WAR',c.all.h.cnames), selectize=FALSE),
                    sliderInput("plyear",
                                "Season",
-                               min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
+                               min = 2017, max = 2030, step = 1,value = 2030,sep = "")),
             column(width = 4,
                    selectInput("hpos",
                                "Position:",
@@ -840,7 +841,7 @@ body <- dashboardBody(
                    selectInput('pxsct', 'X-Axis Statistic', c(Choose='Strikeouts',c.all.p.cnames), selectize=FALSE),
                    sliderInput("plpyear",
                                "Season",
-                               min = 2017, max = 2029, step = 1,value = 2029,sep = "")),
+                               min = 2017, max = 2030, step = 1,value = 2030,sep = "")),
             column(width = 4,
                    selectInput("ppos",
                                "Position:",
