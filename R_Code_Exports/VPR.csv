@@ -1,0 +1,66 @@
+"Name","Team","Team Abbr","League","Games Started","Innings per Start","Excellent Starts","Neutral Starts","Poor Starts","VPR","Volatility %","WAR"
+"Jose Forty-Three","Anchorage Wheelers","ANC","MiLPBE",8,5.5,4,3,1,4,0.62,0.6227
+"Christopher Charlie","Dallas Dynamos","DAL","MiLPBE",8,4.62,2,5,1,2,0.38,0.7237
+"Silas Young","Amarillo Armadillos","ARM","MiLPBE",11,5.64,3,6,2,1.5,0.45,1.1422
+"Scammy Sosa","Kansas City Hepcats","KC","MiLPBE",8,5.5,4,1,3,1.33,0.88,1.3465
+"Elton Chambers","State College Swift Steeds ","SCSS","MiLPBE",8,5.5,4,0,4,1,1,0.9138
+"Alf Sorenson","State College Swift Steeds ","SCSS","MiLPBE",2,5.5,1,0,1,1,1,0.1506
+"Jack Komnenos","State College Swift Steeds ","SCSS","MiLPBE",8,5.5,3,2,3,1,0.75,0.9504
+"Dude Manbro","State College Swift Steeds ","SCSS","MiLPBE",8,6.88,2,4,2,1,0.5,0.2542
+"Drew Buckley","Kingston Mounties","KGN","MiLPBE",10,5.1,3,3,4,0.75,0.7,1.0274
+"Tony Ford","Anchorage Wheelers","ANC","MiLPBE",8,5.12,2,3,3,0.67,0.62,0.6938
+"Manifest Destiny","Kansas City Hepcats","KC","MiLPBE",8,5.25,3,0,5,0.6,1,1.3528
+"Coco McQueen","Dallas Dynamos","DAL","MiLPBE",9,5.44,3,1,5,0.6,0.89,0.8576
+"Daniel Collins","Dallas Dynamos","DAL","MiLPBE",9,4.89,3,1,5,0.6,0.89,0.1368
+"Bill Bisquick","Kingston Mounties","KGN","MiLPBE",11,5.73,4,0,7,0.57,1,1.2804
+"Justin Side","Amarillo Armadillos","ARM","MiLPBE",10,5.3,2,3,5,0.4,0.7,0.6072
+"Calloway Flowers","Amarillo Armadillos","ARM","MiLPBE",11,4.45,2,4,5,0.4,0.64,0.5385
+"Stryker Spinrate","Kingston Mounties","KGN","MiLPBE",11,5.09,2,3,6,0.33,0.73,0.4298
+"Andy Spruce","Kansas City Hepcats","KC","MiLPBE",8,5.25,1,4,3,0.33,0.5,0.8899
+"Steve Vassallo","Dallas Dynamos","DAL","MiLPBE",6,4.33,1,1,4,0.25,0.83,0.0884
+"Justin Womack","Anchorage Wheelers","ANC","MiLPBE",8,4.62,1,2,5,0.2,0.75,0.4821
+"Braylan Moston","Anchorage Wheelers","ANC","MiLPBE",8,4.75,1,0,7,0.14,1,0.2698
+"Kevin Choate","State College Swift Steeds ","SCSS","MiLPBE",5,3.8,0,0,5,0,1,-0.264
+"DingDing Jimbo","State College Swift Steeds ","SCSS","MiLPBE",1,4,0,0,1,0,1,-0.0598
+"Sebastian Randal","Kansas City Hepcats","KC","MiLPBE",8,4.38,0,1,7,0,0.88,0.5562
+"Buster Nutt","Florida Space Rangers","FL","PBE",8,5.88,6,2,0,999,0.75,1.1306
+"Guy Walker","Death Valley Scorpions","DV","PBE",9,7.11,6,2,1,6,0.78,2.1303
+"Hayley MaConnell","Vancouver Vandals","VAN","PBE",9,6.67,6,2,1,6,0.78,0.8497
+"Frederick Birdington","Death Valley Scorpions","DV","PBE",9,6.67,5,3,1,5,0.67,1.613
+"Ryan Stryker","New York Voyagers","NYV","PBE",8,7.12,4,3,1,4,0.62,2.4728
+"Mookie Banks","Outer Banks Aviators","OBX","PBE",9,6.22,4,4,1,4,0.56,1.0706
+"Greg Steiner","Vancouver Vandals","VAN","PBE",9,6.33,6,1,2,3,0.89,1.7973
+"J.A. Jabs","Florida Space Rangers","FL","PBE",8,5.88,5,1,2,2.5,0.88,1.3189
+"Mikhail Bergen","Utah Railroaders","UTA","PBE",9,6.78,6,0,3,2,1,1.7619
+"Joey Slothface","New York Voyagers","NYV","PBE",8,5.62,4,2,2,2,0.75,0.5164
+"Henry Chadwick","Death Valley Scorpions","DV","PBE",8,6.12,4,2,2,2,0.75,0.0372
+"Yong-sun Pak","Outer Banks Aviators","OBX","PBE",8,6.88,5,0,3,1.67,1,1.0674
+"Nacho Varga","Cancun Toros","CUN","PBE",9,6.33,5,1,3,1.67,0.89,0.7824
+"Matthew Auston","Cancun Toros","CUN","PBE",8,5.88,4,1,3,1.33,0.88,0.7177
+"Colton Hagan","Outer Banks Aviators","OBX","PBE",8,5.25,4,1,3,1.33,0.88,0.2689
+"Blu Line","Vancouver Vandals","VAN","PBE",8,5.88,4,1,3,1.33,0.88,1.5518
+"Ioseb Besarionis dze Jughashvili","Providence Crabs","PRO","PBE",8,5.38,3,2,3,1,0.75,0.4513
+"Anderson Pooper","San Antonio Sloths","SAS","PBE",9,5.44,3,3,3,1,0.67,1.2883
+"Bobby Hill","San Antonio Sloths","SAS","PBE",9,5.56,3,3,3,1,0.67,1.5021
+"A.C. Payton","Providence Crabs","PRO","PBE",9,4.89,3,3,3,1,0.67,0.8049
+"Mitch McIntyre","Outer Banks Aviators","OBX","PBE",8,4.75,2,4,2,1,0.5,0.6675
+"Peter Dawson","Vancouver Vandals","VAN","PBE",8,6.12,3,1,4,0.75,0.88,1.171
+"Tyler Oles","Cancun Toros","CUN","PBE",9,5.44,3,2,4,0.75,0.78,0.0132
+"Barry Keller","Florida Space Rangers","FL","PBE",9,5.67,3,2,4,0.75,0.78,0.3279
+"Ed Barker","Death Valley Scorpions","DV","PBE",9,5.44,3,1,5,0.6,0.89,0.4046
+"Mac Kaarbine","New York Voyagers","NYV","PBE",8,4.75,2,2,4,0.5,0.75,-0.1606
+"Mack Arian","Utah Railroaders","UTA","PBE",4,4.5,1,1,2,0.5,0.75,0.1938
+"D'Aroldis Borkman","Florida Space Rangers","FL","PBE",8,6.12,2,1,5,0.4,0.88,0.5051
+"Cillian O'Sullivan","New York Voyagers","NYV","PBE",8,6,2,1,5,0.4,0.88,0.0449
+"Ace Faulkner","San Antonio Sloths","SAS","PBE",9,4.89,2,2,5,0.4,0.78,-0.1778
+"Amp Dupree","Utah Railroaders","UTA","PBE",9,5.67,2,2,5,0.4,0.78,-0.0863
+"Blake Faux","Nashville Stars","NSH","PBE",9,6.78,2,1,6,0.33,0.89,0.37
+"Detective Wooloo","Providence Crabs","PRO","PBE",8,4.25,1,3,4,0.25,0.62,0.6742
+"Hans Kannon","Utah Railroaders","UTA","PBE",8,4.88,1,3,4,0.25,0.62,0.6881
+"Chaz LaLocke","San Antonio Sloths","SAS","PBE",8,4.75,1,1,6,0.17,0.88,-0.5327
+"Shauer Handel IV","Providence Crabs","PRO","PBE",8,5,1,1,6,0.17,0.88,0.6753
+"Lucas North","Cancun Toros","CUN","PBE",8,4.75,1,0,7,0.14,1,-0.6454
+"Dan Wilinsky","Utah Railroaders","UTA","PBE",4,4,0,0,4,0,1,0.0689
+"Cornelius Treat","Nashville Stars","NSH","PBE",8,4.12,0,0,8,0,1,-1.7808
+"Orin Valeryn","Nashville Stars","NSH","PBE",8,1.38,0,3,5,0,0.62,-0.3149
+"John BIII","Nashville Stars","NSH","PBE",8,1.62,0,4,4,0,0.5,-0.2756
