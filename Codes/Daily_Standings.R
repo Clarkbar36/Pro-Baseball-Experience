@@ -32,7 +32,7 @@ colnames(ds.m_games)[colnames(ds.m_games) == 'division_id'] <- 'away_division_id
 ds.m_games$home <- 'home'
 ds.m_games$away <- 'away'
 
-ds.m_games <- subset(ds.m_games,ds.m_games$played == 1 & ds.m_games$game_type == 2 & ds.m_games$league_id != 1000)
+ds.m_games <- subset(ds.m_games,ds.m_games$played == 1 & ds.m_games$game_type == 0 & ds.m_games$league_id != 1000)
 
 
 ds.m_games$home_win <- ifelse(ds.m_games$runs1 > ds.m_games$runs0, 1, 0)
