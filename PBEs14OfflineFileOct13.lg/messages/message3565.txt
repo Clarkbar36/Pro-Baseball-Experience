@@ -1,0 +1,3 @@
+Pro Baseball Experience Names Rookie of Month
+Youngster <Anthony Bauer:player#563> emerged as the latest Pro Baseball Experience Rookie of the Month today. The young man from <Utah:team#25> deserved the honor, batting .241 with 4 home runs and 15 runs batted in. Is the month of June a harbinger of things to come or just a fluke? We'll find out someday, but for now, we'll just let <Bauer:player#563> enjoy the limelight. 
+

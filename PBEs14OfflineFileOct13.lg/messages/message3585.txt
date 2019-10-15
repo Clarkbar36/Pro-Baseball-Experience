@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for losses?
+
+<Mikhail Bergen:player#335>, UTA, 		21, 2026
+<Coreys Brother:player#331>, VAN, 		19, 2024
+<Michael Lang:player#334>, UTA, 		19, 2027
+<Landon Hope:player#225>, NYV, 		19, 2020
+<Ace Faulkner:player#315>, UTA, 		18, 2026

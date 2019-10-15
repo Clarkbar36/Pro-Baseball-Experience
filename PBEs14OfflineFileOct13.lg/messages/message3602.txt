@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in doubles?
+
+<Sean Shea:player#635>, KGN, 		14
+<Lightning Bolt:player#628>, KC, 		11
+<Lucio O Cuaig:player#623>, DAL, 		10
+<Boomer Dunn:player#672>, DAL, 		9
+<Williams Everett:player#710>, KC, 		9

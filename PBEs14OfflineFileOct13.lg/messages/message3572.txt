@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for RBI?
+
+<Randy Drumbo:player#483>, ANC, 		96, 2027
+<Ty Justice:player#252>, ANC, 		95, 2021
+<Ben Waters:player#306>, SCSS, 		90, 2024
+<Thomas Trey Oudekerk:player#508>, ANC, 		90, 2028
+<Thomas Trey Oudekerk:player#508>, ANC, 		90, 2027

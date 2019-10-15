@@ -1,0 +1,14 @@
+200 Homers for Webster
+It's official. <Kimetrius Webster:player#24> of the <Cancun Toros:team#26> hit his 200th home run tonight.
+
+The <Cancun Toros:team#26> took on the <San Antonio Sloths:team#9> and downed them 10-7, but the big story of the night was the milestone home run for Webster. He rounded the bases with a smile and politely stepped on home plate and walked back to the dugout.
+
+"200 is a big number, and I am thankful for the ability to get to this milestone. But it's all about the team today, my accomplishments are just one piece to the Toros puzzle."
+
+The Toros first baseman went 2-for-5 with 2 home runs and 4 runs batted in as the <Cancun Toros:team#26> topped the <San Antonio Sloths:team#9>.
+
+Lifetime <Webster:player#24> has compiled a .257 batting average and collected 938 hits, 200 home runs and 634 RBIs. 
+
+<View Boxscore:box#238>
+<View Game Log:log#238>
+<Watch Highlights:highlight#238>

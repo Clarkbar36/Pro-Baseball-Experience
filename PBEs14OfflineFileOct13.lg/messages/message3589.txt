@@ -1,0 +1,8 @@
+Manbro Breezes to Shutout Victory 
+<Dude Manbro:player#668> of the <State College Swift Steeds :team#18> really strutted his stuff on the mound today with a 6-0 victory. He was almost untouchable, bewildering the <Amarillo Armadillos:team#19> with a 3-hit shutout in which he struck out 10 and gave up no walks.
+
+Currently <Manbro:player#668> has a 4-6 won-lost record in 11 starts with a 4.21 ERA. He also has 40 strikeouts in 77 innings.
+
+<View Boxscore:box#562>
+<View Game Log:log#562>
+<Watch Highlights:highlight#562>

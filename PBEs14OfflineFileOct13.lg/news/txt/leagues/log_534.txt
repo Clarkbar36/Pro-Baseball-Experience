@@ -1,0 +1,422 @@
+[%T]	Top of the 1st -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Pitching: LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: SHB <a href="../players/player_676.html">Sheldon Dinkleberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: LHB <a href="../players/player_630.html">Dickson Cider</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_618.html">Erik Rivers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RXD)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Dallas 0 - State College 0
+[%T]	Bottom of the 1st -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Pitching: LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: LHB <a href="../players/player_515.html">Moustache Jackson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_610.html">Shea Kittoff</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78M)
+[%N]	<a href="../players/player_515.html">Moustache Jackson</a> to second
+[%B]	Batting: RHB <a href="../players/player_539.html">Hank Mardukas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%N]	<a href="../players/player_515.html">Moustache Jackson</a> to third
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Passed Ball!
+[%N]	<b><a href="../players/player_515.html">Moustache Jackson</a> scores</b>
+[%N]	<a href="../players/player_539.html">Hank Mardukas</a> to second
+[%N]	1-1: Ground out U3 (Groundball, 34)
+[%N]	<a href="../players/player_539.html">Hank Mardukas</a> to third
+[%B]	Batting: RHB <a href="../players/player_674.html">Regina Phalange</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 2-3 (Groundball, 13S)
+[%F]	Bottom of the 1st over -  1 run, 1 hit, 0 errors, 1 left on base; Dallas 0 - State College 1
+[%T]	Top of the 2nd -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_707.html">Scott Poe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%N]	<a href="../players/player_484.html">Juan Dong</a> to second
+[%B]	Batting: LHB <a href="../players/player_639.html">Adam Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_484.html">Juan Dong</a> to third
+[%N]	<a href="../players/player_707.html">Scott Poe</a> to second
+[%B]	Batting: RHB <a href="../players/player_623.html">Lucio O Cuaig</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_672.html">Boomer Dunn</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_676.html">Sheldon Dinkleberg</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 3 left on base; Dallas 0 - State College 1
+[%T]	Bottom of the 2nd -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: SHB <a href="../players/player_461.html">Mike McSlapp</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: LHB <a href="../players/player_706.html">Kyler West</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_700.html">Zelk Antilles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_520.html">Pipo DeRani</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Dallas 0 - State College 1
+[%T]	Top of the 3rd -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: LHB <a href="../players/player_630.html">Dickson Cider</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_618.html">Erik Rivers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Line Drive, 89XD), Distance : 452 ft
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0:  Fly out, F2  (Popup, 23F)
+[%B]	Batting: LHB <a href="../players/player_707.html">Scott Poe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D), Distance : 426 ft
+[%B]	Batting: LHB <a href="../players/player_639.html">Adam Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  3 runs, 3 hits, 0 errors, 0 left on base; Dallas 3 - State College 1
+[%T]	Bottom of the 3rd -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: LHB <a href="../players/player_515.html">Moustache Jackson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 5D)
+[%B]	Batting: SHB <a href="../players/player_610.html">Shea Kittoff</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S)
+[%B]	Batting: RHB <a href="../players/player_539.html">Hank Mardukas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 0 left on base; Dallas 3 - State College 1
+[%T]	Top of the 4th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: RHB <a href="../players/player_623.html">Lucio O Cuaig</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_672.html">Boomer Dunn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_676.html">Sheldon Dinkleberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Hit by Pitch
+[%N]	<a href="../players/player_672.html">Boomer Dunn</a> to second
+[%B]	Batting: LHB <a href="../players/player_630.html">Dickson Cider</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Fielders Choice at 2nd, 3-6 (Groundball, 3)
+[%N]	<a href="../players/player_672.html">Boomer Dunn</a> to third
+[%B]	Batting: RHB <a href="../players/player_618.html">Erik Rivers</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6S)
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 2 left on base; Dallas 3 - State College 1
+[%T]	Bottom of the 4th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F2  (Popup, 25F)
+[%B]	Batting: RHB <a href="../players/player_674.html">Regina Phalange</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 392 ft
+[%B]	Batting: SHB <a href="../players/player_461.html">Mike McSlapp</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8RD)
+[%B]	Batting: LHB <a href="../players/player_706.html">Kyler West</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4)
+[%F]	Bottom of the 4th over -  1 run, 1 hit, 0 errors, 0 left on base; Dallas 3 - State College 2
+[%T]	Top of the 5th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Sac Bunt to 3S - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_582.html">Felipe Rios</a> to second
+[%B]	Batting: LHB <a href="../players/player_707.html">Scott Poe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Groundball, 3L)
+[%N]	<b><a href="../players/player_582.html">Felipe Rios</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_639.html">Adam Rogers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_623.html">Lucio O Cuaig</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 78XD)
+[%N]	<b><a href="../players/player_707.html">Scott Poe</a> scores</b>
+[%N]	<b><a href="../players/player_639.html">Adam Rogers</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_672.html">Boomer Dunn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_676.html">Sheldon Dinkleberg</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4S)
+[%F]	Top of the 5th over -  3 runs, 2 hits, 0 errors, 1 left on base; Dallas 6 - State College 2
+[%T]	Bottom of the 5th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: LHB <a href="../players/player_700.html">Zelk Antilles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_520.html">Pipo DeRani</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: LHB <a href="../players/player_515.html">Moustache Jackson</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM)
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 6 - State College 2
+[%T]	Top of the 6th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: LHB <a href="../players/player_630.html">Dickson Cider</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LM)
+[%B]	Batting: RHB <a href="../players/player_618.html">Erik Rivers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM)
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 6 - State College 2
+[%T]	Bottom of the 6th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: SHB <a href="../players/player_610.html">Shea Kittoff</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_539.html">Hank Mardukas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 1-6-3 (Groundball, 13S)
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RXD)
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 6 - State College 2
+[%T]	Top of the 7th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : LHP <a href="../players/player_668.html">Dude Manbro</a>
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 89M)
+[%B]	Pitching: RHP <a href="../players/player_162.html">Nero  Mantics</a>
+[%B]	Batting: LHB <a href="../players/player_707.html">Scott Poe</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_639.html">Adam Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 6 - State College 2
+[%T]	Bottom of the 7th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : LHP <a href="../players/player_722.html">Daniel Collins</a>
+[%B]	Batting: RHB <a href="../players/player_674.html">Regina Phalange</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D)
+[%B]	Batting: SHB <a href="../players/player_461.html">Mike McSlapp</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_706.html">Kyler West</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_461.html">Mike McSlapp</a> to second
+[%B]	Pitching: RHP <a href="../players/player_489.html">Espen Knutsen Jr.</a>
+[%B]	Batting: LHB <a href="../players/player_700.html">Zelk Antilles</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F6  (Popup, 15S)
+[%B]	Batting: RHB <a href="../players/player_520.html">Pipo DeRani</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F4  (Flyball, 4D)
+[%F]	Bottom of the 7th over -  0 runs, 1 hit, 0 errors, 2 left on base; Dallas 6 - State College 2
+[%T]	Top of the 8th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : RHP <a href="../players/player_162.html">Nero  Mantics</a>
+[%B]	Batting: RHB <a href="../players/player_623.html">Lucio O Cuaig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  <b>SOLO HOME RUN</b>  (Flyball, 7LD), Distance : 403 ft
+[%B]	Batting: RHB <a href="../players/player_672.html">Boomer Dunn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9LD)
+[%B]	Batting: SHB <a href="../players/player_676.html">Sheldon Dinkleberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F2  (Popup, 2LF)
+[%B]	Batting: LHB <a href="../players/player_630.html">Dickson Cider</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 6-3 (Groundball, 6M)
+[%F]	Top of the 8th over -  1 run, 1 hit, 0 errors, 0 left on base; Dallas 7 - State College 2
+[%T]	Bottom of the 8th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : RHP <a href="../players/player_489.html">Espen Knutsen Jr.</a>
+[%B]	Batting: LHB <a href="../players/player_515.html">Moustache Jackson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_610.html">Shea Kittoff</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_539.html">Hank Mardukas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6D)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 7 - State College 2
+[%T]	Top of the 9th -  Dallas Dynamos batting - Pitching for State College Swift Steeds  : RHP <a href="../players/player_162.html">Nero  Mantics</a>
+[%B]	Batting: RHB <a href="../players/player_618.html">Erik Rivers</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_582.html">Felipe Rios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 2-3 (Groundball, 15S)
+[%B]	Batting: LHB <a href="../players/player_484.html">Juan Dong</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 34)
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Dallas 7 - State College 2
+[%T]	Bottom of the 9th -  State College Swift Steeds  batting - Pitching for Dallas Dynamos : RHP <a href="../players/player_489.html">Espen Knutsen Jr.</a>
+[%B]	Batting: LHB <a href="../players/player_550.html">The Babe</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S)
+[%B]	Pitching: LHP <a href="../players/player_662.html">Eckhard Echo</a>
+[%B]	Batting: RHB <a href="../players/player_674.html">Regina Phalange</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_461.html">Mike McSlapp</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9LS)
+[%B]	Batting: LHB <a href="../players/player_706.html">Kyler West</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RM)
+[%F]	Bottom of the 9th over -  0 runs, 1 hit, 0 errors, 1 left on base; Dallas 7 - State College 2

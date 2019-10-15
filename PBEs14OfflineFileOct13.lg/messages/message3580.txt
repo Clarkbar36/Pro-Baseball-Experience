@@ -1,0 +1,10 @@
+Varga Tosses Shutout
+24-year-old <Cancun Toros:team#26> pitcher <Nacho Varga:player#602> had a strong outing against the <Outer Banks Aviators:team#2> at Toros Ballpark today, keeping them off the scoreboard the whole game. He struck out 6 in the 5-0 win and walked 3 while surrendering 2 hits.
+
+"Hopefully there will be plenty more of these in the future for us," he said.
+
+So far this year <Varga:player#602> has made 11 starts, tossed 75.2 innings, struck out 52 batters and walked 26. His record is 3-6 with a 2.85 ERA and he has limited opposing teams to a .218 batting average.
+
+<View Boxscore:box#200>
+<View Game Log:log#200>
+<Watch Highlights:highlight#200>
