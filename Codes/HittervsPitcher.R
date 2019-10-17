@@ -3,8 +3,8 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
-devtools::install_github("bdilday/GeomMLBStadiums")
-library(GeomMLBStadiums)
+
+
 setwd("~/Documents/GitHub/PBE/")
 
 x_pl <- read.csv('Exports/players.csv',header = TRUE)
@@ -57,46 +57,44 @@ at_bats <- at_bats %>% filter(game_id %in% games$game_id)
 hitter <- "Nate Piazza"
 pitcher <- "Henry Chadwick"
 
-ab_filtered <- at_bats %>% filter(Hitter_full_name == hitter & Pitcher_full_name == pitcher) %>%
+pv_ab_filtered <- at_bats %>% filter(Hitter_full_name == hitter & Pitcher_full_name == pitcher) %>%
   group_by(Hitter_full_name, Hitter_position_name, Hitter_league_abbr, Hitter_team_abbr, Hitter_team_name, 
            Pitcher_full_name, Pitcher_league_abbr, Pitcher_team_abbr, Pitcher_team_name) %>%
   summarise(ABs = sum(at_bat), Hits = sum(hit), Singles = sum(sngl), Doubles = sum(dbl), Triples = sum(trpl), 
             Homeruns = sum(hr), Walks = sum(bb), Stolen_Bases = sum(sb), RBIs = sum(rbi), Extra_Base_Hits = sum(ebh), 
             Strikeouts = sum(k), Sacrifice_Fly = sum(sac), Batting_Average = round(Hits/ABs,3), 
-            On_Base_Percentage = round((Hits+Walks)/(ABs+Walks+Sacrifice_Fly),3))
+            On_Base_Percentage = round((Hits+Walks)/(ABs+Walks+Sacrifice_Fly),3), Groundouts = sum(go), Flyouts = sum(fo))
 
 
-# Homerun Coordinates
-stadiums <- MLBStadiumsPathData
-generic_of <-  stadiums %>% filter(team == "generic" & segment == "outfield_outer" & y <= 100) 
-new_coords <- data.frame(new_x = runif(102,.01,.05),
-                         new_y = runif(102,1,13))
-generic_of <- bind_cols(generic_of, new_coords)
-generic_of$plt_x <- generic_of$x - generic_of$new_x
-generic_of$plt_y <- generic_of$y - generic_of$new_y
-generic_of <- generic_of %>% select(plt_x, plt_y)
 
-hr_count <- ab_filtered$Homeruns[1]
-homerun_coords <- sample_n(generic_of,hr_count)
-homerun_coords$type <- "HR"
+pv_player_singles <- sample_n(singles, pv_ab_filtered$Singles[1])
+pv_player_doubles <- sample_n(doubles, pv_ab_filtered$Doubles[1])
+pv_player_triples <- sample_n(triples, pv_ab_filtered$Triples[1])
+pv_player_homeruns <- sample_n(homeruns,pv_ab_filtered$Homeruns[1])
+pv_player_flyouts <- sample_n(flyouts,pv_ab_filtered$Flyouts[1])
+pv_player_groundouts <- sample_n(groundouts,pv_ab_filtered$Groundouts[1])
 
-# Single Coordinates
+plot_hits <- bind_rows(pv_player_homeruns,pv_player_singles, pv_player_doubles, pv_player_triples,
+                       pv_player_flyouts, pv_player_groundouts)
 
-generic_if <-  stadiums %>% filter(team == "generic" & segment == "infield_outer") 
+hit_theme <- plot_hits %>% select(type,shape,color) %>% distinct() %>% arrange(type) %>% mutate(size = 2)
+hit_shapes <- as.integer(hit_theme$shape)
+hit_colors <- as.character(hit_theme$color)
+hit_size <- as.integer(hit_theme$size)
 
-plot(generic_if$x, generic_if$y)
-
-batted_ball_data = data.frame(plt_x = runif(20, 50, 205),
-                              plt_y = runif(20, 20, 155))
-
-batted_ball_data %>% 
-  ggplot(aes(x=plt_x, y=plt_y)) + 
-  geom_mlb_stadium(stadium_segments = "all") + 
-  coord_fixed() +
-  geom_spraychart()
-
-homerun_coords %>%
-  ggplot(aes(x=plt_x, y=plt_y)) +
-  geom_mlb_stadium(stadium_segments = "all") + 
+plot_hits %>%
+  ggplot(aes(x=plt_x, y=plt_y, color = type, shape = type, size = type )) +
+  ggtitle(paste(pitcher, "vs", hitter, sep = " ")) +
+  theme(axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        legend.title=element_blank(),
+        panel.background = element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank()) +
+  scale_shape_manual(values = hit_shapes) +
+  scale_color_manual(values = hit_colors) +
+  scale_size_manual(values = hit_size) +
+  geom_mlb_stadium(stadium_segments = "all") +
   coord_fixed() +
   geom_spraychart()

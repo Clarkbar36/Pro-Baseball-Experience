@@ -1,11 +1,11 @@
-﻿result,Type,tb,hit,sngl,dbl,trpl,bb,k,hr,ebh
-1,Stikeout,0,0,0,0,0,0,1,0,0
-2,Base on Balls,1,0,0,0,0,1,0,0,0
-4,Groundout,0,0,0,0,0,0,0,0,0
-5,Fly out,0,0,0,0,0,0,0,0,0
-6,Single,1,1,1,0,0,0,0,0,0
-7,Double,2,1,0,1,0,0,0,0,1
-8,Triple,3,1,0,0,1,0,0,0,1
-9,Home Run,4,1,0,0,0,0,0,1,1
-10,Hit by Pitch,1,0,0,0,0,1,0,0,0
-11,Reaches on Catchers interference,1,0,0,0,0,1,0,0,0
+﻿result,Type,tb,hit,sngl,dbl,trpl,bb,k,hr,ebh,go,fo
+1,Stikeout,0,0,0,0,0,0,1,0,0,0,0
+2,Base on Balls,1,0,0,0,0,1,0,0,0,0,0
+4,Groundout,0,0,0,0,0,0,0,0,0,1,0
+5,Fly out,0,0,0,0,0,0,0,0,0,0,1
+6,Single,1,1,1,0,0,0,0,0,0,0,0
+7,Double,2,1,0,1,0,0,0,0,1,0,0
+8,Triple,3,1,0,0,1,0,0,0,1,0,0
+9,Home Run,4,1,0,0,0,0,0,1,1,0,0
+10,Hit by Pitch,1,0,0,0,0,1,0,0,0,0,0
+11,Reaches on Catchers interference,1,0,0,0,0,1,0,0,0,0,0
