@@ -1,0 +1,403 @@
+[%T]	Top of the 1st -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Pitching: LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 34)
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_379.html">John DeMars</a> to second
+[%N]	<a href="../players/player_379.html">John DeMars</a> to third
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7LMF)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 2 left on base; Florida 0 - Utah 0
+[%T]	Bottom of the 1st -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Pitching: RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 4-3 (Groundball, 4S)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8LS)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD), Distance : 373 ft
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out U3 (Groundball, 3S)
+[%N]	<a href="../players/player_14.html">Nate Piazza</a> to third
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  2 runs, 3 hits, 0 errors, 1 left on base; Florida 0 - Utah 2
+[%T]	Top of the 2nd -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F3  (Line Drive, 3)
+[%F]	Top of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 2
+[%T]	Bottom of the 2nd -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Fielders Choice at 2nd, 1-6 (Groundball, 34S)
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_565.html">Connor McDavitt</a> steals 2nd base
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  looking
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 1 left on base; Florida 0 - Utah 2
+[%T]	Top of the 3rd -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 1-3 (Groundball, 23)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 2
+[%T]	Bottom of the 3rd -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 34D)
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_430.html">JD Jacks</a> to second
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out  looking
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_392.html">Dorothy Morimura</a> scores</b>
+[%N]	<a href="../players/player_430.html">JD Jacks</a> to third
+[%N]	<a href="../players/player_14.html">Nate Piazza</a> to second
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 6-3 (Groundball, 6)
+[%N]	<b><a href="../players/player_430.html">JD Jacks</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8LS)
+[%N]	<a href="../players/player_14.html">Nate Piazza</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D)
+[%F]	Bottom of the 3rd over -  3 runs, 2 hits, 0 errors, 1 left on base; Florida 0 - Utah 5
+[%T]	Top of the 4th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Line Drive, 7)
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%F]	Top of the 4th over -  0 runs, 1 hit, 0 errors, 0 left on base; Florida 0 - Utah 5
+[%T]	Bottom of the 4th -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 395 ft
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 8LXD)
+[%N]	<b><a href="../players/player_392.html">Dorothy Morimura</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_430.html">JD Jacks</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 4th over -  3 runs, 3 hits, 0 errors, 0 left on base; Florida 0 - Utah 8
+[%T]	Top of the 5th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F3  (Popup, 3SF)
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Fielders Choice at 2nd, 3-6 (Groundball, 34S)
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	Balk!
+[%N]	<a href="../players/player_510.html">Benjamin Hilmer</a> to second
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  looking
+[%F]	Top of the 5th over -  0 runs, 0 hits, 0 errors, 1 left on base; Florida 0 - Utah 8
+[%T]	Bottom of the 5th -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_62.html">D'Aroldis Borkman</a>
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD), Distance : 422 ft
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5SF)
+[%F]	Bottom of the 5th over -  1 run, 1 hit, 0 errors, 1 left on base; Florida 0 - Utah 9
+[%T]	Top of the 6th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to second
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<a href="../players/player_449.html">Steve Gonzales</a> to third
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 1 hit, 0 errors, 1 left on base; Florida 0 - Utah 9
+[%T]	Bottom of the 6th -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 9
+[%T]	Top of the 7th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 89XD)
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_519.html">Mountain Quick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 9
+[%T]	Bottom of the 7th -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8RD)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 9
+[%T]	Top of the 8th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Batting: RHB <a href="../players/player_510.html">Benjamin Hilmer</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_536.html">Jackson Krowley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6M)
+[%B]	Batting: SHB <a href="../players/player_449.html">Steve Gonzales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6)
+[%F]	Top of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Florida 0 - Utah 9
+[%T]	Bottom of the 8th -  Utah Railroaders batting - Pitching for Florida Space Rangers : RHP <a href="../players/player_584.html">Colton Kai</a>
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_565.html">Connor McDavitt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_565.html">Connor McDavitt</a> is caught stealing 2nd base 2-6
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D)
+[%F]	Bottom of the 8th over -  0 runs, 1 hit, 0 errors, 2 left on base; Florida 0 - Utah 9
+[%T]	Top of the 9th -  Florida Space Rangers batting - Pitching for Utah Railroaders : LHP <a href="../players/player_456.html">Detective Wooloo</a>
+[%B]	Pitching: RHP <a href="../players/player_488.html">Dan Wilinsky</a>
+[%B]	Batting: RHB <a href="../players/player_29.html">Weldon Borthwell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_379.html">John DeMars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_149.html">George McBash</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_29.html">Weldon Borthwell</a> to second
+[%N]	3-2:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: RHB <a href="../players/player_244.html">Johnny Runakiwi</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 78M)
+[%N]	<b><a href="../players/player_29.html">Weldon Borthwell</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_268.html">Kevin Biggio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 4M)
+[%F]	Top of the 9th over -  1 run, 1 hit, 0 errors, 1 left on base; Florida 1 - Utah 9

@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Minor League PBE in ERA at home.
+
+<Silas Young:player#485>, ARM, 		1.66
+<Jose Forty-Three:player#462>, ANC, 		2.25
+<Tony Ford:player#615>, ANC, 		2.28
+<Kevin Choate:player#726>, SCSS, 		3.00
+<DingDing Jimbo:player#736>, SCSS, 		3.21

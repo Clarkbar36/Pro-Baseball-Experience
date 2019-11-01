@@ -1,0 +1,14 @@
+Homer #200 for Outer Banks's Tanner
+200 home runs is a lot of home runs to hit. It's a number that very few players reach. Today <Connor Tanner:player#159> became a member of that exclusive club. He belted it at HeatWave Park against the Scorpions. But sometimes milestone homers don't win the game. The powerful <Outer Banks:team#2> center fielder got all the headlines, but <Death Valley:team#10> came away with the victory. They beat the Aviators 7-3.
+
+During the postgame interview he told the press, "It's a big relief to get it over. I tried not to think about it, but it's kind of hard when you have a huge sign on the scoreboard staring at you every time you step up to the plate. The home run was nice, but I would have preferred to win the game."
+
+His batting totals for the game showed 1 hit in 3 at-bats, 1 home run and 1 RBI.
+
+The hardworking and dedicated Tanner also said, "I'll celebrate a little with my family tonight but not too much. This is not the last home run I will hit. I think I have a lot of baseball left in me and have other goals. I'll get back to work tomorrow."
+
+In his 1075-game career <Tanner:player#159> has tagged 1119 hits with 227 doubles, 17 triples and 200 home runs. His lifetime batting average is .259 with 702 RBIs and 563 runs scored.
+
+<View Boxscore:box#800>
+<View Game Log:log#800>
+<Watch Highlights:highlight#800>

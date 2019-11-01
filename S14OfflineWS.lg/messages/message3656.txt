@@ -1,0 +1,12 @@
+Bennett Reaches 1500
+<San Antonio:team#9>'s <Sophia Bennett:player#258> entered the record books today as he collected hit number 1500 at Toros Ballpark.
+
+"I am proud of this. Not too many players reach this level. You have to be around quite a few years and you have to get a lot of hits," Bennett said after the game.
+
+On his milestone day he went 3 for 4 as the Sloths won 6-2 over the <Cancun Toros:team#26>.
+
+Lifetime <Bennett:player#258> is hitting .279 with 324 doubles, 29 triples, 259 home runs, 909 RBIs and 907 runs scored. He has appeared in 1372 games to date and delivered 1500 hits. 
+
+<View Boxscore:box#667>
+<View Game Log:log#667>
+<Watch Highlights:highlight#667>

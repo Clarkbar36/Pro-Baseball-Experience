@@ -1,0 +1,14 @@
+San Antonio Blanked by Wooloo
+<Detective Wooloo:player#456> put a hex on the <San Antonio Sloths:team#9> in a sparkling 3-0 shutout performance, mesmerizing them on a 1-hit gem.
+
+"I felt good physically," he said after the game. "Everything's comfortable. You should pitch well when that's the case."
+
+The Sloths were anything but comfortable against the 40-year-old <Utah Railroaders:team#25> hurler, who fanned 14 and gave up 2 walks.
+
+"Wooloo used his changeup very well, very effectively," said opposing manager  . "He threw it in hitter's counts."
+
+To date <Wooloo:player#456> is 8-3 in 16 starts with a 3.76 ERA and has 108 strikeouts in 95.2 innings. 
+
+<View Boxscore:box#688>
+<View Game Log:log#688>
+<Watch Highlights:highlight#688>

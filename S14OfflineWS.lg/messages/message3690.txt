@@ -1,0 +1,8 @@
+BNN Stats: Active Career Batting Leaders
+So, who is the active leader in the Pro Baseball Experience in career isolated power (ISO)?
+
+<Julian O'Sullivan:player#246>, SAS, 		.268
+<Vick Thunder:player#270>, CUN, 		.251
+<Paulo Di Stephano:player#48>, DV, 		.246
+<Kimetrius Webster:player#24>, CUN, 		.233
+<Jordan von Matt:player#137>, OBX, 		.225

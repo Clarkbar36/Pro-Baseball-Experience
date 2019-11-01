@@ -1,0 +1,8 @@
+BNN Stats: Active Career Batting Leaders
+So, who is the active leader in the Pro Baseball Experience in career on-base percentage?
+
+<Kevin Biggio:player#268>, FL, 		.400
+<Sophia Bennett:player#258>, SAS, 		.372
+<Vick Thunder:player#270>, CUN, 		.370
+<Julian O'Sullivan:player#246>, SAS, 		.367
+<Speedy Boi:player#310>, DV, 		.364

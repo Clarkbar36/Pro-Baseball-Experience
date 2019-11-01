@@ -1,0 +1,12 @@
+Dupree Tosses Shutout
+<Amp Dupree:player#529> of the <Utah Railroaders:team#25> was lights-out in a 7-hit whitewash of the <Nashville Stars:team#27>.
+
+"I had my good stuff and it went where I wanted it to go," he told BNN reporters after the contest.
+
+Dupree registered 8 strikeouts and no walks in shutting out <Nashville:team#27>, 13-0.
+
+So far this season <Dupree:player#529> has compiled a 8-3 record with a 3.81 ERA.
+
+<View Boxscore:box#637>
+<View Game Log:log#637>
+<Watch Highlights:highlight#637>

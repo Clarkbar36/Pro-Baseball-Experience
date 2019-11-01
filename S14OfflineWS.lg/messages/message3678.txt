@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Minor League PBE for fielding independent pitching (FIP)?
+
+<Curtis Kane:player#52>, SCSS, 		2.982, 2021
+<Tony Pisano:player#328>, SCSS, 		2.995, 2023
+<Harvey Bones:player#86>, ANC, 		3.201, 2021
+<Jax Hunter:player#70>, ANC, 		3.216, 2022
+<Bobby Hill:player#145>, SCSS, 		3.230, 2022

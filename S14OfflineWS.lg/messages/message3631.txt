@@ -1,0 +1,8 @@
+BNN Stats: Rookie Batting Leaders
+Which rookie is leading the Pro Baseball Experience in current hitting streak (games)?
+
+<Anthony Bauer:player#563>, UTA, 		9
+<Sidney Swing:player#312>, CUN, 		8
+<Desmond Andrews:player#579>, NYV, 		7
+<Iam Fulmen:player#591>, CUN, 		7
+<Benjamin Hilmer:player#510>, FL, 		7

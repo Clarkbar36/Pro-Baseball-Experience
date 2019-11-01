@@ -1,0 +1,8 @@
+BNN Stats: Batting Split Stats Leaders
+Here is a peek at the top 5 hitters leading the Minor League PBE in on-base plus slugging (OPS) in close & late situations.
+
+<Ryusei Makunouchi :player#468>, KC, 		1.162
+<Pipo DeRani:player#520>, SCSS, 		1.017
+<Sean Shea:player#635>, KGN, 		.994
+<Dickson Cider:player#630>, DAL, 		.991
+<Shea Kittoff:player#610>, SCSS, 		.984

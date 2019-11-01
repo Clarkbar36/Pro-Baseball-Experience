@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Split Stats Leaders
+Today we look at the top 5 starting pitchers leading the Minor League PBE in ERA on the road.
+
+<Dude Manbro:player#668>, SCSS, 		2.78
+<Elton Chambers:player#684>, SCSS, 		3.14
+<Jack Komnenos:player#696>, SCSS, 		3.32
+<Frank Dolomite:player#670>, ARM, 		3.96
+<Domingo Santo:player#667>, DAL, 		4.00

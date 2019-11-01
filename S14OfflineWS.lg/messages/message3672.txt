@@ -1,0 +1,8 @@
+Slothface Tosses Shutout
+<Joey Slothface:player#525> made quick work of <Nashville:team#27>, blanking the Stars 10-0 at Voyager Stadium today. The <New York:team#1> pitcher limited them to 4 hits to earn the victory. <Slothface:player#525> fanned 10 and walked 2.
+
+This year <Slothface:player#525> has fanned 100 in 114.2 innings and collected a 6-8 record with a 5.34 ERA. 
+
+<View Boxscore:box#701>
+<View Game Log:log#701>
+<Watch Highlights:highlight#701>

@@ -1,0 +1,444 @@
+[%T]	Top of the 1st -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Pitching: RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Line Drive, 9D)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 1st over -  0 runs, 0 hits, 0 errors, 1 left on base; Nashville 0 - New York 0
+[%T]	Bottom of the 1st -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Pitching: LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Ground out U3 (Groundball, 3)
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis Storm</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LM)
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 78S)
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 0 - New York 0
+[%T]	Top of the 2nd -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 6-4-3 (Groundball, 6M)
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LD)
+[%F]	Top of the 2nd over -  0 runs, 1 hit, 0 errors, 0 left on base; Nashville 0 - New York 0
+[%T]	Bottom of the 2nd -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<a href="../players/player_324.html">Riley Tiffielder</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by CF
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 4)
+[%N]	<b><a href="../players/player_324.html">Riley Tiffielder</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7D)
+[%F]	Bottom of the 2nd over -  1 run, 1 hit, 0 errors, 1 left on base; Nashville 0 - New York 1
+[%T]	Top of the 3rd -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunted foul
+[%N]	1-1: Sac Bunt to 15S - play at first, batter OUT! 1-4
+[%N]	<a href="../players/player_599.html">Elliot Lefebvre</a> to second
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 2-3 (Groundball, 15S)
+[%F]	Top of the 3rd over -  0 runs, 1 hit, 0 errors, 2 left on base; Nashville 0 - New York 1
+[%T]	Bottom of the 3rd -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F6  (Popup, 6D)
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis Storm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD)
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 34)
+[%F]	Bottom of the 3rd over -  0 runs, 1 hit, 0 errors, 1 left on base; Nashville 0 - New York 1
+[%T]	Top of the 4th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56)
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RM)
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  looking
+[%F]	Top of the 4th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - New York 1
+[%T]	Bottom of the 4th -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 56)
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8RXD)
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 9LS)
+[%N]	<b><a href="../players/player_553.html">Alex Selich</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_508.html">Thomas Trey Oudekerk</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F3  (Line Drive, 3)
+[%F]	Bottom of the 4th over -  2 runs, 3 hits, 0 errors, 1 left on base; Nashville 0 - New York 3
+[%T]	Top of the 5th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LS)
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_66.html">Keeks Marone</a> to second
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Fielders Choice at 2nd, 1-6 (Groundball, 13)
+[%N]	<a href="../players/player_66.html">Keeks Marone</a> to third
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Nashville 0 - New York 3
+[%T]	Bottom of the 5th -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis Storm</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F3  (Popup, 23F)
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D)
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 89D)
+[%N]	<a href="../players/player_122.html">Clem Johnson</a> to third
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>3-RUN HOME RUN</b>  (Flyball, 7D), Distance : 393 ft
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_553.html">Alex Selich</a> to second
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 5th over -  3 runs, 3 hits, 0 errors, 2 left on base; Nashville 0 - New York 6
+[%T]	Top of the 6th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 34D)
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%F]	Top of the 6th over -  0 runs, 0 hits, 0 errors, 1 left on base; Nashville 0 - New York 6
+[%T]	Bottom of the 6th -  New York Voyagers batting - Pitching for Nashville Stars : LHP <a href="../players/player_454.html">Orin Valeryn</a>
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 7LS)
+[%B]	Pitching: RHP <a href="../players/player_393.html">Jack BIII</a>
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis Storm</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS)
+[%N]	<a href="../players/player_147.html">Phillip J Fry</a> to third
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_146.html">Louis Storm</a> steals 2nd base
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F3  (Popup, 3F)
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7S)
+[%N]	<b><a href="../players/player_147.html">Phillip J Fry</a> scores</b>
+[%N]	<a href="../players/player_146.html">Louis Storm</a> to third
+[%N]	Runner from 3rd tries for Home, throw by LF and OUT! 7-2
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Bottom of the 6th over -  1 run, 3 hits, 0 errors, 1 left on base; Nashville 0 - New York 7
+[%T]	Top of the 7th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_616.html">Videl San</a>
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 56)
+[%B]	Pitching: RHP <a href="../players/player_363.html">CJ Henderson</a>
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89S)
+[%B]	Batting: RHB <a href="../players/player_604.html">Gumbo Weaver</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD)
+[%F]	Top of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - New York 7
+[%T]	Bottom of the 7th -  New York Voyagers batting - Pitching for Nashville Stars : RHP <a href="../players/player_393.html">Jack BIII</a>
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7LMF)
+[%B]	Batting: LHB <a href="../players/player_553.html">Alex Selich</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D)
+[%B]	Pitching: RHP <a href="../players/player_371.html">Corey Bradford</a>
+[%B]	Batting: LHB <a href="../players/player_508.html">Thomas Trey Oudekerk</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4D)
+[%N]	<a href="../players/player_553.html">Alex Selich</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_247.html">Austin Dye</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_508.html">Thomas Trey Oudekerk</a> to second
+[%B]	Batting: RHB <a href="../players/player_147.html">Phillip J Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into fielders choice 1-2 (Groundball, 23)
+[%N]	<a href="../players/player_508.html">Thomas Trey Oudekerk</a> to third
+[%N]	<a href="../players/player_247.html">Austin Dye</a> to second
+[%B]	Batting: RHB <a href="../players/player_146.html">Louis Storm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_508.html">Thomas Trey Oudekerk</a> scores</b>
+[%N]	<a href="../players/player_247.html">Austin Dye</a> to third
+[%N]	<a href="../players/player_147.html">Phillip J Fry</a> to second
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RD)
+[%F]	Bottom of the 7th over -  1 run, 2 hits, 0 errors, 3 left on base; Nashville 0 - New York 8
+[%T]	Top of the 8th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_363.html">CJ Henderson</a>
+[%B]	Batting: SHB <a href="../players/player_408.html">Chanandler Bong</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_422.html">Shovel Bryant</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 1-3 (Groundball, 13)
+[%B]	Batting: LHB <a href="../players/player_625.html">James Love</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Batting: LHB <a href="../players/player_366.html">Isidore Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_625.html">James Love</a> to second
+[%B]	Batting: SHB <a href="../players/player_521.html">Chest Rockwell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 8th over -  0 runs, 1 hit, 0 errors, 2 left on base; Nashville 0 - New York 8
+[%T]	Bottom of the 8th -  New York Voyagers batting - Pitching for Nashville Stars : RHP <a href="../players/player_371.html">Corey Bradford</a>
+[%B]	Batting: SHB <a href="../players/player_541.html">Joeman Johnston V</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6)
+[%B]	Batting: RHB <a href="../players/player_324.html">Riley Tiffielder</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_579.html">Desmond Andrews</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LD)
+[%F]	Bottom of the 8th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - New York 8
+[%T]	Top of the 9th -  Nashville Stars batting - Pitching for New York Voyagers : RHP <a href="../players/player_363.html">CJ Henderson</a>
+[%B]	Batting: RHB <a href="../players/player_596.html">Alex Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Popup, 4MD)
+[%B]	Pitching: RHP <a href="../players/player_594.html">Cody Smith</a>
+[%B]	Batting: RHB <a href="../players/player_66.html">Keeks Marone</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RS)
+[%B]	Batting: LHB <a href="../players/player_599.html">Elliot Lefebvre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Top of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - New York 8

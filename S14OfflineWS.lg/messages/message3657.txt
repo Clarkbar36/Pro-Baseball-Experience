@@ -1,0 +1,14 @@
+Green Goes 5-for-5
+It was a parade of hits for <Andrew Green:player#673> of the <Kingston Mounties:team#17> at Perpetual Park today. 
+
+Connecting almost every time he went to the plate, Green finished the day with a total of 5 hits in 5 at-bats. His strong individual effort propelled the Mounties to a 10-5 victory. 
+
+"<Green:player#673> was really good and we were really bad," groaned Dynamos manager  . "Next time he's that hot, we'll just walk him."
+
+<Andrew Green:player#673> tripled in the 2nd, hit an RBI single in the 3rd, hit an RBI single in the 5th, singled in the 7th and singled in the 8th.
+
+<Green:player#673> currently has a .220 batting average with 54 hits, 2 homers, 20 RBIs, 24 runs scored and a .315 OBP.
+
+<View Boxscore:box#836>
+<View Game Log:log#836>
+<Watch Highlights:highlight#836>

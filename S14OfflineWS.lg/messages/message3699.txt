@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Minor League PBE in wins?
+
+<Drew Buckley:player#695>, KGN, 		10
+<Coco McQueen:player#678>, DAL, 		9
+<Justin Side:player#688>, ARM, 		9
+<Elton Chambers:player#684>, SCSS, 		8
+<Daniel Collins:player#722>, DAL, 		8

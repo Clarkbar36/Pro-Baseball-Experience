@@ -1,0 +1,12 @@
+McBantershire Booms 200th Homer
+At Vandal Dome <Laddy McBantershire:player#275> smashed his 200th career home run in a game against <Vancouver:team#11> today. The 32-year-old catcher had a hand in the <San Antonio Sloths:team#9> 8-2 victory with 1 home run and 1 run batted in. For the day he went 2 hits-4 at-bats.
+
+At the press conference after the game, McBantershire downplayed his achievement.
+
+"To reach 200 home runs is amazing and something I'll always cherish. I've been fortunate to remain healthy and play at a high level through most of my career."
+
+<McBantershire:player#275> has a career .265 batting average with a .306 OBP. He has hit 200 homers, driven in 707 runs and scored 606 runs since he came into the league.
+
+<View Boxscore:box#722>
+<View Game Log:log#722>
+<Watch Highlights:highlight#722>

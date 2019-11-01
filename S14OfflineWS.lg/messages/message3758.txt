@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders at Center Field
+Check out who leads the Minor League PBE in weighted on-base AVG (WOBA) while playing Center Field!
+
+<Shea Kittoff:player#610>, SCSS, 		.405
+<Zhang-Xuan Sim:player#568>, ARM, 		.353
+<Denzel Jackson:player#682>, ANC, 		.347
+<Adam Rogers:player#639>, DAL, 		.343
+<Trey Griffey:player#709>, KC, 		.301

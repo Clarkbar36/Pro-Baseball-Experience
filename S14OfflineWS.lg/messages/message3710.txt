@@ -1,0 +1,8 @@
+MaConnell Spins Shutout
+The <Providence Crabs:team#3> were no match for <Hayley MaConnell:player#401> of the <Vancouver Vandals:team#11>. MaConnell totally shut down and shut out <Providence:team#3> at Old Bay Stadium as Vancouver cruised to a 6-0 win. In the 9-inning effort, he gave up 6 hits, struck out 6, and walked 2.
+
+This season <MaConnell:player#401> has 12 wins and 6 losses and a 2.51 ERA.
+
+<View Boxscore:box#774>
+<View Game Log:log#774>
+<Watch Highlights:highlight#774>

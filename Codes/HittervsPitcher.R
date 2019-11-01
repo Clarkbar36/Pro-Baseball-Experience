@@ -4,8 +4,8 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(stringr))
 suppressMessages(library(RColorBrewer))
 
-
 setwd("~/Documents/GitHub/PBE/")
+load("R_Code_Exports/coords.RData")
 
 x_pl <- read.csv('Exports/players.csv',header = TRUE)
 x_pl$full_name <- paste(x_pl$first_name,x_pl$last_name)
@@ -54,12 +54,27 @@ games <- games %>% select(game_id) %>% distinct()
 
 at_bats <- at_bats %>% filter(game_id %in% games$game_id)
 
-hitter <- "Nate Piazza"
-pitcher <- "Henry Chadwick"
+hitter_names <- at_bats %>% 
+  select(Hitter_full_name) %>% 
+  distinct()
+hitter_names <- hitter_names$Hitter_full_name
+hitter_names <- sort(hitter_names)
 
-pv_ab_filtered <- at_bats %>% filter(Hitter_full_name == hitter & Pitcher_full_name == pitcher) %>%
-  group_by(Hitter_full_name, Hitter_position_name, Hitter_league_abbr, Hitter_team_abbr, Hitter_team_name, 
-           Pitcher_full_name, Pitcher_league_abbr, Pitcher_team_abbr, Pitcher_team_name) %>%
+pitcher_names <- at_bats %>% 
+  select(Pitcher_full_name) %>% 
+  distinct()
+pitcher_names <- pitcher_names$Pitcher_full_name
+pitcher_names <- sort(pitcher_names)
+
+## Start app development here
+
+hitter <- "Speedy Boi"
+# pitcher <- "Buster Nutt"
+
+HittervsPitcher <- function(hitter,pitcher){
+
+pv_ab_filtered <- at_bats %>% filter(Hitter_full_name == hitter) %>%
+  group_by(Hitter_full_name, Hitter_position_name, Hitter_league_abbr, Hitter_team_abbr, Hitter_team_name) %>%
   summarise(ABs = sum(at_bat), Hits = sum(hit), Singles = sum(sngl), Doubles = sum(dbl), Triples = sum(trpl), 
             Homeruns = sum(hr), Walks = sum(bb), Stolen_Bases = sum(sb), RBIs = sum(rbi), Extra_Base_Hits = sum(ebh), 
             Strikeouts = sum(k), Sacrifice_Fly = sum(sac), Batting_Average = round(Hits/ABs,3), 
@@ -82,7 +97,7 @@ hit_shapes <- as.integer(hit_theme$shape)
 hit_colors <- as.character(hit_theme$color)
 hit_size <- as.integer(hit_theme$size)
 
-plot_hits %>%
+plt <- plot_hits %>%
   ggplot(aes(x=plt_x, y=plt_y, color = type, shape = type, size = type )) +
   ggtitle(paste(pitcher, "vs", hitter, sep = " ")) +
   theme(axis.title = element_blank(),
@@ -98,3 +113,6 @@ plot_hits %>%
   geom_mlb_stadium(stadium_segments = "all") +
   coord_fixed() +
   geom_spraychart()
+
+plt
+}

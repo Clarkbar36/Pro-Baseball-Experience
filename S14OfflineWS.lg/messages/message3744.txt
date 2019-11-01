@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for slugging percentage?
+
+<Julian O'Sullivan:player#246>, SAS, 		.6891, 2026
+<Vick Thunder:player#270>, SAS, 		.6593, 2027
+<Julian O'Sullivan:player#246>, SAS, 		.6572, 2020
+<Vick Thunder:player#270>, SAS, 		.6411, 2026
+<Vick Thunder:player#270>, VAN, 		.6352, 2022

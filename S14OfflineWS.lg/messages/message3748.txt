@@ -1,0 +1,8 @@
+BNN Stats: Active Career Pitching Leaders
+Which active pitchers are leading the Pro Baseball Experience in career strikeouts?
+
+<Greg Steiner:player#76>, VAN, 		2412
+<Penny Kowers:player#174>, VAN, 		2078
+<Chaz LaLocke:player#223>, SAS, 		1999
+<D'Aroldis Borkman:player#62>, FL, 		1848
+<Mookie Banks:player#27>, OBX, 		1664

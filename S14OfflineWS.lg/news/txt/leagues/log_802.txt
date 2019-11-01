@@ -1,0 +1,527 @@
+[%T]	Top of the 1st -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Pitching: RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 56)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to second
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to third
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to second
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 78M)
+[%N]	Runner from 3rd tags up, OUT at HOME! 8-2
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to third
+[%N]	<a href="../players/player_430.html">JD Jacks</a> to second
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Line Drive, 4)
+[%F]	Top of the 1st over -  0 runs, 1 hit, 0 errors, 2 left on base; Utah 0 - Cancun 0
+[%T]	Bottom of the 1st -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Pitching: RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5S)
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius Webster</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 3D)
+[%B]	Batting: SHB <a href="../players/player_270.html">Vick Thunder</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_24.html">Kimetrius Webster</a> to second
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_24.html">Kimetrius Webster</a> to third
+[%N]	<a href="../players/player_270.html">Vick Thunder</a> to second
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out  swinging
+[%F]	Bottom of the 1st over -  0 runs, 1 hit, 0 errors, 3 left on base; Utah 0 - Cancun 0
+[%T]	Top of the 2nd -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 5D)
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_432.html">Alain Johns</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 7LD), Distance : 377 ft
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%N]	<a href="../players/player_472.html">Jake Grinz</a> to second
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_472.html">Jake Grinz</a> to third
+[%N]	<a href="../players/player_482.html">Bryan Barnes</a> to second
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F4  (Popup, 3D)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_472.html">Jake Grinz</a> scores</b>
+[%N]	<a href="../players/player_482.html">Bryan Barnes</a> to third
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to second
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Top of the 2nd over -  3 runs, 2 hits, 0 errors, 2 left on base; Utah 3 - Cancun 0
+[%T]	Bottom of the 2nd -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_312.html">Sidney Swing</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9LM)
+[%B]	Batting: LHB <a href="../players/player_562.html">Buddy Cooper</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4)
+[%B]	Batting: RHB <a href="../players/player_355.html">Arbin Asipi Jr</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S)
+[%F]	Bottom of the 2nd over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 3 - Cancun 0
+[%T]	Top of the 3rd -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 5-3 (Groundball, 56S)
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Grounds into double play, 5-4-3 (Groundball, 5)
+[%F]	Top of the 3rd over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 3 - Cancun 0
+[%T]	Bottom of the 3rd -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 4) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%N]	<a href="../players/player_428.html">D.J. Steele</a> to second
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius Webster</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_428.html">D.J. Steele</a> to third
+[%N]	<a href="../players/player_591.html">Iam Fulmen</a> to second
+[%B]	Batting: SHB <a href="../players/player_270.html">Vick Thunder</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 4-6-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_428.html">D.J. Steele</a> scores</b>
+[%N]	<a href="../players/player_591.html">Iam Fulmen</a> to third
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78S)
+[%N]	<b><a href="../players/player_591.html">Iam Fulmen</a> scores</b>
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> to second
+[%B]	Batting: RHB <a href="../players/player_312.html">Sidney Swing</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 8RS)
+[%N]	<a href="../players/player_119.html">Ziggy Coffey</a> to third
+[%N]	<a href="../players/player_419.html">Jahseh Tentacion</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_562.html">Buddy Cooper</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LM)
+[%F]	Bottom of the 3rd over -  3 runs, 4 hits, 0 errors, 2 left on base; Utah 3 - Cancun 3
+[%T]	Top of the 4th -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 9LD)
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Grounds into double play, 6-4-3 (Groundball, 6)
+[%N]	<a href="../players/player_472.html">Jake Grinz</a> to third
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 56D)
+[%N]	<b><a href="../players/player_472.html">Jake Grinz</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Line Drive, 9D), Distance : 385 ft
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 6-3 (Groundball, 6S)
+[%F]	Top of the 4th over -  3 runs, 3 hits, 0 errors, 0 left on base; Utah 6 - Cancun 3
+[%T]	Bottom of the 4th -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_355.html">Arbin Asipi Jr</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD)
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9)
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD)
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius Webster</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_355.html">Arbin Asipi Jr</a> to second
+[%B]	Batting: SHB <a href="../players/player_270.html">Vick Thunder</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 4th over -  0 runs, 1 hit, 0 errors, 2 left on base; Utah 6 - Cancun 3
+[%T]	Top of the 5th -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RD)
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 8RS)
+[%N]	<a href="../players/player_122.html">Clem Johnson</a> to second
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Line Drive, 9D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9D)
+[%F]	Top of the 5th over -  0 runs, 1 hit, 0 errors, 2 left on base; Utah 6 - Cancun 3
+[%T]	Bottom of the 5th -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78D)
+[%B]	Batting: RHB <a href="../players/player_312.html">Sidney Swing</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 5th over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 6 - Cancun 3
+[%T]	Top of the 6th -  Utah Railroaders batting - Pitching for Cancun Toros : RHP <a href="../players/player_69.html">Lucas North</a>
+[%B]	Pitching: LHP <a href="../players/player_581.html">Jimmy Spitz</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 9D), Distance : 391 ft
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F3  (Flyball, 3D)
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6)
+[%F]	Top of the 6th over -  1 run, 1 hit, 0 errors, 0 left on base; Utah 7 - Cancun 3
+[%T]	Bottom of the 6th -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: LHB <a href="../players/player_562.html">Buddy Cooper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out  swinging
+[%B]	Batting: RHB <a href="../players/player_355.html">Arbin Asipi Jr</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%F]	Bottom of the 6th over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 7 - Cancun 3
+[%T]	Top of the 7th -  Utah Railroaders batting - Pitching for Cancun Toros : LHP <a href="../players/player_581.html">Jimmy Spitz</a>
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out  swinging, 2-3 out at first.
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 9S)
+[%B]	Pitching: LHP <a href="../players/player_683.html">Rawk Hussell</a>
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_432.html">Alain Johns</a> to second
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%N]	<a href="../players/player_432.html">Alain Johns</a> to third
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6)
+[%F]	Top of the 7th over -  0 runs, 1 hit, 0 errors, 2 left on base; Utah 7 - Cancun 3
+[%T]	Bottom of the 7th -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: SHB <a href="../players/player_591.html">Iam Fulmen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  looking and he ARGUES THE CALL AND IS TOSSED!
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius Webster</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out  swinging
+[%B]	Batting: SHB <a href="../players/player_270.html">Vick Thunder</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7LSF)
+[%F]	Bottom of the 7th over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 7 - Cancun 3
+[%T]	Top of the 8th -  Utah Railroaders batting - Pitching for Cancun Toros : LHP <a href="../players/player_683.html">Rawk Hussell</a>
+[%B]	Now in CF: <a href="../players/player_501.html">Drennifer Tarbington</a>
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 78S)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> steals 2nd base
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 3D)
+[%N]	<a href="../players/player_427.html">Seth Crossland</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%N]	<a href="../players/player_392.html">Dorothy Morimura</a> to second
+[%B]	Batting: RHB <a href="../players/player_430.html">JD Jacks</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89D)
+[%N]	Runner from 2nd tags up, SAFE at 3rd, no throw by RF
+[%B]	Batting: RHB <a href="../players/player_14.html">Nate Piazza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4)
+[%N]	<b><a href="../players/player_392.html">Dorothy Morimura</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_122.html">Clem Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_432.html">Alain Johns</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5)
+[%F]	Top of the 8th over -  2 runs, 2 hits, 0 errors, 1 left on base; Utah 9 - Cancun 3
+[%T]	Bottom of the 8th -  Cancun Toros batting - Pitching for Utah Railroaders : RHP <a href="../players/player_544.html">Hans Kannon</a>
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_419.html">Jahseh Tentacion</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD), Distance : 379 ft
+[%B]	Pitching: RHP <a href="../players/player_506.html">Bruce Thursday</a>
+[%B]	Batting: RHB <a href="../players/player_312.html">Sidney Swing</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_562.html">Buddy Cooper</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F3  (Line Drive, 3)
+[%N]	Lined into DP, U3 (Line Drive, 3)
+[%B]	Batting: RHB <a href="../players/player_355.html">Arbin Asipi Jr</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 7D), Distance : 380 ft
+[%B]	Pitching: LHP <a href="../players/player_466.html">Colben Fairborn</a>
+[%B]	Batting: RHB <a href="../players/player_428.html">D.J. Steele</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_501.html">Drennifer Tarbington</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out  looking
+[%F]	Bottom of the 8th over -  3 runs, 2 hits, 0 errors, 1 left on base; Utah 9 - Cancun 6
+[%T]	Top of the 9th -  Utah Railroaders batting - Pitching for Cancun Toros : LHP <a href="../players/player_683.html">Rawk Hussell</a>
+[%B]	Pitching: RHP <a href="../players/player_394.html">Chase Petten</a>
+[%B]	Batting: RHB <a href="../players/player_563.html">Anthony Bauer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD), Distance : 423 ft
+[%B]	Batting: RHB <a href="../players/player_472.html">Jake Grinz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_482.html">Bryan Barnes</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_472.html">Jake Grinz</a> is caught stealing 2nd base 2-4
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_427.html">Seth Crossland</a>
+[%N]	0-0:  Fly out, F6  (Popup, 15S)
+[%B]	Batting: SHB <a href="../players/player_392.html">Dorothy Morimura</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M)
+[%F]	Top of the 9th over -  1 run, 1 hit, 0 errors, 1 left on base; Utah 10 - Cancun 6
+[%T]	Bottom of the 9th -  Cancun Toros batting - Pitching for Utah Railroaders : LHP <a href="../players/player_466.html">Colben Fairborn</a>
+[%B]	Batting: LHB <a href="../players/player_24.html">Kimetrius Webster</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 78M)
+[%B]	Batting: SHB <a href="../players/player_270.html">Vick Thunder</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out  looking
+[%B]	Batting: RHB <a href="../players/player_119.html">Ziggy Coffey</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8RM)
+[%F]	Bottom of the 9th over -  0 runs, 0 hits, 0 errors, 0 left on base; Utah 10 - Cancun 6

@@ -1,0 +1,8 @@
+BNN Stats: Single-Season Records
+Who holds the single season record in the Pro Baseball Experience for doubles?
+
+<Roger Baton:player#121>, SAS, 		47, 2026
+<Jake Stennett:player#87>, FL, 		45, 2029
+<Jimmy Dong:player#15>, DV, 		43, 2030
+<Johnny Runakiwi:player#244>, FL, 		42, 2025
+<Jimmy Dong:player#15>, DV, 		41, 2029

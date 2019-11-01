@@ -1,0 +1,8 @@
+BNN Stats: Starting Pitching Rookie Leaders
+So, which rookie starting pitchers are leading the Pro Baseball Experience in innings pitched?
+
+<Yong-sun Pak:player#606>, OBX, 		157.0
+<Ioseb Besarionis dze Jughashvili:player#573>, PRO, 		122.2
+<Cornelius Treat:player#681>, NSH, 		116.0
+<Mack Arian:player#601>, UTA, 		107.2
+<Jack BIII:player#393>, NSH, 		63.0

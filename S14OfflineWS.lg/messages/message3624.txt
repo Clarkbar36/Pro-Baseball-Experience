@@ -1,0 +1,8 @@
+BNN Stats: Batting Leaders
+So, who leads the Minor League PBE in caught stealing?
+
+<Sheldon Dinkleberg:player#676>, DAL, 		7
+<Buck Simmons:player#614>, ANC, 		7
+<Zhang-Xuan Sim:player#568>, ARM, 		6
+<Lightning Bolt:player#628>, KC, 		2
+<Dickson Cider:player#630>, DAL, 		2

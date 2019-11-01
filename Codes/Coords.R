@@ -35,10 +35,10 @@ trpl_dbl <- simulated_hits %>%
 trp_dbl_type = sample(c('2B','3B'),size = nrow(trpl_dbl),prob = c(0.5,0.5),replace = TRUE)
 trpl_dbl$type = trp_dbl_type
 trpl_dbl$shape <- 16
-trpl_dbl$color <- "#34F10F"
 
-doubles <- trpl_dbl %>% filter(type == "2B")
-triples <- trpl_dbl %>% filter(type == "3B")
+
+doubles <- trpl_dbl %>% filter(type == "2B") %>% mutate(color = "#34F10F")
+triples <- trpl_dbl %>% filter(type == "3B") %>% mutate(color = "#0FF1EA")
 
 # triples %>%
 #   ggplot(aes(x=plt_x, y=plt_y, label = in_poly )) + 
@@ -78,8 +78,8 @@ singles$shape <- 16
 singles$color <- "#0F87F1"
 
 # singles %>%
-#   ggplot(aes(x=plt_x, y=plt_y, label = in_poly )) + 
-#   geom_mlb_stadium(stadium_segments = "all") + 
+#   ggplot(aes(x=plt_x, y=plt_y, label = in_poly )) +
+#   geom_mlb_stadium(stadium_segments = "all") +
 #   coord_fixed() +
 #   geom_spraychart()
 
@@ -108,17 +108,20 @@ homeruns <- simulated_hrs %>%
 #   coord_fixed() +
 #   geom_spraychart()
 
-flyouts <- bind_rows(doubles)
+flyouts <- bind_rows(doubles, singles)
 flyouts$type <- "FO"
 flyouts$shape <- 4
 flyouts$color <- "#F1200F"
 
-groundouts <- bind_rows(singles)
+groundouts <- singles %>% filter(plt_y >= 125)
 groundouts$type <- "GO"
 groundouts$shape <- 4
-groundouts$color <- "#F1200F"
+groundouts$color <- "#FFA500"
 
-sf <- bind_rows(doubles)
+sf <- doubles
 sf$type <- "SF"
 sf$shape <- 4
 sf$color <- "#F1200F"
+
+# Save multiple objects
+save(singles, doubles, triples, homeruns, flyouts, groundouts, sf, file = "R_Code_Exports/coords.RData")

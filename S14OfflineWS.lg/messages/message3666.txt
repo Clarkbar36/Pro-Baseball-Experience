@@ -1,0 +1,12 @@
+Dinero Gets 200th Home Run
+<Death Valley:team#10>'s outstanding shortstop <Eduardo Dinero:player#81> joined the 200 home run club today at HeatWave Park with a booming blast in the Scorpions win over the Toros. They topped <Cancun:team#26> 7-3.
+
+On his milestone day Dinero had 2 hits in 4 at-bats with 1 run batted in and 2 runs scored.
+
+Tongue-in-cheek he told the press, "Don't tell me when I get close to the next milestone. Just tell me after I reach it. It will be easier to hit that way."
+
+Lifetime <Dinero:player#81> has hit for a .287 average and totaled 1459 hits, 200 home runs and 711 RBIs.
+
+<View Boxscore:box#681>
+<View Game Log:log#681>
+<Watch Highlights:highlight#681>
