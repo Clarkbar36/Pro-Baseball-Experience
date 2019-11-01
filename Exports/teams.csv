@@ -1,7 +1,7 @@
 team_id,name,abbr,nickname,logo_file_name,city_id,park_id,league_id,sub_league_id,division_id,nation_id,parent_team_id,level,prevent_any_moves,human_team,human_id,gender,background_color_id,text_color_id,ballcaps_main_color_id,ballcaps_visor_color_id,jersey_main_color_id,jersey_away_color_id,jersey_secondary_color_id,jersey_pin_stripes_color_id,allstar_team,historical_id
 1,"New York","NYV","Voyagers","new_york_voyagers.png",61157,1,100,0,0,206,0,1,1,0,0,0,"#A8A078","#FFFFFF","#0E1540","#A8A078","#FFFFFF","#4A5251","#A8A078","#0E1540",0,""
 2,"Outer Banks","OBX","Aviators","outer_banks_aviators.png",61157,2,100,0,0,206,0,1,1,0,0,0,"#FF6700","#FFFFFF","#000000","#F0F0F0","#FFFFFF","#164070","#FF6700","#FF6700",0,""
-3,"Providence","PRO","Crabs","providence_crabs.png",61157,3,100,0,0,206,0,1,1,0,0,0,"#4381CC","#FFB700","#FFB700","#4381CC","#4381CC","#FFB700","#FFB700","#FFFFFF",0,""
+3,"Providence","PRO","Crabs","providence_crabs.png",61157,3,100,0,0,206,0,1,1,0,0,0,"#4281CE","#FFBA00","#FFBA00","#4281CE","#4281CE","#FFBA00","#FFBA00","#FFFFFF",0,""
 7,"Eastern Division","AS1","All-Stars","eastern_division_all-stars.png",0,2,100,0,0,0,0,1,0,0,0,0,"#9B0101","#000000","#ED1C24","#066CC6","#FFFFFF","#AAAAAA","#ED1C24","#ED1C24",1,""
 8,"Western Division","AS2","All-Stars","western_division_all-stars.png",0,9,100,0,0,0,0,1,0,0,0,0,"#1E1E9E","#F0F0F0","#ED1C24","#066CC6","#FFFFFF","#AAAAAA","#ED1C24","#ED1C24",1,""
 9,"San Antonio","SAS","Sloths","san_antonio_sloths.png",61157,8,100,0,1,206,0,1,1,0,0,0,"#87795E","#D4D4C8","#000000","#D4D4C8","#87795E","#D4D4C8","#000000","#B4A34D",0,""
